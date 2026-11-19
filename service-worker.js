@@ -1,5 +1,5 @@
-/* Bíblia de Estudo ARA — Cache offline da versão final. */
-const CACHE_NAME = 'biblia-ara-final-v1';
+/* Bíblia de Estudo ARA — Cache offline com notas de estudo. */
+const CACHE_NAME = 'biblia-ara-notas-genebra-v1';
 const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-180.png'];
 self.addEventListener('install', event=>{
   event.waitUntil(caches.open(CACHE_NAME).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));

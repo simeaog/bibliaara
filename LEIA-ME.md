@@ -1,26 +1,33 @@
-# Bíblia de Estudo ARA — Aplicativo instalável
+# Bíblia de Estudo ARA — Mini app com Notas de Genebra
 
-Este pacote contém o mini app integral, com Gênesis atualizado, seleção e compartilhamento de versículos, links de referências, introduções e anexos, e suporte a instalação PWA/offline.
-
-## Arquivos
-- `index.html`: leitor completo e totalmente autocontido em HTML, CSS e JavaScript.
-- `manifest.webmanifest`: identidade e instruções para instalação na tela inicial.
-- `service-worker.js`: cache offline de todos os arquivos, depois da primeira visita.
-- `icon-180.png`, `icon-192.png`, `icon-512.png`: ícones do aplicativo.
+Esta versão inclui os 66 livros, 66 introduções, 8 introduções gerais, 24 anexos,
+referências cruzadas (†) e 4.198 notas de estudo de Genebra (ⓘ) para os 27 livros do NT.
 
 ## Como instalar
-1. Descompacte o ZIP e publique **todos os arquivos juntos** em hospedagem estática que forneça HTTPS (por exemplo, GitHub Pages, Cloudflare Pages ou Netlify).
-2. Abra o endereço publicado no navegador do celular **enquanto estiver conectado à internet**; a primeira visita pode demorar porque o leitor possui aproximadamente 19 MB.
-3. No Android/Chrome: menu ⋮ > *Adicionar à tela inicial* > *Instalar app* (o texto pode variar).
-4. No iPhone/Safari: botão Compartilhar > *Adicionar à Tela de Início* > *Adicionar*, com *Abrir como App*, quando disponível.
-5. Após a primeira visita completa, abra o aplicativo sem internet para confirmar que foi armazenado.
 
-**Importante:** abrir `index.html` diretamente por `file://` não permite instalar um PWA completo nem ativar o service worker. O HTML único funciona como leitor offline; já o ZIP é destinado a ser publicado em HTTPS.
+1. Extraia **todos** os arquivos do ZIP e publique-os juntos em um endereço HTTPS,
+   conservando `index.html`, `manifest.webmanifest`, `service-worker.js` e os ícones.
+2. Abra esse endereço no Chrome (Android) e use o menu **Adicionar à tela inicial** ou **Instalar**.
+   No iPhone, abra no Safari e escolha **Compartilhar → Adicionar à Tela de Início**.
+3. Abra o aplicativo com internet uma vez para que os arquivos sejam armazenados localmente.
+   Em seguida, teste sem internet.
 
-Favoritos e progresso ficam salvos **no navegador/dispositivo e na origem do site**, não são transferidos automaticamente do arquivo local para o endereço publicado. Não exclua a versão anterior sem salvar o que for importante.
+Abrir `index.html` diretamente do gerenciador de arquivos permite leitura offline,
+mas **não** efetua a instalação PWA completa.
 
-## Testes funcionais sugeridos
-- Índice → Colossenses → selecionar 1:1, 1:1-2 e 1:1,3,5; conferir a barra e a cópia/compartilhamento.
-- Índice → Gênesis → Introdução → Tópicos → Gênero e Esboço de Gênesis, verificando os subitens numerados.
-- Abrir notas † de Colossenses; escolher uma referência, voltar e usar a seleção sem interferência.
-- Abrir a versão publicada sem internet depois de visitar uma vez online.
+## Atualização de uma instalação anterior
+
+Use o mesmo endereço HTTPS do aplicativo original; publique os novos arquivos de uma vez.
+O `service-worker.js` mudou de versão e atualiza o cache. Os favoritos e as preferências
+ficam no armazenamento local do navegador e devem ser preservados, desde que o endereço
+(origem) permaneça o mesmo. Como a paginação mudou, a página exata pode se deslocar.
+
+## Notas
+
+- ⓘ Abre comentários da Bíblia de Estudo de Genebra.
+- † Abre referências cruzadas. Quando ambos existem, a gaveta permite alternar.
+- Citações explícitas com destino verificável são links internos; referências relativas
+  não recebem hiperlink automático quando a identificação não é segura.
+- Notas com ambiguidades ainda recomendadas para revisão permanecem como na base validada.
+
+A redistribuição pública dos comentários depende de verificar as permissões de reprodução.

@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Bíblia de Estudo ARA",
   "short_name": "Bíblia ARA",
-  "description": "Bíblia de Estudo ARA com referências cruzadas, introduções e anexos. Funciona offline.",
+  "description": "Bíblia de Estudo ARA com notas de Genebra, referências cruzadas, introduções e anexos. Acesso offline.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
