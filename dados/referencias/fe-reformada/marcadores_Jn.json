@@ -1,0 +1,587 @@
+{
+  "schema": "letras-correlatas-inline-v1",
+  "livro": "Jn",
+  "fonte": "Bíblia de Estudo da Fé Reformada",
+  "pagina_impressa": [
+    1565,
+    1569
+  ],
+  "marcadores": [
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "Jonas, filho de Amitai",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "c",
+      "antes_de": "grande cidade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "b",
+      "antes_de": "Nínive",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "d",
+      "antes_de": "sua malícia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "e",
+      "antes_de": "se dispôs",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "f",
+      "antes_de": "Társis; e, tendo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "g",
+      "antes_de": "Jope",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "f",
+      "antes_de": "Társis; pagou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "f",
+      "antes_de": "Társis, para longe",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "h",
+      "antes_de": "longe da presença do SENHOR",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "i",
+      "antes_de": "o SENHOR lançou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "j",
+      "antes_de": "se despedaçar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "k",
+      "antes_de": "clamavam",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "l",
+      "antes_de": "lançavam ao mar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "k",
+      "antes_de": "invoca o teu deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "m",
+      "antes_de": "talvez, assim",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "n",
+      "antes_de": "lancemos sortes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "o",
+      "antes_de": "SENHOR",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "p",
+      "antes_de": "que fez o mar e a terra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 10,
+      "letra": "h",
+      "antes_de": "ele fugia da presença",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "q",
+      "antes_de": "porque eu sei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1565
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "r",
+      "antes_de": "não faças cair",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "s",
+      "antes_de": "porque tu, SENHOR",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "t",
+      "antes_de": "e cessou o mar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 16,
+      "letra": "u",
+      "antes_de": "e ofereceram sacrifícios",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 16,
+      "letra": "v",
+      "antes_de": "e fizeram votos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 17,
+      "letra": "w",
+      "antes_de": "e esteve Jonas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "x",
+      "antes_de": "Na minha angústia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "y",
+      "antes_de": "do ventre do abismo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "z",
+      "antes_de": "e tu me ouviste",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "a",
+      "antes_de": "Pois me lançaste",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "b",
+      "antes_de": "todas as tuas ondas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "c",
+      "antes_de": "Então, eu disse",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "tornarei, porventura",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "e",
+      "antes_de": "As águas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "f",
+      "antes_de": "até à alma",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1566
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "g",
+      "antes_de": "e subiu a ti",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "h",
+      "antes_de": "Os que se entregam",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "i",
+      "antes_de": "abandonam aquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "j",
+      "antes_de": "Mas, com a voz",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "k",
+      "antes_de": "Ao SENHOR pertence",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "l",
+      "antes_de": "Nínive",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 3,
+      "letra": "l",
+      "antes_de": "Nínive era",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "m",
+      "antes_de": "Os ninivitas creram",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "n",
+      "antes_de": "proclamaram um jejum",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "o",
+      "antes_de": "vestiram-se de panos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 6,
+      "letra": "p",
+      "antes_de": "ele levantou-se",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 6,
+      "letra": "q",
+      "antes_de": "e assentou-se",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1567
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 7,
+      "letra": "r",
+      "antes_de": "Por mandado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 7,
+      "letra": "s",
+      "antes_de": "animais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "s",
+      "antes_de": "animais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "t",
+      "antes_de": "se converterão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "u",
+      "antes_de": "violência",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 9,
+      "letra": "v",
+      "antes_de": "Quem sabe",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 9,
+      "letra": "w",
+      "antes_de": "e se apartará",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "x",
+      "antes_de": "como se converteram",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "x",
+      "antes_de": "Deus se arrependeu",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 1,
+      "letra": "y",
+      "antes_de": "ficou irado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 2,
+      "letra": "z",
+      "antes_de": "Por isso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 2,
+      "letra": "a",
+      "antes_de": "Deus clemente",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 2,
+      "letra": "a",
+      "antes_de": "te arrependes do mal",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 3,
+      "letra": "b",
+      "antes_de": "Peço-te",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 3,
+      "letra": "c",
+      "antes_de": "porque melhor",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "É razoável",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 5,
+      "letra": "e",
+      "antes_de": "fez uma enramada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "f",
+      "antes_de": "vento calmoso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "g",
+      "antes_de": "o sol bateu",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "h",
+      "antes_de": "desfalecia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1568
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "c",
+      "antes_de": "Melhor me é morrer",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1569
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 9,
+      "letra": "i",
+      "antes_de": "É razoável essa tua ira",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1569
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 11,
+      "letra": "j",
+      "antes_de": "Nínive",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1569
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 11,
+      "letra": "k",
+      "antes_de": "animais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1569
+    }
+  ]
+}

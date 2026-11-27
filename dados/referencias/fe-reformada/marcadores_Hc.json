@@ -1,0 +1,971 @@
+{
+  "schema": "letras-correlatas-inline-v1",
+  "livro": "Hc",
+  "fonte": "Bíblia de Estudo da Fé Reformada",
+  "pagina_impressa": [
+    1600,
+    1606
+  ],
+  "marcadores": [
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "Sentença",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "b",
+      "antes_de": "Até quando",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "c",
+      "antes_de": "Violência",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "d",
+      "antes_de": "Por que",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "c",
+      "antes_de": "e a violência",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "e",
+      "antes_de": "Por esta causa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "f",
+      "antes_de": "porque o perverso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "g",
+      "antes_de": "Vede entre as nações",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "h",
+      "antes_de": "realizo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "i",
+      "antes_de": "suscito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "j",
+      "antes_de": "que marcham",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "k",
+      "antes_de": "para apoderar-se",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "l",
+      "antes_de": "criam eles mesmos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1600
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "m",
+      "antes_de": "Os seus cavalos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "n",
+      "antes_de": "lobos ao anoitecer",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "o",
+      "antes_de": "voam como águia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "p",
+      "antes_de": "violência",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "r",
+      "antes_de": "como areia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 10,
+      "letra": "s",
+      "antes_de": "riem-se de todas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 10,
+      "letra": "t",
+      "antes_de": "amontoando terra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "u",
+      "antes_de": "culpados",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "v",
+      "antes_de": "cujo poder",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "w",
+      "antes_de": "desde a eternidade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "x",
+      "antes_de": "Não morreremos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "y",
+      "antes_de": "para executar juízo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "z",
+      "antes_de": "Rocha",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "a",
+      "antes_de": "puro de olhos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "b",
+      "antes_de": "por que, pois",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "c",
+      "antes_de": "te calas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "d",
+      "antes_de": "A todos levanta",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "e",
+      "antes_de": "com o anzol",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1601
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 16,
+      "letra": "f",
+      "antes_de": "oferece sacrifício",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 17,
+      "letra": "g",
+      "antes_de": "matando sem piedade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 1,
+      "letra": "h",
+      "antes_de": "Pôr-me-ei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 1,
+      "letra": "i",
+      "antes_de": "vigiarei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 1,
+      "letra": "j",
+      "antes_de": "o que Deus me dirá",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "k",
+      "antes_de": "Escreve a visão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "l",
+      "antes_de": "a visão ainda",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "m",
+      "antes_de": "espera-o",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "n",
+      "antes_de": "certamente, virá",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "o",
+      "antes_de": "o justo viverá",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "p",
+      "antes_de": "enganoso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "q",
+      "antes_de": "que não se farta",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "r",
+      "antes_de": "ele ajunta",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1602
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "s",
+      "antes_de": "levantarão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "t",
+      "antes_de": "Ai daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "u",
+      "antes_de": "que acumula",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "v",
+      "antes_de": "até quando",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "w",
+      "antes_de": "a si mesmo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "x",
+      "antes_de": "Não se levantarão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "y",
+      "antes_de": "Visto como",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "z",
+      "antes_de": "por causa do sangue",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "z",
+      "antes_de": "violência contra a terra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "t",
+      "antes_de": "Ai daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "a",
+      "antes_de": "para pôr",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "b",
+      "antes_de": "pôr em lugar alto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 10,
+      "letra": "c",
+      "antes_de": "destruindo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 11,
+      "letra": "d",
+      "antes_de": "pedra clamará",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 12,
+      "letra": "t",
+      "antes_de": "Ai daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 12,
+      "letra": "e",
+      "antes_de": "edifica a cidade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 13,
+      "letra": "f",
+      "antes_de": "nações labutem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "g",
+      "antes_de": "Pois a terra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "h",
+      "antes_de": "glória do SENHOR",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 15,
+      "letra": "t",
+      "antes_de": "Ai daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 15,
+      "letra": "i",
+      "antes_de": "que dá de beber",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 15,
+      "letra": "j",
+      "antes_de": "as vergonhas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1603
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "k",
+      "antes_de": "opróbrio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "l",
+      "antes_de": "cálice da mão direita",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "m",
+      "antes_de": "ignomínia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "n",
+      "antes_de": "violência contra o Líbano",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "o",
+      "antes_de": "contra o Líbano",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "n",
+      "antes_de": "por causa do sangue",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "p",
+      "antes_de": "Que aproveita o ídolo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "q",
+      "antes_de": "mestra de mentiras",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "r",
+      "antes_de": "ídolos mudos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "s",
+      "antes_de": "Ai daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "t",
+      "antes_de": "que diz à madeira",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "u",
+      "antes_de": "não há fôlego",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 20,
+      "letra": "v",
+      "antes_de": "O SENHOR",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 20,
+      "letra": "w",
+      "antes_de": "cale-se",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "x",
+      "antes_de": "Tenho ouvido",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "y",
+      "antes_de": "aviva",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "z",
+      "antes_de": "tua obra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "a",
+      "antes_de": "na tua ira",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 3,
+      "letra": "b",
+      "antes_de": "Temã",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 3,
+      "letra": "c",
+      "antes_de": "e do monte Parã",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1604
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "O seu resplendor",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "e",
+      "antes_de": "Adiante dele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "f",
+      "antes_de": "seus passos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 6,
+      "letra": "h",
+      "antes_de": "outeiros eternos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 6,
+      "letra": "j",
+      "antes_de": "caminhos de Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 7,
+      "letra": "k",
+      "antes_de": "Cusã",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 7,
+      "letra": "l",
+      "antes_de": "acampamentos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "m",
+      "antes_de": "é contra os rios",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "m",
+      "antes_de": "ou contra o mar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "n",
+      "antes_de": "já que andas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "n",
+      "antes_de": "nos teus carros",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 9,
+      "letra": "p",
+      "antes_de": "Tu fendes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "q",
+      "antes_de": "Os montes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "r",
+      "antes_de": "as profundezas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "s",
+      "antes_de": "levantam bem alto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 11,
+      "letra": "t",
+      "antes_de": "O sol e a lua",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 11,
+      "letra": "u",
+      "antes_de": "ao resplandecer",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 12,
+      "letra": "v",
+      "antes_de": "marchas pela terra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 12,
+      "letra": "w",
+      "antes_de": "calcas aos pés",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 13,
+      "letra": "v",
+      "antes_de": "Tu sais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 13,
+      "letra": "x",
+      "antes_de": "teu ungido",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 13,
+      "letra": "y",
+      "antes_de": "feres o telhado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 15,
+      "letra": "z",
+      "antes_de": "Marchas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1605
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "a",
+      "antes_de": "Ouvi-o",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "b",
+      "antes_de": "meu íntimo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "c",
+      "antes_de": "entrou a podridão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "d",
+      "antes_de": "em silêncio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 18,
+      "letra": "e",
+      "antes_de": "todavia, eu me alegro",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 18,
+      "letra": "f",
+      "antes_de": "exulto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "g",
+      "antes_de": "faz os meus pés",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "h",
+      "antes_de": "andar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "i",
+      "antes_de": "altaneiramente",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "j",
+      "antes_de": "Ao mestre de canto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "k",
+      "antes_de": "instrumentos de cordas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1606
+    }
+  ]
+}

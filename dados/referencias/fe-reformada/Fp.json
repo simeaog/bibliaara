@@ -1,0 +1,6127 @@
+{
+  "schema": "referencias-fe-reformada-v1",
+  "livro": "Fp",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "arquivo": "108 - Filipenses (Fp)(1).pdf",
+    "paginas_impressas": [
+      2108,
+      2109,
+      2110,
+      2111,
+      2112,
+      2113,
+      2114,
+      2115,
+      2116
+    ]
+  },
+  "descricao": "Primeiro cotejo visual V1 das nove margens; posições não confirmadas registradas.",
+  "marcadores": [
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 1,
+      "marcador": "a",
+      "texto_impresso": "2Co 1.1; Cl 1.2",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "2Co 1.1",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_1_v_1"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 1,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Cl 1.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_1_v_2"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "santos em Cristo Jesus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 1,
+      "marcador": "b",
+      "texto_impresso": "ver At 20.28",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 20,
+          "versiculo": 28,
+          "versiculo_final": 28,
+          "rotulo": "ver At 20.28",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_44_At.xhtml#cap_20_v_28"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "bispos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 1,
+      "marcador": "c",
+      "texto_impresso": "1Tm 3.8, 12",
+      "destinos": [
+        {
+          "livro": "1Tm",
+          "capitulo": 3,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "1Tm 3.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_3_v_8"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 3,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Tm 3.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_3_v_12"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "diáconos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 2,
+      "marcador": "d",
+      "texto_impresso": "Rm 1.7; 1Co 1.3",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "Rm 1.7",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_1_v_7"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "1Co 1.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_1_v_3"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "graça e paz"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 3,
+      "marcador": "e",
+      "texto_impresso": "ver Rm 1.8",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "ver Rm 1.8",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_1_v_8"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "Dou graças"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 3,
+      "marcador": "f",
+      "texto_impresso": "Rm 1.9; Ef 1.16; 2Tm 1.3",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Rm 1.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_1_v_9"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 1,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Ef 1.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_1_v_16"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "2Tm 1.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_1_v_3"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "tudo que recordo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 5,
+      "marcador": "g",
+      "texto_impresso": "[cap. 2.12; 4.15; At 16.12-40]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "Fp 2.12",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_12"
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "Fp 4.15",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_15"
+        },
+        {
+          "livro": "At",
+          "capitulo": 16,
+          "versiculo": 12,
+          "versiculo_final": 40,
+          "rotulo": "At 16.12-40",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_16_v_12"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "pela vossa cooperação"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 6,
+      "marcador": "h",
+      "texto_impresso": "[1Ts 1.3]",
+      "destinos": [
+        {
+          "livro": "1Ts",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "1Ts 1.3",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_1_v_3"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "boa obra"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 6,
+      "marcador": "i",
+      "texto_impresso": "Sl 57.2 (Hb); 138.8; [1Ts 5.24]",
+      "destinos": [
+        {
+          "livro": "Sl",
+          "capitulo": 138,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "Sl 138.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_19_Sl.xhtml#cap_138_v_8"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 5,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "1Ts 5.24",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_5_v_24"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "há de completá-la"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 6,
+      "marcador": "j",
+      "texto_impresso": "ver 1Co 1.8",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 1,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "ver 1Co 1.8",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_1_v_8"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "Dia de Cristo Jesus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 7,
+      "marcador": "k",
+      "texto_impresso": "2Co 7.3",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 7,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "2Co 7.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_7_v_3"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "no coração"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 7,
+      "marcador": "l",
+      "texto_impresso": "At 20.23; 26.29; Cl 4.18; 2Tm 2.9; Fm 10, 13; ver Ef 3.1",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 20,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "At 20.23",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_20_v_23"
+        },
+        {
+          "livro": "At",
+          "capitulo": 26,
+          "versiculo": 29,
+          "versiculo_final": 29,
+          "rotulo": "At 26.29",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_26_v_29"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 4,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "Cl 4.18",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_4_v_18"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 2,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Tm 2.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_2_v_9"
+        },
+        {
+          "livro": "Fm",
+          "capitulo": 1,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Fm 1.10",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_57_Fm.xhtml#cap_1_v_10"
+        },
+        {
+          "livro": "Fm",
+          "capitulo": 1,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Fm 1.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_57_Fm.xhtml#cap_1_v_13"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 3,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "ver Ef 3.1",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_3_v_1"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "minhas algemas"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 7,
+      "marcador": "m",
+      "texto_impresso": "v. 16",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Fp 1.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_16"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "defesa e confirmação"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 7,
+      "marcador": "n",
+      "texto_impresso": "[cap. 4.14]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "Fp 4.14",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_14"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "participantes da graça"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 8,
+      "marcador": "o",
+      "texto_impresso": "ver Rm 1.9; 9.1",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "ver Rm 1.9",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_1_v_9"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 9,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "ver Rm 9.1",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_9_v_1"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "minha testemunha"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 8,
+      "marcador": "p",
+      "texto_impresso": "[cap. 4.1; Rm 1.11; 15.23; 1Ts 3.6; 2Tm 1.4]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Fp 4.1",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_1"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "Rm 1.11",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_1_v_11"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "Rm 15.23",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_15_v_23"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "1Ts 3.6",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_6"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "2Tm 1.4",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_1_v_4"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "saudade"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 9,
+      "marcador": "q",
+      "texto_impresso": "1Ts 3.12; 2Ts 1.3",
+      "destinos": [
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Ts 3.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_12"
+        },
+        {
+          "livro": "2Ts",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "2Ts 1.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_53_2Ts.xhtml#cap_1_v_3"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "vosso amor"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 9,
+      "marcador": "r",
+      "texto_impresso": "Cl 1.9; 3.10; Fm 6",
+      "destinos": [
+        {
+          "livro": "Cl",
+          "capitulo": 1,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Cl 1.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_1_v_9"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 3,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Cl 3.10",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_3_v_10"
+        },
+        {
+          "livro": "Fm",
+          "capitulo": 1,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "Fm 1.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_57_Fm.xhtml#cap_1_v_6"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "conhecimento"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 10,
+      "marcador": "s",
+      "texto_impresso": "At 24.16; 1Ts 3.13; 5.23",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 24,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "At 24.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_24_v_16"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "1Ts 3.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_13"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 5,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "1Ts 5.23",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_5_v_23"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "e serdes sinceros"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 10,
+      "marcador": "t",
+      "texto_impresso": "v. 6",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "Fp 1.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_6"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "para o Dia de Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 11,
+      "marcador": "u",
+      "texto_impresso": "[Cl 1.6, 10]; ver Tg 3.18",
+      "destinos": [
+        {
+          "livro": "Cl",
+          "capitulo": 1,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "Cl 1.6",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_1_v_6"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 1,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Cl 1.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_1_v_10"
+        },
+        {
+          "livro": "Tg",
+          "capitulo": 3,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "ver Tg 3.18",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_59_Tg.xhtml#cap_3_v_18"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "fruto de justiça"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 11,
+      "marcador": "v",
+      "texto_impresso": "[Jo 15.4, 5]",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 15,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Jo 15.4",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_15_v_4"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 15,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Jo 15.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_15_v_5"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "mediante Jesus Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 11,
+      "marcador": "w",
+      "texto_impresso": "ver Ef 1.12, 14",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 1,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "ver Ef 1.12",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_1_v_12"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 1,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "ver Ef 1.14",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_1_v_14"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "para a glória"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 12,
+      "marcador": "x",
+      "texto_impresso": "v. 25; 1Tm 4.15",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "Fp 1.25",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_25"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 4,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "1Tm 4.15",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_4_v_15"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "contribuído para o progresso"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 13,
+      "marcador": "y",
+      "texto_impresso": "[Lc 21.13]; ver v. 7",
+      "destinos": [
+        {
+          "livro": "Lc",
+          "capitulo": 21,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Lc 21.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_42_Lc.xhtml#cap_21_v_13"
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "ver Fp 1.7",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_50_Fp.xhtml#cap_1_v_7"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "minhas cadeias"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 13,
+      "marcador": "z",
+      "texto_impresso": "[At 28.30, 31; 2Tm 2.9]",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 28,
+          "versiculo": 30,
+          "versiculo_final": 30,
+          "rotulo": "At 28.30",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_28_v_30"
+        },
+        {
+          "livro": "At",
+          "capitulo": 28,
+          "versiculo": 31,
+          "versiculo_final": 31,
+          "rotulo": "At 28.31",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_28_v_31"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 2,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Tm 2.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_2_v_9"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "todos os demais"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 14,
+      "marcador": "a",
+      "texto_impresso": "[At 4.31]",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 4,
+          "versiculo": 31,
+          "versiculo_final": 31,
+          "rotulo": "At 4.31",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_4_v_31"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "falar com mais desassombro",
+        "palavra de Deus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 15,
+      "marcador": "b",
+      "texto_impresso": "ver 2Co 11.13",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "ver 2Co 11.13",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_11_v_13"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "Alguns, efetivamente"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 16,
+      "marcador": "c",
+      "texto_impresso": "[1Co 9.17]",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 9,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "1Co 9.17",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_9_v_17"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "sabendo que"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 16,
+      "marcador": "d",
+      "texto_impresso": "v. 7",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "Fp 1.7",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_7"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "defesa do evangelho"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 17,
+      "marcador": "e",
+      "texto_impresso": "cap. 2.3; ver Tg 3.14",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Fp 2.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_3"
+        },
+        {
+          "livro": "Tg",
+          "capitulo": 3,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "ver Tg 3.14",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_59_Tg.xhtml#cap_3_v_14"
+        }
+      ],
+      "pagina_impressa": 2108,
+      "ancoras": [
+        "por discórdia"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 19,
+      "marcador": "f",
+      "texto_impresso": "ver 2Co 1.11",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "ver 2Co 1.11",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_1_v_11"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "pela vossa súplica"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 19,
+      "marcador": "g",
+      "texto_impresso": "Gl 3.5",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 3,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Gl 3.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_3_v_5"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "provisão"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 19,
+      "marcador": "h",
+      "texto_impresso": "ver At 16.7",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 16,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "ver At 16.7",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_44_At.xhtml#cap_16_v_7"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "Espírito de Jesus Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 20,
+      "marcador": "i",
+      "texto_impresso": "Rm 5.5; [Jl 2.27; 2Tm 2.15]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 5,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Rm 5.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_5_v_5"
+        },
+        {
+          "livro": "Jl",
+          "capitulo": 2,
+          "versiculo": 27,
+          "versiculo_final": 27,
+          "rotulo": "Jl 2.27",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_29_Jl.xhtml#cap_2_v_27"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 2,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "2Tm 2.15",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_2_v_15"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "que em nada"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 20,
+      "marcador": "j",
+      "texto_impresso": "ver At 4.13",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 4,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "ver At 4.13",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_44_At.xhtml#cap_4_v_13"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "ousadia"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 20,
+      "marcador": "k",
+      "texto_impresso": "[1Co 6.20]",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 6,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "1Co 6.20",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_6_v_20"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "será Cristo engrandecido"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 20,
+      "marcador": "l",
+      "texto_impresso": "Rm 14.8",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 14,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "Rm 14.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_14_v_8"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "quer pela vida"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 21,
+      "marcador": "m",
+      "texto_impresso": "[Gl 2.20]",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 2,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "Gl 2.20",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_2_v_20"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "viver é Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 23,
+      "marcador": "n",
+      "texto_impresso": "[2Co 5.8]",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 5,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "2Co 5.8",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_5_v_8"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "estou constrangido"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 23,
+      "marcador": "o",
+      "texto_impresso": "2Tm 4.6",
+      "destinos": [
+        {
+          "livro": "2Tm",
+          "capitulo": 4,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "2Tm 4.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_4_v_6"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "partir"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 23,
+      "marcador": "p",
+      "texto_impresso": "ver Jo 12.26",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 12,
+          "versiculo": 26,
+          "versiculo_final": 26,
+          "rotulo": "ver Jo 12.26",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_43_Jo.xhtml#cap_12_v_26"
+        }
+      ],
+      "pagina_impressa": 2109,
+      "ancoras": [
+        "estar com Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 25,
+      "marcador": "q",
+      "texto_impresso": "[cap. 2.24]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "Fp 2.24",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_24"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "convencido disto"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 25,
+      "marcador": "r",
+      "texto_impresso": "[At 20.25]",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 20,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "At 20.25",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_20_v_25"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "estou certo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 25,
+      "marcador": "s",
+      "texto_impresso": "v. 12",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "Fp 1.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_12"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "progresso"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 25,
+      "marcador": "t",
+      "texto_impresso": "Rm 15.13",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Rm 15.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_15_v_13"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "gozo da fé"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 26,
+      "marcador": "u",
+      "texto_impresso": "ver 2Co 1.14",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "ver 2Co 1.14",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_1_v_14"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "motivo de vos gloriardes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 27,
+      "marcador": "v",
+      "texto_impresso": "[cap. 3.20]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 3,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "Fp 3.20",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_3_v_20"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "Vivei"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 27,
+      "marcador": "w",
+      "texto_impresso": "ver Ef 4.1",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 4,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "ver Ef 4.1",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_4_v_1"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "digno do evangelho"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 27,
+      "marcador": "x",
+      "texto_impresso": "ver 1Co 16.13",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 16,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "ver 1Co 16.13",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_16_v_13"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "que estais firmes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 27,
+      "marcador": "y",
+      "texto_impresso": "[cap. 2.2; 1Co 1.10]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Fp 2.2",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_2"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 1,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "1Co 1.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_1_v_10"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "uma só alma"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 27,
+      "marcador": "z",
+      "texto_impresso": "Jd 3",
+      "destinos": [
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Jd 1.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_65_Jd.xhtml#cap_1_v_3"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "lutando juntos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 28,
+      "marcador": "a",
+      "texto_impresso": "[2Ts 1.5]",
+      "destinos": [
+        {
+          "livro": "2Ts",
+          "capitulo": 1,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "2Ts 1.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_53_2Ts.xhtml#cap_1_v_5"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "prova evidente"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 28,
+      "marcador": "b",
+      "texto_impresso": "ver At 14.22",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 14,
+          "versiculo": 22,
+          "versiculo_final": 22,
+          "rotulo": "ver At 14.22",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_44_At.xhtml#cap_14_v_22"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "para vós outros"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 29,
+      "marcador": "c",
+      "texto_impresso": "ver Mt 5.12",
+      "destinos": [
+        {
+          "livro": "Mt",
+          "capitulo": 5,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "ver Mt 5.12",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_40_Mt.xhtml#cap_5_v_12"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "vos foi concedida"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 29,
+      "marcador": "b",
+      "texto_impresso": "[ver v. 28, acima]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 28,
+          "versiculo_final": 28,
+          "rotulo": "ver Fp 1.28",
+          "entre_colchetes": true,
+          "indicacao_ver": true,
+          "href": "livro_50_Fp.xhtml#cap_1_v_28"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "padecerdes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 30,
+      "marcador": "d",
+      "texto_impresso": "Cl 1.29; 2.1; 1Tm 6.12; 2Tm 4.7; [Hb 10.32]",
+      "destinos": [
+        {
+          "livro": "Cl",
+          "capitulo": 1,
+          "versiculo": 29,
+          "versiculo_final": 29,
+          "rotulo": "Cl 1.29",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_1_v_29"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 2,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Cl 2.1",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_2_v_1"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Tm 6.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_6_v_12"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 4,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "2Tm 4.7",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_4_v_7"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 10,
+          "versiculo": 32,
+          "versiculo_final": 32,
+          "rotulo": "Hb 10.32",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_10_v_32"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "combate"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 1,
+      "versiculo_origem": 30,
+      "marcador": "e",
+      "texto_impresso": "At 16.19-40; 1Ts 2.2",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 16,
+          "versiculo": 19,
+          "versiculo_final": 40,
+          "rotulo": "At 16.19-40",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_16_v_19"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 2,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "1Ts 2.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_2_v_2"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "vistes em mim"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 1,
+      "marcador": "f",
+      "texto_impresso": "[Rm 15.30; 2Ts 2.16]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 30,
+          "versiculo_final": 30,
+          "rotulo": "Rm 15.30",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_15_v_30"
+        },
+        {
+          "livro": "2Ts",
+          "capitulo": 2,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "2Ts 2.16",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_53_2Ts.xhtml#cap_2_v_16"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "amor"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 1,
+      "marcador": "g",
+      "texto_impresso": "2Co 13.14",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 13,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "2Co 13.14 (ARA 13.13)",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_13_v_13"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "comunhão do Espírito"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 1,
+      "marcador": "h",
+      "texto_impresso": "Cl 3.12",
+      "destinos": [
+        {
+          "livro": "Cl",
+          "capitulo": 3,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "Cl 3.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_3_v_12"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "afetos e misericórdias"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 2,
+      "marcador": "i",
+      "texto_impresso": "Jo 3.29; 15.11",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 3,
+          "versiculo": 29,
+          "versiculo_final": 29,
+          "rotulo": "Jo 3.29",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_3_v_29"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 15,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "Jo 15.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_15_v_11"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "completai a minha alegria"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 2,
+      "marcador": "j",
+      "texto_impresso": "ver Rm 12.16",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 12,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "ver Rm 12.16",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_12_v_16"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "penseis a mesma coisa"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 3,
+      "marcador": "k",
+      "texto_impresso": "cap. 1.17",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "Fp 1.17",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_17"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "partidarismo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 3,
+      "marcador": "l",
+      "texto_impresso": "Gl 5.26",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 5,
+          "versiculo": 26,
+          "versiculo_final": 26,
+          "rotulo": "Gl 5.26",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_5_v_26"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "vanglória"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 3,
+      "marcador": "m",
+      "texto_impresso": "[Ef 5.21]; ver Rm 12.10; Ef 4.2",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 5,
+          "versiculo": 21,
+          "versiculo_final": 21,
+          "rotulo": "Ef 5.21",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_5_v_21"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 12,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "ver Rm 12.10",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_12_v_10"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 4,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Ef 4.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_4_v_2"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "humildade"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 4,
+      "marcador": "n",
+      "texto_impresso": "ver Rm 15.2",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "ver Rm 15.2",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_15_v_2"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "em vista"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 5,
+      "marcador": "o",
+      "texto_impresso": "Rm 15.3; ver Mt 11.29",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Rm 15.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_15_v_3"
+        },
+        {
+          "livro": "Mt",
+          "capitulo": 11,
+          "versiculo": 29,
+          "versiculo_final": 29,
+          "rotulo": "ver Mt 11.29",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_40_Mt.xhtml#cap_11_v_29"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "Tende em vós"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 6,
+      "marcador": "p",
+      "texto_impresso": "ver Jo 1.1",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 1,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "ver Jo 1.1",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_43_Jo.xhtml#cap_1_v_1"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "subsistindo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 6,
+      "marcador": "q",
+      "texto_impresso": "ver 2Co 4.4",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 4,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "ver 2Co 4.4",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_4_v_4"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "forma de Deus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 6,
+      "marcador": "r",
+      "texto_impresso": "Jo 5.18; 10.33; [Jo 14.28]",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 5,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "Jo 5.18",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_5_v_18"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 33,
+          "versiculo_final": 33,
+          "rotulo": "Jo 10.33",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_10_v_33"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 14,
+          "versiculo": 28,
+          "versiculo_final": 28,
+          "rotulo": "Jo 14.28",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_14_v_28"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "ser igual a Deus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 7,
+      "marcador": "s",
+      "texto_impresso": "2Co 8.9; 13.4; ver Mc 9.12",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 8,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Co 8.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_8_v_9"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 13,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "2Co 13.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_13_v_4"
+        },
+        {
+          "livro": "Mc",
+          "capitulo": 9,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "ver Mc 9.12",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_41_Mc.xhtml#cap_9_v_12"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "a si mesmo se esvaziou"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 7,
+      "marcador": "t",
+      "texto_impresso": "ver Is 42.1; Mt 20.28",
+      "destinos": [
+        {
+          "livro": "Is",
+          "capitulo": 42,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "ver Is 42.1",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_23_Is.xhtml#cap_42_v_1"
+        },
+        {
+          "livro": "Mt",
+          "capitulo": 20,
+          "versiculo": 28,
+          "versiculo_final": 28,
+          "rotulo": "Mt 20.28",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_40_Mt.xhtml#cap_20_v_28"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "servo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 7,
+      "marcador": "u",
+      "texto_impresso": "Rm 8.3; Gl 4.4; ver Jo 1.14",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 8,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Rm 8.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_8_v_3"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 4,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Gl 4.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_4_v_4"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 1,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "ver Jo 1.14",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_43_Jo.xhtml#cap_1_v_14"
+        }
+      ],
+      "pagina_impressa": 2110,
+      "ancoras": [
+        "tornando-se"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 8,
+      "marcador": "v",
+      "texto_impresso": "Hb 5.8; [Mt 26.39; Jo 10.18; Rm 5.19]",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 5,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "Hb 5.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_5_v_8"
+        },
+        {
+          "livro": "Mt",
+          "capitulo": 26,
+          "versiculo": 39,
+          "versiculo_final": 39,
+          "rotulo": "Mt 26.39",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_40_Mt.xhtml#cap_26_v_39"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "Jo 10.18",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_10_v_18"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 5,
+          "versiculo": 19,
+          "versiculo_final": 19,
+          "rotulo": "Rm 5.19",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_5_v_19"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "tornando-se obediente"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 8,
+      "marcador": "w",
+      "texto_impresso": "Hb 12.2",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 12,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Hb 12.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_12_v_2"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "morte de cruz"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 9,
+      "marcador": "x",
+      "texto_impresso": "Jo 10.17; [Is 52.13; 53.12; Hb 2.9]",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "Jo 10.17",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_10_v_17"
+        },
+        {
+          "livro": "Is",
+          "capitulo": 52,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Is 52.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_52_v_13"
+        },
+        {
+          "livro": "Is",
+          "capitulo": 53,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "Is 53.12",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_53_v_12"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 2,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Hb 2.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_2_v_9"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "Pelo que também"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 9,
+      "marcador": "y",
+      "texto_impresso": "ver Mt 28.18",
+      "destinos": [
+        {
+          "livro": "Mt",
+          "capitulo": 28,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "ver Mt 28.18",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_40_Mt.xhtml#cap_28_v_18"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "Deus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 9,
+      "marcador": "z",
+      "texto_impresso": "At 2.33",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 2,
+          "versiculo": 33,
+          "versiculo_final": 33,
+          "rotulo": "At 2.33",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_2_v_33"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "exaltou sobremaneira"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 9,
+      "marcador": "a",
+      "texto_impresso": "Ef 1.21; Hb 1.4; [At 5.41]",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 1,
+          "versiculo": 21,
+          "versiculo_final": 21,
+          "rotulo": "Ef 1.21",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_1_v_21"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 1,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Hb 1.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_1_v_4"
+        },
+        {
+          "livro": "At",
+          "capitulo": 5,
+          "versiculo": 41,
+          "versiculo_final": 41,
+          "rotulo": "At 5.41",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_5_v_41"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "nome que está acima"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 10,
+      "marcador": "b",
+      "texto_impresso": "Is 45.23; Rm 14.11",
+      "destinos": [
+        {
+          "livro": "Is",
+          "capitulo": 45,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "Is 45.23",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_45_v_23"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 14,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "Rm 14.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_14_v_11"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "se dobre"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 10,
+      "marcador": "c",
+      "texto_impresso": "[Ap 5.3, 13]; ver Ef 1.10",
+      "destinos": [
+        {
+          "livro": "Ap",
+          "capitulo": 5,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Ap 5.3",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_66_Ap.xhtml#cap_5_v_3"
+        },
+        {
+          "livro": "Ap",
+          "capitulo": 5,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Ap 5.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_66_Ap.xhtml#cap_5_v_13"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 1,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "ver Ef 1.10",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_1_v_10"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "nos céus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 11,
+      "marcador": "d",
+      "texto_impresso": "[Rm 10.9; 1Co 12.3]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 10,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Rm 10.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_10_v_9"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 12,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "1Co 12.3",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_12_v_3"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "toda língua"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 11,
+      "marcador": "e",
+      "texto_impresso": "[Rm 14.9]; ver Jo 13.13",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 14,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Rm 14.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_14_v_9"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 13,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "ver Jo 13.13",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_43_Jo.xhtml#cap_13_v_13"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "Senhor"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 12,
+      "marcador": "f",
+      "texto_impresso": "[cap. 1.5; 4.15]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Fp 1.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_5"
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "Fp 4.15",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_15"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "como sempre"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 12,
+      "marcador": "g",
+      "texto_impresso": "Hb 5.9; [2Co 10.5; 1Pe 1.2]",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 5,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Hb 5.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_5_v_9"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 10,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "2Co 10.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_10_v_5"
+        },
+        {
+          "livro": "1Pe",
+          "capitulo": 1,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "1Pe 1.2",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_60_1Pe.xhtml#cap_1_v_2"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "obedecestes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 13,
+      "marcador": "h",
+      "texto_impresso": "1Co 12.6; [Hb 13.21]; ver 1Co 15.10",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 12,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "1Co 12.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_12_v_6"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 13,
+          "versiculo": 21,
+          "versiculo_final": 21,
+          "rotulo": "Hb 13.21",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_13_v_21"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 15,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "ver 1Co 15.10",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_15_v_10"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "Deus é quem efetua"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 13,
+      "marcador": "i",
+      "texto_impresso": "[1Tm 2.4]",
+      "destinos": [
+        {
+          "livro": "1Tm",
+          "capitulo": 2,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "1Tm 2.4",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_2_v_4"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "sua boa vontade"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 14,
+      "marcador": "j",
+      "texto_impresso": "1Pe 4.9",
+      "destinos": [
+        {
+          "livro": "1Pe",
+          "capitulo": 4,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "1Pe 4.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_60_1Pe.xhtml#cap_4_v_9"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "sem murmurações"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 14,
+      "marcador": "k",
+      "texto_impresso": "1Tm 2.8",
+      "destinos": [
+        {
+          "livro": "1Tm",
+          "capitulo": 2,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "1Tm 2.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_2_v_8"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "contendas"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 15,
+      "marcador": "l",
+      "texto_impresso": "[Mt 5.45; Ef 5.1]",
+      "destinos": [
+        {
+          "livro": "Mt",
+          "capitulo": 5,
+          "versiculo": 45,
+          "versiculo_final": 45,
+          "rotulo": "Mt 5.45",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_40_Mt.xhtml#cap_5_v_45"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 5,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Ef 5.1",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_5_v_1"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "filhos de Deus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 15,
+      "marcador": "m",
+      "texto_impresso": "Jd 24",
+      "destinos": [
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "Jd 1.24",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_65_Jd.xhtml#cap_1_v_24"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "inculpáveis"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 15,
+      "marcador": "n",
+      "texto_impresso": "1Pe 2.12",
+      "destinos": [
+        {
+          "livro": "1Pe",
+          "capitulo": 2,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Pe 2.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_60_1Pe.xhtml#cap_2_v_12"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "no meio"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 15,
+      "marcador": "o",
+      "texto_impresso": "ver Dt 32.5",
+      "destinos": [
+        {
+          "livro": "Dt",
+          "capitulo": 32,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "ver Dt 32.5",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_05_Dt.xhtml#cap_32_v_5"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "pervertida"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 15,
+      "marcador": "p",
+      "texto_impresso": "Mt 5.14, 16; [Tt 2.10]",
+      "destinos": [
+        {
+          "livro": "Mt",
+          "capitulo": 5,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "Mt 5.14",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_40_Mt.xhtml#cap_5_v_14"
+        },
+        {
+          "livro": "Mt",
+          "capitulo": 5,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Mt 5.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_40_Mt.xhtml#cap_5_v_16"
+        },
+        {
+          "livro": "Tt",
+          "capitulo": 2,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Tt 2.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_56_Tt.xhtml#cap_2_v_10"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "como luzeiros"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 16,
+      "marcador": "q",
+      "texto_impresso": "[At 5.20]",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 5,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "At 5.20",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_5_v_20"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "palavra da vida"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 16,
+      "marcador": "r",
+      "texto_impresso": "ver 1Co 1.8",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 1,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "ver 1Co 1.8",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_1_v_8"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "Dia de Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 16,
+      "marcador": "s",
+      "texto_impresso": "ver 2Co 1.14",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "ver 2Co 1.14",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_1_v_14"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "me glorie"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 16,
+      "marcador": "t",
+      "texto_impresso": "Gl 2.2; 1Ts 3.5; [Gl 4.11]",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 2,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Gl 2.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_2_v_2"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "1Ts 3.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_5"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 4,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "Gl 4.11",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_4_v_11"
+        }
+      ],
+      "pagina_impressa": 2111,
+      "ancoras": [
+        "não corri em vão"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 17,
+      "marcador": "u",
+      "texto_impresso": "[1Jo 3.16]; ver 2Co 12.15",
+      "destinos": [
+        {
+          "livro": "1Jo",
+          "capitulo": 3,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "1Jo 3.16",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_62_1Jo.xhtml#cap_3_v_16"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 12,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "ver 2Co 12.15",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_12_v_15"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "oferecido por libação"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 17,
+      "marcador": "v",
+      "texto_impresso": "[Rm 15.16]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Rm 15.16",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_15_v_16"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "sacrifício"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 19,
+      "marcador": "w",
+      "texto_impresso": "[1Co 4.17; 1Ts 3.2]",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 4,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "1Co 4.17",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_4_v_17"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "1Ts 3.2",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_2"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "mandar-vos Timóteo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 20,
+      "marcador": "x",
+      "texto_impresso": "[1Co 16.10]",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 16,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "1Co 16.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_16_v_10"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "igual sentimento"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 21,
+      "marcador": "y",
+      "texto_impresso": "[2Tm 3.2]; ver 1Co 10.24",
+      "destinos": [
+        {
+          "livro": "2Tm",
+          "capitulo": 3,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "2Tm 3.2",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_3_v_2"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 10,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "ver 1Co 10.24",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_10_v_24"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "eles buscam"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 22,
+      "marcador": "z",
+      "texto_impresso": "2Co 2.9",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 2,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Co 2.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_2_v_9"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "caráter provado"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 22,
+      "marcador": "a",
+      "texto_impresso": "[2Tm 3.10]",
+      "destinos": [
+        {
+          "livro": "2Tm",
+          "capitulo": 3,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "2Tm 3.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_3_v_10"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "serviu ao evangelho"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 22,
+      "marcador": "b",
+      "texto_impresso": "1Co 4.17; 1Tm 1.2; 2Tm 1.2",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 4,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "1Co 4.17",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_4_v_17"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "1Tm 1.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_1_v_2"
+        },
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "2Tm 1.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_55_2Tm.xhtml#cap_1_v_2"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "como filho ao pai"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 24,
+      "marcador": "c",
+      "texto_impresso": "[cap. 1.25; Fm 22]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "Fp 1.25",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_25"
+        },
+        {
+          "livro": "Fm",
+          "capitulo": 1,
+          "versiculo": 22,
+          "versiculo_final": 22,
+          "rotulo": "Fm 1.22",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_57_Fm.xhtml#cap_1_v_22"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "persuadido"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 25,
+      "marcador": "d",
+      "texto_impresso": "cap. 4.18",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "Fp 4.18",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_18"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "Epafrodito"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 25,
+      "marcador": "e",
+      "texto_impresso": "Fm 2",
+      "destinos": [
+        {
+          "livro": "Fm",
+          "capitulo": 1,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Fm 1.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_57_Fm.xhtml#cap_1_v_2"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "companheiro de lutas"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 25,
+      "marcador": "f",
+      "texto_impresso": "[cap. 4.18]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "Fp 4.18",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_18"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "auxiliar nas minhas necessidades"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 29,
+      "marcador": "g",
+      "texto_impresso": "Rm 16.2",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 16,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Rm 16.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_16_v_2"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "Recebei-o"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 29,
+      "marcador": "h",
+      "texto_impresso": "1Co 16.18; 1Ts 5.12, 13; 1Tm 5.17",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 16,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "1Co 16.18",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_16_v_18"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 5,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Ts 5.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_5_v_12"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 5,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "1Ts 5.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_5_v_13"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 5,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "1Tm 5.17",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_5_v_17"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "honrai"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 30,
+      "marcador": "i",
+      "texto_impresso": "[At 20.24]",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 20,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "At 20.24",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_20_v_24"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "por causa da obra de Cristo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 2,
+      "versiculo_origem": 30,
+      "marcador": "j",
+      "texto_impresso": "[cap. 4.10]; ver 1Co 16.17",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Fp 4.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_10"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 16,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "ver 1Co 16.17",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_16_v_17"
+        }
+      ],
+      "pagina_impressa": 2112,
+      "ancoras": [
+        "para suprir"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 1,
+      "marcador": "k",
+      "texto_impresso": "cap. 4.4; 1Ts 5.16",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Fp 4.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_4"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 5,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "1Ts 5.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_5_v_16"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "alegrai-vos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 1,
+      "marcador": "l",
+      "texto_impresso": "[2Pe 1.12]",
+      "destinos": [
+        {
+          "livro": "2Pe",
+          "capitulo": 1,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "2Pe 1.12",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_61_2Pe.xhtml#cap_1_v_12"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "escreva"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 2,
+      "marcador": "m",
+      "texto_impresso": "Sl 22.16, 20; Is 56.10, 11; Ap 22.15; [Gl 5.15]",
+      "destinos": [
+        {
+          "livro": "Sl",
+          "capitulo": 22,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Sl 22.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_19_Sl.xhtml#cap_22_v_16"
+        },
+        {
+          "livro": "Sl",
+          "capitulo": 22,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "Sl 22.20",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_19_Sl.xhtml#cap_22_v_20"
+        },
+        {
+          "livro": "Is",
+          "capitulo": 56,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Is 56.10",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_56_v_10"
+        },
+        {
+          "livro": "Is",
+          "capitulo": 56,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "Is 56.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_56_v_11"
+        },
+        {
+          "livro": "Ap",
+          "capitulo": 22,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "Ap 22.15",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_66_Ap.xhtml#cap_22_v_15"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 5,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "Gl 5.15",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_5_v_15"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "cães"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 2,
+      "marcador": "n",
+      "texto_impresso": "[2Co 11.13]",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "2Co 11.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_13"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "maus obreiros"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 3,
+      "marcador": "o",
+      "texto_impresso": "ver Rm 2.29",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 2,
+          "versiculo": 29,
+          "versiculo_final": 29,
+          "rotulo": "ver Rm 2.29",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_2_v_29"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "nós é que somos a circuncisão"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 3,
+      "marcador": "p",
+      "texto_impresso": "[Jo 4.23]",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 4,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "Jo 4.23",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_4_v_23"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "adoramos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 3,
+      "marcador": "q",
+      "texto_impresso": "[Gl 5.25; Jd 20]",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 5,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "Gl 5.25",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_5_v_25"
+        },
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "Jd 1.20",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_65_Jd.xhtml#cap_1_v_20"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "no Espírito"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 3,
+      "marcador": "r",
+      "texto_impresso": "Rm 15.17; [Gl 6.14]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "Rm 15.17",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_15_v_17"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 6,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "Gl 6.14",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_6_v_14"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "gloriamos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 4,
+      "marcador": "s",
+      "texto_impresso": "2Co 11.18",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "2Co 11.18",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_18"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "Bem que"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 5,
+      "marcador": "t",
+      "texto_impresso": "ver Gn 17.12",
+      "destinos": [
+        {
+          "livro": "Gn",
+          "capitulo": 17,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "ver Gn 17.12",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_01_Gn.xhtml#cap_17_v_12"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "circuncidado"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 5,
+      "marcador": "u",
+      "texto_impresso": "2Co 11.22",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 22,
+          "versiculo_final": 22,
+          "rotulo": "2Co 11.22",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_22"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "da linhagem"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 5,
+      "marcador": "v",
+      "texto_impresso": "Rm 11.1",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 11,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Rm 11.1",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_11_v_1"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "da tribo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 5,
+      "marcador": "w",
+      "texto_impresso": "At 23.6; 26.5",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 23,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "At 23.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_23_v_6"
+        },
+        {
+          "livro": "At",
+          "capitulo": 26,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "At 26.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_26_v_5"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "hebreu de hebreus",
+        "fariseu"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 6,
+      "marcador": "x",
+      "texto_impresso": "At 22.3, 4; Gl 1.13, 14",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 22,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "At 22.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_22_v_3"
+        },
+        {
+          "livro": "At",
+          "capitulo": 22,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "At 22.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_22_v_4"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 1,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Gl 1.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_1_v_13"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 1,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "Gl 1.14",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_1_v_14"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "quanto ao zelo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 6,
+      "marcador": "y",
+      "texto_impresso": "ver At 8.3",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 8,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "ver At 8.3",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_44_At.xhtml#cap_8_v_3"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "perseguidor"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 6,
+      "marcador": "z",
+      "texto_impresso": "[v. 9]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 3,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Fp 3.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_3_v_9"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "quanto à justiça"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 7,
+      "marcador": "a",
+      "texto_impresso": "[Lc 14.33]",
+      "destinos": [
+        {
+          "livro": "Lc",
+          "capitulo": 14,
+          "versiculo": 33,
+          "versiculo_final": 33,
+          "rotulo": "Lc 14.33",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_42_Lc.xhtml#cap_14_v_33"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "o que, para mim"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 7,
+      "marcador": "b",
+      "texto_impresso": "[Hb 11.26]",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 11,
+          "versiculo": 26,
+          "versiculo_final": 26,
+          "rotulo": "Hb 11.26",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_11_v_26"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "considerei perda"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 8,
+      "marcador": "c",
+      "texto_impresso": "[2Co 5.15]",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 5,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "2Co 5.15",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_5_v_15"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "perdi todas as coisas"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 8,
+      "marcador": "d",
+      "texto_impresso": "Is 53.11; Jr 9.23, 24; Jo 17.3; 2Pe 1.3",
+      "destinos": [
+        {
+          "livro": "Is",
+          "capitulo": 53,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "Is 53.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_53_v_11"
+        },
+        {
+          "livro": "Jr",
+          "capitulo": 9,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "Jr 9.23",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_24_Jr.xhtml#cap_9_v_23"
+        },
+        {
+          "livro": "Jr",
+          "capitulo": 9,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "Jr 9.24",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_24_Jr.xhtml#cap_9_v_24"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 17,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Jo 17.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_17_v_3"
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "2Pe 1.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_61_2Pe.xhtml#cap_1_v_3"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 8,
+      "marcador": "e",
+      "texto_impresso": "Lc 9.25 (gr.)",
+      "destinos": [
+        {
+          "livro": "Lc",
+          "capitulo": 9,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "Lc 9.25 (gr.)",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_42_Lc.xhtml#cap_9_v_25"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 9,
+      "marcador": "f",
+      "texto_impresso": "Rm 10.5; [v. 6]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 10,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Rm 10.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_10_v_5"
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 3,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "Fp 3.6",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_3_v_6"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "justiça própria"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 9,
+      "marcador": "g",
+      "texto_impresso": "ver Rm 9.30; 1Co 1.30",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 9,
+          "versiculo": 30,
+          "versiculo_final": 30,
+          "rotulo": "ver Rm 9.30",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_9_v_30"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 1,
+          "versiculo": 30,
+          "versiculo_final": 30,
+          "rotulo": "1Co 1.30",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_1_v_30"
+        }
+      ],
+      "pagina_impressa": 2113,
+      "ancoras": [
+        "a que é"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 10,
+      "marcador": "h",
+      "texto_impresso": "[Ef 4.13]",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 4,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Ef 4.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_4_v_13"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "para o conhecer"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 10,
+      "marcador": "i",
+      "texto_impresso": "[Rm 1.4; 6.5]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Rm 1.4",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_1_v_4"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 6,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Rm 6.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_6_v_5"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "poder da sua ressurreição"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 10,
+      "marcador": "j",
+      "texto_impresso": "1Pe 4.13; ver 2Co 1.5",
+      "destinos": [
+        {
+          "livro": "1Pe",
+          "capitulo": 4,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "1Pe 4.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_60_1Pe.xhtml#cap_4_v_13"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "ver 2Co 1.5",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_1_v_5"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "comunhão dos seus sofrimentos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 11,
+      "marcador": "k",
+      "texto_impresso": "At 26.7",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 26,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "At 26.7",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_26_v_7"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "alcançar a ressurreição"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 12,
+      "marcador": "l",
+      "texto_impresso": "[1Tm 6.12, 19]",
+      "destinos": [
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Tm 6.12",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_6_v_12"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 19,
+          "versiculo_final": 19,
+          "rotulo": "1Tm 6.19",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_6_v_19"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "recebido"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 12,
+      "marcador": "m",
+      "texto_impresso": "Hb 11.40; 12.23; [Hb 5.9]",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 11,
+          "versiculo": 40,
+          "versiculo_final": 40,
+          "rotulo": "Hb 11.40",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_11_v_40"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 12,
+          "versiculo": 23,
+          "versiculo_final": 23,
+          "rotulo": "Hb 12.23",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_12_v_23"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 5,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Hb 5.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_5_v_9"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "obtido a perfeição"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 13,
+      "marcador": "n",
+      "texto_impresso": "[Sl 45.10; Lc 9.62; Hb 6.1]",
+      "destinos": [
+        {
+          "livro": "Sl",
+          "capitulo": 45,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Sl 45.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_19_Sl.xhtml#cap_45_v_10"
+        },
+        {
+          "livro": "Lc",
+          "capitulo": 9,
+          "versiculo": 62,
+          "versiculo_final": 62,
+          "rotulo": "Lc 9.62",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_42_Lc.xhtml#cap_9_v_62"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 6,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Hb 6.1",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_6_v_1"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "esquecendo-me"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 14,
+      "marcador": "o",
+      "texto_impresso": "1Co 9.24",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 9,
+          "versiculo": 24,
+          "versiculo_final": 24,
+          "rotulo": "1Co 9.24",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_9_v_24"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "prêmio"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 14,
+      "marcador": "p",
+      "texto_impresso": "[Hb 3.1; 1Pe 5.10]; ver Rm 8.28",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 3,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Hb 3.1",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_3_v_1"
+        },
+        {
+          "livro": "1Pe",
+          "capitulo": 5,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "1Pe 5.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_60_1Pe.xhtml#cap_5_v_10"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 8,
+          "versiculo": 28,
+          "versiculo_final": 28,
+          "rotulo": "ver Rm 8.28",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_8_v_28"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "vocação"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 15,
+      "marcador": "q",
+      "texto_impresso": "1Co 2.6; ver Mt 5.48",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 2,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "1Co 2.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_2_v_6"
+        },
+        {
+          "livro": "Mt",
+          "capitulo": 5,
+          "versiculo": 48,
+          "versiculo_final": 48,
+          "rotulo": "ver Mt 5.48",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_40_Mt.xhtml#cap_5_v_48"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "perfeitos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 15,
+      "marcador": "r",
+      "texto_impresso": "[Gl 5.10]",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 5,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Gl 5.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_5_v_10"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "pensais doutro modo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 15,
+      "marcador": "s",
+      "texto_impresso": "[Jo 7.17]",
+      "destinos": [
+        {
+          "livro": "Jo",
+          "capitulo": 7,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "Jo 7.17",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_43_Jo.xhtml#cap_7_v_17"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "Deus vos esclarecerá"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 16,
+      "marcador": "t",
+      "texto_impresso": "Gl 6.16",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 6,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Gl 6.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_6_v_16"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "andemos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 17,
+      "marcador": "u",
+      "texto_impresso": "[cap. 4.9]; ver 1Co 4.16",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Fp 4.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_9"
+        },
+        {
+          "livro": "1Co",
+          "capitulo": 4,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "ver 1Co 4.16",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_4_v_16"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "sede imitadores"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 17,
+      "marcador": "v",
+      "texto_impresso": "1Pe 5.3",
+      "destinos": [
+        {
+          "livro": "1Pe",
+          "capitulo": 5,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "1Pe 5.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_60_1Pe.xhtml#cap_5_v_3"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "segundo o modelo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 18,
+      "marcador": "w",
+      "texto_impresso": "ver 2Co 11.13",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "ver 2Co 11.13",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_11_v_13"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "muitos andam"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 18,
+      "marcador": "x",
+      "texto_impresso": "[At 20.31]",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 20,
+          "versiculo": 31,
+          "versiculo_final": 31,
+          "rotulo": "At 20.31",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_20_v_31"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "até chorando"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 19,
+      "marcador": "y",
+      "texto_impresso": "2Co 11.15; [2Ts 1.9; 2Pe 2.1, 3]",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "2Co 11.15",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_15"
+        },
+        {
+          "livro": "2Ts",
+          "capitulo": 1,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Ts 1.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_53_2Ts.xhtml#cap_1_v_9"
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "2Pe 2.1",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_61_2Pe.xhtml#cap_2_v_1"
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "2Pe 2.3",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_61_2Pe.xhtml#cap_2_v_3"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "O destino deles"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 19,
+      "marcador": "z",
+      "texto_impresso": "ver Rm 16.18",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 16,
+          "versiculo": 18,
+          "versiculo_final": 18,
+          "rotulo": "ver Rm 16.18",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_16_v_18"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "deus deles é o ventre"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 19,
+      "marcador": "a",
+      "texto_impresso": "[Os 4.7; 2Co 11.12; Gl 6.13; Jd 13]",
+      "destinos": [
+        {
+          "livro": "Os",
+          "capitulo": 4,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "Os 4.7",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_28_Os.xhtml#cap_4_v_7"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "2Co 11.12",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_12"
+        },
+        {
+          "livro": "Gl",
+          "capitulo": 6,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Gl 6.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_6_v_13"
+        },
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Jd 1.13",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_65_Jd.xhtml#cap_1_v_13"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "a glória deles"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 19,
+      "marcador": "b",
+      "texto_impresso": "Rm 8.5; Cl 3.2",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 8,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Rm 8.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_8_v_5"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 3,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Cl 3.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_3_v_2"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "só se preocupam"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 20,
+      "marcador": "c",
+      "texto_impresso": "ver Ef 2.19",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 2,
+          "versiculo": 19,
+          "versiculo_final": 19,
+          "rotulo": "ver Ef 2.19",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_2_v_19"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "nossa pátria"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 20,
+      "marcador": "d",
+      "texto_impresso": "At 1.11",
+      "destinos": [
+        {
+          "livro": "At",
+          "capitulo": 1,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "At 1.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_44_At.xhtml#cap_1_v_11"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "de onde"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 20,
+      "marcador": "e",
+      "texto_impresso": "ver 1Co 1.7",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 1,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "ver 1Co 1.7",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_46_1Co.xhtml#cap_1_v_7"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "aguardamos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 21,
+      "marcador": "f",
+      "texto_impresso": "[1Co 15.43-53]",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 15,
+          "versiculo": 43,
+          "versiculo_final": 53,
+          "rotulo": "1Co 15.43-53",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_15_v_43"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "nosso corpo de humilhação"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 21,
+      "marcador": "g",
+      "texto_impresso": "[v. 10; Cl 3.4]; ver Rm 8.29",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 3,
+          "versiculo": 10,
+          "versiculo_final": 10,
+          "rotulo": "Fp 3.10",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_3_v_10"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 3,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Cl 3.4",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_3_v_4"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 8,
+          "versiculo": 29,
+          "versiculo_final": 29,
+          "rotulo": "ver Rm 8.29",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_8_v_29"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "para ser igual"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 21,
+      "marcador": "h",
+      "texto_impresso": "ver Ef 1.19",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 1,
+          "versiculo": 19,
+          "versiculo_final": 19,
+          "rotulo": "ver Ef 1.19",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_1_v_19"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "do poder"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 3,
+      "versiculo_origem": 21,
+      "marcador": "i",
+      "texto_impresso": "1Co 15.28",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 15,
+          "versiculo": 28,
+          "versiculo_final": 28,
+          "rotulo": "1Co 15.28",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_15_v_28"
+        }
+      ],
+      "pagina_impressa": 2114,
+      "ancoras": [
+        "subordinar"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 1,
+      "marcador": "j",
+      "texto_impresso": "ver cap. 1.8",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "ver Fp 1.8",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_50_Fp.xhtml#cap_1_v_8"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "mui saudosos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 1,
+      "marcador": "k",
+      "texto_impresso": "cap. 1.4; 2.16; ver 2Co 1.14",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Fp 1.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_4"
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Fp 2.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_16"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "ver 2Co 1.14",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_47_2Co.xhtml#cap_1_v_14"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "minha alegria"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 1,
+      "marcador": "l",
+      "texto_impresso": "Pv 16.31; 17.6",
+      "destinos": [
+        {
+          "livro": "Pv",
+          "capitulo": 16,
+          "versiculo": 31,
+          "versiculo_final": 31,
+          "rotulo": "Pv 16.31",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_20_Pv.xhtml#cap_16_v_31"
+        },
+        {
+          "livro": "Pv",
+          "capitulo": 17,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "Pv 17.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_20_Pv.xhtml#cap_17_v_6"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "coroa"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 1,
+      "marcador": "m",
+      "texto_impresso": "cap. 1.27",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 27,
+          "versiculo_final": 27,
+          "rotulo": "Fp 1.27",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_27"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "permanecei"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 2,
+      "marcador": "n",
+      "texto_impresso": "cap. 2.2",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Fp 2.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_2"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "pensem concordemente"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 3,
+      "marcador": "o",
+      "texto_impresso": "ver Lc 10.20",
+      "destinos": [
+        {
+          "livro": "Lc",
+          "capitulo": 10,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "ver Lc 10.20",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_42_Lc.xhtml#cap_10_v_20"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "cujos nomes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 4,
+      "marcador": "p",
+      "texto_impresso": "cap. 3.1",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 3,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Fp 3.1",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_3_v_1"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "Alegrai-vos sempre"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 5,
+      "marcador": "q",
+      "texto_impresso": "ver Tg 5.8",
+      "destinos": [
+        {
+          "livro": "Tg",
+          "capitulo": 5,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "ver Tg 5.8",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_59_Tg.xhtml#cap_5_v_8"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "Perto está o Senhor"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 6,
+      "marcador": "r",
+      "texto_impresso": "ver Mt 6.25",
+      "destinos": [
+        {
+          "livro": "Mt",
+          "capitulo": 6,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "ver Mt 6.25",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_40_Mt.xhtml#cap_6_v_25"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "Não andeis ansiosos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 6,
+      "marcador": "s",
+      "texto_impresso": "[Pv 16.3]",
+      "destinos": [
+        {
+          "livro": "Pv",
+          "capitulo": 16,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Pv 16.3",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_20_Pv.xhtml#cap_16_v_3"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "em tudo"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 6,
+      "marcador": "t",
+      "texto_impresso": "ver Rm 1.8",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "ver Rm 1.8",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_1_v_8"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "com ações de graças"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 7,
+      "marcador": "u",
+      "texto_impresso": "[v. 9; Is 26.3; Cl 3.15]; ver Jo 14.27",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Fp 4.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_9"
+        },
+        {
+          "livro": "Is",
+          "capitulo": 26,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "Is 26.3",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_23_Is.xhtml#cap_26_v_3"
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 3,
+          "versiculo": 15,
+          "versiculo_final": 15,
+          "rotulo": "Cl 3.15",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_51_Cl.xhtml#cap_3_v_15"
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 14,
+          "versiculo": 27,
+          "versiculo_final": 27,
+          "rotulo": "ver Jo 14.27",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_43_Jo.xhtml#cap_14_v_27"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "paz de Deus"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 7,
+      "marcador": "v",
+      "texto_impresso": "[Ef 3.19]",
+      "destinos": [
+        {
+          "livro": "Ef",
+          "capitulo": 3,
+          "versiculo": 19,
+          "versiculo_final": 19,
+          "rotulo": "Ef 3.19",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_49_Ef.xhtml#cap_3_v_19"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "que excede"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 9,
+      "marcador": "w",
+      "texto_impresso": "1Ts 4.1",
+      "destinos": [
+        {
+          "livro": "1Ts",
+          "capitulo": 4,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "1Ts 4.1",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_4_v_1"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "e recebestes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 9,
+      "marcador": "x",
+      "texto_impresso": "[cap. 3.17]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 3,
+          "versiculo": 17,
+          "versiculo_final": 17,
+          "rotulo": "Fp 3.17",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_3_v_17"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "em mim"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 9,
+      "marcador": "y",
+      "texto_impresso": "[v. 7]; ver Rm 15.33",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 4,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "Fp 4.7",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_4_v_7"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 15,
+          "versiculo": 33,
+          "versiculo_final": 33,
+          "rotulo": "ver Rm 15.33",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_15_v_33"
+        }
+      ],
+      "pagina_impressa": 2115,
+      "ancoras": [
+        "Deus da paz"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 10,
+      "marcador": "z",
+      "texto_impresso": "[2Co 11.9; cap. 2.30]",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Co 11.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_9"
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 30,
+          "versiculo_final": 30,
+          "rotulo": "Fp 2.30",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_30"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "renovastes"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 11,
+      "marcador": "a",
+      "texto_impresso": "1Tm 6.6, 8; [2Co 9.8; Hb 13.5]",
+      "destinos": [
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 6,
+          "versiculo_final": 6,
+          "rotulo": "1Tm 6.6",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_6_v_6"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "1Tm 6.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_6_v_8"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 9,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "2Co 9.8",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_9_v_8"
+        },
+        {
+          "livro": "Hb",
+          "capitulo": 13,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Hb 13.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_13_v_5"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "contente"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 12,
+      "marcador": "b",
+      "texto_impresso": "1Co 4.11; 2Co 11.27",
+      "destinos": [
+        {
+          "livro": "1Co",
+          "capitulo": 4,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "1Co 4.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_46_1Co.xhtml#cap_4_v_11"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 27,
+          "versiculo_final": 27,
+          "rotulo": "2Co 11.27",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_27"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "fome"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 12,
+      "marcador": "c",
+      "texto_impresso": "2Co 11.9",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Co 11.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_9"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "escassez"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 13,
+      "marcador": "d",
+      "texto_impresso": "[2Co 12.9]; ver Ef 3.16; 1Tm 1.12",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 12,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Co 12.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_12_v_9"
+        },
+        {
+          "livro": "Ef",
+          "capitulo": 3,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "ver Ef 3.16",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_49_Ef.xhtml#cap_3_v_16"
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 12,
+          "versiculo_final": 12,
+          "rotulo": "1Tm 1.12",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_54_1Tm.xhtml#cap_1_v_12"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "naquele que me fortalece"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 14,
+      "marcador": "e",
+      "texto_impresso": "[cap. 1.7; Ap 1.9]",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 7,
+          "versiculo_final": 7,
+          "rotulo": "Fp 1.7",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_7"
+        },
+        {
+          "livro": "Ap",
+          "capitulo": 1,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "Ap 1.9",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_66_Ap.xhtml#cap_1_v_9"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "associando-vos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 15,
+      "marcador": "f",
+      "texto_impresso": "cap. 1.5",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Fp 1.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_1_v_5"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "no início do evangelho"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 15,
+      "marcador": "g",
+      "texto_impresso": "2Co 11.8, 9",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "2Co 11.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_8"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 11,
+          "versiculo": 9,
+          "versiculo_final": 9,
+          "rotulo": "2Co 11.9",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_11_v_9"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "nenhuma igreja"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 17,
+      "marcador": "h",
+      "texto_impresso": "[2Co 9.5]",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 9,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "2Co 9.5",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_9_v_5"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "Não que eu procure"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 17,
+      "marcador": "i",
+      "texto_impresso": "Rm 1.13; [Tt 3.14]",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 1,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "Rm 1.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_45_Rm.xhtml#cap_1_v_13"
+        },
+        {
+          "livro": "Tt",
+          "capitulo": 3,
+          "versiculo": 14,
+          "versiculo_final": 14,
+          "rotulo": "Tt 3.14",
+          "entre_colchetes": true,
+          "indicacao_ver": false,
+          "href": "livro_56_Tt.xhtml#cap_3_v_14"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "fruto"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 18,
+      "marcador": "j",
+      "texto_impresso": "cap. 2.25",
+      "destinos": [
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 25,
+          "versiculo_final": 25,
+          "rotulo": "Fp 2.25",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_50_Fp.xhtml#cap_2_v_25"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "Epafrodito"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 18,
+      "marcador": "k",
+      "texto_impresso": "ver Gn 8.21",
+      "destinos": [
+        {
+          "livro": "Gn",
+          "capitulo": 8,
+          "versiculo": 21,
+          "versiculo_final": 21,
+          "rotulo": "ver Gn 8.21",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_01_Gn.xhtml#cap_8_v_21"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "aroma suave"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 18,
+      "marcador": "l",
+      "texto_impresso": "Hb 13.16",
+      "destinos": [
+        {
+          "livro": "Hb",
+          "capitulo": 13,
+          "versiculo": 16,
+          "versiculo_final": 16,
+          "rotulo": "Hb 13.16",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_58_Hb.xhtml#cap_13_v_16"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "sacrifício"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 19,
+      "marcador": "m",
+      "texto_impresso": "ver Rm 2.4",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 2,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "ver Rm 2.4",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_2_v_4"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "segundo a sua riqueza"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 19,
+      "marcador": "n",
+      "texto_impresso": "Sl 23.1; 2Co 9.8",
+      "destinos": [
+        {
+          "livro": "Sl",
+          "capitulo": 23,
+          "versiculo": 1,
+          "versiculo_final": 1,
+          "rotulo": "Sl 23.1",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_19_Sl.xhtml#cap_23_v_1"
+        },
+        {
+          "livro": "2Co",
+          "capitulo": 9,
+          "versiculo": 8,
+          "versiculo_final": 8,
+          "rotulo": "2Co 9.8",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_9_v_8"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "há de suprir",
+        "cada uma de vossas necessidades"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 20,
+      "marcador": "o",
+      "texto_impresso": "Gl 1.4; 1Ts 1.3; 3.11, 13",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 1,
+          "versiculo": 4,
+          "versiculo_final": 4,
+          "rotulo": "Gl 1.4",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_1_v_4"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 1,
+          "versiculo": 3,
+          "versiculo_final": 3,
+          "rotulo": "1Ts 1.3",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_1_v_3"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 11,
+          "versiculo_final": 11,
+          "rotulo": "1Ts 3.11",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_11"
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "1Ts 3.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_52_1Ts.xhtml#cap_3_v_13"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "nosso Deus e Pai"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 20,
+      "marcador": "p",
+      "texto_impresso": "Gl 1.5; ver Rm 11.36",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 1,
+          "versiculo": 5,
+          "versiculo_final": 5,
+          "rotulo": "Gl 1.5",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_1_v_5"
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 11,
+          "versiculo": 36,
+          "versiculo_final": 36,
+          "rotulo": "ver Rm 11.36",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_11_v_36"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "glória"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 21,
+      "marcador": "q",
+      "texto_impresso": "Gl 1.2",
+      "destinos": [
+        {
+          "livro": "Gl",
+          "capitulo": 1,
+          "versiculo": 2,
+          "versiculo_final": 2,
+          "rotulo": "Gl 1.2",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_48_Gl.xhtml#cap_1_v_2"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "Os irmãos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 22,
+      "marcador": "r",
+      "texto_impresso": "2Co 13.13",
+      "destinos": [
+        {
+          "livro": "2Co",
+          "capitulo": 13,
+          "versiculo": 13,
+          "versiculo_final": 13,
+          "rotulo": "2Co 13.13",
+          "entre_colchetes": false,
+          "indicacao_ver": false,
+          "href": "livro_47_2Co.xhtml#cap_13_v_13"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "Todos os santos"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    },
+    {
+      "capitulo_origem": 4,
+      "versiculo_origem": 23,
+      "marcador": "s",
+      "texto_impresso": "ver Rm 16.20",
+      "destinos": [
+        {
+          "livro": "Rm",
+          "capitulo": 16,
+          "versiculo": 20,
+          "versiculo_final": 20,
+          "rotulo": "ver Rm 16.20",
+          "entre_colchetes": false,
+          "indicacao_ver": true,
+          "href": "livro_45_Rm.xhtml#cap_16_v_20"
+        }
+      ],
+      "pagina_impressa": 2116,
+      "ancoras": [
+        "A graça"
+      ],
+      "estado_editorial": "cotejo_visual_v1"
+    }
+  ]
+}

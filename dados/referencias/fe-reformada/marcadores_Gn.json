@@ -1,0 +1,423 @@
+{
+  "schema": "letras-correlatas-inline-v1",
+  "livro": "Gn",
+  "fonte": "Bíblia de Estudo da Fé Reformada — Gn",
+  "descricao": "Letras com posição e destinos conferidos nas páginas PDF 1–7. Não altera a redação bíblica.",
+  "cobertura": "Gênesis 1–2 (Gênesis 3–50 ainda requer classificação das margens)",
+  "marcadores": [
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "criou Deus",
+      "pagina_pdf": 1,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 12
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "b",
+      "antes_de": "sem forma e vazia",
+      "pagina_pdf": 1,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "c",
+      "antes_de": "Haja luz",
+      "pagina_pdf": 1,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "d",
+      "antes_de": "Haja firmamento",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 4
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "e",
+      "antes_de": "separação entre as águas",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "f",
+      "antes_de": "sobre o firmamento",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "g",
+      "antes_de": "Ajuntem-se as águas",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 5
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "h",
+      "antes_de": "Produza a terra relva",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "i",
+      "antes_de": "sinais",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 7
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "j",
+      "antes_de": "estações",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 16,
+      "letra": "k",
+      "antes_de": "Fez Deus os dois grandes luzeiros",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 18,
+      "letra": "l",
+      "antes_de": "governarem o dia",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 21,
+      "letra": "m",
+      "antes_de": "Criou, pois, Deus os grandes animais",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 22,
+      "letra": "n",
+      "antes_de": "Sede fecundos",
+      "pagina_pdf": 2,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 26,
+      "letra": "o",
+      "antes_de": "Façamos o homem",
+      "pagina_pdf": 3,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 3
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 26,
+      "letra": "p",
+      "antes_de": "conforme a nossa semelhança",
+      "pagina_pdf": 3,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 6
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 26,
+      "letra": "q",
+      "antes_de": "tenha ele domínio",
+      "pagina_pdf": 3,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 3
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 27,
+      "letra": "r",
+      "antes_de": "homem e mulher os criou",
+      "pagina_pdf": 3,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 5
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 28,
+      "letra": "s",
+      "antes_de": "Sede fecundos",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 29,
+      "letra": "t",
+      "antes_de": "isso vos será para mantimento",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 3
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 30,
+      "letra": "u",
+      "antes_de": "toda erva verde",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 31,
+      "letra": "v",
+      "antes_de": "Viu Deus tudo quanto fizera",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 1,
+      "letra": "w",
+      "antes_de": "todo o seu exército",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "x",
+      "antes_de": "havendo Deus terminado",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 4
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "y",
+      "antes_de": "Esta é a gênese",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "z",
+      "antes_de": "Não havia ainda nenhuma planta",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "a",
+      "antes_de": "não havia homem",
+      "pagina_pdf": 4,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "b",
+      "antes_de": "pó da terra",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 6
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "c",
+      "antes_de": "lhe soprou nas narinas",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 3
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "d",
+      "antes_de": "narinas o fôlego de vida",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "e",
+      "antes_de": "o homem passou a ser alma vivente",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "f",
+      "antes_de": "um jardim no Éden",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 5
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "g",
+      "antes_de": "a árvore da vida",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 3
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "h",
+      "antes_de": "a árvore do conhecimento",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 11,
+      "letra": "i",
+      "antes_de": "Havilá",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 4
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "j",
+      "antes_de": "Tigre",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 15,
+      "letra": "k",
+      "antes_de": "o colocou no jardim",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "l",
+      "antes_de": "da árvore do conhecimento",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 3
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "m",
+      "antes_de": "certamente morrerás",
+      "pagina_pdf": 5,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "n",
+      "antes_de": "far-lhe-ei uma auxiliadora",
+      "pagina_pdf": 6,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "o",
+      "antes_de": "formado da terra",
+      "pagina_pdf": 6,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "p",
+      "antes_de": "trouxe-os ao homem",
+      "pagina_pdf": 6,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 21,
+      "letra": "q",
+      "antes_de": "pesado sono",
+      "pagina_pdf": 6,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 2
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 23,
+      "letra": "r",
+      "antes_de": "osso dos meus ossos",
+      "pagina_pdf": 6,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 5
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 23,
+      "letra": "s",
+      "antes_de": "do varão foi tomada",
+      "pagina_pdf": 6,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 1
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 24,
+      "letra": "t",
+      "antes_de": "Por isso, deixa o homem pai e mãe",
+      "pagina_pdf": 7,
+      "revisao": "conferencia_visual_pdf_2026_11_24",
+      "destinos_validados": 4
+    }
+  ]
+}

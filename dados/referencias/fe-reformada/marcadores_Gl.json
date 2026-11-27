@@ -1,0 +1,2060 @@
+{
+  "schema": "letras-correlatas-inline-v1",
+  "livro": "Gl",
+  "fonte": "Bíblia de Estudo da Fé Reformada",
+  "pagina_impressa": [
+    2074,
+    2084
+  ],
+  "descricao": "Cotejo visual V1 das 11 páginas; pendências específicas no relatório; referências antigas preservadas.",
+  "marcadores": [
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "apóstolo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "b",
+      "antes_de": "não da parte",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "c",
+      "antes_de": "por Jesus Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "d",
+      "antes_de": "que o ressuscitou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "e",
+      "antes_de": "irmãos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 2,
+      "letra": "f",
+      "antes_de": "igrejas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "g",
+      "antes_de": "graça",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "h",
+      "antes_de": "da parte de Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "i",
+      "antes_de": "o qual",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "j",
+      "antes_de": "mundo perverso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "k",
+      "antes_de": "nosso Deus e Pai",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "l",
+      "antes_de": "tão depressa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "m",
+      "antes_de": "daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "n",
+      "antes_de": "outro evangelho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "o",
+      "antes_de": "o qual",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "p",
+      "antes_de": "que há alguns",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "q",
+      "antes_de": "um anjo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "r",
+      "antes_de": "seja anátema",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "r",
+      "antes_de": "seja anátema",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 10,
+      "letra": "s",
+      "antes_de": "agradar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 10,
+      "letra": "t",
+      "antes_de": "servo de Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "u",
+      "antes_de": "Faço-vos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "v",
+      "antes_de": "o evangelho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "w",
+      "antes_de": "porque",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "x",
+      "antes_de": "mediante revelação",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "y",
+      "antes_de": "meu proceder",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "z",
+      "antes_de": "sobremaneira",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2074
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "a",
+      "antes_de": "zeloso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "b",
+      "antes_de": "tradições",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "c",
+      "antes_de": "ao que me separou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "d",
+      "antes_de": "antes de eu nascer",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "e",
+      "antes_de": "me chamou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 16,
+      "letra": "f",
+      "antes_de": "para que",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 18,
+      "letra": "g",
+      "antes_de": "Decorridos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 19,
+      "letra": "h",
+      "antes_de": "irmão do Senhor",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 20,
+      "letra": "i",
+      "antes_de": "diante de Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 21,
+      "letra": "j",
+      "antes_de": "Depois",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 22,
+      "letra": "k",
+      "antes_de": "igrejas da Judeia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "l",
+      "antes_de": "prego",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "m",
+      "antes_de": "que pareciam",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "n",
+      "antes_de": "para, de algum modo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2075
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "o",
+      "antes_de": "corrido em vão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "p",
+      "antes_de": "foi constrangido",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "q",
+      "antes_de": "E isto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "r",
+      "antes_de": "entremeteram",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "s",
+      "antes_de": "nossa liberdade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "t",
+      "antes_de": "reduzir-nos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "u",
+      "antes_de": "verdade do evangelho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "v",
+      "antes_de": "que pareciam ser de maior influência",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "w",
+      "antes_de": "Deus não aceita",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "x",
+      "antes_de": "nada me acrescentaram",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "y",
+      "antes_de": "evangelho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "z",
+      "antes_de": "me fora confiado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "v",
+      "antes_de": "eram reputados",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "a",
+      "antes_de": "graça",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "b",
+      "antes_de": "colunas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "c",
+      "antes_de": "estenderam",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 10,
+      "letra": "d",
+      "antes_de": "o que também",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 11,
+      "letra": "e",
+      "antes_de": "Quando",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 11,
+      "letra": "f",
+      "antes_de": "face a face",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 12,
+      "letra": "g",
+      "antes_de": "comia com os gentios",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 12,
+      "letra": "h",
+      "antes_de": "os da circuncisão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2076
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "i",
+      "antes_de": "não procediam",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "j",
+      "antes_de": "verdade do evangelho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "k",
+      "antes_de": "na presença de todos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "l",
+      "antes_de": "vives como gentio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 15,
+      "letra": "m",
+      "antes_de": "pecadores",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "n",
+      "antes_de": "o homem não é justificado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "o",
+      "antes_de": "e sim mediante",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "p",
+      "antes_de": "pois, por obras da lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "q",
+      "antes_de": "pecadores",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "r",
+      "antes_de": "morri para a lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "s",
+      "antes_de": "viver para Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "t",
+      "antes_de": "crucificado com Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 20,
+      "letra": "u",
+      "antes_de": "em mim",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 20,
+      "letra": "v",
+      "antes_de": "que me amou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 20,
+      "letra": "w",
+      "antes_de": "a si mesmo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 21,
+      "letra": "x",
+      "antes_de": "se a justiça",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 21,
+      "letra": "y",
+      "antes_de": "segue-se",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 1,
+      "letra": "z",
+      "antes_de": "ante cujos olhos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "exposto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "b",
+      "antes_de": "recebestes o Espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 2,
+      "letra": "c",
+      "antes_de": "pregação da fé",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 3,
+      "letra": "d",
+      "antes_de": "tendo começado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 4,
+      "letra": "e",
+      "antes_de": "Terá sido",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "f",
+      "antes_de": "opera milagres",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 5,
+      "letra": "g",
+      "antes_de": "pelas obras da lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2077
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 6,
+      "letra": "h",
+      "antes_de": "Abraão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 7,
+      "letra": "i",
+      "antes_de": "os da fé",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 7,
+      "letra": "j",
+      "antes_de": "filhos de Abraão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "k",
+      "antes_de": "Deus justificaria",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 8,
+      "letra": "l",
+      "antes_de": "Em ti",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "m",
+      "antes_de": "debaixo de maldição",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "n",
+      "antes_de": "Maldito todo aquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 10,
+      "letra": "o",
+      "antes_de": "permanece",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 11,
+      "letra": "p",
+      "antes_de": "pela lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 11,
+      "letra": "q",
+      "antes_de": "o justo viverá",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 12,
+      "letra": "r",
+      "antes_de": "Aquele que observar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 13,
+      "letra": "s",
+      "antes_de": "nos resgatou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 13,
+      "letra": "t",
+      "antes_de": "Maldito todo aquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 13,
+      "letra": "u",
+      "antes_de": "em madeiro",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 14,
+      "letra": "v",
+      "antes_de": "chegasse aos gentios",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 14,
+      "letra": "w",
+      "antes_de": "a fim de que",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 14,
+      "letra": "x",
+      "antes_de": "Espírito prometido",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2078
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 15,
+      "letra": "y",
+      "antes_de": "falo como homem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 15,
+      "letra": "z",
+      "antes_de": "Ainda que uma aliança",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "a",
+      "antes_de": "as promessas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "b",
+      "antes_de": "a Abraão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 16,
+      "letra": "c",
+      "antes_de": "E ao teu descendente",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 17,
+      "letra": "d",
+      "antes_de": "quatrocentos e trinta anos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 17,
+      "letra": "e",
+      "antes_de": "desfazer a promessa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 18,
+      "letra": "f",
+      "antes_de": "pela promessa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "g",
+      "antes_de": "Foi adicionada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "h",
+      "antes_de": "até que viesse",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "i",
+      "antes_de": "promulgada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 19,
+      "letra": "j",
+      "antes_de": "pela mão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 20,
+      "letra": "k",
+      "antes_de": "o mediador",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 20,
+      "letra": "l",
+      "antes_de": "Deus é um",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 21,
+      "letra": "m",
+      "antes_de": "se fosse promulgada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 22,
+      "letra": "n",
+      "antes_de": "encerrou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 22,
+      "letra": "o",
+      "antes_de": "mediante a fé",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 22,
+      "letra": "p",
+      "antes_de": "aos que creem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 23,
+      "letra": "q",
+      "antes_de": "encerrados",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 24,
+      "letra": "r",
+      "antes_de": "a lei nos serviu",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 24,
+      "letra": "s",
+      "antes_de": "aio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 24,
+      "letra": "t",
+      "antes_de": "a fim de que",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 26,
+      "letra": "u",
+      "antes_de": "todos vós sois filhos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 27,
+      "letra": "v",
+      "antes_de": "fostes batizados",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 27,
+      "letra": "w",
+      "antes_de": "em Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 27,
+      "letra": "x",
+      "antes_de": "de Cristo vos revestistes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 28,
+      "letra": "y",
+      "antes_de": "não pode haver",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 28,
+      "letra": "z",
+      "antes_de": "nem homem nem mulher",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 29,
+      "letra": "a",
+      "antes_de": "se sois de Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 3,
+      "versiculo": 29,
+      "letra": "b",
+      "antes_de": "segundo a promessa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2079
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 3,
+      "letra": "c",
+      "antes_de": "estávamos servilmente",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "vindo, porém, a plenitude",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 4,
+      "letra": "e",
+      "antes_de": "nascido de mulher",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 4,
+      "letra": "f",
+      "antes_de": "de mulher",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 4,
+      "letra": "g",
+      "antes_de": "sob a lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 5,
+      "letra": "h",
+      "antes_de": "para resgatar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 5,
+      "letra": "i",
+      "antes_de": "adoção",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 6,
+      "letra": "j",
+      "antes_de": "o Espírito de seu Filho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 7,
+      "letra": "k",
+      "antes_de": "herdeiro",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "l",
+      "antes_de": "não conhecendo a Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "m",
+      "antes_de": "servíeis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 8,
+      "letra": "n",
+      "antes_de": "não o são",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 9,
+      "letra": "o",
+      "antes_de": "sendo conhecidos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 9,
+      "letra": "p",
+      "antes_de": "como estais voltando",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 9,
+      "letra": "q",
+      "antes_de": "fracos e pobres",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 10,
+      "letra": "r",
+      "antes_de": "Guardais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 11,
+      "letra": "s",
+      "antes_de": "tenha eu trabalhado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 12,
+      "letra": "t",
+      "antes_de": "vos suplico",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 12,
+      "letra": "u",
+      "antes_de": "Em nada me ofendestes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 13,
+      "letra": "v",
+      "antes_de": "primeira vez",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 13,
+      "letra": "w",
+      "antes_de": "por causa de uma enfermidade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2080
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 14,
+      "letra": "x",
+      "antes_de": "anjo de Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 14,
+      "letra": "y",
+      "antes_de": "como o próprio Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 16,
+      "letra": "z",
+      "antes_de": "vos dizer a verdade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 18,
+      "letra": "a",
+      "antes_de": "não apenas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 19,
+      "letra": "b",
+      "antes_de": "meus filhos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 19,
+      "letra": "c",
+      "antes_de": "por quem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 19,
+      "letra": "d",
+      "antes_de": "ser Cristo formado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 22,
+      "letra": "e",
+      "antes_de": "um da mulher escrava",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 22,
+      "letra": "f",
+      "antes_de": "outro da livre",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 23,
+      "letra": "g",
+      "antes_de": "o da escrava",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 23,
+      "letra": "h",
+      "antes_de": "o da livre",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 24,
+      "letra": "i",
+      "antes_de": "alianças",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 26,
+      "letra": "k",
+      "antes_de": "Jerusalém lá de cima",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 27,
+      "letra": "l",
+      "antes_de": "Alegra-te",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2081
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 28,
+      "letra": "m",
+      "antes_de": "sois filhos da promessa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 28,
+      "letra": "n",
+      "antes_de": "como Isaque",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 29,
+      "letra": "o",
+      "antes_de": "perseguia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 29,
+      "letra": "p",
+      "antes_de": "assim também",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 30,
+      "letra": "q",
+      "antes_de": "Lança fora",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 4,
+      "versiculo": 31,
+      "letra": "r",
+      "antes_de": "da livre",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 1,
+      "letra": "s",
+      "antes_de": "liberdade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 1,
+      "letra": "t",
+      "antes_de": "nos libertou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 1,
+      "letra": "u",
+      "antes_de": "Permanecei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 1,
+      "letra": "v",
+      "antes_de": "jugo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 1,
+      "letra": "w",
+      "antes_de": "escravidão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 2,
+      "letra": "x",
+      "antes_de": "se vos deixardes circuncidar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 2,
+      "letra": "y",
+      "antes_de": "Cristo de nada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 3,
+      "letra": "z",
+      "antes_de": "está obrigado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 4,
+      "letra": "a",
+      "antes_de": "De Cristo vos desligastes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 4,
+      "letra": "b",
+      "antes_de": "vós que procurais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 4,
+      "letra": "c",
+      "antes_de": "da graça decaístes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 5,
+      "letra": "d",
+      "antes_de": "aguardamos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 6,
+      "letra": "e",
+      "antes_de": "nem a circuncisão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 6,
+      "letra": "f",
+      "antes_de": "a fé que atua",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 7,
+      "letra": "g",
+      "antes_de": "Vós corríeis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 7,
+      "letra": "h",
+      "antes_de": "verdade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 8,
+      "letra": "i",
+      "antes_de": "daquele",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 9,
+      "letra": "j",
+      "antes_de": "Um pouco de fermento",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 10,
+      "letra": "k",
+      "antes_de": "Confio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 10,
+      "letra": "l",
+      "antes_de": "não alimentareis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 10,
+      "letra": "m",
+      "antes_de": "aquele que vos perturba",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 11,
+      "letra": "n",
+      "antes_de": "por que continuo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 11,
+      "letra": "o",
+      "antes_de": "está desfeito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 12,
+      "letra": "p",
+      "antes_de": "os que vos incitam",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 13,
+      "letra": "q",
+      "antes_de": "não useis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 13,
+      "letra": "r",
+      "antes_de": "servos uns dos outros",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 14,
+      "letra": "s",
+      "antes_de": "toda a lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 14,
+      "letra": "t",
+      "antes_de": "Amarás",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 15,
+      "letra": "u",
+      "antes_de": "vos mordeis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2082
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 16,
+      "letra": "v",
+      "antes_de": "andai no Espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 16,
+      "letra": "w",
+      "antes_de": "concupiscência da carne",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 17,
+      "letra": "x",
+      "antes_de": "a carne milita",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 17,
+      "letra": "y",
+      "antes_de": "para que não façais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 18,
+      "letra": "z",
+      "antes_de": "guiados pelo Espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 18,
+      "letra": "a",
+      "antes_de": "não estais sob a lei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 19,
+      "letra": "b",
+      "antes_de": "obras da carne",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 20,
+      "letra": "c",
+      "antes_de": "facções",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 21,
+      "letra": "d",
+      "antes_de": "não herdarão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 22,
+      "letra": "e",
+      "antes_de": "o fruto do Espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 22,
+      "letra": "f",
+      "antes_de": "amor",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 22,
+      "letra": "g",
+      "antes_de": "benignidade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 23,
+      "letra": "h",
+      "antes_de": "mansidão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 23,
+      "letra": "i",
+      "antes_de": "domínio próprio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 23,
+      "letra": "j",
+      "antes_de": "Contra estas coisas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 24,
+      "letra": "k",
+      "antes_de": "crucificaram",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 24,
+      "letra": "l",
+      "antes_de": "paixões",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 25,
+      "letra": "m",
+      "antes_de": "andemos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 5,
+      "versiculo": 26,
+      "letra": "n",
+      "antes_de": "Não nos deixemos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 1,
+      "letra": "o",
+      "antes_de": "se alguém for surpreendido",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 1,
+      "letra": "p",
+      "antes_de": "vós, que sois espirituais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 1,
+      "letra": "q",
+      "antes_de": "espírito de brandura",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 2,
+      "letra": "r",
+      "antes_de": "Levai",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 2,
+      "letra": "s",
+      "antes_de": "assim",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 2,
+      "letra": "t",
+      "antes_de": "lei de Cristo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 3,
+      "letra": "u",
+      "antes_de": "se alguém julga",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 3,
+      "letra": "v",
+      "antes_de": "não sendo nada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 4,
+      "letra": "w",
+      "antes_de": "prove cada um",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 5,
+      "letra": "x",
+      "antes_de": "cada um levará",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2083
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 6,
+      "letra": "y",
+      "antes_de": "aquele que está sendo instruído",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 7,
+      "letra": "z",
+      "antes_de": "Não vos enganeis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 7,
+      "letra": "a",
+      "antes_de": "aquilo que o homem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 8,
+      "letra": "b",
+      "antes_de": "o que semeia para a sua própria carne",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 8,
+      "letra": "c",
+      "antes_de": "da carne colherá corrupção",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 8,
+      "letra": "d",
+      "antes_de": "o que semeia para o Espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 9,
+      "letra": "e",
+      "antes_de": "não nos cansemos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 9,
+      "letra": "f",
+      "antes_de": "se não desfalecermos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 10,
+      "letra": "g",
+      "antes_de": "enquanto tivermos oportunidade",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 10,
+      "letra": "h",
+      "antes_de": "façamos o bem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 10,
+      "letra": "i",
+      "antes_de": "da família da fé",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 11,
+      "letra": "j",
+      "antes_de": "meu próprio punho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 12,
+      "letra": "k",
+      "antes_de": "Todos os que querem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 12,
+      "letra": "l",
+      "antes_de": "esses vos constrangem",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 12,
+      "letra": "m",
+      "antes_de": "para não serem perseguidos",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 14,
+      "letra": "n",
+      "antes_de": "senão na cruz",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 14,
+      "letra": "o",
+      "antes_de": "está crucificado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 15,
+      "letra": "p",
+      "antes_de": "nem a circuncisão",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 15,
+      "letra": "q",
+      "antes_de": "nova criatura",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 16,
+      "letra": "r",
+      "antes_de": "paz",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 16,
+      "letra": "s",
+      "antes_de": "Israel de Deus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 18,
+      "letra": "t",
+      "antes_de": "A graça",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    },
+    {
+      "capitulo": 6,
+      "versiculo": 18,
+      "letra": "u",
+      "antes_de": "com o vosso espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 2084
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "schema": "letras-correlatas-inline-v1",
+  "livro": "Ag",
+  "fonte": "Bíblia de Estudo da Fé Reformada",
+  "pagina_impressa": [
+    1622,
+    1625
+  ],
+  "marcadores": [
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "No segundo ano",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "b",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "c",
+      "antes_de": "Salatiel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "d",
+      "antes_de": "Josué",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "e",
+      "antes_de": "Jozadaque",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "f",
+      "antes_de": "por intermédio",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "g",
+      "antes_de": "Acaso",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "h",
+      "antes_de": "esta casa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "i",
+      "antes_de": "Considerai",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "j",
+      "antes_de": "Tendes semeado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "k",
+      "antes_de": "comeis",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "m",
+      "antes_de": "dela me agradarei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 8,
+      "letra": "n",
+      "antes_de": "serei glorificado",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "j",
+      "antes_de": "Esperastes",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 9,
+      "letra": "o",
+      "antes_de": "eu com um assopro",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 10,
+      "letra": "p",
+      "antes_de": "os céus",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "q",
+      "antes_de": "Fiz vir a seca",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "r",
+      "antes_de": "cereal",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "s",
+      "antes_de": "sobre todo trabalho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1622
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "t",
+      "antes_de": "Então",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "u",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "u",
+      "antes_de": "Josué",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "v",
+      "antes_de": "resto do povo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "w",
+      "antes_de": "Eu sou convosco",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "x",
+      "antes_de": "O SENHOR despertou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "u",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "y",
+      "antes_de": "Josué",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "z",
+      "antes_de": "resto de todo o povo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 14,
+      "letra": "a",
+      "antes_de": "se puseram ao trabalho",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "b",
+      "antes_de": "ao vigésimo quarto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 1,
+      "letra": "c",
+      "antes_de": "no sétimo mês",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "d",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 2,
+      "letra": "d",
+      "antes_de": "Josué",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "e",
+      "antes_de": "Quem dentre vós",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "f",
+      "antes_de": "na sua primeira glória",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 3,
+      "letra": "g",
+      "antes_de": "Não é ela",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "h",
+      "antes_de": "sê forte, Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "h",
+      "antes_de": "sê forte, Josué",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "Josué",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "h",
+      "antes_de": "sê forte, diz",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "i",
+      "antes_de": "trabalhai",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 4,
+      "letra": "j",
+      "antes_de": "eu sou convosco",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "k",
+      "antes_de": "segundo a palavra",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "l",
+      "antes_de": "o meu Espírito",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 5,
+      "letra": "m",
+      "antes_de": "não temais",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1623
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "n",
+      "antes_de": "Ainda uma vez",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 6,
+      "letra": "o",
+      "antes_de": "farei abalar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 7,
+      "letra": "p",
+      "antes_de": "encherei de glória",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 8,
+      "letra": "q",
+      "antes_de": "Minha é a prata",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "r",
+      "antes_de": "A glória desta última casa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 9,
+      "letra": "s",
+      "antes_de": "neste lugar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 10,
+      "letra": "t",
+      "antes_de": "Ao vigésimo quarto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 10,
+      "letra": "u",
+      "antes_de": "no segundo ano de Dario",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 11,
+      "letra": "v",
+      "antes_de": "Pergunta",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 12,
+      "letra": "w",
+      "antes_de": "carne santa",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 12,
+      "letra": "x",
+      "antes_de": "Não",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 13,
+      "letra": "y",
+      "antes_de": "Se alguém",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 13,
+      "letra": "z",
+      "antes_de": "tocar nalguma",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 14,
+      "letra": "a",
+      "antes_de": "Assim é este povo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 15,
+      "letra": "b",
+      "antes_de": "considerai tudo",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 16,
+      "letra": "c",
+      "antes_de": "alguém vinha",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "d",
+      "antes_de": "Eu vos feri",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 17,
+      "letra": "e",
+      "antes_de": "quem voltasse",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1624
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "b",
+      "antes_de": "Considerai",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "f",
+      "antes_de": "desde o vigésimo quarto",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "g",
+      "antes_de": "desde o dia em que se fundou",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 18,
+      "letra": "b",
+      "antes_de": "considerai nestas coisas",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "h",
+      "antes_de": "Já não há semente",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 19,
+      "letra": "i",
+      "antes_de": "vos abençoarei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 20,
+      "letra": "f",
+      "antes_de": "vigésimo quarto dia",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 21,
+      "letra": "j",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 21,
+      "letra": "k",
+      "antes_de": "Farei abalar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 22,
+      "letra": "l",
+      "antes_de": "derribarei",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 22,
+      "letra": "m",
+      "antes_de": "destruirei o carro",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 22,
+      "letra": "n",
+      "antes_de": "um pela espada",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 23,
+      "letra": "j",
+      "antes_de": "Zorobabel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 23,
+      "letra": "o",
+      "antes_de": "Salatiel",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 23,
+      "letra": "p",
+      "antes_de": "servo meu",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    },
+    {
+      "capitulo": 2,
+      "versiculo": 23,
+      "letra": "q",
+      "antes_de": "como um anel de selar",
+      "revisao": "cotejo_visual_v1",
+      "pagina_impressa": 1625
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schema": "letras-correlatas-inline-v1",
+  "livro": "3Jo",
+  "fonte": "Bíblia de Estudo da Fé Reformada",
+  "pagina_impressa": [
+    2285
+  ],
+  "descricao": "Letra sobrescrita colocada imediatamente antes da expressão indicada em antes_de, usando o texto ARA existente.",
+  "marcadores": [
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "a",
+      "antes_de": "O presbítero",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 1,
+      "letra": "b",
+      "antes_de": "a quem eu amo",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 3,
+      "letra": "c",
+      "antes_de": "Pois fiquei sobremodo alegre",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 4,
+      "letra": "d",
+      "antes_de": "meus filhos andam na verdade",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "e",
+      "antes_de": "os irmãos",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 5,
+      "letra": "f",
+      "antes_de": "estrangeiros",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 6,
+      "letra": "g",
+      "antes_de": "digno de Deus",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "h",
+      "antes_de": "do Nome",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 7,
+      "letra": "i",
+      "antes_de": "nada recebendo dos gentios",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "j",
+      "antes_de": "não imites o que é mau",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "k",
+      "antes_de": "Aquele que pratica o bem",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 11,
+      "letra": "l",
+      "antes_de": "aquele que pratica o mal",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "m",
+      "antes_de": "todos lhe dão testemunho",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 12,
+      "letra": "n",
+      "antes_de": "sabes que o nosso testemunho",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 13,
+      "letra": "o",
+      "antes_de": "Muitas coisas tinha que te escrever",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    },
+    {
+      "capitulo": 1,
+      "versiculo": 15,
+      "letra": "p",
+      "antes_de": "nome por nome",
+      "revisao": "conferido_visualmente_v1",
+      "pagina_impressa": 2285
+    }
+  ]
+}
