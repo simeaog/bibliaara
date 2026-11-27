@@ -1,0 +1,733 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Fm",
+  "titulo": "Filemom",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "122 - Filemom (Fm).pdf",
+    "paginas_pdf": [
+      1,
+      2
+    ],
+    "observacao": "Comentários cotejados visualmente; segunda leitura independente e teste funcional pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-fm-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "1 prisioneiro. Paulo sabe que pertence a Cristo,e",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "prisioneiro. Paulo sabe que pertence a Cristo, e que, se ele está na prisão, isso acontece por permissão de Cristo (Fp 1.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "prisioneiro. Paulo sabe que pertence a Cristo, e que, se ele está na prisão, isso acontece por permissão de Cristo (Fp 1.7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "prisioneiro.",
+          "texto": "Paulo sabe que pertence a Cristo, e que, se ele está na prisão, isso acontece por permissão de Cristo (Fp 1.7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "2 Afia... Arquipo. Provavelmente membros da",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Áfia... Arquipo. Provavelmente membros da família de Filemom, porque são mencionados em conjunto com a igreja. Visto que Paulo chama a Arquipo “nosso companheiro de lutas” (ver Fp 2.25) e instrui a igreja em Colossos a encorajá-lo a cumprir seu ministério (Cl 4.17), parece que Arquipo tinha responsabilidade de liderança na congregação que se reunia na casa de Filemom. Áfia pode ter sido a esposa de Filemom, alguém com importante responsabilidade na hospedagem, como fazia Ninfa por uma igreja doméstica em Laodiceia (Cl 4.15).\n\nem tua casa. Os cristãos primitivos se reuniam em casas (1Co 16.19; Cl 4.15).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Áfia... Arquipo. Provavelmente membros da família de Filemom, porque são mencionados em conjunto com a igreja. Visto que Paulo chama a Arquipo “nosso companheiro de lutas” (ver Fp 2.25) e instrui a igreja em Colossos a encorajá-lo a cumprir seu ministério (Cl 4.17), parece que Arquipo tinha responsabilidade de liderança na congregação que se reunia na casa de Filemom. Áfia pode ter sido a esposa de Filemom, alguém com importante responsabilidade na hospedagem, como fazia Ninfa por uma igreja doméstica em Laodiceia (Cl 4.15).",
+        "em tua casa. Os cristãos primitivos se reuniam em casas (1Co 16.19; Cl 4.15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Áfia... Arquipo.",
+          "texto": "Provavelmente membros da família de Filemom, porque são mencionados em conjunto com a igreja. Visto que Paulo chama a Arquipo “nosso companheiro de lutas” (ver Fp 2.25) e instrui a igreja em Colossos a encorajá-lo a cumprir seu ministério (Cl 4.17), parece que Arquipo tinha responsabilidade de liderança na congregação que se reunia na casa de Filemom. Áfia pode ter sido a esposa de Filemom, alguém com importante responsabilidade na hospedagem, como fazia Ninfa por uma igreja doméstica em Laodiceia (Cl 4.15)."
+        },
+        {
+          "titulo": "em tua casa.",
+          "texto": "Os cristãos primitivos se reuniam em casas (1Co 16.19; Cl 4.15)."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0003",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "6 se torne eficiente. Paulo vai sugerir uma boa",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "se torne eficiente. Paulo vai sugerir uma boa obra que demandará a generosidade de Filemom de maneira importante e visível.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "se torne eficiente. Paulo vai sugerir uma boa obra que demandará a generosidade de Filemom de maneira importante e visível."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "se torne eficiente.",
+          "texto": "Paulo vai sugerir uma boa obra que demandará a generosidade de Filemom de maneira importante e visível."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0004",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "7 o coragao dos santos. A palavra grega tra-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "o coração dos santos. A palavra grega traduzida como “coração” é usada também nos vv. 12 e 20 (cf. 2Co 7.15; Fp 1.8, em que a mesma palavra é traduzida por “entranhável afeto” e “terna misericórdia”). Enfatiza as emoções mais do que a palavra grega comum para “coração”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o coração dos santos. A palavra grega traduzida como “coração” é usada também nos vv. 12 e 20 (cf. 2Co 7.15; Fp 1.8, em que a mesma palavra é traduzida por “entranhável afeto” e “terna misericórdia”). Enfatiza as emoções mais do que a palavra grega comum para “coração”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o coração dos santos.",
+          "texto": "A palavra grega traduzida como “coração” é usada também nos vv. 12 e 20 (cf. 2Co 7.15; Fp 1.8, em que a mesma palavra é traduzida por “entranhável afeto” e “terna misericórdia”). Enfatiza as emoções mais do que a palavra grega comum para “coração”."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0005",
+      "referencia": "1.8,9",
+      "capitulo": 1,
+      "versiculos": [
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.8,9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "8, 9 ordenar... solicitar. Paulo tern autorida-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "ordenar... solicitar. Paulo tem autoridade apostólica para ordenar e fora instrumento na salvação de Filemom, por meio da pregação do evangelho (v. 19), mas decide não exercer pressão coercitiva. Em vez disso, ele oferece persuasão que levará Filemom a uma decisão espontânea, a fim de estender graça imerecida a um escravo fugitivo que o ofendera.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ordenar... solicitar. Paulo tem autoridade apostólica para ordenar e fora instrumento na salvação de Filemom, por meio da pregação do evangelho (v. 19), mas decide não exercer pressão coercitiva. Em vez disso, ele oferece persuasão que levará Filemom a uma decisão espontânea, a fim de estender graça imerecida a um escravo fugitivo que o ofendera."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ordenar... solicitar.",
+          "texto": "Paulo tem autoridade apostólica para ordenar e fora instrumento na salvação de Filemom, por meio da pregação do evangelho (v. 19), mas decide não exercer pressão coercitiva. Em vez disso, ele oferece persuasão que levará Filemom a uma decisão espontânea, a fim de estender graça imerecida a um escravo fugitivo que o ofendera."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0016",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "Lema impresso sem número próprio; associação pelo texto bíblico",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "o velho. Paulo apela por misericórdia, descrevendo a si mesmo como idoso e estando em prisão. Ele faz isso “em nome do amor”, e não em seu próprio nome.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o velho. Paulo apela por misericórdia, descrevendo a si mesmo como idoso e estando em prisão. Ele faz isso “em nome do amor”, e não em seu próprio nome."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o velho.",
+          "texto": "Paulo apela por misericórdia, descrevendo a si mesmo como idoso e estando em prisão. Ele faz isso “em nome do amor”, e não em seu próprio nome."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0006",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "10 meu filho Onesimo. Onesimo e filho espi -",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "meu filho Onésimo. Onésimo é filho espiritual de Paulo, porque fora convertido pelo ministério de Paulo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "meu filho Onésimo. Onésimo é filho espiritual de Paulo, porque fora convertido pelo ministério de Paulo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "meu filho Onésimo.",
+          "texto": "Onésimo é filho espiritual de Paulo, porque fora convertido pelo ministério de Paulo."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0007",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "11 inutil util. Paulo faz um jogo de palavras -",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "inútil... útil. Paulo faz um jogo de palavras — o nome de Onésimo significa “útil” ou “benéfico”. O trocadilho abranda o efeito em Filemom ao ter de ouvir sobre alguém que o prejudicara. Onésimo havia fugido e talvez até mesmo roubado algo de Filemom (v. 18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "inútil... útil. Paulo faz um jogo de palavras — o nome de Onésimo significa “útil” ou “benéfico”. O trocadilho abranda o efeito em Filemom ao ter de ouvir sobre alguém que o prejudicara. Onésimo havia fugido e talvez até mesmo roubado algo de Filemom (v. 18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "inútil... útil.",
+          "texto": "Paulo faz um jogo de palavras — o nome de Onésimo significa “útil” ou “benéfico”. O trocadilho abranda o efeito em Filemom ao ter de ouvir sobre alguém que o prejudicara. Onésimo havia fugido e talvez até mesmo roubado algo de Filemom (v. 18)."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0008",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "12 meu proprio coragao. A mesma palavra",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "meu próprio coração. A mesma palavra que expressava afeição profunda foi usada no v. 7, e Paulo a usará de novo no v. 20. Onésimo se tornara tão querido para Paulo, um filho espiritual gerado nas cadeias do apóstolo, que devolvê-lo a Filemom, em Colossos, soava a Paulo como partir o próprio âmago de sua vida emocional.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "meu próprio coração. A mesma palavra que expressava afeição profunda foi usada no v. 7, e Paulo a usará de novo no v. 20. Onésimo se tornara tão querido para Paulo, um filho espiritual gerado nas cadeias do apóstolo, que devolvê-lo a Filemom, em Colossos, soava a Paulo como partir o próprio âmago de sua vida emocional."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "meu próprio coração.",
+          "texto": "A mesma palavra que expressava afeição profunda foi usada no v. 7, e Paulo a usará de novo no v. 20. Onésimo se tornara tão querido para Paulo, um filho espiritual gerado nas cadeias do apóstolo, que devolvê-lo a Filemom, em Colossos, soava a Paulo como partir o próprio âmago de sua vida emocional."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0009",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "14 sem o teu consentimento. Em suas car-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "sem o teu consentimento. Em suas cartas, Paulo apela mais de uma vez ao princípio de que uma ação voluntária é mais valiosa do que uma ação constrangida externamente (1Co 9.16, 17; 2Co 9.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sem o teu consentimento. Em suas cartas, Paulo apela mais de uma vez ao princípio de que uma ação voluntária é mais valiosa do que uma ação constrangida externamente (1Co 9.16, 17; 2Co 9.7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sem o teu consentimento.",
+          "texto": "Em suas cartas, Paulo apela mais de uma vez ao princípio de que uma ação voluntária é mais valiosa do que uma ação constrangida externamente (1Co 9.16, 17; 2Co 9.7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0010",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "16 muito acima de escravo. Paulo nao esta",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "muito acima de escravo. Paulo não está fazendo apelo direto e público para que Filemom emancipe Onésimo da servidão, embora isso possa estar implícito. A expressão “muito acima” pode estar se referindo ao fato de Onésimo ser um “irmão caríssimo”, que Filemom poderia receber de volta “para sempre” (v. 15). A ênfase de Paulo é que Onésimo seja para Filemom não somente um escravo (“na carne”), mas também um irmão em Cristo (“no Senhor”); e ser esse irmão em Cristo é um status mais elevado do que ser um escravo. O status de “escravo” é, evidentemente, apenas temporário, visto que não dura “para sempre”, como o faz o status de “irmão caríssimo”. O evangelho transforma e enobrece toda a vida de uma pessoa (ainda que seja um escravo de classe inferior). Assim, por exemplo, quando um escravo se torna um cristão, especialmente sendo escravo de um senhor cristão, é transformado em um irmão em Cristo e deve ser tratado de acordo com isso. Ver Introdução: História de Interpretação e Assuntos Especiais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "muito acima de escravo. Paulo não está fazendo apelo direto e público para que Filemom emancipe Onésimo da servidão, embora isso possa estar implícito. A expressão “muito acima” pode estar se referindo ao fato de Onésimo ser um “irmão caríssimo”, que Filemom poderia receber de volta “para sempre” (v. 15). A ênfase de Paulo é que Onésimo seja para Filemom não somente um escravo (“na carne”), mas também um irmão em Cristo (“no Senhor”); e ser esse irmão em Cristo é um status mais elevado do que ser um escravo. O status de “escravo” é, evidentemente, apenas temporário, visto que não dura “para sempre”, como o faz o status de “irmão caríssimo”. O evangelho transforma e enobrece toda a vida de uma pessoa (ainda que seja um escravo de classe inferior). Assim, por exemplo, quando um escravo se torna um cristão, especialmente sendo escravo de um senhor cristão, é transformado em um irmão em Cristo e deve ser tratado de acordo com isso. Ver Introdução: História de Interpretação e Assuntos Especiais."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "muito acima de escravo.",
+          "texto": "Paulo não está fazendo apelo direto e público para que Filemom emancipe Onésimo da servidão, embora isso possa estar implícito. A expressão “muito acima” pode estar se referindo ao fato de Onésimo ser um “irmão caríssimo”, que Filemom poderia receber de volta “para sempre” (v. 15). A ênfase de Paulo é que Onésimo seja para Filemom não somente um escravo (“na carne”), mas também um irmão em Cristo (“no Senhor”); e ser esse irmão em Cristo é um status mais elevado do que ser um escravo. O status de “escravo” é, evidentemente, apenas temporário, visto que não dura “para sempre”, como o faz o status de “irmão caríssimo”. O evangelho transforma e enobrece toda a vida de uma pessoa (ainda que seja um escravo de classe inferior). Assim, por exemplo, quando um escravo se torna um cristão, especialmente sendo escravo de um senhor cristão, é transformado em um irmão em Cristo e deve ser tratado de acordo com isso. Ver Introdução: História de Interpretação e Assuntos Especiais."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0011",
+      "referencia": "1.17",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.17",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 2189,
+        "rotulo_original_ocr": "17 recebe- o, como se fosse a mim mesmo.",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "recebe-o, como se fosse a mim mesmo. Paulo está disposto a colocar sua amizade com Filemom na balança, para garantir que Filemom não recusará seu pedido em favor de Onésimo. Assim como Cristo, o impecável, foi feito “pecado” em favor de Paulo, para que este fosse recebido como justo pelo Pai (2Co 5.21), também Paulo pede a Filemom que impute ao indigno Onésimo a recepção que seria devida a ele próprio, atribuindo a Paulo quaisquer dívidas que Onésimo tenha para com Filemom (v. 18). A oferta de Paulo de pagar as dívidas de Onésimo (v. 18) é real, mas secundária em comparação ao apelo do apóstolo por reconciliação entre o senhor e o escravo, que, agora, são irmãos em Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "recebe-o, como se fosse a mim mesmo. Paulo está disposto a colocar sua amizade com Filemom na balança, para garantir que Filemom não recusará seu pedido em favor de Onésimo. Assim como Cristo, o impecável, foi feito “pecado” em favor de Paulo, para que este fosse recebido como justo pelo Pai (2Co 5.21), também Paulo pede a Filemom que impute ao indigno Onésimo a recepção que seria devida a ele próprio, atribuindo a Paulo quaisquer dívidas que Onésimo tenha para com Filemom (v. 18). A oferta de Paulo de pagar as dívidas de Onésimo (v. 18) é real, mas secundária em comparação ao apelo do apóstolo por reconciliação entre o senhor e o escravo, que, agora, são irmãos em Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "recebe-o, como se fosse a mim mesmo.",
+          "texto": "Paulo está disposto a colocar sua amizade com Filemom na balança, para garantir que Filemom não recusará seu pedido em favor de Onésimo. Assim como Cristo, o impecável, foi feito “pecado” em favor de Paulo, para que este fosse recebido como justo pelo Pai (2Co 5.21), também Paulo pede a Filemom que impute ao indigno Onésimo a recepção que seria devida a ele próprio, atribuindo a Paulo quaisquer dívidas que Onésimo tenha para com Filemom (v. 18). A oferta de Paulo de pagar as dívidas de Onésimo (v. 18) é real, mas secundária em comparação ao apelo do apóstolo por reconciliação entre o senhor e o escravo, que, agora, são irmãos em Cristo."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0012",
+      "referencia": "1.19",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "1.19",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2190,
+        "rotulo_original_ocr": "19 ate a ti mesmo. Isso significa que Filemom,",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "até a ti mesmo. Isso significa que Filemom, como Onésimo, devia sua fé cristã ao ministério de Paulo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "até a ti mesmo. Isso significa que Filemom, como Onésimo, devia sua fé cristã ao ministério de Paulo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "até a ti mesmo.",
+          "texto": "Isso significa que Filemom, como Onésimo, devia sua fé cristã ao ministério de Paulo."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0017",
+      "referencia": "1.20",
+      "capitulo": 1,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "1.20",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2190,
+        "rotulo_original_ocr": "Lema impresso sem número próprio; associação pelo texto bíblico",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Reanima-me o coração em Cristo. Anteriormente, Filemom proporcionara muito ânimo emocional a vários irmãos e a Paulo (v. 7). Agora, que Paulo identifica Onésimo com “meu coração” (v. 12), esse apelo inclui implicitamente um pedido para que Filemom estenda ao seu escravo o ânimo que ofereceria alegremente ao apóstolo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Reanima-me o coração em Cristo. Anteriormente, Filemom proporcionara muito ânimo emocional a vários irmãos e a Paulo (v. 7). Agora, que Paulo identifica Onésimo com “meu coração” (v. 12), esse apelo inclui implicitamente um pedido para que Filemom estenda ao seu escravo o ânimo que ofereceria alegremente ao apóstolo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Reanima-me o coração em Cristo.",
+          "texto": "Anteriormente, Filemom proporcionara muito ânimo emocional a vários irmãos e a Paulo (v. 7). Agora, que Paulo identifica Onésimo com “meu coração” (v. 12), esse apelo inclui implicitamente um pedido para que Filemom estenda ao seu escravo o ânimo que ofereceria alegremente ao apóstolo."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0013",
+      "referencia": "1.22",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "1.22",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2190,
+        "rotulo_original_ocr": "22 pousada. Paulo preve sua libertagao, que pa-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "pousada. Paulo prevê sua libertação, que parece ter acontecido (ver Fp 1.22-26; 2.19-24, notas). Não sabemos se ele foi realmente a Colossos.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 22
+        },
+        {
+          "livro": "Fp",
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pousada. Paulo prevê sua libertação, que parece ter acontecido (ver Fp 1.22-26; 2.19-24, notas). Não sabemos se ele foi realmente a Colossos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pousada.",
+          "texto": "Paulo prevê sua libertação, que parece ter acontecido (ver Fp 1.22-26; 2.19-24, notas). Não sabemos se ele foi realmente a Colossos."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0014",
+      "referencia": "1.23",
+      "capitulo": 1,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "1.23",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2190,
+        "rotulo_original_ocr": "23 Epafras. Urn natural de Colossos que evan-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Epafras. Um natural de Colossos que evangelizara a cidade (Cl 1.6-8) e que era, sem dúvida, bem conhecido de Filemom e da congregação que ele hospedava.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Epafras. Um natural de Colossos que evangelizara a cidade (Cl 1.6-8) e que era, sem dúvida, bem conhecido de Filemom e da congregação que ele hospedava."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Epafras.",
+          "texto": "Um natural de Colossos que evangelizara a cidade (Cl 1.6-8) e que era, sem dúvida, bem conhecido de Filemom e da congregação que ele hospedava."
+        }
+      ]
+    },
+    {
+      "id": "fr-fm-0015",
+      "referencia": "1.24",
+      "capitulo": 1,
+      "versiculos": [
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "1.24",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "122 - Filemom (Fm)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2190,
+        "rotulo_original_ocr": "24 Marcos, Aristarco, Demas e Lucas.",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Marcos, Aristarco, Demas e Lucas. Cooperadores de Paulo em seu aprisionamento, dos quais ele envia saudações no final da carta aos Colossenses. Ver Colossenses 4.10, 14, notas.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Cl",
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "livro": "Cl",
+          "capitulo": 4,
+          "versiculo": 14
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Marcos, Aristarco, Demas e Lucas. Cooperadores de Paulo em seu aprisionamento, dos quais ele envia saudações no final da carta aos Colossenses. Ver Colossenses 4.10, 14, notas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Marcos, Aristarco, Demas e Lucas.",
+          "texto": "Cooperadores de Paulo em seu aprisionamento, dos quais ele envia saudações no final da carta aos Colossenses. Ver Colossenses 4.10, 14, notas."
+        }
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

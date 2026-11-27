@@ -1,0 +1,2811 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Sf",
+  "titulo": "Sofonias",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "077 - Sofonias (Sf).pdf",
+    "paginas_pdf": [
+      1,
+      7
+    ],
+    "observacao": "Comentários cotejados nas sete páginas; margens e posições verificadas com pendências documentadas."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-sf-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.1 Ver Introdugao: Titulo e Autor; Data e Circuns-",
+        "texto_ocr_pre_normalizacao": "Ver Introdugao: Titulo e Autor; Data e Circunstancias. Palavra do SENHOR. A expressao se refere a revelagao recebida do Senhor e comunicada por meiodeumprofeta.",
+        "correcoes_literal_reversiveis": {
+          "Introdugao": 1,
+          "revelagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ver Introdução: Título e Autor; Data e Circunstâncias.\n\nPalavra do SENHOR. A expressão se refere à revelação recebida do Senhor e comunicada por meio de um profeta.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Ver Introdução: Título e Autor; Data e Circunstâncias."
+        },
+        {
+          "titulo": "Palavra do SENHOR.",
+          "texto": "A expressão se refere à revelação recebida do Senhor e comunicada por meio de um profeta."
+        }
+      ],
+      "paragrafos": [
+        "Ver Introdução: Título e Autor; Data e Circunstâncias.",
+        "Palavra do SENHOR. A expressão se refere à revelação recebida do Senhor e comunicada por meio de um profeta."
+      ]
+    },
+    {
+      "id": "fr-sf-0002",
+      "referencia": "1.2-6",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.2-6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.2-6 0 profetacomegacom um anuncio de julga-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O profeta começa com um anúncio de julgamento universal (vv. 2, 3) e rapidamente o particulariza contra Judá e Jerusalém (v. 4). Três pecados específicos são denunciados: idolatria (v. 4), sincretismo (v. 5) e indiferença religiosa (v. 6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O profeta começa com um anúncio de julgamento universal (vv. 2, 3) e rapidamente o particulariza contra Judá e Jerusalém (v. 4). Três pecados específicos são denunciados: idolatria (v. 4), sincretismo (v. 5) e indiferença religiosa (v. 6)."
+        }
+      ],
+      "paragrafos": [
+        "O profeta começa com um anúncio de julgamento universal (vv. 2, 3) e rapidamente o particulariza contra Judá e Jerusalém (v. 4). Três pecados específicos são denunciados: idolatria (v. 4), sincretismo (v. 5) e indiferença religiosa (v. 6)."
+      ]
+    },
+    {
+      "id": "fr-sf-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.3 Consumirei os homens e os animais.Cf",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Consumirei os homens e os animais. Cf. Mateus 13.41, 42. O julgamento vindouro é comparado ao julgamento do dilúvio de Gênesis pelo uso das expressões “os homens e os animais” e “as aves do céu” (cf. Gn 6.7; 7.23). Essa profecia será consumada no fim da história (2Pe 3.3-7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Consumirei os homens e os animais.",
+          "texto": "Cf. Mateus 13.41, 42. O julgamento vindouro é comparado ao julgamento do dilúvio de Gênesis pelo uso das expressões “os homens e os animais” e “as aves do céu” (cf. Gn 6.7; 7.23). Essa profecia será consumada no fim da história (2Pe 3.3-7)."
+        }
+      ],
+      "paragrafos": [
+        "Consumirei os homens e os animais. Cf. Mateus 13.41, 42. O julgamento vindouro é comparado ao julgamento do dilúvio de Gênesis pelo uso das expressões “os homens e os animais” e “as aves do céu” (cf. Gn 6.7; 7.23). Essa profecia será consumada no fim da história (2Pe 3.3-7)."
+      ]
+    },
+    {
+      "id": "fr-sf-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.4 Estenderei a mao. Essa expressao se refere",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Estenderei a mão. Essa expressão se refere ao poder de Deus lançado contra seus antagonistas (2.13; Êx 3.20; Dt 4.34; Is 5.25).\n\no resto de Baal. Tudo que resta do culto de Baal será destruído. Essa afirmação pode significar que uma renovação religiosa já estava em andamento nos dias de Sofonias e que o culto de Baal estava em declínio.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Estenderei a mão.",
+          "texto": "Essa expressão se refere ao poder de Deus lançado contra seus antagonistas (2.13; Êx 3.20; Dt 4.34; Is 5.25)."
+        },
+        {
+          "titulo": "o resto de Baal.",
+          "texto": "Tudo que resta do culto de Baal será destruído. Essa afirmação pode significar que uma renovação religiosa já estava em andamento nos dias de Sofonias e que o culto de Baal estava em declínio."
+        }
+      ],
+      "paragrafos": [
+        "Estenderei a mão. Essa expressão se refere ao poder de Deus lançado contra seus antagonistas (2.13; Êx 3.20; Dt 4.34; Is 5.25).",
+        "o resto de Baal. Tudo que resta do culto de Baal será destruído. Essa afirmação pode significar que uma renovação religiosa já estava em andamento nos dias de Sofonias e que o culto de Baal estava em declínio."
+      ]
+    },
+    {
+      "id": "fr-sf-0005",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.5 os que... adoram o exercito do ceu. A",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "os que... adoram o exército do céu. A expressão “exército do céu” é associada muitas vezes a Baal ou Aserá (2Rs 17.16; 21.3, 5; 23.4, 5; 2Cr 33.3, 5). O culto de Baal e o culto das estrelas eram pecados que haviam contribuído para o fim do reino do Norte, no século VIII a.C. (2Rs 17.16). Aparentemente, os altares eram erigidos nos eirados das casas (2Rs 23.12; Jr 19.13).\n\nMilcom. Ou “Moloque”. O culto desse deus amonita, que envolvia a horrível prática de sacrifício de crianças, era estritamente proibido (Lv 18.21, nota; 20.2-5; cf. 1Rs 11.5; 2Rs 23.10; Jr 32.35).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "os que... adoram o exército do céu.",
+          "texto": "A expressão “exército do céu” é associada muitas vezes a Baal ou Aserá (2Rs 17.16; 21.3, 5; 23.4, 5; 2Cr 33.3, 5). O culto de Baal e o culto das estrelas eram pecados que haviam contribuído para o fim do reino do Norte, no século VIII a.C. (2Rs 17.16). Aparentemente, os altares eram erigidos nos eirados das casas (2Rs 23.12; Jr 19.13)."
+        },
+        {
+          "titulo": "Milcom.",
+          "texto": "Ou “Moloque”. O culto desse deus amonita, que envolvia a horrível prática de sacrifício de crianças, era estritamente proibido (Lv 18.21, nota; 20.2-5; cf. 1Rs 11.5; 2Rs 23.10; Jr 32.35)."
+        }
+      ],
+      "paragrafos": [
+        "os que... adoram o exército do céu. A expressão “exército do céu” é associada muitas vezes a Baal ou Aserá (2Rs 17.16; 21.3, 5; 23.4, 5; 2Cr 33.3, 5). O culto de Baal e o culto das estrelas eram pecados que haviam contribuído para o fim do reino do Norte, no século VIII a.C. (2Rs 17.16). Aparentemente, os altares eram erigidos nos eirados das casas (2Rs 23.12; Jr 19.13).",
+        "Milcom. Ou “Moloque”. O culto desse deus amonita, que envolvia a horrível prática de sacrifício de crianças, era estritamente proibido (Lv 18.21, nota; 20.2-5; cf. 1Rs 11.5; 2Rs 23.10; Jr 32.35)."
+      ]
+    },
+    {
+      "id": "fr-sf-0006",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.6 buscam o SENHOR.Ver 2 3",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "buscam o SENHOR. Ver 2.3.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "buscam o SENHOR.",
+          "texto": "Ver 2.3."
+        }
+      ],
+      "paragrafos": [
+        "buscam o SENHOR. Ver 2.3."
+      ]
+    },
+    {
+      "id": "fr-sf-0007",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.7 Cala-te. Ver Salmos 4610; Hebreus 2 20; Za-",
+        "texto_ocr_pre_normalizacao": "Cala-te. Ver Salmos 4610; Hebreus 2 20; Zacarias 2.13. 0 profeta exige submissao confiante ao Deus soberano e pactual. A ordem \"Cala-te” e frequentemente ligada a estar na presenga do Deussanto. o Dia do SENHOR. Com frequence, essa expressao ocorre nos profetas do Antigo Testamento. Pode referir-se a qualquer tempo especifico em que o Guerreiro Divino, o Senhor dos Exercitos, e glorioso em vitoria: contra a Babilonia, por intermedio dos medos (Is 13.1-14.27), contra o Egito, por meio da Babilonia (Ez 30.2-4). ou contra Israel, por meio da Assiria (Is 10.5, 6, 20, 24). Esse dia de vinganga do Senhor contra os impios tambem e descrito como o tempo do livramento de Israel (Is 34.2-35.10), quando o Senhor vence definitivamente toda oposigao de Israel (2.2, 9; 3.8-20; Jl 314-16). E tambem o dia do julgamento final (Am 5.18-20). Cf. notas em Ezequiel 77 e Amos 5.18 o SENHOR preparou o sacriffcio. 0 julgamento iminente que vem sobreJuda e comparado a sacrifices. A nagao e um cordeiro sacrificial (Is 34.6;Jr 46.10;Ez 39.17-19). santificou os seus convidados. Os convidados podem ser as nagoes que servem como instrumento divino de julgamento (Is 10.5-10: He 1.6).A santificagaodeconvidados e necessaria para manter a santidade do Senhor (Ex 19.10, 24.9-11) e lembra elementos do ritual da alianga no monte Sinai (vv.15,16,nota).",
+        "correcoes_literal_reversiveis": {
+          "tambem": 2,
+          "nagao": 1,
+          "nagoes": 1,
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Cala-te. Ver Salmos 46.10; Hebreus 2.20; Zacarias 2.13. O profeta exige submissão confiante ao Deus soberano e pactual. A ordem “Cala-te” é frequentemente ligada a estar na presença do Deus santo.\n\no Dia do SENHOR. Com frequência, essa expressão ocorre nos profetas do Antigo Testamento. Pode referir-se a qualquer tempo específico em que o Guerreiro Divino, o Senhor dos Exércitos, é glorioso em vitória: contra a Babilônia, por intermédio dos medos (Is 13.1-14.27), contra o Egito, por meio da Babilônia (Ez 30.2-4), ou contra Israel, por meio da Assíria (Is 10.5, 6, 20, 24). Esse dia de vingança do Senhor contra os ímpios também é descrito como o tempo do livramento de Israel (Is 34.2-35.10), quando o Senhor vence definitivamente toda oposição de Israel (2.2, 9; 3.8-20; Jl 3.14-16). É também o dia do julgamento final (Am 5.18-20). Cf. notas em Ezequiel 7.7 e Amós 5.18.\n\no SENHOR preparou o sacrifício. O julgamento iminente que vem sobre Judá é comparado a sacrifícios. A nação é um cordeiro sacrificial (Is 34.6; Jr 46.10; Ez 39.17-19).\n\nsantificou os seus convidados. Os convidados podem ser as nações que servem como instrumento divino de julgamento (Is 10.5-10; Hc 1.6). A santificação de convidados é necessária para manter a santidade do Senhor (Êx 19.10; 24.9-11) e lembra elementos do ritual da aliança no monte Sinai (vv. 15, 16, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ez",
+          "capitulo": 7,
+          "versiculo": 7
+        },
+        {
+          "livro": "Am",
+          "capitulo": 5,
+          "versiculo": 18
+        },
+        {
+          "livro": "Sf",
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "A edição imprime Hebreus 2.20 (destino inexistente na ARA); preservado, sem corrigir por conjectura."
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Cala-te.",
+          "texto": "Ver Salmos 46.10; Hebreus 2.20; Zacarias 2.13. O profeta exige submissão confiante ao Deus soberano e pactual. A ordem “Cala-te” é frequentemente ligada a estar na presença do Deus santo."
+        },
+        {
+          "titulo": "o Dia do SENHOR.",
+          "texto": "Com frequência, essa expressão ocorre nos profetas do Antigo Testamento. Pode referir-se a qualquer tempo específico em que o Guerreiro Divino, o Senhor dos Exércitos, é glorioso em vitória: contra a Babilônia, por intermédio dos medos (Is 13.1-14.27), contra o Egito, por meio da Babilônia (Ez 30.2-4), ou contra Israel, por meio da Assíria (Is 10.5, 6, 20, 24). Esse dia de vingança do Senhor contra os ímpios também é descrito como o tempo do livramento de Israel (Is 34.2-35.10), quando o Senhor vence definitivamente toda oposição de Israel (2.2, 9; 3.8-20; Jl 3.14-16). É também o dia do julgamento final (Am 5.18-20). Cf. notas em Ezequiel 7.7 e Amós 5.18."
+        },
+        {
+          "titulo": "o SENHOR preparou o sacrifício.",
+          "texto": "O julgamento iminente que vem sobre Judá é comparado a sacrifícios. A nação é um cordeiro sacrificial (Is 34.6; Jr 46.10; Ez 39.17-19)."
+        },
+        {
+          "titulo": "santificou os seus convidados.",
+          "texto": "Os convidados podem ser as nações que servem como instrumento divino de julgamento (Is 10.5-10; Hc 1.6). A santificação de convidados é necessária para manter a santidade do Senhor (Êx 19.10; 24.9-11) e lembra elementos do ritual da aliança no monte Sinai (vv. 15, 16, nota)."
+        }
+      ],
+      "paragrafos": [
+        "Cala-te. Ver Salmos 46.10; Hebreus 2.20; Zacarias 2.13. O profeta exige submissão confiante ao Deus soberano e pactual. A ordem “Cala-te” é frequentemente ligada a estar na presença do Deus santo.",
+        "o Dia do SENHOR. Com frequência, essa expressão ocorre nos profetas do Antigo Testamento. Pode referir-se a qualquer tempo específico em que o Guerreiro Divino, o Senhor dos Exércitos, é glorioso em vitória: contra a Babilônia, por intermédio dos medos (Is 13.1-14.27), contra o Egito, por meio da Babilônia (Ez 30.2-4), ou contra Israel, por meio da Assíria (Is 10.5, 6, 20, 24). Esse dia de vingança do Senhor contra os ímpios também é descrito como o tempo do livramento de Israel (Is 34.2-35.10), quando o Senhor vence definitivamente toda oposição de Israel (2.2, 9; 3.8-20; Jl 3.14-16). É também o dia do julgamento final (Am 5.18-20). Cf. notas em Ezequiel 7.7 e Amós 5.18.",
+        "o SENHOR preparou o sacrifício. O julgamento iminente que vem sobre Judá é comparado a sacrifícios. A nação é um cordeiro sacrificial (Is 34.6; Jr 46.10; Ez 39.17-19).",
+        "santificou os seus convidados. Os convidados podem ser as nações que servem como instrumento divino de julgamento (Is 10.5-10; Hc 1.6). A santificação de convidados é necessária para manter a santidade do Senhor (Êx 19.10; 24.9-11) e lembra elementos do ritual da aliança no monte Sinai (vv. 15, 16, nota)."
+      ]
+    },
+    {
+      "id": "fr-sf-0008",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1611,
+        "rotulo_original_ocr": "1.8 os oficiais. Os filhos do rei e outros oficiais",
+        "texto_ocr_pre_normalizacao": "os oficiais. Os filhos do rei e outros oficiais reais. Sua falta de compromisso com a alianga e evidenciada pela adogao de costumes e trajes estrangeiros,um smal de deslealdade religiosa.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "os oficiais. Os filhos do rei e outros oficiais reais. Sua falta de compromisso com a aliança é evidenciada pela adoção de costumes e trajes estrangeiros, um sinal de deslealdade religiosa.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "os oficiais.",
+          "texto": "Os filhos do rei e outros oficiais reais. Sua falta de compromisso com a aliança é evidenciada pela adoção de costumes e trajes estrangeiros, um sinal de deslealdade religiosa."
+        }
+      ],
+      "paragrafos": [
+        "os oficiais. Os filhos do rei e outros oficiais reais. Sua falta de compromisso com a aliança é evidenciada pela adoção de costumes e trajes estrangeiros, um sinal de deslealdade religiosa."
+      ]
+    },
+    {
+      "id": "fr-sf-0009",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.9 pedestal dos idolos. Muitos interpretam",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pedestal dos ídolos. Muitos interpretam esse versículo como aludindo a uma prática religiosa detestável. Identificam o pedestal como o limiar de um santuário pagão e consideram que a alusão diz respeito a uma prática religiosa dos filisteus que está sendo imitada (1Sm 5.5), com “senhores” sendo uma alusão a seu deus. Alternativamente, pode ser a injustiça social que está em foco. A expressão pode indicar a rapidez com que os servos inescrupulosos entram em casas para pegar o que for possível, levando tudo a seus senhores.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "pedestal dos ídolos.",
+          "texto": "Muitos interpretam esse versículo como aludindo a uma prática religiosa detestável. Identificam o pedestal como o limiar de um santuário pagão e consideram que a alusão diz respeito a uma prática religiosa dos filisteus que está sendo imitada (1Sm 5.5), com “senhores” sendo uma alusão a seu deus. Alternativamente, pode ser a injustiça social que está em foco. A expressão pode indicar a rapidez com que os servos inescrupulosos entram em casas para pegar o que for possível, levando tudo a seus senhores."
+        }
+      ],
+      "paragrafos": [
+        "pedestal dos ídolos. Muitos interpretam esse versículo como aludindo a uma prática religiosa detestável. Identificam o pedestal como o limiar de um santuário pagão e consideram que a alusão diz respeito a uma prática religiosa dos filisteus que está sendo imitada (1Sm 5.5), com “senhores” sendo uma alusão a seu deus. Alternativamente, pode ser a injustiça social que está em foco. A expressão pode indicar a rapidez com que os servos inescrupulosos entram em casas para pegar o que for possível, levando tudo a seus senhores."
+      ]
+    },
+    {
+      "id": "fr-sf-0010",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.10 Porta do Peixe... Cidade Baixa. Os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Porta do Peixe... Cidade Baixa. Os clamores de angústia vêm de todas as partes da cidade, descrevendo a extensão do mal e do julgamento. A Porta do Peixe ficava no lado norte da cidade (2Cr 33.14), enquanto a Cidade Baixa ficava a leste do templo (2Rs 22.14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Porta do Peixe... Cidade Baixa.",
+          "texto": "Os clamores de angústia vêm de todas as partes da cidade, descrevendo a extensão do mal e do julgamento. A Porta do Peixe ficava no lado norte da cidade (2Cr 33.14), enquanto a Cidade Baixa ficava a leste do templo (2Rs 22.14)."
+        }
+      ],
+      "paragrafos": [
+        "Porta do Peixe... Cidade Baixa. Os clamores de angústia vêm de todas as partes da cidade, descrevendo a extensão do mal e do julgamento. A Porta do Peixe ficava no lado norte da cidade (2Cr 33.14), enquanto a Cidade Baixa ficava a leste do templo (2Rs 22.14)."
+      ]
+    },
+    {
+      "id": "fr-sf-0011",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.11 Mactes. Talvez um nome dado a uma de-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Mactés. Talvez um nome dado a uma depressão no vale do Tiropeon que corre de norte a sul pelo centro de Jerusalém. Esse era um distrito no qual se encontravam os mercados nos dias de Sofonias. A classe de comerciantes ricos é distinguida por sua avareza e pelas práticas comerciais corruptas (Am 8.4-6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Mactés.",
+          "texto": "Talvez um nome dado a uma depressão no vale do Tiropeon que corre de norte a sul pelo centro de Jerusalém. Esse era um distrito no qual se encontravam os mercados nos dias de Sofonias. A classe de comerciantes ricos é distinguida por sua avareza e pelas práticas comerciais corruptas (Am 8.4-6)."
+        }
+      ],
+      "paragrafos": [
+        "Mactés. Talvez um nome dado a uma depressão no vale do Tiropeon que corre de norte a sul pelo centro de Jerusalém. Esse era um distrito no qual se encontravam os mercados nos dias de Sofonias. A classe de comerciantes ricos é distinguida por sua avareza e pelas práticas comerciais corruptas (Am 8.4-6)."
+      ]
+    },
+    {
+      "id": "fr-sf-0012",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.12 esquadrinharei. A investigagao do Senhor",
+        "texto_ocr_pre_normalizacao": "esquadrinharei. A investigagao do Senhor acontece antes da destruigao. 0 Senhor fara uma investigagao completa, e nao havera escapatoria paraesse escrutinio divino (S1139;Am 9.1-4). que estao apegados. 0 profetacriauma figura a partir do processo de fazer vinho. Assim como aborra do vinho, que assenta e engrossa se deixada quieta, os cidadaos de Jerusalem se tornaram assentados (confirmados) em sua indiferenga para com Deus. Porque eram totalmente acomodados em relagao aDeus,julgavam-no moralmente indiferente em relagao ao bem e ao mal e, portanto, inativo nosafazeres humanos.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "relagao": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "esquadrinharei. A investigação do Senhor acontece antes da destruição. O Senhor fará uma investigação completa, e não haverá escapatória para esse escrutínio divino (Sl 139; Am 9.1-4).\n\nque estão apegados. O profeta cria uma figura a partir do processo de fazer vinho. Assim como a borra do vinho, que assenta e engrossa se deixada quieta, os cidadãos de Jerusalém se tornaram assentados (confirmados) em sua indiferença para com Deus. Porque eram totalmente acomodados em relação a Deus, julgavam-no moralmente indiferente em relação ao bem e ao mal e, portanto, inativo nos afazeres humanos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "esquadrinharei.",
+          "texto": "A investigação do Senhor acontece antes da destruição. O Senhor fará uma investigação completa, e não haverá escapatória para esse escrutínio divino (Sl 139; Am 9.1-4)."
+        },
+        {
+          "titulo": "que estão apegados.",
+          "texto": "O profeta cria uma figura a partir do processo de fazer vinho. Assim como a borra do vinho, que assenta e engrossa se deixada quieta, os cidadãos de Jerusalém se tornaram assentados (confirmados) em sua indiferença para com Deus. Porque eram totalmente acomodados em relação a Deus, julgavam-no moralmente indiferente em relação ao bem e ao mal e, portanto, inativo nos afazeres humanos."
+        }
+      ],
+      "paragrafos": [
+        "esquadrinharei. A investigação do Senhor acontece antes da destruição. O Senhor fará uma investigação completa, e não haverá escapatória para esse escrutínio divino (Sl 139; Am 9.1-4).",
+        "que estão apegados. O profeta cria uma figura a partir do processo de fazer vinho. Assim como a borra do vinho, que assenta e engrossa se deixada quieta, os cidadãos de Jerusalém se tornaram assentados (confirmados) em sua indiferença para com Deus. Porque eram totalmente acomodados em relação a Deus, julgavam-no moralmente indiferente em relação ao bem e ao mal e, portanto, inativo nos afazeres humanos."
+      ]
+    },
+    {
+      "id": "fr-sf-0013",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.13 nao habitarao. A maldigao da alianga",
+        "texto_ocr_pre_normalizacao": "nao habitarao. A maldigao da alianga transgredidafrustra os esforgos daqueles que desafiam, de modo flagrante, os padroes do Senhor (Dt 28.30;Am 5.11;Mq 6.15).",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "não habitarão. A maldição da aliança transgredida frustra os esforços daqueles que desafiam, de modo flagrante, os padrões do Senhor (Dt 28.30; Am 5.11; Mq 6.15).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "não habitarão.",
+          "texto": "A maldição da aliança transgredida frustra os esforços daqueles que desafiam, de modo flagrante, os padrões do Senhor (Dt 28.30; Am 5.11; Mq 6.15)."
+        }
+      ],
+      "paragrafos": [
+        "não habitarão. A maldição da aliança transgredida frustra os esforços daqueles que desafiam, de modo flagrante, os padrões do Senhor (Dt 28.30; Am 5.11; Mq 6.15)."
+      ]
+    },
+    {
+      "id": "fr-sf-0014",
+      "referencia": "1.14-18",
+      "capitulo": 1,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.14-18",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.14-18 Sofonias fala mais sobre o dia do Senhor,",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Sofonias fala mais sobre o dia do Senhor, preparando o caminho para seu forte apelo por arrependimento em 2.1-3. O estilo staccato do profeta enfatiza a rapidez com que o dia se aproxima e a natureza devastadora do julgamento que esse dia traz.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Sofonias fala mais sobre o dia do Senhor, preparando o caminho para seu forte apelo por arrependimento em 2.1-3. O estilo staccato do profeta enfatiza a rapidez com que o dia se aproxima e a natureza devastadora do julgamento que esse dia traz."
+        }
+      ],
+      "paragrafos": [
+        "Sofonias fala mais sobre o dia do Senhor, preparando o caminho para seu forte apelo por arrependimento em 2.1-3. O estilo staccato do profeta enfatiza a rapidez com que o dia se aproxima e a natureza devastadora do julgamento que esse dia traz."
+      ]
+    },
+    {
+      "id": "fr-sf-0015",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.14 nele clama ate o homem poderoso.0",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "nele clama até o homem poderoso. O dia causará terror no soldado, até mesmo no bravo homem de guerra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "nele clama até o homem poderoso.",
+          "texto": "O dia causará terror no soldado, até mesmo no bravo homem de guerra."
+        }
+      ],
+      "paragrafos": [
+        "nele clama até o homem poderoso. O dia causará terror no soldado, até mesmo no bravo homem de guerra."
+      ]
+    },
+    {
+      "id": "fr-sf-0016",
+      "referencia": "1.15,16",
+      "capitulo": 1,
+      "versiculos": [
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.15,16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1612,
+        "rotulo_original_ocr": "1.15, 16 0 dia do Senhor e apresentado em ima-",
+        "texto_ocr_pre_normalizacao": "0 dia do Senhor e apresentado em imagens assustadoras que lembram a teofania que acompanhou o estabelecimento daalianga mosaicanomonte Sinai (Ex 19.16), aalianga cujos termos Juda quebrou. Alguns sugerem que “o Dia do SE- NHOR\" pode ser considerado o dia de sua alianga, quando o Senhorestabeleceusuaaliangaou impos asestipulagoes daalianga.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O dia do Senhor é apresentado em imagens assustadoras que lembram a teofania que acompanhou o estabelecimento da aliança mosaica no monte Sinai (Êx 19.16), a aliança cujos termos Judá quebrou. Alguns sugerem que “o Dia do SENHOR” pode ser considerado o dia de sua aliança, quando o Senhor estabeleceu sua aliança ou impôs as estipulações da aliança.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O dia do Senhor é apresentado em imagens assustadoras que lembram a teofania que acompanhou o estabelecimento da aliança mosaica no monte Sinai (Êx 19.16), a aliança cujos termos Judá quebrou. Alguns sugerem que “o Dia do SENHOR” pode ser considerado o dia de sua aliança, quando o Senhor estabeleceu sua aliança ou impôs as estipulações da aliança."
+        }
+      ],
+      "paragrafos": [
+        "O dia do Senhor é apresentado em imagens assustadoras que lembram a teofania que acompanhou o estabelecimento da aliança mosaica no monte Sinai (Êx 19.16), a aliança cujos termos Judá quebrou. Alguns sugerem que “o Dia do SENHOR” pode ser considerado o dia de sua aliança, quando o Senhor estabeleceu sua aliança ou impôs as estipulações da aliança."
+      ]
+    },
+    {
+      "id": "fr-sf-0017",
+      "referencia": "1.17",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "1.17 os homens. 0 escopo da profeciase amplia",
+        "texto_ocr_pre_normalizacao": "os homens. 0 escopo da profeciase amplia para predizer o diado Senhor final e extensivo que afetaratoda \"aterra\" (v.18). eles andarao como cegos. Uma das maldigoes da alianga que se encontram em Deuteronomio 28.28, 29. pecaram. A razao do julgamento do Senhor sobre Juda e afirmada em termos gerais. Ver nota em 3.1-5.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "os homens. O escopo da profecia se amplia para predizer o dia do Senhor final e extensivo que afetará toda “a terra” (v. 18).\n\neles andarão como cegos. Uma das maldições da aliança que se encontram em Deuteronômio 28.28, 29.\n\npecaram. A razão do julgamento do Senhor sobre Judá é afirmada em termos gerais. Ver nota em 3.1-5.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Sf",
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "os homens.",
+          "texto": "O escopo da profecia se amplia para predizer o dia do Senhor final e extensivo que afetará toda “a terra” (v. 18)."
+        },
+        {
+          "titulo": "eles andarão como cegos.",
+          "texto": "Uma das maldições da aliança que se encontram em Deuteronômio 28.28, 29."
+        },
+        {
+          "titulo": "pecaram.",
+          "texto": "A razão do julgamento do Senhor sobre Judá é afirmada em termos gerais. Ver nota em 3.1-5."
+        }
+      ],
+      "paragrafos": [
+        "os homens. O escopo da profecia se amplia para predizer o dia do Senhor final e extensivo que afetará toda “a terra” (v. 18).",
+        "eles andarão como cegos. Uma das maldições da aliança que se encontram em Deuteronômio 28.28, 29.",
+        "pecaram. A razão do julgamento do Senhor sobre Judá é afirmada em termos gerais. Ver nota em 3.1-5."
+      ]
+    },
+    {
+      "id": "fr-sf-0018",
+      "referencia": "1.18",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "1.18 Nem sua pratanem seu ouro.Ver Salmos 49.6-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Nem sua prata nem seu ouro. Ver Salmos 49.6-9; Provérbios 11.4; Mateus 16.26; Lucas 12.13-21.\n\nzelo. Ver Êxodo 20.5; 34.14; Deuteronômio 4.24. O zelo de Deus pressupõe seu amor pactual. Ele redimiu um povo para torná-lo sua “propriedade peculiar” (Êx 19.5). O amor pactual de Deus exige a lealdade absoluta de seu povo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Nem sua prata nem seu ouro.",
+          "texto": "Ver Salmos 49.6-9; Provérbios 11.4; Mateus 16.26; Lucas 12.13-21."
+        },
+        {
+          "titulo": "zelo.",
+          "texto": "Ver Êxodo 20.5; 34.14; Deuteronômio 4.24. O zelo de Deus pressupõe seu amor pactual. Ele redimiu um povo para torná-lo sua “propriedade peculiar” (Êx 19.5). O amor pactual de Deus exige a lealdade absoluta de seu povo."
+        }
+      ],
+      "paragrafos": [
+        "Nem sua prata nem seu ouro. Ver Salmos 49.6-9; Provérbios 11.4; Mateus 16.26; Lucas 12.13-21.",
+        "zelo. Ver Êxodo 20.5; 34.14; Deuteronômio 4.24. O zelo de Deus pressupõe seu amor pactual. Ele redimiu um povo para torná-lo sua “propriedade peculiar” (Êx 19.5). O amor pactual de Deus exige a lealdade absoluta de seu povo."
+      ]
+    },
+    {
+      "id": "fr-sf-0019",
+      "referencia": "2.1-3",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.1-3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.1-3 Como representantes do Senhor que insis-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Como representantes do Senhor que insistiam na obediência à aliança, os profetas do Antigo Testamento advertiam frequentemente o povo de Deus (Is 1.16-20; 55.1-6; Os 2.4, 5; 4.15; Am 4.12; 5.5, 6; Mq 6.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Como representantes do Senhor que insistiam na obediência à aliança, os profetas do Antigo Testamento advertiam frequentemente o povo de Deus (Is 1.16-20; 55.1-6; Os 2.4, 5; 4.15; Am 4.12; 5.5, 6; Mq 6.8)."
+        }
+      ],
+      "paragrafos": [
+        "Como representantes do Senhor que insistiam na obediência à aliança, os profetas do Antigo Testamento advertiam frequentemente o povo de Deus (Is 1.16-20; 55.1-6; Os 2.4, 5; 4.15; Am 4.12; 5.5, 6; Mq 6.8)."
+      ]
+    },
+    {
+      "id": "fr-sf-0020",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.1 Concentra-te. Eles sao chamados a se",
+        "texto_ocr_pre_normalizacao": "Concentra-te. Eles sao chamados a se reunir para ouvir (cf. Is 34.1; Jr 4.5, Jl 2.15, 16; 3.11). 0 chamado para ouvir essas advertencias severas e, em si mesmo, um ato de graga divina, porque as advertencias tern o proposito de produzir arrepenque nao tens pudor. Espiritualmente insensiveis e nao mais capazes de avaliar sua propria conduta deacordo com os padroes divinos.",
+        "correcoes_literal_reversiveis": {
+          "graga": 1,
+          "tern": 1,
+          "nao": 2,
+          "propria": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Concentra-te. Eles são chamados a se reunir para ouvir (cf. Is 34.1; Jr 4.5; Jl 2.15, 16; 3.11). O chamado para ouvir essas advertências severas é, em si mesmo, um ato de graça divina, porque as advertências têm o propósito de produzir arrependimento.\n\nque não tens pudor. Espiritualmente insensíveis e não mais capazes de avaliar sua própria conduta de acordo com os padrões divinos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Concentra-te.",
+          "texto": "Eles são chamados a se reunir para ouvir (cf. Is 34.1; Jr 4.5; Jl 2.15, 16; 3.11). O chamado para ouvir essas advertências severas é, em si mesmo, um ato de graça divina, porque as advertências têm o propósito de produzir arrependimento."
+        },
+        {
+          "titulo": "que não tens pudor.",
+          "texto": "Espiritualmente insensíveis e não mais capazes de avaliar sua própria conduta de acordo com os padrões divinos."
+        }
+      ],
+      "paragrafos": [
+        "Concentra-te. Eles são chamados a se reunir para ouvir (cf. Is 34.1; Jr 4.5; Jl 2.15, 16; 3.11). O chamado para ouvir essas advertências severas é, em si mesmo, um ato de graça divina, porque as advertências têm o propósito de produzir arrependimento.",
+        "que não tens pudor. Espiritualmente insensíveis e não mais capazes de avaliar sua própria conduta de acordo com os padrões divinos."
+      ]
+    },
+    {
+      "id": "fr-sf-0021",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.3 Buscai o SENHOR. Ver 1.6 e Isaias 55.6, 7.",
+        "texto_ocr_pre_normalizacao": "Buscai o SENHOR. Ver 1.6 e Isaias 55.6, 7. Aqui, esse buscar o Senhor e definido,em seguida, como \"buscai a justiga, buscai amansidao” Um padrao semelhanteeevidente em Amos, livrono qual o profeta ordena: \"Buscai ao SENHOR e, depots, \"Buscaiobem e naoomal\" (Am 5.6,14). porventura, lograreis esconder-vos As palavras cautelosas do profeta expressam aqui tanto a sua esperanga de que o remanescente humilde (v, 3) encontre refugio da ira do Senhor (cf. Is 55.7) como seu pessimismo de que a nagao que nao tern \"pudor\" (v.1) se arrependa realmente. Cf.",
+        "correcoes_literal_reversiveis": {
+          "justiga": 1,
+          "nagao": 1,
+          "nao": 1,
+          "tern": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Buscai o SENHOR. Ver 1.6 e Isaías 55.6, 7. Aqui, esse buscar o Senhor é definido, em seguida, como “buscai a justiça, buscai a mansidão”. Um padrão semelhante é evidente em Amós, livro no qual o profeta ordena: “Buscai ao SENHOR” e, depois, “Buscai o bem e não o mal” (Am 5.6, 14).\n\nporventura, lograreis esconder-vos. As palavras cautelosas do profeta expressam aqui tanto a sua esperança de que o remanescente humilde (v. 3) encontre refúgio da ira do Senhor (cf. Is 55.7) como seu pessimismo de que a nação que não tem “pudor” (v. 1) se arrependa realmente. Cf. Amós 5.15.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Buscai o SENHOR.",
+          "texto": "Ver 1.6 e Isaías 55.6, 7. Aqui, esse buscar o Senhor é definido, em seguida, como “buscai a justiça, buscai a mansidão”. Um padrão semelhante é evidente em Amós, livro no qual o profeta ordena: “Buscai ao SENHOR” e, depois, “Buscai o bem e não o mal” (Am 5.6, 14)."
+        },
+        {
+          "titulo": "porventura, lograreis esconder-vos.",
+          "texto": "As palavras cautelosas do profeta expressam aqui tanto a sua esperança de que o remanescente humilde (v. 3) encontre refúgio da ira do Senhor (cf. Is 55.7) como seu pessimismo de que a nação que não tem “pudor” (v. 1) se arrependa realmente. Cf. Amós 5.15."
+        }
+      ],
+      "paragrafos": [
+        "Buscai o SENHOR. Ver 1.6 e Isaías 55.6, 7. Aqui, esse buscar o Senhor é definido, em seguida, como “buscai a justiça, buscai a mansidão”. Um padrão semelhante é evidente em Amós, livro no qual o profeta ordena: “Buscai ao SENHOR” e, depois, “Buscai o bem e não o mal” (Am 5.6, 14).",
+        "porventura, lograreis esconder-vos. As palavras cautelosas do profeta expressam aqui tanto a sua esperança de que o remanescente humilde (v. 3) encontre refúgio da ira do Senhor (cf. Is 55.7) como seu pessimismo de que a nação que não tem “pudor” (v. 1) se arrependa realmente. Cf. Amós 5.15."
+      ]
+    },
+    {
+      "id": "fr-sf-0022",
+      "referencia": "2.4-15",
+      "capitulo": 2,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.4-15",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.4-15 Essa segao consiste de quatro profecias de",
+        "texto_ocr_pre_normalizacao": "Essa segao consiste de quatro profecias de julgamento dirigidas contra as nagoes estrangeiras. Essas mensagens visam assegurar ao proprio Deusque seus propositos soberanosse estendem sobre os mimigos deles (1.5, 6) e que essas nagoes sao moralmente responsaveis por suas agoes (Am 1.3-2.3; Mq 1.2).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 2,
+          "proprio": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa seção consiste de quatro profecias de julgamento dirigidas contra as nações estrangeiras. Essas mensagens visam assegurar ao próprio Deus que seus propósitos soberanos se estendem sobre os inimigos deles (1.5, 6) e que essas nações são moralmente responsáveis por suas ações (Am 1.3-2.3; Mq 1.2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "Preservada a redação impressa “ao próprio Deus”."
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa seção consiste de quatro profecias de julgamento dirigidas contra as nações estrangeiras. Essas mensagens visam assegurar ao próprio Deus que seus propósitos soberanos se estendem sobre os inimigos deles (1.5, 6) e que essas nações são moralmente responsáveis por suas ações (Am 1.3-2.3; Mq 1.2)."
+        }
+      ],
+      "paragrafos": [
+        "Essa seção consiste de quatro profecias de julgamento dirigidas contra as nações estrangeiras. Essas mensagens visam assegurar ao próprio Deus que seus propósitos soberanos se estendem sobre os inimigos deles (1.5, 6) e que essas nações são moralmente responsáveis por suas ações (Am 1.3-2.3; Mq 1.2)."
+      ]
+    },
+    {
+      "id": "fr-sf-0023",
+      "referencia": "2.4-7",
+      "capitulo": 2,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.4-7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.4-7 Essa profecia e dirigida contra a Filistia.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa profecia é dirigida contra a Filístia, um território a sudoeste de Judá, na costa do Mediterrâneo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa profecia é dirigida contra a Filístia, um território a sudoeste de Judá, na costa do Mediterrâneo."
+        }
+      ],
+      "paragrafos": [
+        "Essa profecia é dirigida contra a Filístia, um território a sudoeste de Judá, na costa do Mediterrâneo."
+      ]
+    },
+    {
+      "id": "fr-sf-0024",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.4 Como em Amos 1.6-8, somente quatro das",
+        "texto_ocr_pre_normalizacao": "Como em Amos 1.6-8, somente quatro das cinco principals cidades dos filisteus sao mencionadas (lSm 6.17). Talvez Gate, a quinta cidade, nao mais existisse quando Sofonias estava mimstrando.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Como em Amós 1.6-8, somente quatro das cinco principais cidades dos filisteus são mencionadas (1Sm 6.17). Talvez Gate, a quinta cidade, não mais existisse quando Sofonias estava ministrando.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Como em Amós 1.6-8, somente quatro das cinco principais cidades dos filisteus são mencionadas (1Sm 6.17). Talvez Gate, a quinta cidade, não mais existisse quando Sofonias estava ministrando."
+        }
+      ],
+      "paragrafos": [
+        "Como em Amós 1.6-8, somente quatro das cinco principais cidades dos filisteus são mencionadas (1Sm 6.17). Talvez Gate, a quinta cidade, não mais existisse quando Sofonias estava ministrando."
+      ]
+    },
+    {
+      "id": "fr-sf-0025",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1613,
+        "rotulo_original_ocr": "2.5 Ai. A mesma palavra de calamidade pro-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ai. A mesma palavra de calamidade pronunciada posteriormente sobre Jerusalém (3.1). Com frequência, introduz uma profecia de julgamento.\n\nquereítas. Uma palavra que designa pessoas associadas aos filisteus que tiveram origem em Creta (2Sm 8.18; Ez 25.16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ai.",
+          "texto": "A mesma palavra de calamidade pronunciada posteriormente sobre Jerusalém (3.1). Com frequência, introduz uma profecia de julgamento."
+        },
+        {
+          "titulo": "quereítas.",
+          "texto": "Uma palavra que designa pessoas associadas aos filisteus que tiveram origem em Creta (2Sm 8.18; Ez 25.16)."
+        }
+      ],
+      "paragrafos": [
+        "Ai. A mesma palavra de calamidade pronunciada posteriormente sobre Jerusalém (3.1). Com frequência, introduz uma profecia de julgamento.",
+        "quereítas. Uma palavra que designa pessoas associadas aos filisteus que tiveram origem em Creta (2Sm 8.18; Ez 25.16)."
+      ]
+    },
+    {
+      "id": "fr-sf-0026",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1614,
+        "rotulo_original_ocr": "2.7 0 julgamento das nagoes sera acompanhado",
+        "texto_ocr_pre_normalizacao": "0 julgamento das nagoes sera acompanhado ao de Deus de um remanescente de da preserva^ seu povo (Dt 32.27,nota) que sobrevive a devastagao. Outras references ao remanescente em Sofonias ocorremno v.9 e em 3.9-12. Ihes mudara a sorte. Essa expressao, utilizada de maneira ampla,refere-se a salvagao futura de Israel, apos o julgamento (Dt 30.3;S114.7;Jr 30.3,18; 32.44;Am 9.14).Refere-se,em algumas ocorrencias, ao retornofi'sicodos exilados,mas,em outrasocorrencias,a uma restauragao mais geral da sorte (p. ex.,Jo 42.10).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1,
+          "salvagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O julgamento das nações será acompanhado da preservação de Deus de um remanescente de seu povo (Dt 32.27, nota) que sobrevive à devastação. Outras referências ao remanescente em Sofonias ocorrem no v. 9 e em 3.9-12.\n\nlhes mudará a sorte. Essa expressão, utilizada de maneira ampla, refere-se à salvação futura de Israel, após o julgamento (Dt 30.3; Sl 14.7; Jr 30.3, 18; 32.44; Am 9.14). Refere-se, em algumas ocorrências, ao retorno físico dos exilados, mas, em outras ocorrências, a uma restauração mais geral da sorte (p. ex., Jó 42.10).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Dt",
+          "capitulo": 32,
+          "versiculo": 27
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O julgamento das nações será acompanhado da preservação de Deus de um remanescente de seu povo (Dt 32.27, nota) que sobrevive à devastação. Outras referências ao remanescente em Sofonias ocorrem no v. 9 e em 3.9-12."
+        },
+        {
+          "titulo": "lhes mudará a sorte.",
+          "texto": "Essa expressão, utilizada de maneira ampla, refere-se à salvação futura de Israel, após o julgamento (Dt 30.3; Sl 14.7; Jr 30.3, 18; 32.44; Am 9.14). Refere-se, em algumas ocorrências, ao retorno físico dos exilados, mas, em outras ocorrências, a uma restauração mais geral da sorte (p. ex., Jó 42.10)."
+        }
+      ],
+      "paragrafos": [
+        "O julgamento das nações será acompanhado da preservação de Deus de um remanescente de seu povo (Dt 32.27, nota) que sobrevive à devastação. Outras referências ao remanescente em Sofonias ocorrem no v. 9 e em 3.9-12.",
+        "lhes mudará a sorte. Essa expressão, utilizada de maneira ampla, refere-se à salvação futura de Israel, após o julgamento (Dt 30.3; Sl 14.7; Jr 30.3, 18; 32.44; Am 9.14). Refere-se, em algumas ocorrências, ao retorno físico dos exilados, mas, em outras ocorrências, a uma restauração mais geral da sorte (p. ex., Jó 42.10)."
+      ]
+    },
+    {
+      "id": "fr-sf-0027",
+      "referencia": "2.8-11",
+      "capitulo": 2,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.8-11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1614,
+        "rotulo_original_ocr": "2.8-11 Moabe... os filhos de Amom. Essas",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Moabe... os filhos de Amom. Essas nações ocupavam o território a leste de Judá, no outro lado do mar Morto, e eram inimigos inveterados do povo de Deus na época do Antigo Testamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Moabe... os filhos de Amom.",
+          "texto": "Essas nações ocupavam o território a leste de Judá, no outro lado do mar Morto, e eram inimigos inveterados do povo de Deus na época do Antigo Testamento."
+        }
+      ],
+      "paragrafos": [
+        "Moabe... os filhos de Amom. Essas nações ocupavam o território a leste de Judá, no outro lado do mar Morto, e eram inimigos inveterados do povo de Deus na época do Antigo Testamento."
+      ]
+    },
+    {
+      "id": "fr-sf-0028",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1614,
+        "rotulo_original_ocr": "2.9 o Deus de Israel.Ou seja,do povo daalian-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o Deus de Israel. Ou seja, do povo da aliança, agora representado por Judá (3.13-15), visto que o reino do Norte fora exilado um século antes do ministério de Sofonias.\n\nSodoma... Gomorra. Essas cidades antigas simbolizam pecado e servem como tipos do julgamento final de Deus sobre os pecadores (cf. Gn 18.20, nota; Is 1.9; Am 4.11; Mt 10.5; 2Pe 2.6). De forma irônica, tanto Moabe como Amom são descendentes de Ló e de suas filhas, que Deus resgatou quando destruiu Sodoma e Gomorra (Gn 19.15-38).\n\no restante do meu povo os saqueará. Ver v. 7.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Gn",
+          "capitulo": 18,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "o Deus de Israel.",
+          "texto": "Ou seja, do povo da aliança, agora representado por Judá (3.13-15), visto que o reino do Norte fora exilado um século antes do ministério de Sofonias."
+        },
+        {
+          "titulo": "Sodoma... Gomorra.",
+          "texto": "Essas cidades antigas simbolizam pecado e servem como tipos do julgamento final de Deus sobre os pecadores (cf. Gn 18.20, nota; Is 1.9; Am 4.11; Mt 10.5; 2Pe 2.6). De forma irônica, tanto Moabe como Amom são descendentes de Ló e de suas filhas, que Deus resgatou quando destruiu Sodoma e Gomorra (Gn 19.15-38)."
+        },
+        {
+          "titulo": "o restante do meu povo os saqueará.",
+          "texto": "Ver v. 7."
+        }
+      ],
+      "paragrafos": [
+        "o Deus de Israel. Ou seja, do povo da aliança, agora representado por Judá (3.13-15), visto que o reino do Norte fora exilado um século antes do ministério de Sofonias.",
+        "Sodoma... Gomorra. Essas cidades antigas simbolizam pecado e servem como tipos do julgamento final de Deus sobre os pecadores (cf. Gn 18.20, nota; Is 1.9; Am 4.11; Mt 10.5; 2Pe 2.6). De forma irônica, tanto Moabe como Amom são descendentes de Ló e de suas filhas, que Deus resgatou quando destruiu Sodoma e Gomorra (Gn 19.15-38).",
+        "o restante do meu povo os saqueará. Ver v. 7."
+      ]
+    },
+    {
+      "id": "fr-sf-0029",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1614,
+        "rotulo_original_ocr": "2.11todas as ilhas das na^",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "todas as ilhas das nações... adorarão. Ver 3.9, 10; Salmos 72.8-11; Isaías 56.6, 7.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "todas as ilhas das nações... adorarão.",
+          "texto": "Ver 3.9, 10; Salmos 72.8-11; Isaías 56.6, 7."
+        }
+      ],
+      "paragrafos": [
+        "todas as ilhas das nações... adorarão. Ver 3.9, 10; Salmos 72.8-11; Isaías 56.6, 7."
+      ]
+    },
+    {
+      "id": "fr-sf-0030",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1614,
+        "rotulo_original_ocr": "2.12 etiopes. Sua terra ficava ao sul do Egito,",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "etíopes. Sua terra ficava ao sul do Egito, sendo mencionada aqui para indicar o domínio universal do Senhor.\n\nespada do SENHOR. Uma referência ao uso de um poder estrangeiro (talvez Babilônia; cf. Ez 30.4, 5) pelo Senhor para devastá-los.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "etíopes.",
+          "texto": "Sua terra ficava ao sul do Egito, sendo mencionada aqui para indicar o domínio universal do Senhor."
+        },
+        {
+          "titulo": "espada do SENHOR.",
+          "texto": "Uma referência ao uso de um poder estrangeiro (talvez Babilônia; cf. Ez 30.4, 5) pelo Senhor para devastá-los."
+        }
+      ],
+      "paragrafos": [
+        "etíopes. Sua terra ficava ao sul do Egito, sendo mencionada aqui para indicar o domínio universal do Senhor.",
+        "espada do SENHOR. Uma referência ao uso de um poder estrangeiro (talvez Babilônia; cf. Ez 30.4, 5) pelo Senhor para devastá-los."
+      ]
+    },
+    {
+      "id": "fr-sf-0031",
+      "referencia": "2.13-15",
+      "capitulo": 2,
+      "versiculos": [
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.13-15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "2.13-15 Esses verslculos predizem a destruigao",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Esses versículos predizem a destruição da anteriormente poderosa Assíria, que se situava a nordeste de Judá. Durante todo o reinado de Josias, Judá estava emergindo do domínio dos assírios, que se haviam retirado daquele território.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos predizem a destruição da anteriormente poderosa Assíria, que se situava a nordeste de Judá. Durante todo o reinado de Josias, Judá estava emergindo do domínio dos assírios, que se haviam retirado daquele território."
+        }
+      ],
+      "paragrafos": [
+        "Esses versículos predizem a destruição da anteriormente poderosa Assíria, que se situava a nordeste de Judá. Durante todo o reinado de Josias, Judá estava emergindo do domínio dos assírios, que se haviam retirado daquele território."
+      ]
+    },
+    {
+      "id": "fr-sf-0032",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "2.13 destruira a Assiria. Nlnive, acapital daAs-",
+        "texto_ocr_pre_normalizacao": "destruira a Assiria. Nlnive, acapital daAssiria,caiu paraosbabilonioseos medos em 612 a.C. Este verslculo indicaqueSofoniasprofetizouantes dessa data (Introdugao:Datae Circunstancias).",
+        "correcoes_literal_reversiveis": {
+          "Introdugao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "destruirá a Assíria. Nínive, a capital da Assíria, caiu para os babilônios e os medos em 612 a.C. Este versículo indica que Sofonias profetizou antes dessa data (Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "destruirá a Assíria.",
+          "texto": "Nínive, a capital da Assíria, caiu para os babilônios e os medos em 612 a.C. Este versículo indica que Sofonias profetizou antes dessa data (Introdução: Data e Circunstâncias)."
+        }
+      ],
+      "paragrafos": [
+        "destruirá a Assíria. Nínive, a capital da Assíria, caiu para os babilônios e os medos em 612 a.C. Este versículo indica que Sofonias profetizou antes dessa data (Introdução: Data e Circunstâncias)."
+      ]
+    },
+    {
+      "id": "fr-sf-0033",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "2.15 Eu sou... nao ha outra alem de mim.",
+        "texto_ocr_pre_normalizacao": "Eu sou... nao ha outra alem de mim. Essa vangloria e articulada em linguagem seme- Ihante aquelaque somente o Deus soberano pode usar (Dt 4.39; Is 45.5, 6; 47.10). Essa autodeificagao sofre destruigao; e esses asslrios que se vangloriavamtornam-se objetos de zombaria.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Eu sou... não há outra além de mim. Essa vanglória é articulada em linguagem semelhante àquela que somente o Deus soberano pode usar (Dt 4.39; Is 45.5, 6; 47.10). Essa autodeificação sofre destruição; e esses assírios que se vangloriavam tornam-se objetos de zombaria.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Eu sou... não há outra além de mim.",
+          "texto": "Essa vanglória é articulada em linguagem semelhante àquela que somente o Deus soberano pode usar (Dt 4.39; Is 45.5, 6; 47.10). Essa autodeificação sofre destruição; e esses assírios que se vangloriavam tornam-se objetos de zombaria."
+        }
+      ],
+      "paragrafos": [
+        "Eu sou... não há outra além de mim. Essa vanglória é articulada em linguagem semelhante àquela que somente o Deus soberano pode usar (Dt 4.39; Is 45.5, 6; 47.10). Essa autodeificação sofre destruição; e esses assírios que se vangloriavam tornam-se objetos de zombaria."
+      ]
+    },
+    {
+      "id": "fr-sf-0034",
+      "referencia": "3.1-5",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.1-5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.1-5 Aqui, as references aos profetas, aos sacer-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Aqui, as referências aos profetas, aos sacerdotes, ao santuário e à lei indicam que o profeta está se dirigindo a Jerusalém. A acusação geral de 1.17 se torna específica agora. Os pecados de Jerusalém são especialmente detestáveis, pois são cometidos contra o Deus justo e pactual que se revelou graciosamente ao seu povo (v. 5; Am 2.4, 10-12; 3.2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Aqui, as referências aos profetas, aos sacerdotes, ao santuário e à lei indicam que o profeta está se dirigindo a Jerusalém. A acusação geral de 1.17 se torna específica agora. Os pecados de Jerusalém são especialmente detestáveis, pois são cometidos contra o Deus justo e pactual que se revelou graciosamente ao seu povo (v. 5; Am 2.4, 10-12; 3.2)."
+        }
+      ],
+      "paragrafos": [
+        "Aqui, as referências aos profetas, aos sacerdotes, ao santuário e à lei indicam que o profeta está se dirigindo a Jerusalém. A acusação geral de 1.17 se torna específica agora. Os pecados de Jerusalém são especialmente detestáveis, pois são cometidos contra o Deus justo e pactual que se revelou graciosamente ao seu povo (v. 5; Am 2.4, 10-12; 3.2)."
+      ]
+    },
+    {
+      "id": "fr-sf-0035",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.1Aida cidade. Ver 2 5.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ai da cidade. Ver 2.5.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ai da cidade.",
+          "texto": "Ver 2.5."
+        }
+      ],
+      "paragrafos": [
+        "Ai da cidade. Ver 2.5."
+      ]
+    },
+    {
+      "id": "fr-sf-0036",
+      "referencia": "3.2",
+      "capitulo": 3,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "3.2",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.2 Nao atende aninguem.0povo tern igno-",
+        "texto_ocr_pre_normalizacao": "Nao atende aninguem.0povo tern ignorado a voz de Deus revelada na lei (Dt 31.9-13),por meiodos profetas (Jr 7.23-28;Ag1.12)e por meiodos sabios (Pv 1.8). nao aceita disciplina. Ver v 7 Nao receber corregao leva a morte (Pv 5.23), mas ser aberto a disciplina conduz a vida (Pv 6.23; Jr 2 30; 5.3, 7.28; se aproxima. Aqui, o verbo hebraico significa \"aproximar-se de Deus apropriadamente em adoragao\" (cf. Lv 10 3). A adoragao tern de vir do coragao, e nao somente dos labios (cf. Is 2913, Jo 4.24) Jerusalem nao se beneficiava de suas oportunidades em razao da presenga do Senhor no templo, \"no meio dela\" (v. 5).",
+        "correcoes_literal_reversiveis": {
+          "tern": 2,
+          "nao": 3
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Não atende a ninguém. O povo tem ignorado a voz de Deus revelada na lei (Dt 31.9-13), por meio dos profetas (Jr 7.23-28; Ag 1.12) e por meio dos sábios (Pv 1.8).\n\nnão aceita disciplina. Ver v. 7. Não receber correção leva à morte (Pv 5.23), mas ser aberto à disciplina conduz à vida (Pv 6.23; Jr 2.30; 5.3; 7.28; 32.33; 35.13; Sl 50.17).\n\nse aproxima. Aqui, o verbo hebraico significa “aproximar-se de Deus apropriadamente em adoração” (cf. Lv 10.3). A adoração tem de vir do coração, e não somente dos lábios (cf. Is 29.13; Jo 4.24). Jerusalém não se beneficiava de suas oportunidades em razão da presença do Senhor no templo, “no meio dela” (v. 5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Não atende a ninguém.",
+          "texto": "O povo tem ignorado a voz de Deus revelada na lei (Dt 31.9-13), por meio dos profetas (Jr 7.23-28; Ag 1.12) e por meio dos sábios (Pv 1.8)."
+        },
+        {
+          "titulo": "não aceita disciplina.",
+          "texto": "Ver v. 7. Não receber correção leva à morte (Pv 5.23), mas ser aberto à disciplina conduz à vida (Pv 6.23; Jr 2.30; 5.3; 7.28; 32.33; 35.13; Sl 50.17)."
+        },
+        {
+          "titulo": "se aproxima.",
+          "texto": "Aqui, o verbo hebraico significa “aproximar-se de Deus apropriadamente em adoração” (cf. Lv 10.3). A adoração tem de vir do coração, e não somente dos lábios (cf. Is 29.13; Jo 4.24). Jerusalém não se beneficiava de suas oportunidades em razão da presença do Senhor no templo, “no meio dela” (v. 5)."
+        }
+      ],
+      "paragrafos": [
+        "Não atende a ninguém. O povo tem ignorado a voz de Deus revelada na lei (Dt 31.9-13), por meio dos profetas (Jr 7.23-28; Ag 1.12) e por meio dos sábios (Pv 1.8).",
+        "não aceita disciplina. Ver v. 7. Não receber correção leva à morte (Pv 5.23), mas ser aberto à disciplina conduz à vida (Pv 6.23; Jr 2.30; 5.3; 7.28; 32.33; 35.13; Sl 50.17).",
+        "se aproxima. Aqui, o verbo hebraico significa “aproximar-se de Deus apropriadamente em adoração” (cf. Lv 10.3). A adoração tem de vir do coração, e não somente dos lábios (cf. Is 29.13; Jo 4.24). Jerusalém não se beneficiava de suas oportunidades em razão da presença do Senhor no templo, “no meio dela” (v. 5)."
+      ]
+    },
+    {
+      "id": "fr-sf-0037",
+      "referencia": "3.3,4",
+      "capitulo": 3,
+      "versiculos": [
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.3,4",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.3, 4 0 declmio da nagao e acelerado por lideran-",
+        "texto_ocr_pre_normalizacao": "0 declmio da nagao e acelerado por lideranga corrupta, da qual alguns dos principais grupos sao citados aqui (compare Mq 3.9-11). 0 rei nao e mencionado,o quepoderefletir o carater reformador dogoverno de Josias.",
+        "correcoes_literal_reversiveis": {
+          "nagao": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O declínio da nação é acelerado por liderança corrupta, da qual alguns dos principais grupos são citados aqui (compare Mq 3.9-11). O rei não é mencionado, o que pode refletir o caráter reformador do governo de Josias.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O declínio da nação é acelerado por liderança corrupta, da qual alguns dos principais grupos são citados aqui (compare Mq 3.9-11). O rei não é mencionado, o que pode refletir o caráter reformador do governo de Josias."
+        }
+      ],
+      "paragrafos": [
+        "O declínio da nação é acelerado por liderança corrupta, da qual alguns dos principais grupos são citados aqui (compare Mq 3.9-11). O rei não é mencionado, o que pode refletir o caráter reformador do governo de Josias."
+      ]
+    },
+    {
+      "id": "fr-sf-0038",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.3 principes no meio dela. Ver notano v 5",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "príncipes no meio dela. Ver nota no v. 5.\n\nleões rugidores. As imagens de leão e lobo impuros descrevem a natureza predatória e feroz dos oficiais corruptos do governo. Em vez de desempenharem seus papéis adequados de proteger e dar estabilidade à sociedade, eles assolavam o povo e tiravam vantagem deles.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Sf",
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "príncipes no meio dela.",
+          "texto": "Ver nota no v. 5."
+        },
+        {
+          "titulo": "leões rugidores.",
+          "texto": "As imagens de leão e lobo impuros descrevem a natureza predatória e feroz dos oficiais corruptos do governo. Em vez de desempenharem seus papéis adequados de proteger e dar estabilidade à sociedade, eles assolavam o povo e tiravam vantagem deles."
+        }
+      ],
+      "paragrafos": [
+        "príncipes no meio dela. Ver nota no v. 5.",
+        "leões rugidores. As imagens de leão e lobo impuros descrevem a natureza predatória e feroz dos oficiais corruptos do governo. Em vez de desempenharem seus papéis adequados de proteger e dar estabilidade à sociedade, eles assolavam o povo e tiravam vantagem deles."
+      ]
+    },
+    {
+      "id": "fr-sf-0039",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.4 seus profetas... seus sacerdotes. Con-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "seus profetas... seus sacerdotes. Condenações semelhantes de líderes espirituais de Israel podem ser vistas em Isaías 28.7; Jeremias 5.31; 6.13; Oseias 4.5, 6; Miqueias 3.5-8, 11.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "seus profetas... seus sacerdotes.",
+          "texto": "Condenações semelhantes de líderes espirituais de Israel podem ser vistas em Isaías 28.7; Jeremias 5.31; 6.13; Oseias 4.5, 6; Miqueias 3.5-8, 11."
+        }
+      ],
+      "paragrafos": [
+        "seus profetas... seus sacerdotes. Condenações semelhantes de líderes espirituais de Israel podem ser vistas em Isaías 28.7; Jeremias 5.31; 6.13; Oseias 4.5, 6; Miqueias 3.5-8, 11."
+      ]
+    },
+    {
+      "id": "fr-sf-0040",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1615,
+        "rotulo_original_ocr": "3.5 no meio dela. Sofonias contrasta a presen-",
+        "texto_ocr_pre_normalizacao": "no meio dela. Sofonias contrasta a presenga do Senhor justo em Jerusalem e a presenga de llderes injustos e corruptos no meio dela(v. 3).A essencia do compromisso pactual de Deus e a promessade sua presenga com seu povo (Ex 29.42-46, nota; Nm 14.14;Is 43.2). Aqui, a presenga de Deus ameaga julgamento (Os 11.9),mas essa mesmaexpressao em 3.17 significa salvagao.",
+        "correcoes_literal_reversiveis": {
+          "salvagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "no meio dela. Sofonias contrasta a presença do Senhor justo em Jerusalém e a presença de líderes injustos e corruptos no meio dela (v. 3). A essência do compromisso pactual de Deus é a promessa de sua presença com seu povo (Êx 29.42-46, nota; Nm 14.14; Is 43.2). Aqui, a presença de Deus ameaça julgamento (Os 11.9), mas essa mesma expressão em 3.17 significa salvação.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ex",
+          "capitulo": 29,
+          "versiculo": 42
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "no meio dela.",
+          "texto": "Sofonias contrasta a presença do Senhor justo em Jerusalém e a presença de líderes injustos e corruptos no meio dela (v. 3). A essência do compromisso pactual de Deus é a promessa de sua presença com seu povo (Êx 29.42-46, nota; Nm 14.14; Is 43.2). Aqui, a presença de Deus ameaça julgamento (Os 11.9), mas essa mesma expressão em 3.17 significa salvação."
+        }
+      ],
+      "paragrafos": [
+        "no meio dela. Sofonias contrasta a presença do Senhor justo em Jerusalém e a presença de líderes injustos e corruptos no meio dela (v. 3). A essência do compromisso pactual de Deus é a promessa de sua presença com seu povo (Êx 29.42-46, nota; Nm 14.14; Is 43.2). Aqui, a presença de Deus ameaça julgamento (Os 11.9), mas essa mesma expressão em 3.17 significa salvação."
+      ]
+    },
+    {
+      "id": "fr-sf-0041",
+      "referencia": "3.6-8",
+      "capitulo": 3,
+      "versiculos": [
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.6-8",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.6-8 A atengao se desloca de Jerusalem para",
+        "texto_ocr_pre_normalizacao": "A atengao se desloca de Jerusalem para as nagoes circunvizinhas. 0 profeta nota o julgamento anterior de Deussobre as nagoes (v. 6),que deveriaser uma ligaoparaJerusalem (v.7),antes de se voltar parao julgamentofuture(v.8).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A atenção se desloca de Jerusalém para as nações circunvizinhas. O profeta nota o julgamento anterior de Deus sobre as nações (v. 6), que deveria ser uma lição para Jerusalém (v. 7), antes de se voltar para o julgamento futuro (v. 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A atenção se desloca de Jerusalém para as nações circunvizinhas. O profeta nota o julgamento anterior de Deus sobre as nações (v. 6), que deveria ser uma lição para Jerusalém (v. 7), antes de se voltar para o julgamento futuro (v. 8)."
+        }
+      ],
+      "paragrafos": [
+        "A atenção se desloca de Jerusalém para as nações circunvizinhas. O profeta nota o julgamento anterior de Deus sobre as nações (v. 6), que deveria ser uma lição para Jerusalém (v. 7), antes de se voltar para o julgamento futuro (v. 8)."
+      ]
+    },
+    {
+      "id": "fr-sf-0042",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.7 aceitarasa disciplina. Ver v.2.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "aceitarás a disciplina. Ver v. 2.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "aceitarás a disciplina.",
+          "texto": "Ver v. 2."
+        }
+      ],
+      "paragrafos": [
+        "aceitarás a disciplina. Ver v. 2."
+      ]
+    },
+    {
+      "id": "fr-sf-0043",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.8 Esperai-me.Exortagaodirigida aos “mansos",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Esperai-me. Exortação dirigida aos “mansos da terra” (2.3). O julgamento do Senhor virá de uma maneira que prediz o dia final do Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Esperai-me.",
+          "texto": "Exortação dirigida aos “mansos da terra” (2.3). O julgamento do Senhor virá de uma maneira que prediz o dia final do Senhor."
+        }
+      ],
+      "paragrafos": [
+        "Esperai-me. Exortação dirigida aos “mansos da terra” (2.3). O julgamento do Senhor virá de uma maneira que prediz o dia final do Senhor."
+      ]
+    },
+    {
+      "id": "fr-sf-0044",
+      "referencia": "3.9-20",
+      "capitulo": 3,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "3.9-20",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.9-20 A inversao dramatica: o julgamento e o",
+        "texto_ocr_pre_normalizacao": "A inversao dramatica: o julgamento e o preludioparaarestauragaoea purificagao em Israel e entre as nagoes(vv. 9, 12,13).Num hino delouvor condusivo(3.14-20),oprofetacantasobreo reinofuture doSenhor,suavitoriasobre seus inimigoseseu amor por seu povo e sua presenga com eles. Agora, a igrejapode entoar essa cangao em celebragao da vitoria deCristo nacruz (Cl 2.15) e na expectativade seutriunfo,quandoeleretornar (2Ts1.5-10).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A inversão dramática: o julgamento é o prelúdio para a restauração e a purificação em Israel e entre as nações (vv. 9, 12, 13). Num hino de louvor conclusivo (3.14-20), o profeta canta sobre o reino futuro do Senhor, sua vitória sobre seus inimigos e seu amor por seu povo e sua presença com eles. Agora, a igreja pode entoar essa canção em celebração da vitória de Cristo na cruz (Cl 2.15) e na expectativa de seu triunfo, quando ele retornar (2Ts 1.5-10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A inversão dramática: o julgamento é o prelúdio para a restauração e a purificação em Israel e entre as nações (vv. 9, 12, 13). Num hino de louvor conclusivo (3.14-20), o profeta canta sobre o reino futuro do Senhor, sua vitória sobre seus inimigos e seu amor por seu povo e sua presença com eles. Agora, a igreja pode entoar essa canção em celebração da vitória de Cristo na cruz (Cl 2.15) e na expectativa de seu triunfo, quando ele retornar (2Ts 1.5-10)."
+        }
+      ],
+      "paragrafos": [
+        "A inversão dramática: o julgamento é o prelúdio para a restauração e a purificação em Israel e entre as nações (vv. 9, 12, 13). Num hino de louvor conclusivo (3.14-20), o profeta canta sobre o reino futuro do Senhor, sua vitória sobre seus inimigos e seu amor por seu povo e sua presença com eles. Agora, a igreja pode entoar essa canção em celebração da vitória de Cristo na cruz (Cl 2.15) e na expectativa de seu triunfo, quando ele retornar (2Ts 1.5-10)."
+      ]
+    },
+    {
+      "id": "fr-sf-0045",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.9 darei labios puros. Purificar os labios e ou",
+        "texto_ocr_pre_normalizacao": "darei labios puros. Purificar os labios e ou purificar-se do pecado em geral (Is 6.5) ou remover os nomes de deuses estrangeirosdos labios de um adorador (0s 2.17). aos povos. 0s gentios tambem invocarao o nome doSenhor (Is 52.15;65.1;66.18). para que todosinvoquem o nome do SE- NHOR.Em contraste com osidolatras de1.5, 6.Ver Genesis 4.26;1Reis 18.24;Jeremias 10.25;Joel 2.32; Atos 2.21;Romanos10.12,13.",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "darei lábios puros. Purificar os lábios é ou purificar-se do pecado em geral (Is 6.5) ou remover os nomes de deuses estrangeiros dos lábios de um adorador (Os 2.17).\n\naos povos. Os gentios também invocarão o nome do Senhor (Is 52.15; 65.1; 66.18).\n\npara que todos invoquem o nome do SENHOR. Em contraste com os idólatras de 1.5, 6. Ver Gênesis 4.26; 1 Reis 18.24; Jeremias 10.25; Joel 2.32; Atos 2.21; Romanos 10.12, 13.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "darei lábios puros.",
+          "texto": "Purificar os lábios é ou purificar-se do pecado em geral (Is 6.5) ou remover os nomes de deuses estrangeiros dos lábios de um adorador (Os 2.17)."
+        },
+        {
+          "titulo": "aos povos.",
+          "texto": "Os gentios também invocarão o nome do Senhor (Is 52.15; 65.1; 66.18)."
+        },
+        {
+          "titulo": "para que todos invoquem o nome do SENHOR.",
+          "texto": "Em contraste com os idólatras de 1.5, 6. Ver Gênesis 4.26; 1 Reis 18.24; Jeremias 10.25; Joel 2.32; Atos 2.21; Romanos 10.12, 13."
+        }
+      ],
+      "paragrafos": [
+        "darei lábios puros. Purificar os lábios é ou purificar-se do pecado em geral (Is 6.5) ou remover os nomes de deuses estrangeiros dos lábios de um adorador (Os 2.17).",
+        "aos povos. Os gentios também invocarão o nome do Senhor (Is 52.15; 65.1; 66.18).",
+        "para que todos invoquem o nome do SENHOR. Em contraste com os idólatras de 1.5, 6. Ver Gênesis 4.26; 1 Reis 18.24; Jeremias 10.25; Joel 2.32; Atos 2.21; Romanos 10.12, 13."
+      ]
+    },
+    {
+      "id": "fr-sf-0046",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.11 exultam na sua soberba. Ver Isaias 2.12-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "exultam na sua soberba. Ver Isaías 2.12-18.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "exultam na sua soberba.",
+          "texto": "Ver Isaías 2.12-18."
+        }
+      ],
+      "paragrafos": [
+        "exultam na sua soberba. Ver Isaías 2.12-18."
+      ]
+    },
+    {
+      "id": "fr-sf-0047",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.12 modesto e humilde. Esses sao contras-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "modesto e humilde. Esses são contrastados com os orgulhosos e soberbos do v. 11.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "modesto e humilde.",
+          "texto": "Esses são contrastados com os orgulhosos e soberbos do v. 11."
+        }
+      ],
+      "paragrafos": [
+        "modesto e humilde. Esses são contrastados com os orgulhosos e soberbos do v. 11."
+      ]
+    },
+    {
+      "id": "fr-sf-0048",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6,
+          7
+        ],
+        "pagina_impressa": 1616,
+        "rotulo_original_ocr": "3.13 Os restantes de Israel. Ver nota em 2.7.",
+        "texto_ocr_pre_normalizacao": "Os restantes de Israel. Ver nota em 2.7. nao cometerao iniquidade. 0 remanescente sera semelhante ao seu Deus. Palavras identicas sao usadas a respeito do Senhor no versi'culo 5.Um dos alvos primarios da salvagao e a conformidade sempre crescente aimagem de Deus (Mt 5.48;IPe 1.15,16;2Pe1.3,4). nem proferirao mentira. Em contraste com os idolatras enganosos de1.9. serao apascentados, deitar-se-ao. Uma expressaoprofetica comum (cf. Is 49.9; Jr 50.19; Ez 34.14;Mq 7.14) que retrata a segurangadispensada as ovelhas do Senhor por confiarem nele e reconhecerem seureinado (v. 15). naohaveraquern osespante.Ver Miqueias4.4",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "salvagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Os restantes de Israel. Ver nota em 2.7.\n\nnão cometerão iniquidade. O remanescente será semelhante ao seu Deus. Palavras idênticas são usadas a respeito do Senhor no versículo 5. Um dos alvos primários da salvação é a conformidade sempre crescente à imagem de Deus (Mt 5.48; 1Pe 1.15, 16; 2Pe 1.3, 4).\n\nnem proferirão mentira. Em contraste com os idólatras enganosos de 1.9.\n\nserão apascentados, deitar-se-ão. Uma expressão profética comum (cf. Is 49.9; Jr 50.19; Ez 34.14; Mq 7.14) que retrata a segurança dispensada às ovelhas do Senhor por confiarem nele e reconhecerem seu reinado (v. 15).\n\nnão haverá quem os espante. Ver Miqueias 4.4.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Sf",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Os restantes de Israel.",
+          "texto": "Ver nota em 2.7."
+        },
+        {
+          "titulo": "não cometerão iniquidade.",
+          "texto": "O remanescente será semelhante ao seu Deus. Palavras idênticas são usadas a respeito do Senhor no versículo 5. Um dos alvos primários da salvação é a conformidade sempre crescente à imagem de Deus (Mt 5.48; 1Pe 1.15, 16; 2Pe 1.3, 4)."
+        },
+        {
+          "titulo": "nem proferirão mentira.",
+          "texto": "Em contraste com os idólatras enganosos de 1.9."
+        },
+        {
+          "titulo": "serão apascentados, deitar-se-ão.",
+          "texto": "Uma expressão profética comum (cf. Is 49.9; Jr 50.19; Ez 34.14; Mq 7.14) que retrata a segurança dispensada às ovelhas do Senhor por confiarem nele e reconhecerem seu reinado (v. 15)."
+        },
+        {
+          "titulo": "não haverá quem os espante.",
+          "texto": "Ver Miqueias 4.4."
+        }
+      ],
+      "paragrafos": [
+        "Os restantes de Israel. Ver nota em 2.7.",
+        "não cometerão iniquidade. O remanescente será semelhante ao seu Deus. Palavras idênticas são usadas a respeito do Senhor no versículo 5. Um dos alvos primários da salvação é a conformidade sempre crescente à imagem de Deus (Mt 5.48; 1Pe 1.15, 16; 2Pe 1.3, 4).",
+        "nem proferirão mentira. Em contraste com os idólatras enganosos de 1.9.",
+        "serão apascentados, deitar-se-ão. Uma expressão profética comum (cf. Is 49.9; Jr 50.19; Ez 34.14; Mq 7.14) que retrata a segurança dispensada às ovelhas do Senhor por confiarem nele e reconhecerem seu reinado (v. 15).",
+        "não haverá quem os espante. Ver Miqueias 4.4."
+      ]
+    },
+    {
+      "id": "fr-sf-0049",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1617,
+        "rotulo_original_ocr": "3.14 filha de Siao. Essa personificagao de Je-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "filha de Sião. Essa personificação de Jerusalém se baseia na prática entre os poetas de personificar lugares e objetos em função do gênero gramatical. A palavra hebraica correspondente ao vocábulo “cidade” é feminina, e o profeta fala de Sião como “filha”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "filha de Sião.",
+          "texto": "Essa personificação de Jerusalém se baseia na prática entre os poetas de personificar lugares e objetos em função do gênero gramatical. A palavra hebraica correspondente ao vocábulo “cidade” é feminina, e o profeta fala de Sião como “filha”."
+        }
+      ],
+      "paragrafos": [
+        "filha de Sião. Essa personificação de Jerusalém se baseia na prática entre os poetas de personificar lugares e objetos em função do gênero gramatical. A palavra hebraica correspondente ao vocábulo “cidade” é feminina, e o profeta fala de Sião como “filha”."
+      ]
+    },
+    {
+      "id": "fr-sf-0050",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1617,
+        "rotulo_original_ocr": "3.15 sentengas... teu inimigo. 0motivo para",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sentenças... teu inimigo. O motivo para o regozijo no versículo 14 é que os julgamentos contra o povo de Deus são removidos, e o inimigo que os ameaça é vencido. Essa profecia encontra cumprimento final em Jesus Cristo, que satisfez o julgamento de Deus contra o pecado e venceu os inimigos de Deus por meio de sua morte na cruz (Rm 3.23-25; Cl 2.15, nota).\n\nO Rei de Israel... no meio de ti. A promessa da habitação de Deus no meio de seu povo aponta para Cristo, o Rei de Israel (Jo 1.49) e a glória de Deus encarnada (Êx 26 e Jo 1.14, notas).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Cl",
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "sentenças... teu inimigo.",
+          "texto": "O motivo para o regozijo no versículo 14 é que os julgamentos contra o povo de Deus são removidos, e o inimigo que os ameaça é vencido. Essa profecia encontra cumprimento final em Jesus Cristo, que satisfez o julgamento de Deus contra o pecado e venceu os inimigos de Deus por meio de sua morte na cruz (Rm 3.23-25; Cl 2.15, nota)."
+        },
+        {
+          "titulo": "O Rei de Israel... no meio de ti.",
+          "texto": "A promessa da habitação de Deus no meio de seu povo aponta para Cristo, o Rei de Israel (Jo 1.49) e a glória de Deus encarnada (Êx 26 e Jo 1.14, notas)."
+        }
+      ],
+      "paragrafos": [
+        "sentenças... teu inimigo. O motivo para o regozijo no versículo 14 é que os julgamentos contra o povo de Deus são removidos, e o inimigo que os ameaça é vencido. Essa profecia encontra cumprimento final em Jesus Cristo, que satisfez o julgamento de Deus contra o pecado e venceu os inimigos de Deus por meio de sua morte na cruz (Rm 3.23-25; Cl 2.15, nota).",
+        "O Rei de Israel... no meio de ti. A promessa da habitação de Deus no meio de seu povo aponta para Cristo, o Rei de Israel (Jo 1.49) e a glória de Deus encarnada (Êx 26 e Jo 1.14, notas)."
+      ]
+    },
+    {
+      "id": "fr-sf-0051",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1617,
+        "rotulo_original_ocr": "3.17ele se deleitara em ti com alegria. Esse",
+        "texto_ocr_pre_normalizacao": "ele se deleitara em ti com alegria. Esse deleite se baseiano carater deDeus,que “tern prazer namisericordia\" (Mq 718) renovar-te-a no seu amor. A expressao traduzida como \"renovar-te-a\" tambem pode ser traduzida como “esta quieto\" ou \"descansa\" No contexto mais amplo, Deus foi revelado como o Guerreiro Divino, aquele que e \"poderoso para salvar\" Agora, o grito de guerra (1.14) e aquietado pela vitoria e pelo relacionamento de amor entre Deus e seu povo. A obra purificadora e transformadora da graga do Senhor cria um povo renovado que reconhece seu governo e confiaem seu nome (v. 12).",
+        "correcoes_literal_reversiveis": {
+          "tern": 1,
+          "tambem": 1,
+          "graga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "ele se deleitará em ti com alegria. Esse deleite se baseia no caráter de Deus, que “tem prazer na misericórdia” (Mq 7.18).\n\nrenovar-te-á no seu amor. A expressão traduzida como “renovar-te-á” também pode ser traduzida como “está quieto” ou “descansa”. No contexto mais amplo, Deus foi revelado como o Guerreiro Divino, aquele que é “poderoso para salvar”. Agora, o grito de guerra (1.14) é aquietado pela vitória e pelo relacionamento de amor entre Deus e seu povo. A obra purificadora e transformadora da graça do Senhor cria um povo renovado que reconhece seu governo e confia em seu nome (v. 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "ele se deleitará em ti com alegria.",
+          "texto": "Esse deleite se baseia no caráter de Deus, que “tem prazer na misericórdia” (Mq 7.18)."
+        },
+        {
+          "titulo": "renovar-te-á no seu amor.",
+          "texto": "A expressão traduzida como “renovar-te-á” também pode ser traduzida como “está quieto” ou “descansa”. No contexto mais amplo, Deus foi revelado como o Guerreiro Divino, aquele que é “poderoso para salvar”. Agora, o grito de guerra (1.14) é aquietado pela vitória e pelo relacionamento de amor entre Deus e seu povo. A obra purificadora e transformadora da graça do Senhor cria um povo renovado que reconhece seu governo e confia em seu nome (v. 12)."
+        }
+      ],
+      "paragrafos": [
+        "ele se deleitará em ti com alegria. Esse deleite se baseia no caráter de Deus, que “tem prazer na misericórdia” (Mq 7.18).",
+        "renovar-te-á no seu amor. A expressão traduzida como “renovar-te-á” também pode ser traduzida como “está quieto” ou “descansa”. No contexto mais amplo, Deus foi revelado como o Guerreiro Divino, aquele que é “poderoso para salvar”. Agora, o grito de guerra (1.14) é aquietado pela vitória e pelo relacionamento de amor entre Deus e seu povo. A obra purificadora e transformadora da graça do Senhor cria um povo renovado que reconhece seu governo e confia em seu nome (v. 12)."
+      ]
+    },
+    {
+      "id": "fr-sf-0052",
+      "referencia": "3.18-20",
+      "capitulo": 3,
+      "versiculos": [
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "3.18-20",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1617,
+        "rotulo_original_ocr": "3.18-20 congregarei. Os verbos repetidos na",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "congregarei. Os verbos repetidos na primeira pessoa enfatizam a iniciativa e a soberana determinação do Senhor para realizar essa restauração.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "congregarei.",
+          "texto": "Os verbos repetidos na primeira pessoa enfatizam a iniciativa e a soberana determinação do Senhor para realizar essa restauração."
+        }
+      ],
+      "paragrafos": [
+        "congregarei. Os verbos repetidos na primeira pessoa enfatizam a iniciativa e a soberana determinação do Senhor para realizar essa restauração."
+      ]
+    },
+    {
+      "id": "fr-sf-0053",
+      "referencia": "3.19",
+      "capitulo": 3,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.19",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "077 - Sofonias (Sf).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1617,
+        "rotulo_original_ocr": "3.19 um louvor e umnome.Ver v 20 A expres-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "um louvor e um nome. Ver v. 20. A expressão reporta-se a Deuteronômio 26.18-19, em que Israel, como povo especial do Senhor, é privilegiado em representá-lo e ser um meio tangível pelo qual louvor, honra e glória são dados ao Senhor (cf. Is 43.7; Jr 13.11; 33.9). Paulo vê a igreja nesse papel (Tt 2.14), como ocorre com Pedro (1Pe 2.9-12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "um louvor e um nome.",
+          "texto": "Ver v. 20. A expressão reporta-se a Deuteronômio 26.18-19, em que Israel, como povo especial do Senhor, é privilegiado em representá-lo e ser um meio tangível pelo qual louvor, honra e glória são dados ao Senhor (cf. Is 43.7; Jr 13.11; 33.9). Paulo vê a igreja nesse papel (Tt 2.14), como ocorre com Pedro (1Pe 2.9-12)."
+        }
+      ],
+      "paragrafos": [
+        "um louvor e um nome. Ver v. 20. A expressão reporta-se a Deuteronômio 26.18-19, em que Israel, como povo especial do Senhor, é privilegiado em representá-lo e ser um meio tangível pelo qual louvor, honra e glória são dados ao Senhor (cf. Is 43.7; Jr 13.11; 33.9). Paulo vê a igreja nesse papel (Tt 2.14), como ocorre com Pedro (1Pe 2.9-12)."
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

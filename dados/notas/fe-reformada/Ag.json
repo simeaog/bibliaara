@@ -1,0 +1,1597 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Ag",
+  "titulo": "Ageu",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "079 - Ageu (Ag).pdf",
+    "paginas_pdf": [
+      1,
+      4
+    ],
+    "observacao": "Cotejo visual das páginas 1622–1625. Subtítulos e parágrafos estruturados; itálicos, segunda leitura independente e teste funcional pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-ag-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.1 segundo ano do rei Dario... sexto",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "segundo ano do rei Dario... sexto mês... primeiro dia. Cada um dos sermões de Ageu é cuidadosamente datado, e essa é uma característica incomum entre os profetas bíblicos. Essas datas conectam os acontecimentos descritos no livro ao pano de fundo mais amplo da história mundial. Esse oráculo aconteceu provavelmente em 29 de agosto de 520 a.C., quando a estabilidade estava retornando ao império, depois de um tempo de inquietude que se seguiu à ascensão de Dario. O sexto mês era o tempo de colher as árvores frutíferas, depois das outras colheitas; por isso, era um tempo natural para avaliar o sucesso do ano agrícola. O primeiro dia do mês, a “lua nova”, era um dia de festa, quando multidões provavelmente se reuniam no local do templo. A mensagem de Ageu era dirigida publicamente ao líderes, de modo que o povo também respondesse (1.12).\n\nZorobabel. Pode ser a mesma pessoa que Sesbazar (cf. Ed 1.8), pois, a respeito de ambos, diz-se que reconstruíram o templo. Sesbazar pode ser uma designação persa oficial. No entanto, é mais provável que sejam pessoas distintas. Zorobabel era o neto do rei Joaquim (1Cr 3.19) e descendente de Davi (2.23, nota), instituído pelos persas como governador da província de Judá.\n\nJosué, filho de Jozadaque. Ver 1 Crônicas 6.15. Um descendente do sacerdote Zadoque. Durante o governo persa, Zorobabel tinha responsabilidade sobre os afazeres civis diários da região. Josué, porém, como sumo sacerdote, lidava com os assuntos religiosos.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ag",
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "impresso: ao líderes (concordância)"
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "segundo ano do rei Dario... sexto mês... primeiro dia.",
+          "texto": "Cada um dos sermões de Ageu é cuidadosamente datado, e essa é uma característica incomum entre os profetas bíblicos. Essas datas conectam os acontecimentos descritos no livro ao pano de fundo mais amplo da história mundial. Esse oráculo aconteceu provavelmente em 29 de agosto de 520 a.C., quando a estabilidade estava retornando ao império, depois de um tempo de inquietude que se seguiu à ascensão de Dario. O sexto mês era o tempo de colher as árvores frutíferas, depois das outras colheitas; por isso, era um tempo natural para avaliar o sucesso do ano agrícola. O primeiro dia do mês, a “lua nova”, era um dia de festa, quando multidões provavelmente se reuniam no local do templo. A mensagem de Ageu era dirigida publicamente ao líderes, de modo que o povo também respondesse (1.12)."
+        },
+        {
+          "titulo": "Zorobabel.",
+          "texto": "Pode ser a mesma pessoa que Sesbazar (cf. Ed 1.8), pois, a respeito de ambos, diz-se que reconstruíram o templo. Sesbazar pode ser uma designação persa oficial. No entanto, é mais provável que sejam pessoas distintas. Zorobabel era o neto do rei Joaquim (1Cr 3.19) e descendente de Davi (2.23, nota), instituído pelos persas como governador da província de Judá."
+        },
+        {
+          "titulo": "Josué, filho de Jozadaque.",
+          "texto": "Ver 1 Crônicas 6.15. Um descendente do sacerdote Zadoque. Durante o governo persa, Zorobabel tinha responsabilidade sobre os afazeres civis diários da região. Josué, porém, como sumo sacerdote, lidava com os assuntos religiosos."
+        }
+      ],
+      "paragrafos": [
+        "segundo ano do rei Dario... sexto mês... primeiro dia. Cada um dos sermões de Ageu é cuidadosamente datado, e essa é uma característica incomum entre os profetas bíblicos. Essas datas conectam os acontecimentos descritos no livro ao pano de fundo mais amplo da história mundial. Esse oráculo aconteceu provavelmente em 29 de agosto de 520 a.C., quando a estabilidade estava retornando ao império, depois de um tempo de inquietude que se seguiu à ascensão de Dario. O sexto mês era o tempo de colher as árvores frutíferas, depois das outras colheitas; por isso, era um tempo natural para avaliar o sucesso do ano agrícola. O primeiro dia do mês, a “lua nova”, era um dia de festa, quando multidões provavelmente se reuniam no local do templo. A mensagem de Ageu era dirigida publicamente ao líderes, de modo que o povo também respondesse (1.12).",
+        "Zorobabel. Pode ser a mesma pessoa que Sesbazar (cf. Ed 1.8), pois, a respeito de ambos, diz-se que reconstruíram o templo. Sesbazar pode ser uma designação persa oficial. No entanto, é mais provável que sejam pessoas distintas. Zorobabel era o neto do rei Joaquim (1Cr 3.19) e descendente de Davi (2.23, nota), instituído pelos persas como governador da província de Judá.",
+        "Josué, filho de Jozadaque. Ver 1 Crônicas 6.15. Um descendente do sacerdote Zadoque. Durante o governo persa, Zorobabel tinha responsabilidade sobre os afazeres civis diários da região. Josué, porém, como sumo sacerdote, lidava com os assuntos religiosos."
+      ]
+    },
+    {
+      "id": "fr-ag-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.2 Este povo. Uma expressao de desprazer",
+        "texto_ocr_pre_normalizacao": "Este povo. Uma expressao de desprazer implicito (214). 0s versiculos 2 a 11 denunciam a mdiferenga espiritual e as prioridades mal ordenadas do povo de Deus Nao veio ainda o tempo. A objegao deles nao era a propria reconstrugao, mas, sim, ao tempo de realiza-la. As rejeigoes podem ser sazonais,porque, quando Ageu estava mimstrando, era tempo de colheita, ou, em sentido mais geral, eram economicas,porque sua terra passava por dificuldade(cf. vv.10,11) Nesse tempo, o exercito persa fazia preparativos para um ataque ao Egito, para o qual os vassalos do imperio.inclusive Juda, deveriam contribuir Parecia haver um desammo geral quanto ao futuro Essas desculpas mostram que eles nao buscavam o reino de Deus e sua justiga(cf Mt 6 33) Casa do SENHOR. 0 templo em Jerusalem era o lugar de habitagao da presenga especial de Deus com seu povo, durante a epoca da antiga alianga (IRs 8.27- 30). Hoje, Deus habita graciosamente em seu templo, a igreja (lCo 316, 17).",
+        "correcoes_literal_reversiveis": {
+          "nao": 2,
+          "propria": 1,
+          "justiga": 1,
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Este povo. Uma expressão de desprazer implícito (2.14). Os versículos 2 a 11 denunciam a indiferença espiritual e as prioridades mal ordenadas do povo de Deus.\n\nNão veio ainda o tempo. A objeção deles não era à própria reconstrução, mas, sim, ao tempo de realizá-la. As rejeições podem ser sazonais, porque, quando Ageu estava ministrando, era tempo de colheita, ou, em sentido mais geral, eram econômicas, porque sua terra passava por dificuldade (cf. vv. 10, 11). Nesse tempo, o exército persa fazia preparativos para um ataque ao Egito, para o qual os vassalos do império, inclusive Judá, deveriam contribuir. Parecia haver um desânimo geral quanto ao futuro. Essas desculpas mostram que eles não buscavam o reino de Deus e sua justiça (cf. Mt 6.33).\n\nCasa do SENHOR. O templo em Jerusalém era o lugar de habitação da presença especial de Deus com seu povo, durante a época da antiga aliança (1Rs 8.27-30). Hoje, Deus habita graciosamente em seu templo, a igreja (1Co 3.16, 17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Este povo.",
+          "texto": "Uma expressão de desprazer implícito (2.14). Os versículos 2 a 11 denunciam a indiferença espiritual e as prioridades mal ordenadas do povo de Deus."
+        },
+        {
+          "titulo": "Não veio ainda o tempo.",
+          "texto": "A objeção deles não era à própria reconstrução, mas, sim, ao tempo de realizá-la. As rejeições podem ser sazonais, porque, quando Ageu estava ministrando, era tempo de colheita, ou, em sentido mais geral, eram econômicas, porque sua terra passava por dificuldade (cf. vv. 10, 11). Nesse tempo, o exército persa fazia preparativos para um ataque ao Egito, para o qual os vassalos do império, inclusive Judá, deveriam contribuir. Parecia haver um desânimo geral quanto ao futuro. Essas desculpas mostram que eles não buscavam o reino de Deus e sua justiça (cf. Mt 6.33)."
+        },
+        {
+          "titulo": "Casa do SENHOR.",
+          "texto": "O templo em Jerusalém era o lugar de habitação da presença especial de Deus com seu povo, durante a época da antiga aliança (1Rs 8.27-30). Hoje, Deus habita graciosamente em seu templo, a igreja (1Co 3.16, 17)."
+        }
+      ],
+      "paragrafos": [
+        "Este povo. Uma expressão de desprazer implícito (2.14). Os versículos 2 a 11 denunciam a indiferença espiritual e as prioridades mal ordenadas do povo de Deus.",
+        "Não veio ainda o tempo. A objeção deles não era à própria reconstrução, mas, sim, ao tempo de realizá-la. As rejeições podem ser sazonais, porque, quando Ageu estava ministrando, era tempo de colheita, ou, em sentido mais geral, eram econômicas, porque sua terra passava por dificuldade (cf. vv. 10, 11). Nesse tempo, o exército persa fazia preparativos para um ataque ao Egito, para o qual os vassalos do império, inclusive Judá, deveriam contribuir. Parecia haver um desânimo geral quanto ao futuro. Essas desculpas mostram que eles não buscavam o reino de Deus e sua justiça (cf. Mt 6.33).",
+        "Casa do SENHOR. O templo em Jerusalém era o lugar de habitação da presença especial de Deus com seu povo, durante a época da antiga aliança (1Rs 8.27-30). Hoje, Deus habita graciosamente em seu templo, a igreja (1Co 3.16, 17)."
+      ]
+    },
+    {
+      "id": "fr-ag-0003",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.4 casas apaineladas. Ageu revela a hipocri-",
+        "texto_ocr_pre_normalizacao": "casas apaineladas. Ageu revela a hipocrisia das objegoes deles por meio de uma pergunta retdrica As casas tern provavelmente telhados e paredes revestidos de madeira (IRs 73, Jr 2214) Eles estao vivendo em relativo luxo, enquanto a casa de Deus permanece em ruinas Mais espe - cificamente, visto que a palavra \"apaineladas\" e usada em outras passagens em referenda ao templo, parece que eles dispoem, para edificar suas casas, dos proprios recursos que afirmam nao possuir para edificar a casa de Deus",
+        "correcoes_literal_reversiveis": {
+          "tern": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "casas apaineladas. Ageu revela a hipocrisia das objeções deles por meio de uma pergunta retórica. As casas têm provavelmente telhados e paredes revestidos de madeira (1Rs 7.3; Jr 22.14). Eles estão vivendo em relativo luxo, enquanto a casa de Deus permanece em ruínas. Mais especificamente, visto que a palavra “apaineladas” é usada em outras passagens em referência ao templo, parece que eles dispõem, para edificar suas casas, dos próprios recursos que afirmam não possuir para edificar a casa de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "casas apaineladas.",
+          "texto": "Ageu revela a hipocrisia das objeções deles por meio de uma pergunta retórica. As casas têm provavelmente telhados e paredes revestidos de madeira (1Rs 7.3; Jr 22.14). Eles estão vivendo em relativo luxo, enquanto a casa de Deus permanece em ruínas. Mais especificamente, visto que a palavra “apaineladas” é usada em outras passagens em referência ao templo, parece que eles dispõem, para edificar suas casas, dos próprios recursos que afirmam não possuir para edificar a casa de Deus."
+        }
+      ],
+      "paragrafos": [
+        "casas apaineladas. Ageu revela a hipocrisia das objeções deles por meio de uma pergunta retórica. As casas têm provavelmente telhados e paredes revestidos de madeira (1Rs 7.3; Jr 22.14). Eles estão vivendo em relativo luxo, enquanto a casa de Deus permanece em ruínas. Mais especificamente, visto que a palavra “apaineladas” é usada em outras passagens em referência ao templo, parece que eles dispõem, para edificar suas casas, dos próprios recursos que afirmam não possuir para edificar a casa de Deus."
+      ]
+    },
+    {
+      "id": "fr-ag-0004",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.5 Considerai o vosso passado. 0 povo",
+        "texto_ocr_pre_normalizacao": "Considerai o vosso passado. 0 povo pode estar culpando Deus pela escassez de frutos, mas o problema e sua propria falta de obediencia",
+        "correcoes_literal_reversiveis": {
+          "propria": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Considerai o vosso passado. O povo pode estar culpando Deus pela escassez de frutos, mas o problema é sua própria falta de obediência.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Considerai o vosso passado.",
+          "texto": "O povo pode estar culpando Deus pela escassez de frutos, mas o problema é sua própria falta de obediência."
+        }
+      ],
+      "paragrafos": [
+        "Considerai o vosso passado. O povo pode estar culpando Deus pela escassez de frutos, mas o problema é sua própria falta de obediência."
+      ]
+    },
+    {
+      "id": "fr-ag-0005",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.6 Tendes semeado muito e recolhido",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Tendes semeado muito e recolhido pouco. Sua dificuldade econômica e social é o efeito da maldição pactual de Deus sobre sua desobediência (Lv 26.20; Dt 11.8-15; 28.29, 38-40). Deus frustrou os esforços deles por causa de sua falta de interesse pela glória de Deus. Essas maldições de improdutividade eram comuns nos tratados pactuais do antigo Oriente Próximo.\n\nsaquitel furado. O povo é comparado a um trabalhador que recebe o salário pelo qual trabalhou, colocando-o deliberadamente num saco furado, de modo que grande parte que ele recebeu se perde no caminho para casa. Como resultado, sua vida é frustrantemente insatisfatória.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tendes semeado muito e recolhido pouco.",
+          "texto": "Sua dificuldade econômica e social é o efeito da maldição pactual de Deus sobre sua desobediência (Lv 26.20; Dt 11.8-15; 28.29, 38-40). Deus frustrou os esforços deles por causa de sua falta de interesse pela glória de Deus. Essas maldições de improdutividade eram comuns nos tratados pactuais do antigo Oriente Próximo."
+        },
+        {
+          "titulo": "saquitel furado.",
+          "texto": "O povo é comparado a um trabalhador que recebe o salário pelo qual trabalhou, colocando-o deliberadamente num saco furado, de modo que grande parte que ele recebeu se perde no caminho para casa. Como resultado, sua vida é frustrantemente insatisfatória."
+        }
+      ],
+      "paragrafos": [
+        "Tendes semeado muito e recolhido pouco. Sua dificuldade econômica e social é o efeito da maldição pactual de Deus sobre sua desobediência (Lv 26.20; Dt 11.8-15; 28.29, 38-40). Deus frustrou os esforços deles por causa de sua falta de interesse pela glória de Deus. Essas maldições de improdutividade eram comuns nos tratados pactuais do antigo Oriente Próximo.",
+        "saquitel furado. O povo é comparado a um trabalhador que recebe o salário pelo qual trabalhou, colocando-o deliberadamente num saco furado, de modo que grande parte que ele recebeu se perde no caminho para casa. Como resultado, sua vida é frustrantemente insatisfatória."
+      ]
+    },
+    {
+      "id": "fr-ag-0006",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.8 delame agradarei e serei glorificado.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "dela me agradarei e serei glorificado. O propósito de Deus no empreendimento é a alegria especial que ele terá nesse edifício e a honra apropriada que receberá por isso da parte de seu povo. A falta de interesse deles na reconstrução revela sua falta de saúde espiritual.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "dela me agradarei e serei glorificado.",
+          "texto": "O propósito de Deus no empreendimento é a alegria especial que ele terá nesse edifício e a honra apropriada que receberá por isso da parte de seu povo. A falta de interesse deles na reconstrução revela sua falta de saúde espiritual."
+        }
+      ],
+      "paragrafos": [
+        "dela me agradarei e serei glorificado. O propósito de Deus no empreendimento é a alegria especial que ele terá nesse edifício e a honra apropriada que receberá por isso da parte de seu povo. A falta de interesse deles na reconstrução revela sua falta de saúde espiritual."
+      ]
+    },
+    {
+      "id": "fr-ag-0007",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.9 sua propriacasa. 0 foco de sua vida esta-",
+        "texto_ocr_pre_normalizacao": "sua propriacasa. 0 foco de sua vida estavana edificagao de seus proprios bens e familia, e nao na edificagao do reino de Deus.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sua própria casa. O foco de sua vida estava na edificação de seus próprios bens e família, e não na edificação do reino de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "sua própria casa.",
+          "texto": "O foco de sua vida estava na edificação de seus próprios bens e família, e não na edificação do reino de Deus."
+        }
+      ],
+      "paragrafos": [
+        "sua própria casa. O foco de sua vida estava na edificação de seus próprios bens e família, e não na edificação do reino de Deus."
+      ]
+    },
+    {
+      "id": "fr-ag-0008",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1622,
+        "rotulo_original_ocr": "1.11 a seca. A secanas colheitas de Juda provem",
+        "texto_ocr_pre_normalizacao": "a seca. A secanas colheitas de Juda provem da maldigao de Deus sobre a agricultura deles, em harmonia com sua alianga (16, nota, Dt 7.13) A palavra hebraica traduzida como “rumas\" no versiculo 9 tern um som parecido com a palavra hebraica que sigmfica “seca\" aqui 0 jogo de palavras de Ageu reforga o argumento de que a seca e a resposta divina a negligencia deles para com acasade Deus",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1,
+          "tern": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a seca. A seca nas colheitas de Judá provém da maldição de Deus sobre a agricultura deles, em harmonia com sua aliança (1.6, nota; Dt 7.13). A palavra hebraica traduzida como “ruínas” no versículo 9 tem um som parecido com a palavra hebraica que significa “seca” aqui. O jogo de palavras de Ageu reforça o argumento de que a seca é a resposta divina à negligência deles para com a casa de Deus.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ag",
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "a seca.",
+          "texto": "A seca nas colheitas de Judá provém da maldição de Deus sobre a agricultura deles, em harmonia com sua aliança (1.6, nota; Dt 7.13). A palavra hebraica traduzida como “ruínas” no versículo 9 tem um som parecido com a palavra hebraica que significa “seca” aqui. O jogo de palavras de Ageu reforça o argumento de que a seca é a resposta divina à negligência deles para com a casa de Deus."
+        }
+      ],
+      "paragrafos": [
+        "a seca. A seca nas colheitas de Judá provém da maldição de Deus sobre a agricultura deles, em harmonia com sua aliança (1.6, nota; Dt 7.13). A palavra hebraica traduzida como “ruínas” no versículo 9 tem um som parecido com a palavra hebraica que significa “seca” aqui. O jogo de palavras de Ageu reforça o argumento de que a seca é a resposta divina à negligência deles para com a casa de Deus."
+      ]
+    },
+    {
+      "id": "fr-ag-0009",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "1.12 resto. Um termo comum usado pelos profe-",
+        "texto_ocr_pre_normalizacao": "resto. Um termo comum usado pelos profetas para descrever aqueles do povo de Deus que permanecem fieis a ele em meio a mcredulidade (Is 10.22, cf Zc 13.9) Usar esse termo aqul focaliza a atengao no fato de que Deus os preservou atraves dojulgamento do exilio babilomco. No Novo Testamento, Paulo fala sobre um remanescente flel em Israel — judeus que creram em Cristo (Rm 11.5). voz do SENHOR... palavras do profeta Ageu Eles reconhecem a palavra de Deus por meio da voz do profeta A revelagao de Deus sempre realiza o proposito tencionado para ela (Is 551, Hb 4.12). o povo temeu diante do SENHOR. Em face das consequencias por infidelidade que eles ja haviam recebido, essa e uma reagao sabia e apropriada",
+        "correcoes_literal_reversiveis": {
+          "exilio": 1,
+          "revelagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "resto. Um termo comum usado pelos profetas para descrever aqueles do povo de Deus que permanecem fiéis a ele em meio à incredulidade (Is 10.22; cf. Zc 13.9). Usar esse termo aqui focaliza a atenção no fato de que Deus os preservou através do julgamento do exílio babilônico. No Novo Testamento, Paulo fala sobre um remanescente fiel em Israel — judeus que creram em Cristo (Rm 11.5).\n\nvoz do SENHOR... palavras do profeta Ageu. Eles reconhecem a palavra de Deus por meio da voz do profeta. A revelação de Deus sempre realiza o propósito tencionado para ela (Is 55.1; Hb 4.12).\n\no povo temeu diante do SENHOR. Em face das consequências por infidelidade que eles já haviam recebido, essa é uma reação sábia e apropriada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "referência impressa Is 55.1; verificar intenção editorial"
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "resto.",
+          "texto": "Um termo comum usado pelos profetas para descrever aqueles do povo de Deus que permanecem fiéis a ele em meio à incredulidade (Is 10.22; cf. Zc 13.9). Usar esse termo aqui focaliza a atenção no fato de que Deus os preservou através do julgamento do exílio babilônico. No Novo Testamento, Paulo fala sobre um remanescente fiel em Israel — judeus que creram em Cristo (Rm 11.5)."
+        },
+        {
+          "titulo": "voz do SENHOR... palavras do profeta Ageu.",
+          "texto": "Eles reconhecem a palavra de Deus por meio da voz do profeta. A revelação de Deus sempre realiza o propósito tencionado para ela (Is 55.1; Hb 4.12)."
+        },
+        {
+          "titulo": "o povo temeu diante do SENHOR.",
+          "texto": "Em face das consequências por infidelidade que eles já haviam recebido, essa é uma reação sábia e apropriada."
+        }
+      ],
+      "paragrafos": [
+        "resto. Um termo comum usado pelos profetas para descrever aqueles do povo de Deus que permanecem fiéis a ele em meio à incredulidade (Is 10.22; cf. Zc 13.9). Usar esse termo aqui focaliza a atenção no fato de que Deus os preservou através do julgamento do exílio babilônico. No Novo Testamento, Paulo fala sobre um remanescente fiel em Israel — judeus que creram em Cristo (Rm 11.5).",
+        "voz do SENHOR... palavras do profeta Ageu. Eles reconhecem a palavra de Deus por meio da voz do profeta. A revelação de Deus sempre realiza o propósito tencionado para ela (Is 55.1; Hb 4.12).",
+        "o povo temeu diante do SENHOR. Em face das consequências por infidelidade que eles já haviam recebido, essa é uma reação sábia e apropriada."
+      ]
+    },
+    {
+      "id": "fr-ag-0010",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "1.13 Eu sou convosco. Uma vez que o povo",
+        "texto_ocr_pre_normalizacao": "Eu sou convosco. Uma vez que o povo se arrepende de seu pecado, recebe a maior seguranga possivel a presenga de Deus A presenga graciosa de Deus com seu povo e o amago do relacionamento da alianga (Zc 8 8,nota)",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Eu sou convosco. Uma vez que o povo se arrepende de seu pecado, recebe a maior segurança possível: a presença de Deus. A presença graciosa de Deus com seu povo é o âmago do relacionamento da aliança (Zc 8.8, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Zc",
+          "capitulo": 8,
+          "versiculo": 8
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Eu sou convosco.",
+          "texto": "Uma vez que o povo se arrepende de seu pecado, recebe a maior segurança possível: a presença de Deus. A presença graciosa de Deus com seu povo é o âmago do relacionamento da aliança (Zc 8.8, nota)."
+        }
+      ],
+      "paragrafos": [
+        "Eu sou convosco. Uma vez que o povo se arrepende de seu pecado, recebe a maior segurança possível: a presença de Deus. A presença graciosa de Deus com seu povo é o âmago do relacionamento da aliança (Zc 8.8, nota)."
+      ]
+    },
+    {
+      "id": "fr-ag-0011",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "1.14 despertou o espirito. Deus mesmo pro-",
+        "texto_ocr_pre_normalizacao": "despertou o espirito. Deus mesmo produz a resposta de seu povo por sua presenga com ele Ageu enfatiza a resposta interna pela repetigao tripla de 'espirito'' O Espirito de Deus opera de forma eficaz por meio de sua Palavra, que Ageu comumcou, a fim de realizar seu proposito soberano (cf . Is 55.11) 0 resultado do arrependimento e a obedienciarenovada",
+        "correcoes_literal_reversiveis": {
+          "espirito": 2,
+          "Espirito": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "despertou o espírito. Deus mesmo produz a resposta de seu povo por sua presença com ele. Ageu enfatiza a resposta interna pela repetição tripla de “espírito”. O Espírito de Deus opera de forma eficaz por meio de sua Palavra, que Ageu comunicou, a fim de realizar seu propósito soberano (cf. Is 55.11). O resultado do arrependimento é a obediência renovada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "despertou o espírito.",
+          "texto": "Deus mesmo produz a resposta de seu povo por sua presença com ele. Ageu enfatiza a resposta interna pela repetição tripla de “espírito”. O Espírito de Deus opera de forma eficaz por meio de sua Palavra, que Ageu comunicou, a fim de realizar seu propósito soberano (cf. Is 55.11). O resultado do arrependimento é a obediência renovada."
+        }
+      ],
+      "paragrafos": [
+        "despertou o espírito. Deus mesmo produz a resposta de seu povo por sua presença com ele. Ageu enfatiza a resposta interna pela repetição tripla de “espírito”. O Espírito de Deus opera de forma eficaz por meio de sua Palavra, que Ageu comunicou, a fim de realizar seu propósito soberano (cf. Is 55.11). O resultado do arrependimento é a obediência renovada."
+      ]
+    },
+    {
+      "id": "fr-ag-0012",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "1.15 vigesimo quarto dia do sexto mes.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vigésimo quarto dia do sexto mês. Provavelmente, 21 de setembro de 520 a.C., apenas 23 dias após o oráculo inicial.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "vigésimo quarto dia do sexto mês.",
+          "texto": "Provavelmente, 21 de setembro de 520 a.C., apenas 23 dias após o oráculo inicial."
+        }
+      ],
+      "paragrafos": [
+        "vigésimo quarto dia do sexto mês. Provavelmente, 21 de setembro de 520 a.C., apenas 23 dias após o oráculo inicial."
+      ]
+    },
+    {
+      "id": "fr-ag-0013",
+      "referencia": "2.1-9",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.1-9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "2.1-9 0 Senhor fala novamente ao povo, en-",
+        "texto_ocr_pre_normalizacao": "0 Senhor fala novamente ao povo, encorajando-o dessa vez a contmuar edificando Relatos sobre a magnificencia do templo de Salomao agora destruido sao aparentemente uma fonte de desencorajamento (v 3) Em primeiro lugar. o Senhor os assegura de sua presenga continua com eles- uma promessa para o presente (vv 4, 5) Em segundo, o Senhor os assegura do alvo futuro de seu projeto (vv 6-9) Ainda que, comparatlvamente, esse templo parega humilde sua gloria finalmente superara em muito o templo de Salomao, porque sera agraciado com a presenga do proprio Messias (v 9, nota)",
+        "correcoes_literal_reversiveis": {
+          "proprio": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O Senhor fala novamente ao povo, encorajando-o dessa vez a continuar edificando. Relatos sobre a magnificência do templo de Salomão agora destruído são aparentemente uma fonte de desencorajamento (v. 3). Em primeiro lugar, o Senhor os assegura de sua presença contínua com eles — uma promessa para o presente (vv. 4, 5). Em segundo, o Senhor os assegura do alvo futuro de seu projeto (vv. 6-9). Ainda que, comparativamente, esse templo pareça humilde, sua glória finalmente superará em muito o templo de Salomão, porque será agraciado com a presença do próprio Messias (v. 9, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ag",
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O Senhor fala novamente ao povo, encorajando-o dessa vez a continuar edificando. Relatos sobre a magnificência do templo de Salomão agora destruído são aparentemente uma fonte de desencorajamento (v. 3). Em primeiro lugar, o Senhor os assegura de sua presença contínua com eles — uma promessa para o presente (vv. 4, 5). Em segundo, o Senhor os assegura do alvo futuro de seu projeto (vv. 6-9). Ainda que, comparativamente, esse templo pareça humilde, sua glória finalmente superará em muito o templo de Salomão, porque será agraciado com a presença do próprio Messias (v. 9, nota)."
+        }
+      ],
+      "paragrafos": [
+        "O Senhor fala novamente ao povo, encorajando-o dessa vez a continuar edificando. Relatos sobre a magnificência do templo de Salomão agora destruído são aparentemente uma fonte de desencorajamento (v. 3). Em primeiro lugar, o Senhor os assegura de sua presença contínua com eles — uma promessa para o presente (vv. 4, 5). Em segundo, o Senhor os assegura do alvo futuro de seu projeto (vv. 6-9). Ainda que, comparativamente, esse templo pareça humilde, sua glória finalmente superará em muito o templo de Salomão, porque será agraciado com a presença do próprio Messias (v. 9, nota)."
+      ]
+    },
+    {
+      "id": "fr-ag-0014",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "2.1 setimo mes... vigesimo primeiro. 17",
+        "texto_ocr_pre_normalizacao": "setimo mes... vigesimo primeiro. 17 de outubro de 520 a C 0 ano nao e menclonado explicitamente, devemos presumir que ainda e o segundo ano de Dario (ver 115) De acordo com Levitico 23 33-43, esse e o ultimo dia da Festa dos Tabernaculos, durante a qual o pcvo de Deus deve regozijar-se na provisao de Deus para eles no deserto e nas bengaos da colheita. Uma vez mais, e o tempo de um ajuntamento importante, dando ao profeta a oportunidade de se dingir a um enorme grupo de pessoas No entanto, nao ha muito em que se regozijarem nesse ano pois sua colheita e escassa (111) 0 templo de Salomao tambem foi dedicado na epoca da mesma festa (IRs 8 2).",
+        "correcoes_literal_reversiveis": {
+          "nao": 2,
+          "bengaos": 1,
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sétimo mês... vigésimo primeiro. 17 de outubro de 520 a.C. O ano não é mencionado explicitamente; devemos presumir que ainda é o segundo ano de Dario (ver 1.15). De acordo com Levítico 23.33-43, esse é o último dia da Festa dos Tabernáculos, durante a qual o povo de Deus deve regozijar-se na provisão de Deus para eles no deserto e nas bênçãos da colheita. Uma vez mais, é o tempo de um ajuntamento importante, dando ao profeta a oportunidade de se dirigir a um enorme grupo de pessoas. No entanto, não há muito em que se regozijarem nesse ano, pois sua colheita é escassa (1.11). O templo de Salomão também foi dedicado na época da mesma festa (1Rs 8.2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "sétimo mês... vigésimo primeiro.",
+          "texto": "17 de outubro de 520 a.C. O ano não é mencionado explicitamente; devemos presumir que ainda é o segundo ano de Dario (ver 1.15). De acordo com Levítico 23.33-43, esse é o último dia da Festa dos Tabernáculos, durante a qual o povo de Deus deve regozijar-se na provisão de Deus para eles no deserto e nas bênçãos da colheita. Uma vez mais, é o tempo de um ajuntamento importante, dando ao profeta a oportunidade de se dirigir a um enorme grupo de pessoas. No entanto, não há muito em que se regozijarem nesse ano, pois sua colheita é escassa (1.11). O templo de Salomão também foi dedicado na época da mesma festa (1Rs 8.2)."
+        }
+      ],
+      "paragrafos": [
+        "sétimo mês... vigésimo primeiro. 17 de outubro de 520 a.C. O ano não é mencionado explicitamente; devemos presumir que ainda é o segundo ano de Dario (ver 1.15). De acordo com Levítico 23.33-43, esse é o último dia da Festa dos Tabernáculos, durante a qual o povo de Deus deve regozijar-se na provisão de Deus para eles no deserto e nas bênçãos da colheita. Uma vez mais, é o tempo de um ajuntamento importante, dando ao profeta a oportunidade de se dirigir a um enorme grupo de pessoas. No entanto, não há muito em que se regozijarem nesse ano, pois sua colheita é escassa (1.11). O templo de Salomão também foi dedicado na época da mesma festa (1Rs 8.2)."
+      ]
+    },
+    {
+      "id": "fr-ag-0015",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "2.2 resto do povo. 0 primeiro sermao de",
+        "texto_ocr_pre_normalizacao": "resto do povo. 0 primeiro sermao de Ageu foi dirigido aos lideres, porque eles tinham de iniciar a obra 0 povo comum e incluido agora porque essa mensagem tern o proposito de encoraja-los no que diz respeito a obra em andamento. Lembrar o primeiro exodo e a peregrinagao no deserto era especialmente mcentivador para esse grupo de pessoas que haviam experimentado, em tempos recentes, seu proprio exodo da Babiloma",
+        "correcoes_literal_reversiveis": {
+          "tern": 1,
+          "proprio": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "resto do povo. O primeiro sermão de Ageu foi dirigido aos líderes, porque eles tinham de iniciar a obra. O povo comum é incluído agora porque essa mensagem tem o propósito de encorajá-los no que diz respeito à obra em andamento. Lembrar o primeiro êxodo e a peregrinação no deserto era especialmente incentivador para esse grupo de pessoas que haviam experimentado, em tempos recentes, seu próprio êxodo da Babilônia.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "resto do povo.",
+          "texto": "O primeiro sermão de Ageu foi dirigido aos líderes, porque eles tinham de iniciar a obra. O povo comum é incluído agora porque essa mensagem tem o propósito de encorajá-los no que diz respeito à obra em andamento. Lembrar o primeiro êxodo e a peregrinação no deserto era especialmente incentivador para esse grupo de pessoas que haviam experimentado, em tempos recentes, seu próprio êxodo da Babilônia."
+        }
+      ],
+      "paragrafos": [
+        "resto do povo. O primeiro sermão de Ageu foi dirigido aos líderes, porque eles tinham de iniciar a obra. O povo comum é incluído agora porque essa mensagem tem o propósito de encorajá-los no que diz respeito à obra em andamento. Lembrar o primeiro êxodo e a peregrinação no deserto era especialmente incentivador para esse grupo de pessoas que haviam experimentado, em tempos recentes, seu próprio êxodo da Babilônia."
+      ]
+    },
+    {
+      "id": "fr-ag-0016",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "2.3 esta casa na sua primeira gloria. Os",
+        "texto_ocr_pre_normalizacao": "esta casa na sua primeira gloria. Os versiculos 1-3 sugerem que o povo sentiu-se desanimado pela relativa falta de esplendor do novo templo (cf 2Cr 3 e 4) e pela dificuldade da tarefa que tinham diante de si Embora o templo reedificado fosse, em suas dimensoes, semelhante ao templo anterior faltavam-lhe o esplendor fisico e a importance politica do templo de Salomao Tambem nao possuia a gloria espiritual (do hebraico kabod) do Senhor que deixara o templo de Salomao nos dias de Ezequiel, antes de sua destruigao pelos babilonios (Ez 10)",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "esta casa na sua primeira glória. Os versículos 1-3 sugerem que o povo sentiu-se desanimado pela relativa falta de esplendor do novo templo (cf. 2Cr 3 e 4) e pela dificuldade da tarefa que tinham diante de si. Embora o templo reedificado fosse, em suas dimensões, semelhante ao templo anterior, faltavam-lhe o esplendor físico e a importância política do templo de Salomão. Também não possuía a glória espiritual (do hebraico kabod) do Senhor, que deixara o templo de Salomão nos dias de Ezequiel, antes de sua destruição pelos babilônios (Ez 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "esta casa na sua primeira glória.",
+          "texto": "Os versículos 1-3 sugerem que o povo sentiu-se desanimado pela relativa falta de esplendor do novo templo (cf. 2Cr 3 e 4) e pela dificuldade da tarefa que tinham diante de si. Embora o templo reedificado fosse, em suas dimensões, semelhante ao templo anterior, faltavam-lhe o esplendor físico e a importância política do templo de Salomão. Também não possuía a glória espiritual (do hebraico kabod) do Senhor, que deixara o templo de Salomão nos dias de Ezequiel, antes de sua destruição pelos babilônios (Ez 10)."
+        }
+      ],
+      "paragrafos": [
+        "esta casa na sua primeira glória. Os versículos 1-3 sugerem que o povo sentiu-se desanimado pela relativa falta de esplendor do novo templo (cf. 2Cr 3 e 4) e pela dificuldade da tarefa que tinham diante de si. Embora o templo reedificado fosse, em suas dimensões, semelhante ao templo anterior, faltavam-lhe o esplendor físico e a importância política do templo de Salomão. Também não possuía a glória espiritual (do hebraico kabod) do Senhor, que deixara o templo de Salomão nos dias de Ezequiel, antes de sua destruição pelos babilônios (Ez 10)."
+      ]
+    },
+    {
+      "id": "fr-ag-0017",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "2.4 se forte. A repetigao tnpla acrescenta enfa-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sê forte. A repetição tripla acrescenta ênfase à ordem. Ordens semelhantes acompanharam a edificação do templo de Salomão (1Cr 22.13; 28.20; cf. Gl 6.9) e a entrada na terra de Canaã sob a liderança de Josué (Js 1.6).\n\neu sou convosco. A presença do Senhor e seu poder sustentador garantem o sucesso final dos esforços deles. Essa promessa está no âmago do relacionamento pactual de Deus com seu povo (Êx 33.15, 16; cf. Hb 13.5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "sê forte.",
+          "texto": "A repetição tripla acrescenta ênfase à ordem. Ordens semelhantes acompanharam a edificação do templo de Salomão (1Cr 22.13; 28.20; cf. Gl 6.9) e a entrada na terra de Canaã sob a liderança de Josué (Js 1.6)."
+        },
+        {
+          "titulo": "eu sou convosco.",
+          "texto": "A presença do Senhor e seu poder sustentador garantem o sucesso final dos esforços deles. Essa promessa está no âmago do relacionamento pactual de Deus com seu povo (Êx 33.15, 16; cf. Hb 13.5)."
+        }
+      ],
+      "paragrafos": [
+        "sê forte. A repetição tripla acrescenta ênfase à ordem. Ordens semelhantes acompanharam a edificação do templo de Salomão (1Cr 22.13; 28.20; cf. Gl 6.9) e a entrada na terra de Canaã sob a liderança de Josué (Js 1.6).",
+        "eu sou convosco. A presença do Senhor e seu poder sustentador garantem o sucesso final dos esforços deles. Essa promessa está no âmago do relacionamento pactual de Deus com seu povo (Êx 33.15, 16; cf. Hb 13.5)."
+      ]
+    },
+    {
+      "id": "fr-ag-0018",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1623,
+        "rotulo_original_ocr": "2.5 alianga que fiz convosco. As promes-",
+        "texto_ocr_pre_normalizacao": "alianga que fiz convosco. As promessas da alianga de Deus, firmada com seu povo no exodo do Egito, asseguram, agora, ao povo a certeza da presenga de Deus (cf. Ex 3312-17, Nm 11.16, 17) 0 poderoso Espirito de Deus esta presente, como nos dias do livramento do Egi - to (cf. Zc 4 6)",
+        "correcoes_literal_reversiveis": {
+          "alianga": 2,
+          "Espirito": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "aliança que fiz convosco. As promessas da aliança de Deus, firmada com seu povo no êxodo do Egito, asseguram, agora, ao povo a certeza da presença de Deus (cf. Êx 33.12-17; Nm 11.16, 17). O poderoso Espírito de Deus está presente, como nos dias do livramento do Egito (cf. Zc 4.6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "aliança que fiz convosco.",
+          "texto": "As promessas da aliança de Deus, firmada com seu povo no êxodo do Egito, asseguram, agora, ao povo a certeza da presença de Deus (cf. Êx 33.12-17; Nm 11.16, 17). O poderoso Espírito de Deus está presente, como nos dias do livramento do Egito (cf. Zc 4.6)."
+        }
+      ],
+      "paragrafos": [
+        "aliança que fiz convosco. As promessas da aliança de Deus, firmada com seu povo no êxodo do Egito, asseguram, agora, ao povo a certeza da presença de Deus (cf. Êx 33.12-17; Nm 11.16, 17). O poderoso Espírito de Deus está presente, como nos dias do livramento do Egito (cf. Zc 4.6)."
+      ]
+    },
+    {
+      "id": "fr-ag-0019",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1624,
+        "rotulo_original_ocr": "2.6 Ainda uma vez... farei abalar. Como e",
+        "texto_ocr_pre_normalizacao": "Ainda uma vez... farei abalar. Como e comum nos profetas, o futuro proximo e o futuro remoto sao compactados ou condensados no mesmo oraculo. Aqui, as references a gloria do segundo templo sao justapostas com um quadro do julgamento final e universal no cosmos. Embora esse abalo possa ser prefigurado por eventos politicos havidos logo apos o tempo de Ageu (p. ex., a derrota dos persas pelos gregos), o abalo final da ordem criada ainda esta por vir (Hb 12.26-28). A Festa dos Tabernaculos,com sua reapresentagao do periodo no deserto, sempre teve um foco que olhava para frente, prevendo um cumprimento maior das promessas de Deus. Era um lembrete anual de que a terra de Canaa nao era o verdadeiro lar deles. Esse anseio seteria mtensificado nos tempos de dificuldade, como nos dias de Ageu. A linguagem de abalar a terra e caracteristica das teofanias,quando a presenga do Senhor se manifesta na terra.Aqui, o aparecimento finaldo Senhor esta em vista.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ainda uma vez... farei abalar. Como é comum nos profetas, o futuro próximo e o futuro remoto são compactados ou condensados no mesmo oráculo. Aqui, as referências à glória do segundo templo são justapostas com um quadro do julgamento final e universal no cosmos. Embora esse abalo possa ser prefigurado por eventos políticos havidos logo após o tempo de Ageu (p. ex., a derrota dos persas pelos gregos), o abalo final da ordem criada ainda está por vir (Hb 12.26-28). A Festa dos Tabernáculos, com sua reapresentação do período no deserto, sempre teve um foco que olhava para frente, prevendo um cumprimento maior das promessas de Deus. Era um lembrete anual de que a terra de Canaã não era o verdadeiro lar deles. Esse anseio se teria intensificado nos tempos de dificuldade, como nos dias de Ageu. A linguagem de abalar a terra é característica das teofanias, quando a presença do Senhor se manifesta na terra. Aqui, o aparecimento final do Senhor está em vista.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ainda uma vez... farei abalar.",
+          "texto": "Como é comum nos profetas, o futuro próximo e o futuro remoto são compactados ou condensados no mesmo oráculo. Aqui, as referências à glória do segundo templo são justapostas com um quadro do julgamento final e universal no cosmos. Embora esse abalo possa ser prefigurado por eventos políticos havidos logo após o tempo de Ageu (p. ex., a derrota dos persas pelos gregos), o abalo final da ordem criada ainda está por vir (Hb 12.26-28). A Festa dos Tabernáculos, com sua reapresentação do período no deserto, sempre teve um foco que olhava para frente, prevendo um cumprimento maior das promessas de Deus. Era um lembrete anual de que a terra de Canaã não era o verdadeiro lar deles. Esse anseio se teria intensificado nos tempos de dificuldade, como nos dias de Ageu. A linguagem de abalar a terra é característica das teofanias, quando a presença do Senhor se manifesta na terra. Aqui, o aparecimento final do Senhor está em vista."
+        }
+      ],
+      "paragrafos": [
+        "Ainda uma vez... farei abalar. Como é comum nos profetas, o futuro próximo e o futuro remoto são compactados ou condensados no mesmo oráculo. Aqui, as referências à glória do segundo templo são justapostas com um quadro do julgamento final e universal no cosmos. Embora esse abalo possa ser prefigurado por eventos políticos havidos logo após o tempo de Ageu (p. ex., a derrota dos persas pelos gregos), o abalo final da ordem criada ainda está por vir (Hb 12.26-28). A Festa dos Tabernáculos, com sua reapresentação do período no deserto, sempre teve um foco que olhava para frente, prevendo um cumprimento maior das promessas de Deus. Era um lembrete anual de que a terra de Canaã não era o verdadeiro lar deles. Esse anseio se teria intensificado nos tempos de dificuldade, como nos dias de Ageu. A linguagem de abalar a terra é característica das teofanias, quando a presença do Senhor se manifesta na terra. Aqui, o aparecimento final do Senhor está em vista."
+      ]
+    },
+    {
+      "id": "fr-ag-0020",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1624,
+        "rotulo_original_ocr": "2.7 coisas preciosas de todas as nagoes.",
+        "texto_ocr_pre_normalizacao": "coisas preciosas de todas as nagoes. Emboraapalavrahebraica traduzida como \"coisas preciosas\" possa referir-se a uma pessoa (ou seja, o Messias), o contexto imediato aqui favorece uma referenda as coisas desejadas por todas as nagoes (ou seja, as coisas preciosas para elas), especialmente porque o verbo hebraico e plural. 0 versiculo 8 fala dessascoisas preciosas, eo decreto do rei Dario, em cujo reinado Ageu ministrou,alude a coisas preciosas sendo dadas em contribuigao para o projeto de construgao do templo (Ed 6.3-5, 8, 9). Aqui, o profeta Ageu ecoa provavelmente a promessa deIsaias a respeitodeumIsrael enriquecido pelas riquezas das nagoes (Is 60 5) Em outras palavras,Ageu fala da era messianica encherei de gloria esta casa. A intengao de Deus e honrar a si mesmo pela manifestagao de sua presengagloriosa diante de \"todas as nagoes” Quando a presenga de Deus enche o templo, as nagoes vem para a luz (Is 2.3-5; 60.3).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 5
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "coisas preciosas de todas as nações. Embora a palavra hebraica traduzida como “coisas preciosas” possa referir-se a uma pessoa (ou seja, o Messias), o contexto imediato aqui favorece uma referência às coisas desejadas por todas as nações (ou seja, as coisas preciosas para elas), especialmente porque o verbo hebraico é plural. O versículo 8 fala dessas coisas preciosas, e o decreto do rei Dario, em cujo reinado Ageu ministrou, alude a coisas preciosas sendo dadas em contribuição para o projeto de construção do templo (Ed 6.3-5, 8, 9). Aqui, o profeta Ageu ecoa provavelmente a promessa de Isaías a respeito de um Israel enriquecido pelas riquezas das nações (Is 60.5). Em outras palavras, Ageu fala da era messiânica.\n\nencherei de glória esta casa. A intenção de Deus é honrar a si mesmo pela manifestação de sua presença gloriosa diante de “todas as nações”. Quando a presença de Deus enche o templo, as nações vêm para a luz (Is 2.3-5; 60.3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "coisas preciosas de todas as nações.",
+          "texto": "Embora a palavra hebraica traduzida como “coisas preciosas” possa referir-se a uma pessoa (ou seja, o Messias), o contexto imediato aqui favorece uma referência às coisas desejadas por todas as nações (ou seja, as coisas preciosas para elas), especialmente porque o verbo hebraico é plural. O versículo 8 fala dessas coisas preciosas, e o decreto do rei Dario, em cujo reinado Ageu ministrou, alude a coisas preciosas sendo dadas em contribuição para o projeto de construção do templo (Ed 6.3-5, 8, 9). Aqui, o profeta Ageu ecoa provavelmente a promessa de Isaías a respeito de um Israel enriquecido pelas riquezas das nações (Is 60.5). Em outras palavras, Ageu fala da era messiânica."
+        },
+        {
+          "titulo": "encherei de glória esta casa.",
+          "texto": "A intenção de Deus é honrar a si mesmo pela manifestação de sua presença gloriosa diante de “todas as nações”. Quando a presença de Deus enche o templo, as nações vêm para a luz (Is 2.3-5; 60.3)."
+        }
+      ],
+      "paragrafos": [
+        "coisas preciosas de todas as nações. Embora a palavra hebraica traduzida como “coisas preciosas” possa referir-se a uma pessoa (ou seja, o Messias), o contexto imediato aqui favorece uma referência às coisas desejadas por todas as nações (ou seja, as coisas preciosas para elas), especialmente porque o verbo hebraico é plural. O versículo 8 fala dessas coisas preciosas, e o decreto do rei Dario, em cujo reinado Ageu ministrou, alude a coisas preciosas sendo dadas em contribuição para o projeto de construção do templo (Ed 6.3-5, 8, 9). Aqui, o profeta Ageu ecoa provavelmente a promessa de Isaías a respeito de um Israel enriquecido pelas riquezas das nações (Is 60.5). Em outras palavras, Ageu fala da era messiânica.",
+        "encherei de glória esta casa. A intenção de Deus é honrar a si mesmo pela manifestação de sua presença gloriosa diante de “todas as nações”. Quando a presença de Deus enche o templo, as nações vêm para a luz (Is 2.3-5; 60.3)."
+      ]
+    },
+    {
+      "id": "fr-ag-0021",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1624,
+        "rotulo_original_ocr": "2.8 a prata... o ouro. Como o soberano possui-",
+        "texto_ocr_pre_normalizacao": "a prata... o ouro. Como o soberano possuidor detodasas coisas(cf. SI24.1;50.9-12),Deusrealizaratanto sua propriaglorificagao como a heranga de seu povo da riqueza das nagoes (Is 60.5). Quando Ageu entrega essa profecia, boa parte daprata e do ouro saqueadosdo templo por Nabucodonosor aindanaohaviaretornado. Ver notano v 7.",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a prata... o ouro. Como o soberano possuidor de todas as coisas (cf. Sl 24.1; 50.9-12), Deus realizará tanto sua própria glorificação como a herança de seu povo da riqueza das nações (Is 60.5). Quando Ageu entrega essa profecia, boa parte da prata e do ouro saqueados do templo por Nabucodonosor ainda não havia retornado. Ver nota no v. 7.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ag",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "a prata... o ouro.",
+          "texto": "Como o soberano possuidor de todas as coisas (cf. Sl 24.1; 50.9-12), Deus realizará tanto sua própria glorificação como a herança de seu povo da riqueza das nações (Is 60.5). Quando Ageu entrega essa profecia, boa parte da prata e do ouro saqueados do templo por Nabucodonosor ainda não havia retornado. Ver nota no v. 7."
+        }
+      ],
+      "paragrafos": [
+        "a prata... o ouro. Como o soberano possuidor de todas as coisas (cf. Sl 24.1; 50.9-12), Deus realizará tanto sua própria glorificação como a herança de seu povo da riqueza das nações (Is 60.5). Quando Ageu entrega essa profecia, boa parte da prata e do ouro saqueados do templo por Nabucodonosor ainda não havia retornado. Ver nota no v. 7."
+      ]
+    },
+    {
+      "id": "fr-ag-0022",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1624,
+        "rotulo_original_ocr": "2.9 gloria. 0 tabernaculo e o templo foram",
+        "texto_ocr_pre_normalizacao": "gloria. 0 tabernaculo e o templo foram cheiosdagloria de Deus (Ex 40 34, 35,IRs 8.10, 11), e Ageu prediz que issoacontecera denovo quando o templo estiver reconstruido Essa promessa degloriamaior e realizada emCristo, a maior manifestagao da presenga e dagloria de Deus (Ml 3.1, Jo1.14). neste lugar, darei a paz. Essa paz (do hebraico shalom ) significa mais do que ausencia de conflito. Envolve tambem prosperidade e um senso de bem-estar total, ou seja,a salvagao plena. Cristo da paz aos crentes agora (Jo 14.27), mas o cumprimento final esperapelo tempo em que o Senhor,Deus todo-poderoso, e o Cordeiro serao o templo da NovaJerusalem (Ap 21.22)",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1,
+          "salvagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "glória. O tabernáculo e o templo foram cheios da glória de Deus (Êx 40.34, 35; 1Rs 8.10, 11), e Ageu prediz que isso acontecerá de novo quando o templo estiver reconstruído. Essa promessa de glória maior é realizada em Cristo, a maior manifestação da presença e da glória de Deus (Ml 3.1; Jo 1.14).\n\nneste lugar, darei a paz. Essa paz (do hebraico shalom) significa mais do que ausência de conflito. Envolve também prosperidade e um senso de bem-estar total, ou seja, a salvação plena. Cristo dá paz aos crentes agora (Jo 14.27), mas o cumprimento final espera pelo tempo em que o Senhor, Deus todo-poderoso, e o Cordeiro serão o templo da Nova Jerusalém (Ap 21.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "glória.",
+          "texto": "O tabernáculo e o templo foram cheios da glória de Deus (Êx 40.34, 35; 1Rs 8.10, 11), e Ageu prediz que isso acontecerá de novo quando o templo estiver reconstruído. Essa promessa de glória maior é realizada em Cristo, a maior manifestação da presença e da glória de Deus (Ml 3.1; Jo 1.14)."
+        },
+        {
+          "titulo": "neste lugar, darei a paz.",
+          "texto": "Essa paz (do hebraico shalom) significa mais do que ausência de conflito. Envolve também prosperidade e um senso de bem-estar total, ou seja, a salvação plena. Cristo dá paz aos crentes agora (Jo 14.27), mas o cumprimento final espera pelo tempo em que o Senhor, Deus todo-poderoso, e o Cordeiro serão o templo da Nova Jerusalém (Ap 21.22)."
+        }
+      ],
+      "paragrafos": [
+        "glória. O tabernáculo e o templo foram cheios da glória de Deus (Êx 40.34, 35; 1Rs 8.10, 11), e Ageu prediz que isso acontecerá de novo quando o templo estiver reconstruído. Essa promessa de glória maior é realizada em Cristo, a maior manifestação da presença e da glória de Deus (Ml 3.1; Jo 1.14).",
+        "neste lugar, darei a paz. Essa paz (do hebraico shalom) significa mais do que ausência de conflito. Envolve também prosperidade e um senso de bem-estar total, ou seja, a salvação plena. Cristo dá paz aos crentes agora (Jo 14.27), mas o cumprimento final espera pelo tempo em que o Senhor, Deus todo-poderoso, e o Cordeiro serão o templo da Nova Jerusalém (Ap 21.22)."
+      ]
+    },
+    {
+      "id": "fr-ag-0023",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1624,
+        "rotulo_original_ocr": "2.10 vigesimo quarto dia do mes nono.",
+        "texto_ocr_pre_normalizacao": "vigesimo quarto dia do mes nono. Essa data nao tern importancia especial em relagao ao calendario de festas, porem e a data mais importante no livro, sendo repetida tres vezes (2.10, 18, 20). Sua importancia resulta do evento registrado no v 18, a refundagao simbolica do templo A sequencia temporal e importante para a interpretagao da terceira mensagem, que comega com uma nota de julgamento (vv. 10-14). 0 povo se arrependeu e iniciou a obra em 21 de setembro de 520 a.C. (1.15), e Ageu trouxe uma mensagem de encorajamento em 17 de outubro do mesmo ano (2.1-9). Aqui,em 18 de dezembro, ele comega outra mensagem deadmoestagao.Nao basta reconstruir otemplo;aquestaoprofundade contaminagaodo povodiantedeum Deus santo precisa ser tratada.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "tern": 1,
+          "relagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vigésimo quarto dia do mês nono. Essa data não tem importância especial em relação ao calendário de festas, porém é a data mais importante no livro, sendo repetida três vezes (2.10, 18, 20). Sua importância resulta do evento registrado no v. 18, a refundação simbólica do templo. A sequência temporal é importante para a interpretação da terceira mensagem, que começa com uma nota de julgamento (vv. 10-14). O povo se arrependeu e iniciou a obra em 21 de setembro de 520 a.C. (1.15), e Ageu trouxe uma mensagem de encorajamento em 17 de outubro do mesmo ano (2.1-9). Aqui, em 18 de dezembro, ele começa outra mensagem de admoestação. Não basta reconstruir o templo; a questão profunda de contaminação do povo diante de um Deus santo precisa ser tratada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "vigésimo quarto dia do mês nono.",
+          "texto": "Essa data não tem importância especial em relação ao calendário de festas, porém é a data mais importante no livro, sendo repetida três vezes (2.10, 18, 20). Sua importância resulta do evento registrado no v. 18, a refundação simbólica do templo. A sequência temporal é importante para a interpretação da terceira mensagem, que começa com uma nota de julgamento (vv. 10-14). O povo se arrependeu e iniciou a obra em 21 de setembro de 520 a.C. (1.15), e Ageu trouxe uma mensagem de encorajamento em 17 de outubro do mesmo ano (2.1-9). Aqui, em 18 de dezembro, ele começa outra mensagem de admoestação. Não basta reconstruir o templo; a questão profunda de contaminação do povo diante de um Deus santo precisa ser tratada."
+        }
+      ],
+      "paragrafos": [
+        "vigésimo quarto dia do mês nono. Essa data não tem importância especial em relação ao calendário de festas, porém é a data mais importante no livro, sendo repetida três vezes (2.10, 18, 20). Sua importância resulta do evento registrado no v. 18, a refundação simbólica do templo. A sequência temporal é importante para a interpretação da terceira mensagem, que começa com uma nota de julgamento (vv. 10-14). O povo se arrependeu e iniciou a obra em 21 de setembro de 520 a.C. (1.15), e Ageu trouxe uma mensagem de encorajamento em 17 de outubro do mesmo ano (2.1-9). Aqui, em 18 de dezembro, ele começa outra mensagem de admoestação. Não basta reconstruir o templo; a questão profunda de contaminação do povo diante de um Deus santo precisa ser tratada."
+      ]
+    },
+    {
+      "id": "fr-ag-0024",
+      "referencia": "2.11-14",
+      "capitulo": 2,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.11-14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1624,
+        "rotulo_original_ocr": "2.11-14 Essa porgao do terceiro sermao de Ageu,",
+        "texto_ocr_pre_normalizacao": "Essa porgao do terceiro sermao de Ageu, enfatizando a contaminagao ampla do povo e de seus esforgos, desenvolve uma ligao objetiva extraida da lei cerimonial mosaica.Um dos principals deveres dos sacerdotes e ensinar a lei, respondendo a perguntas sobre seu conteudo e significado (cf. Dt 33.10) As perguntas que o Senhor manda Ageu dirigir aos sacerdotes destinam-se a mostrar que, enquanto a santidade cerimonial nao e transferivel (v. 12), a contaminagao cerimonial o e (v. 13). Em seguida, Ageu aplica a ligao das perguntas antecedentes aos seus ouvintes (v. 14) Eles contaminaram a obra do templo e suas ofertas porqueseuafastamento de Deusera mais profundo do que conseguiam compreender. A simples presenga de um templo reconstruido nao os tornara santos como umpovo (cf. Jr 7.3-7).Deus exige mudanga genuina de coragao e vida, e nao mera conformagao exterior.",
+        "correcoes_literal_reversiveis": {
+          "nao": 3
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa porção do terceiro sermão de Ageu, enfatizando a contaminação ampla do povo e de seus esforços, desenvolve uma lição objetiva extraída da lei cerimonial mosaica. Um dos principais deveres dos sacerdotes é ensinar a lei, respondendo a perguntas sobre seu conteúdo e significado (cf. Dt 33.10). As perguntas que o Senhor manda Ageu dirigir aos sacerdotes destinam-se a mostrar que, enquanto a santidade cerimonial não é transferível (v. 12), a contaminação cerimonial o é (v. 13). Em seguida, Ageu aplica a lição das perguntas antecedentes aos seus ouvintes (v. 14). Eles contaminaram a obra do templo e suas ofertas porque seu afastamento de Deus era mais profundo do que conseguiam compreender. A simples presença de um templo reconstruído não os tornará santos como um povo (cf. Jr 7.3-7). Deus exige mudança genuína de coração e vida, e não mera conformação exterior.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa porção do terceiro sermão de Ageu, enfatizando a contaminação ampla do povo e de seus esforços, desenvolve uma lição objetiva extraída da lei cerimonial mosaica. Um dos principais deveres dos sacerdotes é ensinar a lei, respondendo a perguntas sobre seu conteúdo e significado (cf. Dt 33.10). As perguntas que o Senhor manda Ageu dirigir aos sacerdotes destinam-se a mostrar que, enquanto a santidade cerimonial não é transferível (v. 12), a contaminação cerimonial o é (v. 13). Em seguida, Ageu aplica a lição das perguntas antecedentes aos seus ouvintes (v. 14). Eles contaminaram a obra do templo e suas ofertas porque seu afastamento de Deus era mais profundo do que conseguiam compreender. A simples presença de um templo reconstruído não os tornará santos como um povo (cf. Jr 7.3-7). Deus exige mudança genuína de coração e vida, e não mera conformação exterior."
+        }
+      ],
+      "paragrafos": [
+        "Essa porção do terceiro sermão de Ageu, enfatizando a contaminação ampla do povo e de seus esforços, desenvolve uma lição objetiva extraída da lei cerimonial mosaica. Um dos principais deveres dos sacerdotes é ensinar a lei, respondendo a perguntas sobre seu conteúdo e significado (cf. Dt 33.10). As perguntas que o Senhor manda Ageu dirigir aos sacerdotes destinam-se a mostrar que, enquanto a santidade cerimonial não é transferível (v. 12), a contaminação cerimonial o é (v. 13). Em seguida, Ageu aplica a lição das perguntas antecedentes aos seus ouvintes (v. 14). Eles contaminaram a obra do templo e suas ofertas porque seu afastamento de Deus era mais profundo do que conseguiam compreender. A simples presença de um templo reconstruído não os tornará santos como um povo (cf. Jr 7.3-7). Deus exige mudança genuína de coração e vida, e não mera conformação exterior."
+      ]
+    },
+    {
+      "id": "fr-ag-0025",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1625,
+        "rotulo_original_ocr": "2.15 Agora. Essa palavra mdica uma transigao",
+        "texto_ocr_pre_normalizacao": "Agora. Essa palavra mdica uma transigao de acusagao para bengao, como resultado da reconstrugao do templo Apesar do passado contamlnado deles, o Deus santo esta determinado a abengoa-los (v 19)",
+        "correcoes_literal_reversiveis": {
+          "bengao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Agora. Essa palavra indica uma transição de acusação para bênção, como resultado da reconstrução do templo. Apesar do passado contaminado deles, o Deus santo está determinado a abençoá-los (v. 19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Agora.",
+          "texto": "Essa palavra indica uma transição de acusação para bênção, como resultado da reconstrução do templo. Apesar do passado contaminado deles, o Deus santo está determinado a abençoá-los (v. 19)."
+        }
+      ],
+      "paragrafos": [
+        "Agora. Essa palavra indica uma transição de acusação para bênção, como resultado da reconstrução do templo. Apesar do passado contaminado deles, o Deus santo está determinado a abençoá-los (v. 19)."
+      ]
+    },
+    {
+      "id": "fr-ag-0026",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1625,
+        "rotulo_original_ocr": "2.17 feri... queimaduras... ferrugem...",
+        "texto_ocr_pre_normalizacao": "feri... queimaduras... ferrugem... saraiva. Esse versiculo faz uso de Amos 4 9 e Deuteronomio 28.22 Esses desastres naturais e a falta de produtividade agricola, o fruto amargo de desobediencia a alianga do Senhor (16, nota, Dt 28 22), sao o meio de Deus para conseguir a atengao de seu povo. Entretanto,como no tempo de Amos, esses julgamentos ainda nao trouxeram opovo aoarrependimento",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "feri... queimaduras... ferrugem... saraiva. Esse versículo faz uso de Amós 4.9 e Deuteronômio 28.22. Esses desastres naturais e a falta de produtividade agrícola, o fruto amargo de desobediência à aliança do Senhor (1.6, nota; Dt 28.22), são o meio de Deus para conseguir a atenção de seu povo. Entretanto, como no tempo de Amós, esses julgamentos ainda não trouxeram o povo ao arrependimento.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ag",
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "feri... queimaduras... ferrugem... saraiva.",
+          "texto": "Esse versículo faz uso de Amós 4.9 e Deuteronômio 28.22. Esses desastres naturais e a falta de produtividade agrícola, o fruto amargo de desobediência à aliança do Senhor (1.6, nota; Dt 28.22), são o meio de Deus para conseguir a atenção de seu povo. Entretanto, como no tempo de Amós, esses julgamentos ainda não trouxeram o povo ao arrependimento."
+        }
+      ],
+      "paragrafos": [
+        "feri... queimaduras... ferrugem... saraiva. Esse versículo faz uso de Amós 4.9 e Deuteronômio 28.22. Esses desastres naturais e a falta de produtividade agrícola, o fruto amargo de desobediência à aliança do Senhor (1.6, nota; Dt 28.22), são o meio de Deus para conseguir a atenção de seu povo. Entretanto, como no tempo de Amós, esses julgamentos ainda não trouxeram o povo ao arrependimento."
+      ]
+    },
+    {
+      "id": "fr-ag-0027",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1625,
+        "rotulo_original_ocr": "2.19 nao ha semente no celeiro. A semen-",
+        "texto_ocr_pre_normalizacao": "nao ha semente no celeiro. A semente para o ano seguinte ja foi plantada, todavia, e muito cedo para prever, pelos meios normals, qual sera o resultado. a videira, a figueira, a romeira e a oliveira.0s quatro principals frutos em Israel vos abengoarei. A graga de Deus sobrepujara o pecado e a contammagao de seu povo. Embora ele os castigue, a misericordia triunfara, por fim, sobre o julgamento Esse e o efeito da promessa do Senhor no v 9",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "graga": 1,
+          "misericordia": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "não há semente no celeiro. A semente para o ano seguinte já foi plantada; todavia, é muito cedo para prever, pelos meios normais, qual será o resultado.\n\na videira, a figueira, a romeira e a oliveira. Os quatro principais frutos em Israel.\n\nvos abençoarei. A graça de Deus sobrepujará o pecado e a contaminação de seu povo. Embora ele os castigue, a misericórdia triunfará, por fim, sobre o julgamento. Esse é o efeito da promessa do Senhor no v. 9.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "não há semente no celeiro.",
+          "texto": "A semente para o ano seguinte já foi plantada; todavia, é muito cedo para prever, pelos meios normais, qual será o resultado."
+        },
+        {
+          "titulo": "a videira, a figueira, a romeira e a oliveira.",
+          "texto": "Os quatro principais frutos em Israel."
+        },
+        {
+          "titulo": "vos abençoarei.",
+          "texto": "A graça de Deus sobrepujará o pecado e a contaminação de seu povo. Embora ele os castigue, a misericórdia triunfará, por fim, sobre o julgamento. Esse é o efeito da promessa do Senhor no v. 9."
+        }
+      ],
+      "paragrafos": [
+        "não há semente no celeiro. A semente para o ano seguinte já foi plantada; todavia, é muito cedo para prever, pelos meios normais, qual será o resultado.",
+        "a videira, a figueira, a romeira e a oliveira. Os quatro principais frutos em Israel.",
+        "vos abençoarei. A graça de Deus sobrepujará o pecado e a contaminação de seu povo. Embora ele os castigue, a misericórdia triunfará, por fim, sobre o julgamento. Esse é o efeito da promessa do Senhor no v. 9."
+      ]
+    },
+    {
+      "id": "fr-ag-0028",
+      "referencia": "2.20-23",
+      "capitulo": 2,
+      "versiculos": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "2.20-23",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1625,
+        "rotulo_original_ocr": "2.20-23 0 ultimo dos sermoes de Ageu, proferi-",
+        "texto_ocr_pre_normalizacao": "0 ultimo dos sermoes de Ageu, proferido no mesmo dia da fala anterior (v 10), retorna ao tema dagloria do templo nosultimos dias (v 6, nota) De novo, os eventos futuros sao condensados quando Ageu entrelaga a mengao ao Messias vmdouro (v 23) com references ao abalo do cosmos e a vitoria final de Deus sobre as nagoes (vv 21, 22) Quando, fmalmente, Deus abalar todas as coisas, entao tudo sera como deveria ser",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O último dos sermões de Ageu, proferido no mesmo dia da fala anterior (v. 10), retorna ao tema da glória do templo nos últimos dias (v. 6, nota). De novo, os eventos futuros são condensados quando Ageu entrelaça a menção ao Messias vindouro (v. 23) com referências ao abalo do cosmos e à vitória final de Deus sobre as nações (vv. 21, 22). Quando, finalmente, Deus abalar todas as coisas, então tudo será como deveria ser.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ag",
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O último dos sermões de Ageu, proferido no mesmo dia da fala anterior (v. 10), retorna ao tema da glória do templo nos últimos dias (v. 6, nota). De novo, os eventos futuros são condensados quando Ageu entrelaça a menção ao Messias vindouro (v. 23) com referências ao abalo do cosmos e à vitória final de Deus sobre as nações (vv. 21, 22). Quando, finalmente, Deus abalar todas as coisas, então tudo será como deveria ser."
+        }
+      ],
+      "paragrafos": [
+        "O último dos sermões de Ageu, proferido no mesmo dia da fala anterior (v. 10), retorna ao tema da glória do templo nos últimos dias (v. 6, nota). De novo, os eventos futuros são condensados quando Ageu entrelaça a menção ao Messias vindouro (v. 23) com referências ao abalo do cosmos e à vitória final de Deus sobre as nações (vv. 21, 22). Quando, finalmente, Deus abalar todas as coisas, então tudo será como deveria ser."
+      ]
+    },
+    {
+      "id": "fr-ag-0029",
+      "referencia": "2.22",
+      "capitulo": 2,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "2.22",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1625,
+        "rotulo_original_ocr": "2.22 derribarei. Os poderes militares e poli-",
+        "texto_ocr_pre_normalizacao": "derribarei. Os poderes militares e politicos das nagoes submetem-se fmalmente ao senhorio de Deus (Dn 244, 727) A propria nagao nao e especificada porque todas as nagoes devem prostrar -se diante do governo de Deus A linguagem esta cheia de temas e imagens tradicionais que lembram a queda de Sodoma e Gomorra, a destruigao dos carros dos egipcios no exodo e a conquista da terra de Canaa. sob a lideranga de Josue Mais uma vez, Deus fara as grandes coisas realizadas por seu povono passado",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 2,
+          "senhorio": 1,
+          "propria": 1,
+          "nagao": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "derribarei. Os poderes militares e políticos das nações submetem-se finalmente ao senhorio de Deus (Dn 2.44; 7.27). A própria nação não é especificada porque todas as nações devem prostrar-se diante do governo de Deus. A linguagem está cheia de temas e imagens tradicionais que lembram a queda de Sodoma e Gomorra, a destruição dos carros dos egípcios no êxodo e a conquista da terra de Canaã, sob a liderança de Josué. Mais uma vez, Deus fará as grandes coisas realizadas por seu povo no passado.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "derribarei.",
+          "texto": "Os poderes militares e políticos das nações submetem-se finalmente ao senhorio de Deus (Dn 2.44; 7.27). A própria nação não é especificada porque todas as nações devem prostrar-se diante do governo de Deus. A linguagem está cheia de temas e imagens tradicionais que lembram a queda de Sodoma e Gomorra, a destruição dos carros dos egípcios no êxodo e a conquista da terra de Canaã, sob a liderança de Josué. Mais uma vez, Deus fará as grandes coisas realizadas por seu povo no passado."
+        }
+      ],
+      "paragrafos": [
+        "derribarei. Os poderes militares e políticos das nações submetem-se finalmente ao senhorio de Deus (Dn 2.44; 7.27). A própria nação não é especificada porque todas as nações devem prostrar-se diante do governo de Deus. A linguagem está cheia de temas e imagens tradicionais que lembram a queda de Sodoma e Gomorra, a destruição dos carros dos egípcios no êxodo e a conquista da terra de Canaã, sob a liderança de Josué. Mais uma vez, Deus fará as grandes coisas realizadas por seu povo no passado."
+      ]
+    },
+    {
+      "id": "fr-ag-0030",
+      "referencia": "2.23",
+      "capitulo": 2,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "2.23",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "079 - Ageu (Ag).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1625,
+        "rotulo_original_ocr": "2.23 Naquele dia. Ver nota em Zacarias 12 3",
+        "texto_ocr_pre_normalizacao": "Naquele dia. Ver nota em Zacarias 12 3 servo meu. Como seu ancestral Davi,Zorobabel e o representante escolhido deDeus para realizar sua obra Isaias fala sobre um Servo mais importante que vira, a quern Zorobabel prefigura (Is 42.1) Jesus e o descendente de Zorobabel (Mt 1121 e tambem o Servo de Deus (At 4.27, 301 anel de selar. Um simbolo de autoridade, propriedade e poder Antes do exilio, Jeremias usou o termo para descrever a rejeigao do rei davidico Joaquim (Jr 22 24) No entanto, aqui o Senhor reverte o oraculoanterior,dedarando que Zorobabel representa um futuro incessante para a linhagem de Davi Afmal de contas, o Senhor nao termmou todaasuaobracom essa familia Um novo reoemo surgira do tronco de Jesse (Is 11.1) Nenhuma agao e exigida de Zorobabel ou de seus ouvmtes em resposta a esse oraculo Eles nao sao chamados a se livrar do jugo de seus opressores persas Devem apenas aguardar com esperanga confiante a decisiva obra salvadora que o Senhor fara em seu tempo determinado Mais de quinhentos anos depois, Deus realizou essa salvagao final por meio de seu Filho, Jesus Cristo, que era da descendencia de Davi, segundo a carne, e foi dedarado Filho de Deus,com poder,em sua ressurreigao (Rm 11-4)",
+        "correcoes_literal_reversiveis": {
+          "quern": 1,
+          "tambem": 1,
+          "exilio": 1,
+          "nao": 2,
+          "salvagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Naquele dia. Ver nota em Zacarias 12.3.\n\nservo meu. Como seu ancestral Davi, Zorobabel é o representante escolhido de Deus para realizar sua obra. Isaías fala sobre um Servo mais importante que virá, a quem Zorobabel prefigura (Is 42.1). Jesus é o descendente de Zorobabel (Mt 1.12) e também o Servo de Deus (At 4.27, 30).\n\nanel de selar. Um símbolo de autoridade, propriedade e poder. Antes do exílio, Jeremias usou o termo para descrever a rejeição do rei davídico Joaquim (Jr 22.24). No entanto, aqui o Senhor reverte o oráculo anterior, declarando que Zorobabel representa um futuro incessante para a linhagem de Davi. Afinal de contas, o Senhor não terminou toda a sua obra com essa família. Um novo rebento surgirá do tronco de Jessé (Is 11.1). Nenhuma ação é exigida de Zorobabel ou de seus ouvintes em resposta a esse oráculo. Eles não são chamados a se livrar do jugo de seus opressores persas. Devem apenas aguardar com esperança confiante a decisiva obra salvadora que o Senhor fará em seu tempo determinado. Mais de quinhentos anos depois, Deus realizou essa salvação final por meio de seu Filho, Jesus Cristo, que era da descendência de Davi, segundo a carne, e foi declarado Filho de Deus, com poder, em sua ressurreição (Rm 1.1-4).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Zc",
+          "capitulo": 12,
+          "versiculo": 3
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Naquele dia.",
+          "texto": "Ver nota em Zacarias 12.3."
+        },
+        {
+          "titulo": "servo meu.",
+          "texto": "Como seu ancestral Davi, Zorobabel é o representante escolhido de Deus para realizar sua obra. Isaías fala sobre um Servo mais importante que virá, a quem Zorobabel prefigura (Is 42.1). Jesus é o descendente de Zorobabel (Mt 1.12) e também o Servo de Deus (At 4.27, 30)."
+        },
+        {
+          "titulo": "anel de selar.",
+          "texto": "Um símbolo de autoridade, propriedade e poder. Antes do exílio, Jeremias usou o termo para descrever a rejeição do rei davídico Joaquim (Jr 22.24). No entanto, aqui o Senhor reverte o oráculo anterior, declarando que Zorobabel representa um futuro incessante para a linhagem de Davi. Afinal de contas, o Senhor não terminou toda a sua obra com essa família. Um novo rebento surgirá do tronco de Jessé (Is 11.1). Nenhuma ação é exigida de Zorobabel ou de seus ouvintes em resposta a esse oráculo. Eles não são chamados a se livrar do jugo de seus opressores persas. Devem apenas aguardar com esperança confiante a decisiva obra salvadora que o Senhor fará em seu tempo determinado. Mais de quinhentos anos depois, Deus realizou essa salvação final por meio de seu Filho, Jesus Cristo, que era da descendência de Davi, segundo a carne, e foi declarado Filho de Deus, com poder, em sua ressurreição (Rm 1.1-4)."
+        }
+      ],
+      "paragrafos": [
+        "Naquele dia. Ver nota em Zacarias 12.3.",
+        "servo meu. Como seu ancestral Davi, Zorobabel é o representante escolhido de Deus para realizar sua obra. Isaías fala sobre um Servo mais importante que virá, a quem Zorobabel prefigura (Is 42.1). Jesus é o descendente de Zorobabel (Mt 1.12) e também o Servo de Deus (At 4.27, 30).",
+        "anel de selar. Um símbolo de autoridade, propriedade e poder. Antes do exílio, Jeremias usou o termo para descrever a rejeição do rei davídico Joaquim (Jr 22.24). No entanto, aqui o Senhor reverte o oráculo anterior, declarando que Zorobabel representa um futuro incessante para a linhagem de Davi. Afinal de contas, o Senhor não terminou toda a sua obra com essa família. Um novo rebento surgirá do tronco de Jessé (Is 11.1). Nenhuma ação é exigida de Zorobabel ou de seus ouvintes em resposta a esse oráculo. Eles não são chamados a se livrar do jugo de seus opressores persas. Devem apenas aguardar com esperança confiante a decisiva obra salvadora que o Senhor fará em seu tempo determinado. Mais de quinhentos anos depois, Deus realizou essa salvação final por meio de seu Filho, Jesus Cristo, que era da descendência de Davi, segundo a carne, e foi declarado Filho de Deus, com poder, em sua ressurreição (Rm 1.1-4)."
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

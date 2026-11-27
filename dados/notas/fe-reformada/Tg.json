@@ -1,0 +1,3426 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Tg",
+  "titulo": "Tiago",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "126 - Tiago (Tg).pdf",
+    "paginas_pdf": [
+      1,
+      8
+    ],
+    "observacao": "Cotejo visual dos comentários, artigo Fé e Obras e margens das oito páginas. Ver relatórios de pendências."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-tg-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.1 Tiago, servo. Tlago se identificacomo um servo",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Tiago, servo. Tiago se identifica como um servo de Deus e de Cristo. Um servo (escravo) era alguém comprado e pertencente a um dono ou “senhor”. Isso indica não somente humildade da parte do escritor, mas também um testemunho profundo de sua conversão à fé em seu meio-irmão terreno como seu Redentor (1Co 15.3). Tiago é servo tanto de Deus como de Jesus, uma junção teológica crucial.\n\nàs doze tribos que se encontram na Dispersão. Uma referência não somente aos cristãos judeus espalhados fora de Israel, mas também aos cristãos gentios que haviam sido enxertados em Cristo, o verdadeiro Israel, para que também se tornassem, com os cristãos judeus, a continuação do verdadeiro Israel (cf. Gl 3.16, 29; 6.15, 16; Ap 7.1-9). Esse tema também aparece em 1 Pedro, quando Pedro dirige-se, de forma semelhante, aos “eleitos que são forasteiros da Dispersão” (1.1). As pessoas a quem Pedro se dirige não são apenas cristãos judeus, mas também crentes gentios (como é evidente em 1 Pedro 2.10 [cf. Rm 9.24-26] e 2.18, em que os “servos” são provavelmente gentios). Portanto, falar de “eleitos que são forasteiros da Dispersão”, em 1 Pedro 1.1, provavelmente é uma maneira de se referir à Igreja de gentios e judeus como a continuação do verdadeiro Israel, visto que Israel foi chamado forasteiro porque eles foram dispersos da Babilônia na época do Antigo Testamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tiago, servo. Tiago se identifica como um servo de Deus e de Cristo. Um servo (escravo) era alguém comprado e pertencente a um dono ou “senhor”. Isso indica não somente humildade da parte do escritor, mas também um testemunho profundo de sua conversão à fé em seu meio-irmão terreno como seu Redentor (1Co 15.3). Tiago é servo tanto de Deus como de Jesus, uma junção teológica crucial.",
+        "às doze tribos que se encontram na Dispersão. Uma referência não somente aos cristãos judeus espalhados fora de Israel, mas também aos cristãos gentios que haviam sido enxertados em Cristo, o verdadeiro Israel, para que também se tornassem, com os cristãos judeus, a continuação do verdadeiro Israel (cf. Gl 3.16, 29; 6.15, 16; Ap 7.1-9). Esse tema também aparece em 1 Pedro, quando Pedro dirige-se, de forma semelhante, aos “eleitos que são forasteiros da Dispersão” (1.1). As pessoas a quem Pedro se dirige não são apenas cristãos judeus, mas também crentes gentios (como é evidente em 1 Pedro 2.10 [cf. Rm 9.24-26] e 2.18, em que os “servos” são provavelmente gentios). Portanto, falar de “eleitos que são forasteiros da Dispersão”, em 1 Pedro 1.1, provavelmente é uma maneira de se referir à Igreja de gentios e judeus como a continuação do verdadeiro Israel, visto que Israel foi chamado forasteiro porque eles foram dispersos da Babilônia na época do Antigo Testamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tiago, servo.",
+          "texto": "Tiago se identifica como um servo de Deus e de Cristo. Um servo (escravo) era alguém comprado e pertencente a um dono ou “senhor”. Isso indica não somente humildade da parte do escritor, mas também um testemunho profundo de sua conversão à fé em seu meio-irmão terreno como seu Redentor (1Co 15.3). Tiago é servo tanto de Deus como de Jesus, uma junção teológica crucial."
+        },
+        {
+          "titulo": "às doze tribos que se encontram na Dispersão.",
+          "texto": "Uma referência não somente aos cristãos judeus espalhados fora de Israel, mas também aos cristãos gentios que haviam sido enxertados em Cristo, o verdadeiro Israel, para que também se tornassem, com os cristãos judeus, a continuação do verdadeiro Israel (cf. Gl 3.16, 29; 6.15, 16; Ap 7.1-9). Esse tema também aparece em 1 Pedro, quando Pedro dirige-se, de forma semelhante, aos “eleitos que são forasteiros da Dispersão” (1.1). As pessoas a quem Pedro se dirige não são apenas cristãos judeus, mas também crentes gentios (como é evidente em 1 Pedro 2.10 [cf. Rm 9.24-26] e 2.18, em que os “servos” são provavelmente gentios). Portanto, falar de “eleitos que são forasteiros da Dispersão”, em 1 Pedro 1.1, provavelmente é uma maneira de se referir à Igreja de gentios e judeus como a continuação do verdadeiro Israel, visto que Israel foi chamado forasteiro porque eles foram dispersos da Babilônia na época do Antigo Testamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.2 Meus irmaos. Crentes irmaos aos quais Tia-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Meus irmãos. Crentes irmãos aos quais Tiago se dirige em termos familiares, como convém àqueles que têm Deus como seu Pai.\n\ntende por motivo de toda alegria. Um chamado a entender o sofrimento pelo ângulo da confiança na soberania de Deus. O que se diz em seguida exige pensamento cuidadoso por uma perspectiva teológica.\n\nprovações. Vários tipos de circunstâncias inquietantes, frequentemente relacionadas à perseguição, como aquela que os cristãos primitivos enfrentaram.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Meus irmãos. Crentes irmãos aos quais Tiago se dirige em termos familiares, como convém àqueles que têm Deus como seu Pai.",
+        "tende por motivo de toda alegria. Um chamado a entender o sofrimento pelo ângulo da confiança na soberania de Deus. O que se diz em seguida exige pensamento cuidadoso por uma perspectiva teológica.",
+        "provações. Vários tipos de circunstâncias inquietantes, frequentemente relacionadas à perseguição, como aquela que os cristãos primitivos enfrentaram."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Meus irmãos.",
+          "texto": "Crentes irmãos aos quais Tiago se dirige em termos familiares, como convém àqueles que têm Deus como seu Pai."
+        },
+        {
+          "titulo": "tende por motivo de toda alegria.",
+          "texto": "Um chamado a entender o sofrimento pelo ângulo da confiança na soberania de Deus. O que se diz em seguida exige pensamento cuidadoso por uma perspectiva teológica."
+        },
+        {
+          "titulo": "provações.",
+          "texto": "Vários tipos de circunstâncias inquietantes, frequentemente relacionadas à perseguição, como aquela que os cristãos primitivos enfrentaram."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.3 a provagao. Provagoes podem ser considera-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "a provação. Provações podem ser consideradas alegria pura somente quando há o conhecimento de que são designadas por Deus para cumprir um propósito. São testes de fé dados a fim de se desenvolver a perseverança. A perseverança, por sua vez, produz um caráter cristão maduro (Rm 5.3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a provação. Provações podem ser consideradas alegria pura somente quando há o conhecimento de que são designadas por Deus para cumprir um propósito. São testes de fé dados a fim de se desenvolver a perseverança. A perseverança, por sua vez, produz um caráter cristão maduro (Rm 5.3)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a provação.",
+          "texto": "Provações podem ser consideradas alegria pura somente quando há o conhecimento de que são designadas por Deus para cumprir um propósito. São testes de fé dados a fim de se desenvolver a perseverança. A perseverança, por sua vez, produz um caráter cristão maduro (Rm 5.3)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0004",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.5 sabedoria. Ser sabio em termos biblicos e",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "sabedoria. Ser sábio em termos bíblicos é conhecer e entender o temor a Deus, fazer o que lhe é agradável (Hb 5.14). O capítulo 3 desenvolve esse tema.\n\npeça-a a Deus. Deus é a fonte de sabedoria. Ele a dá àqueles que a buscam sinceramente nele.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sabedoria. Ser sábio em termos bíblicos é conhecer e entender o temor a Deus, fazer o que lhe é agradável (Hb 5.14). O capítulo 3 desenvolve esse tema.",
+        "peça-a a Deus. Deus é a fonte de sabedoria. Ele a dá àqueles que a buscam sinceramente nele."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sabedoria.",
+          "texto": "Ser sábio em termos bíblicos é conhecer e entender o temor a Deus, fazer o que lhe é agradável (Hb 5.14). O capítulo 3 desenvolve esse tema."
+        },
+        {
+          "titulo": "peça-a a Deus.",
+          "texto": "Deus é a fonte de sabedoria. Ele a dá àqueles que a buscam sinceramente nele."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0005",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.8 homem de animo dobre. Essa expressao",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "homem de ânimo dobre. Essa expressão rara foi cunhada possivelmente por Tiago. Sugere um homem que tem duas almas; ele é instável como uma pessoa de personalidade dividida, porque afirma ter fé, mas, na realidade, é alguém que duvida (v. 6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "homem de ânimo dobre. Essa expressão rara foi cunhada possivelmente por Tiago. Sugere um homem que tem duas almas; ele é instável como uma pessoa de personalidade dividida, porque afirma ter fé, mas, na realidade, é alguém que duvida (v. 6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "homem de ânimo dobre.",
+          "texto": "Essa expressão rara foi cunhada possivelmente por Tiago. Sugere um homem que tem duas almas; ele é instável como uma pessoa de personalidade dividida, porque afirma ter fé, mas, na realidade, é alguém que duvida (v. 6)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0006",
+      "referencia": "1.9,10",
+      "capitulo": 1,
+      "versiculos": [
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.9,10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.9, 10 glorie- se. Tanto o pobre como o rico sao",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "glorie-se. Tanto o pobre como o rico são exortados a se orgulhar de suas posições. O irmão pobre é rico em tesouro espiritual. Possui status elevado no reino de Deus. Se a palavra “rico” se refere a cristãos “ricos”, Tiago quer dizer que eles podem regozijar-se do fato de que aprenderam onde se encontra o verdadeiro tesouro. Se o termo “ricos” refere-se a pessoas ímpias, a referência ao “gloriar-se” deles é irônica.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "glorie-se. Tanto o pobre como o rico são exortados a se orgulhar de suas posições. O irmão pobre é rico em tesouro espiritual. Possui status elevado no reino de Deus. Se a palavra “rico” se refere a cristãos “ricos”, Tiago quer dizer que eles podem regozijar-se do fato de que aprenderam onde se encontra o verdadeiro tesouro. Se o termo “ricos” refere-se a pessoas ímpias, a referência ao “gloriar-se” deles é irônica."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "glorie-se.",
+          "texto": "Tanto o pobre como o rico são exortados a se orgulhar de suas posições. O irmão pobre é rico em tesouro espiritual. Possui status elevado no reino de Deus. Se a palavra “rico” se refere a cristãos “ricos”, Tiago quer dizer que eles podem regozijar-se do fato de que aprenderam onde se encontra o verdadeiro tesouro. Se o termo “ricos” refere-se a pessoas ímpias, a referência ao “gloriar-se” deles é irônica."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0007",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.11 Cf Jo 14.2; Salmos 103; Isaias 40.6, 7",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Cf. Jó 14.2; Salmos 103; Isaías 40.6, 7.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Cf. Jó 14.2; Salmos 103; Isaías 40.6, 7."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Cf. Jó 14.2; Salmos 103; Isaías 40.6, 7."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0008",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.12 Bem-aventurado. Ecoa os oraculos pro-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Bem-aventurado. Ecoa os oráculos proféticos de salvação usados pelos profetas do Antigo Testamento e por Jesus (Mt 5.3-11). A “coroa da vida”, prometida por Deus, pode ser traduzida por “coroa que é vida”, referindo-se talvez à futura recompensa de ressurreição. A “coroa da vida” (ou seja, a recompensa de ressurreição) também é prometida àqueles que perseverarem em meio à aflição, em Apocalipse 2.10. Essa coroa não é algo que alguém merece; em vez disso, é o dom para aqueles que abandonam sua impiedade e descansam somente em Cristo (Rm 6.23). Essa fé persevera necessariamente (Jo 6.35-40; Rm 8.28-30; Fp 1.6), resultando na experiência plena da nova vida por ocasião da ressurreição final dos mortos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Bem-aventurado. Ecoa os oráculos proféticos de salvação usados pelos profetas do Antigo Testamento e por Jesus (Mt 5.3-11). A “coroa da vida”, prometida por Deus, pode ser traduzida por “coroa que é vida”, referindo-se talvez à futura recompensa de ressurreição. A “coroa da vida” (ou seja, a recompensa de ressurreição) também é prometida àqueles que perseverarem em meio à aflição, em Apocalipse 2.10. Essa coroa não é algo que alguém merece; em vez disso, é o dom para aqueles que abandonam sua impiedade e descansam somente em Cristo (Rm 6.23). Essa fé persevera necessariamente (Jo 6.35-40; Rm 8.28-30; Fp 1.6), resultando na experiência plena da nova vida por ocasião da ressurreição final dos mortos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Bem-aventurado.",
+          "texto": "Ecoa os oráculos proféticos de salvação usados pelos profetas do Antigo Testamento e por Jesus (Mt 5.3-11). A “coroa da vida”, prometida por Deus, pode ser traduzida por “coroa que é vida”, referindo-se talvez à futura recompensa de ressurreição. A “coroa da vida” (ou seja, a recompensa de ressurreição) também é prometida àqueles que perseverarem em meio à aflição, em Apocalipse 2.10. Essa coroa não é algo que alguém merece; em vez disso, é o dom para aqueles que abandonam sua impiedade e descansam somente em Cristo (Rm 6.23). Essa fé persevera necessariamente (Jo 6.35-40; Rm 8.28-30; Fp 1.6), resultando na experiência plena da nova vida por ocasião da ressurreição final dos mortos."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0009",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 2228,
+        "rotulo_original_ocr": "1.13 tentado. Ha uma diferenga importante en-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "tentado. Há uma diferença importante entre os conceitos de “provar” e “tentar”. Deus prova as pessoas, mas nunca as tenta no sentido de seduzi-las ao pecado. No deserto, Jesus foi provado por Deus e tentado por Satanás. Há também uma diferença entre tentações que surgem de nossas próprias inclinações pecaminosas (internas) e tentações que vêm de fora (externas). Jesus, por ser livre do pecado original, foi tentado externamente, mas não internamente. A provação de nossa fé pode ser a oportunidade para as tentações surgirem, tanto internas como externas, mas as tentações nunca têm Deus como seu autor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tentado. Há uma diferença importante entre os conceitos de “provar” e “tentar”. Deus prova as pessoas, mas nunca as tenta no sentido de seduzi-las ao pecado. No deserto, Jesus foi provado por Deus e tentado por Satanás. Há também uma diferença entre tentações que surgem de nossas próprias inclinações pecaminosas (internas) e tentações que vêm de fora (externas). Jesus, por ser livre do pecado original, foi tentado externamente, mas não internamente. A provação de nossa fé pode ser a oportunidade para as tentações surgirem, tanto internas como externas, mas as tentações nunca têm Deus como seu autor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tentado.",
+          "texto": "Há uma diferença importante entre os conceitos de “provar” e “tentar”. Deus prova as pessoas, mas nunca as tenta no sentido de seduzi-las ao pecado. No deserto, Jesus foi provado por Deus e tentado por Satanás. Há também uma diferença entre tentações que surgem de nossas próprias inclinações pecaminosas (internas) e tentações que vêm de fora (externas). Jesus, por ser livre do pecado original, foi tentado externamente, mas não internamente. A provação de nossa fé pode ser a oportunidade para as tentações surgirem, tanto internas como externas, mas as tentações nunca têm Deus como seu autor."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0010",
+      "referencia": "1.17",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.17",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.17 Pai das luzes. Os lummares da Criagao",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Pai das luzes. Os luminares da Criação variam em magnitude e estão sujeitos a fases, eclipses e sombras. Deus é o supremo Autor da luz. Nele, não há mudanças de brilho ou clareza. Não há flutuação em seu caráter.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Pai das luzes. Os luminares da Criação variam em magnitude e estão sujeitos a fases, eclipses e sombras. Deus é o supremo Autor da luz. Nele, não há mudanças de brilho ou clareza. Não há flutuação em seu caráter."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Pai das luzes.",
+          "texto": "Os luminares da Criação variam em magnitude e estão sujeitos a fases, eclipses e sombras. Deus é o supremo Autor da luz. Nele, não há mudanças de brilho ou clareza. Não há flutuação em seu caráter."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0011",
+      "referencia": "1.18",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.18",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.18 ele nos gerou. Literalmente, \"nos deu",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "ele nos gerou. Literalmente, “nos deu nascimento”. Isso se refere à graça da regeneração, pela qual somos adotados na família de Deus (1Pe 1.23). Esse “gerar” é a regeneração, que é a Criação do fim dos tempos. O fato de a nova Criação estar em vista torna-se ainda mais evidente ao observarmos que os crentes regenerados são um tipo de “primícias de suas criaturas”, ou seja, a renovação inicial de toda a Criação, que, por fim, será totalmente restaurada. Essa nova vida que os crentes experimentam no aqui e agora é o estágio inicial da nova vida de ressurreição que será consumada no fim do tempo, na ressurreição física (v. 12, nota). A ideia é muito semelhante à de Romanos 8.18-23. Nessa passagem, os cristãos que começaram a experimentar a vida de ressurreição por meio do Espírito (Rm 8.11-15) são chamados “as primícias do Espírito” e esperam sua ressurreição física, quando toda a Criação será renovada.\n\npela palavra da verdade. A regeneração é a obra monergística do Espírito de Deus — ele, sozinho, dá novo nascimento ao seu povo (cf. Jo 3.1-15 e notas). No entanto, ele faz essa obra por tomar a Palavra de Deus, tanto lida como pregada, e aplicá-la de modo eficaz ao coração de seus eleitos. Este versículo é uma identificação clara da primazia da graça na teologia de Tiago. Somente por meio da obra do Espírito, mediante o evangelho, somos levados à nova vida.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ele nos gerou. Literalmente, “nos deu nascimento”. Isso se refere à graça da regeneração, pela qual somos adotados na família de Deus (1Pe 1.23). Esse “gerar” é a regeneração, que é a Criação do fim dos tempos. O fato de a nova Criação estar em vista torna-se ainda mais evidente ao observarmos que os crentes regenerados são um tipo de “primícias de suas criaturas”, ou seja, a renovação inicial de toda a Criação, que, por fim, será totalmente restaurada. Essa nova vida que os crentes experimentam no aqui e agora é o estágio inicial da nova vida de ressurreição que será consumada no fim do tempo, na ressurreição física (v. 12, nota). A ideia é muito semelhante à de Romanos 8.18-23. Nessa passagem, os cristãos que começaram a experimentar a vida de ressurreição por meio do Espírito (Rm 8.11-15) são chamados “as primícias do Espírito” e esperam sua ressurreição física, quando toda a Criação será renovada.",
+        "pela palavra da verdade. A regeneração é a obra monergística do Espírito de Deus — ele, sozinho, dá novo nascimento ao seu povo (cf. Jo 3.1-15 e notas). No entanto, ele faz essa obra por tomar a Palavra de Deus, tanto lida como pregada, e aplicá-la de modo eficaz ao coração de seus eleitos. Este versículo é uma identificação clara da primazia da graça na teologia de Tiago. Somente por meio da obra do Espírito, mediante o evangelho, somos levados à nova vida."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ele nos gerou.",
+          "texto": "Literalmente, “nos deu nascimento”. Isso se refere à graça da regeneração, pela qual somos adotados na família de Deus (1Pe 1.23). Esse “gerar” é a regeneração, que é a Criação do fim dos tempos. O fato de a nova Criação estar em vista torna-se ainda mais evidente ao observarmos que os crentes regenerados são um tipo de “primícias de suas criaturas”, ou seja, a renovação inicial de toda a Criação, que, por fim, será totalmente restaurada. Essa nova vida que os crentes experimentam no aqui e agora é o estágio inicial da nova vida de ressurreição que será consumada no fim do tempo, na ressurreição física (v. 12, nota). A ideia é muito semelhante à de Romanos 8.18-23. Nessa passagem, os cristãos que começaram a experimentar a vida de ressurreição por meio do Espírito (Rm 8.11-15) são chamados “as primícias do Espírito” e esperam sua ressurreição física, quando toda a Criação será renovada."
+        },
+        {
+          "titulo": "pela palavra da verdade.",
+          "texto": "A regeneração é a obra monergística do Espírito de Deus — ele, sozinho, dá novo nascimento ao seu povo (cf. Jo 3.1-15 e notas). No entanto, ele faz essa obra por tomar a Palavra de Deus, tanto lida como pregada, e aplicá-la de modo eficaz ao coração de seus eleitos. Este versículo é uma identificação clara da primazia da graça na teologia de Tiago. Somente por meio da obra do Espírito, mediante o evangelho, somos levados à nova vida."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0012",
+      "referencia": "1.19",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "1.19",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.19 pronto para ouvir, tardio para falar. Em-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "pronto para ouvir, tardio para falar. Embora a comunidade cristã dê elevada consideração ao talento de fala eloquente, Tiago coloca a ênfase em ouvir. É a pessoa que ouve atentamente a Palavra de Deus, que progride em santidade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pronto para ouvir, tardio para falar. Embora a comunidade cristã dê elevada consideração ao talento de fala eloquente, Tiago coloca a ênfase em ouvir. É a pessoa que ouve atentamente a Palavra de Deus, que progride em santidade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pronto para ouvir, tardio para falar.",
+          "texto": "Embora a comunidade cristã dê elevada consideração ao talento de fala eloquente, Tiago coloca a ênfase em ouvir. É a pessoa que ouve atentamente a Palavra de Deus, que progride em santidade."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0013",
+      "referencia": "1.22",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "1.22",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.22 Tornai-vos... praticantes. 0 verdadeiro",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Tornai-vos... praticantes. O verdadeiro ouvir da Palavra tem de levar à ação piedosa.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tornai-vos... praticantes. O verdadeiro ouvir da Palavra tem de levar à ação piedosa."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tornai-vos... praticantes.",
+          "texto": "O verdadeiro ouvir da Palavra tem de levar à ação piedosa."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0014",
+      "referencia": "1.23",
+      "capitulo": 1,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "1.23",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.23 espelho. No mundo antigo, espelhos eram",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "espelho. No mundo antigo, espelhos eram feitos de metal polido, e não de vidro. A Escritura é um espelho da necessidade da alma por graça. A Escritura nos revela nosso verdadeiro caráter.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "espelho. No mundo antigo, espelhos eram feitos de metal polido, e não de vidro. A Escritura é um espelho da necessidade da alma por graça. A Escritura nos revela nosso verdadeiro caráter."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "espelho.",
+          "texto": "No mundo antigo, espelhos eram feitos de metal polido, e não de vidro. A Escritura é um espelho da necessidade da alma por graça. A Escritura nos revela nosso verdadeiro caráter."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0015",
+      "referencia": "1.25",
+      "capitulo": 1,
+      "versiculos": [
+        25
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 25
+        }
+      ],
+      "titulo": "1.25",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.25 lei perfeita. Tiago usa essaexpressao como",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "lei perfeita. Tiago usa essa expressão como um sinônimo de Escritura Sagrada (Sl 19.7).\n\nliberdade. A lei de Deus nos liberta quando nos leva a Cristo, o único que pode livrar-nos do pecado. Havendo sido justificados, achamos agora que a lei de Deus é a lei da liberdade, porque somos verdadeiramente livres somente quando fazemos aquilo que agrada ao Senhor (Jo 8.36; Rm 8.2, 15; Gl 3.15-29; 5.13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "lei perfeita. Tiago usa essa expressão como um sinônimo de Escritura Sagrada (Sl 19.7).",
+        "liberdade. A lei de Deus nos liberta quando nos leva a Cristo, o único que pode livrar-nos do pecado. Havendo sido justificados, achamos agora que a lei de Deus é a lei da liberdade, porque somos verdadeiramente livres somente quando fazemos aquilo que agrada ao Senhor (Jo 8.36; Rm 8.2, 15; Gl 3.15-29; 5.13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "lei perfeita.",
+          "texto": "Tiago usa essa expressão como um sinônimo de Escritura Sagrada (Sl 19.7)."
+        },
+        {
+          "titulo": "liberdade.",
+          "texto": "A lei de Deus nos liberta quando nos leva a Cristo, o único que pode livrar-nos do pecado. Havendo sido justificados, achamos agora que a lei de Deus é a lei da liberdade, porque somos verdadeiramente livres somente quando fazemos aquilo que agrada ao Senhor (Jo 8.36; Rm 8.2, 15; Gl 3.15-29; 5.13)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0016",
+      "referencia": "1.26",
+      "capitulo": 1,
+      "versiculos": [
+        26
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 26
+        }
+      ],
+      "titulo": "1.26",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.26 lingua. Ver capitulo 3",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "língua. Ver capítulo 3.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "língua. Ver capítulo 3."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "língua.",
+          "texto": "Ver capítulo 3."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0017",
+      "referencia": "1.27",
+      "capitulo": 1,
+      "versiculos": [
+        27
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 27
+        }
+      ],
+      "titulo": "1.27",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "1.27 A religiao pura e sem macula. Tiago",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "A religião pura e sem mácula. Tiago enfatiza a preocupação com as viúvas e os órfãos como uma verdadeira medida de obediência que agrada a Deus. Essa preocupação reflete os interesses do próprio Deus (Dt 10.18; Sl 9.18, nota; 68.5; 146.9). No Antigo Testamento, Israel recebeu essa responsabilidade (Dt 14.29; Ez 22.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A religião pura e sem mácula. Tiago enfatiza a preocupação com as viúvas e os órfãos como uma verdadeira medida de obediência que agrada a Deus. Essa preocupação reflete os interesses do próprio Deus (Dt 10.18; Sl 9.18, nota; 68.5; 146.9). No Antigo Testamento, Israel recebeu essa responsabilidade (Dt 14.29; Ez 22.7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "A religião pura e sem mácula.",
+          "texto": "Tiago enfatiza a preocupação com as viúvas e os órfãos como uma verdadeira medida de obediência que agrada a Deus. Essa preocupação reflete os interesses do próprio Deus (Dt 10.18; Sl 9.18, nota; 68.5; 146.9). No Antigo Testamento, Israel recebeu essa responsabilidade (Dt 14.29; Ez 22.7)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0018",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "2.1 Senhor Jesus Cristo, Senhor da gloria.",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Senhor Jesus Cristo, Senhor da glória. Isso poderia ser traduzido por “nosso Senhor Jesus Cristo, a glória”. Aqui Jesus pode ser identificado com a glória de Deus. Ele é Emanuel, “Deus conosco”, a habitação de Deus com os homens.\n\nem acepção de pessoas. A expressão é semelhante àquela que se encontra em Gálatas 2.6. Tiago proíbe que se tenha respeito por uma pessoa com base apenas nas aparências. Um respeito alicerçado apenas em aparências é contrário ao comportamento de Deus, que não faz acepção de pessoas (Rm 2.11; Ef 6.9; Cl 3.25). À luz da glória divina de Cristo, é tolice mostrar favoritismo baseado em níveis inferiores de glória humana.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Senhor Jesus Cristo, Senhor da glória. Isso poderia ser traduzido por “nosso Senhor Jesus Cristo, a glória”. Aqui Jesus pode ser identificado com a glória de Deus. Ele é Emanuel, “Deus conosco”, a habitação de Deus com os homens.",
+        "em acepção de pessoas. A expressão é semelhante àquela que se encontra em Gálatas 2.6. Tiago proíbe que se tenha respeito por uma pessoa com base apenas nas aparências. Um respeito alicerçado apenas em aparências é contrário ao comportamento de Deus, que não faz acepção de pessoas (Rm 2.11; Ef 6.9; Cl 3.25). À luz da glória divina de Cristo, é tolice mostrar favoritismo baseado em níveis inferiores de glória humana."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Senhor Jesus Cristo, Senhor da glória.",
+          "texto": "Isso poderia ser traduzido por “nosso Senhor Jesus Cristo, a glória”. Aqui Jesus pode ser identificado com a glória de Deus. Ele é Emanuel, “Deus conosco”, a habitação de Deus com os homens."
+        },
+        {
+          "titulo": "em acepção de pessoas.",
+          "texto": "A expressão é semelhante àquela que se encontra em Gálatas 2.6. Tiago proíbe que se tenha respeito por uma pessoa com base apenas nas aparências. Um respeito alicerçado apenas em aparências é contrário ao comportamento de Deus, que não faz acepção de pessoas (Rm 2.11; Ef 6.9; Cl 3.25). À luz da glória divina de Cristo, é tolice mostrar favoritismo baseado em níveis inferiores de glória humana."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0019",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2229,
+        "rotulo_original_ocr": "2.4 fizestes distingao. Embora Deus nos",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "fizestes distinção. Embora Deus nos chame a discernir e fazer discriminação entre o bem e o mal, a discriminação baseada em meras aparências, como, por exemplo, status econômico, diferenças étnicas ou raciais e coisas semelhantes é considerada uma forma errada de julgamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "fizestes distinção. Embora Deus nos chame a discernir e fazer discriminação entre o bem e o mal, a discriminação baseada em meras aparências, como, por exemplo, status econômico, diferenças étnicas ou raciais e coisas semelhantes é considerada uma forma errada de julgamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fizestes distinção.",
+          "texto": "Embora Deus nos chame a discernir e fazer discriminação entre o bem e o mal, a discriminação baseada em meras aparências, como, por exemplo, status econômico, diferenças étnicas ou raciais e coisas semelhantes é considerada uma forma errada de julgamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0020",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.5 Nao escolheu Deus. A heranga no reino",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Não escolheu Deus. A herança no reino está baseada na eleição soberana de Deus. Ele escolhe não de acordo com mérito ou status mundano. Os padrões deste mundo não têm nenhuma influência na eleição graciosa de Deus (1Co 1.28, 29; Ef 1.4). O texto não garante qualquer forma de “misticismo de pobreza”, pela qual a pobreza, em si mesma, torna uma pessoa boa aos olhos de Deus (Sl 9.18, nota).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Não escolheu Deus. A herança no reino está baseada na eleição soberana de Deus. Ele escolhe não de acordo com mérito ou status mundano. Os padrões deste mundo não têm nenhuma influência na eleição graciosa de Deus (1Co 1.28, 29; Ef 1.4). O texto não garante qualquer forma de “misticismo de pobreza”, pela qual a pobreza, em si mesma, torna uma pessoa boa aos olhos de Deus (Sl 9.18, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Não escolheu Deus.",
+          "texto": "A herança no reino está baseada na eleição soberana de Deus. Ele escolhe não de acordo com mérito ou status mundano. Os padrões deste mundo não têm nenhuma influência na eleição graciosa de Deus (1Co 1.28, 29; Ef 1.4). O texto não garante qualquer forma de “misticismo de pobreza”, pela qual a pobreza, em si mesma, torna uma pessoa boa aos olhos de Deus (Sl 9.18, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0021",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.6 oprimem. 0 verbo e uma palavra forte e",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "oprimem. O verbo é uma palavra forte e também foi usado para se referir à obra opressiva de Satanás (At 10.38). Os ricos usavam poder político e judicial para explorar os pobres e necessitados da nação. Como um grupo, os ricos têm forte tendência a confiar em riqueza e poder, em vez de acharem sua redenção em Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "oprimem. O verbo é uma palavra forte e também foi usado para se referir à obra opressiva de Satanás (At 10.38). Os ricos usavam poder político e judicial para explorar os pobres e necessitados da nação. Como um grupo, os ricos têm forte tendência a confiar em riqueza e poder, em vez de acharem sua redenção em Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "oprimem.",
+          "texto": "O verbo é uma palavra forte e também foi usado para se referir à obra opressiva de Satanás (At 10.38). Os ricos usavam poder político e judicial para explorar os pobres e necessitados da nação. Como um grupo, os ricos têm forte tendência a confiar em riqueza e poder, em vez de acharem sua redenção em Cristo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0022",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.8 a lei regia. A suprema lei de Deus",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes",
+        "observacao": "Subtítulo de 2:10 sob o rótulo impresso 2.8; abrangência ampliada."
+      },
+      "texto": "a lei régia. A suprema lei de Deus.\n\nAmarás o teu próximo. Tiago considera o pecado de favoritismo uma violação do grande mandamento (Lv 19.18; Dt 6.5; Mt 22.36-39), fazendo de quem o pratica um transgressor da lei. Tiago, à semelhança de Paulo (Rm 13.8-10), diz que o amor ao próximo é o cumprimento da lei (ou seja, dos seis últimos dos Dez Mandamentos).\n\ntoda a lei... em um só ponto. Esse texto não nega o conceito bíblico de gradação do mal. Alguns pecados são mais horríveis do que outros e recebem uma punição mais severa do que pecados que são “menos” horríveis (Mt 11.21, 22; Lc 12.47, 48; Jo 19.11; Hb 10.29). No entanto, mesmo nos menores pecados, uma ofensa séria é cometida contra Deus. Pecar em um só ponto significa pecar contra a lei e, portanto, contra o Autor da lei. Até mesmo o menor pecado é digno do fogo do inferno, e toda pessoa impenitente vai para o inferno, embora algumas recebam no inferno punição maior do que outros. Tiago, como Jesus, adverte contra um entendimento superficial da lei de Deus (Mt 5.17-20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a lei régia. A suprema lei de Deus.",
+        "Amarás o teu próximo. Tiago considera o pecado de favoritismo uma violação do grande mandamento (Lv 19.18; Dt 6.5; Mt 22.36-39), fazendo de quem o pratica um transgressor da lei. Tiago, à semelhança de Paulo (Rm 13.8-10), diz que o amor ao próximo é o cumprimento da lei (ou seja, dos seis últimos dos Dez Mandamentos).",
+        "toda a lei... em um só ponto. Esse texto não nega o conceito bíblico de gradação do mal. Alguns pecados são mais horríveis do que outros e recebem uma punição mais severa do que pecados que são “menos” horríveis (Mt 11.21, 22; Lc 12.47, 48; Jo 19.11; Hb 10.29). No entanto, mesmo nos menores pecados, uma ofensa séria é cometida contra Deus. Pecar em um só ponto significa pecar contra a lei e, portanto, contra o Autor da lei. Até mesmo o menor pecado é digno do fogo do inferno, e toda pessoa impenitente vai para o inferno, embora algumas recebam no inferno punição maior do que outros. Tiago, como Jesus, adverte contra um entendimento superficial da lei de Deus (Mt 5.17-20)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a lei régia.",
+          "texto": "A suprema lei de Deus."
+        },
+        {
+          "titulo": "Amarás o teu próximo.",
+          "texto": "Tiago considera o pecado de favoritismo uma violação do grande mandamento (Lv 19.18; Dt 6.5; Mt 22.36-39), fazendo de quem o pratica um transgressor da lei. Tiago, à semelhança de Paulo (Rm 13.8-10), diz que o amor ao próximo é o cumprimento da lei (ou seja, dos seis últimos dos Dez Mandamentos)."
+        },
+        {
+          "titulo": "toda a lei... em um só ponto.",
+          "texto": "Esse texto não nega o conceito bíblico de gradação do mal. Alguns pecados são mais horríveis do que outros e recebem uma punição mais severa do que pecados que são “menos” horríveis (Mt 11.21, 22; Lc 12.47, 48; Jo 19.11; Hb 10.29). No entanto, mesmo nos menores pecados, uma ofensa séria é cometida contra Deus. Pecar em um só ponto significa pecar contra a lei e, portanto, contra o Autor da lei. Até mesmo o menor pecado é digno do fogo do inferno, e toda pessoa impenitente vai para o inferno, embora algumas recebam no inferno punição maior do que outros. Tiago, como Jesus, adverte contra um entendimento superficial da lei de Deus (Mt 5.17-20)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0023",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.13 Cf. Zacarias 79, Mateus 5.7; 18 21- 35 Embora",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Cf. Zacarias 7.9; Mateus 5.7; 18.21-35. Embora Deus nunca esteja obrigado a mostrar misericórdia, ele escolhe espontaneamente fazer isso com abundância. Ele tem a prerrogativa divina de mostrar misericórdia a quem quiser (Rm 9). Pela lei de Deus, somos ordenados a temperar justiça com misericórdia. Deus nos adverte que, se nos recusarmos a mostrar misericórdia, não receberemos misericórdia da parte dele.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Cf. Zacarias 7.9; Mateus 5.7; 18.21-35. Embora Deus nunca esteja obrigado a mostrar misericórdia, ele escolhe espontaneamente fazer isso com abundância. Ele tem a prerrogativa divina de mostrar misericórdia a quem quiser (Rm 9). Pela lei de Deus, somos ordenados a temperar justiça com misericórdia. Deus nos adverte que, se nos recusarmos a mostrar misericórdia, não receberemos misericórdia da parte dele."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Cf. Zacarias 7.9; Mateus 5.7; 18.21-35. Embora Deus nunca esteja obrigado a mostrar misericórdia, ele escolhe espontaneamente fazer isso com abundância. Ele tem a prerrogativa divina de mostrar misericórdia a quem quiser (Rm 9). Pela lei de Deus, somos ordenados a temperar justiça com misericórdia. Deus nos adverte que, se nos recusarmos a mostrar misericórdia, não receberemos misericórdia da parte dele."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0024",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.14 Pode... semelhante fe salva-lo. Isso",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Pode... semelhante fé salvá-lo. Isso introduz a questão crucial da relação entre fé e obras. A pergunta em escrutínio é: “Que tipo de fé é a fé salvadora?” A pergunta de Tiago é retórica; a resposta óbvia é que a fé sem obras não pode salvar. A fé que não produz obras não é fé salvadora. O Novo Testamento não ensina a justificação por obras, mas também não ensina a justificação por confissão de fé ou por reivindicação de fé. O Novo Testamento ensina a justificação pela posse da verdadeira fé, e a verdadeira fé produz o fruto de amor a Deus e ao próximo. Tiago tem em mente uma fé viva e genuína que produz obras frutíferas, as quais são evidência que vindica (ou prova) a validade da fé autêntica e justificadora de uma pessoa no julgamento final. Ver Introdução: Assuntos Especiais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Pode... semelhante fé salvá-lo. Isso introduz a questão crucial da relação entre fé e obras. A pergunta em escrutínio é: “Que tipo de fé é a fé salvadora?” A pergunta de Tiago é retórica; a resposta óbvia é que a fé sem obras não pode salvar. A fé que não produz obras não é fé salvadora. O Novo Testamento não ensina a justificação por obras, mas também não ensina a justificação por confissão de fé ou por reivindicação de fé. O Novo Testamento ensina a justificação pela posse da verdadeira fé, e a verdadeira fé produz o fruto de amor a Deus e ao próximo. Tiago tem em mente uma fé viva e genuína que produz obras frutíferas, as quais são evidência que vindica (ou prova) a validade da fé autêntica e justificadora de uma pessoa no julgamento final. Ver Introdução: Assuntos Especiais."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Pode... semelhante fé salvá-lo.",
+          "texto": "Isso introduz a questão crucial da relação entre fé e obras. A pergunta em escrutínio é: “Que tipo de fé é a fé salvadora?” A pergunta de Tiago é retórica; a resposta óbvia é que a fé sem obras não pode salvar. A fé que não produz obras não é fé salvadora. O Novo Testamento não ensina a justificação por obras, mas também não ensina a justificação por confissão de fé ou por reivindicação de fé. O Novo Testamento ensina a justificação pela posse da verdadeira fé, e a verdadeira fé produz o fruto de amor a Deus e ao próximo. Tiago tem em mente uma fé viva e genuína que produz obras frutíferas, as quais são evidência que vindica (ou prova) a validade da fé autêntica e justificadora de uma pessoa no julgamento final. Ver Introdução: Assuntos Especiais."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0025",
+      "referencia": "2.15,16",
+      "capitulo": 2,
+      "versiculos": [
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.15,16",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.15, 16 Descrevem a \" fe\" de palavras sem",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Descrevem a “fé” de palavras sem ações.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Descrevem a “fé” de palavras sem ações."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Descrevem a “fé” de palavras sem ações."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0026",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.17 a fe... por si so esta morta. Quando",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "a fé... por si só está morta. Quando Lutero e os reformadores insistiram na fórmula justificação somente pela fé, tencionavam insistir em que a justificação se fundamenta na confiança somente nos méritos de Cristo. O “somente” não significa que a fé existe sozinha, sem fruto subsequente de obediência. Lutero insistiu em que a fé salvadora é fé viva. Somos justificados somente pela fé, mas não por uma fé que está sozinha, ou seja, uma fé que consiste apenas de uma confissão sem o fruto de serviço amoroso a Deus e ao próximo. Fé “morta” não significa uma fé que pereceu; em vez disso, a imagem sugere uma fé que nunca teve vida verdadeira em si. Uma fé morta não pode nos tornar vivos; não pode “salvar” a nossa alma (1.21), sendo, portanto, falsa e inútil.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a fé... por si só está morta. Quando Lutero e os reformadores insistiram na fórmula justificação somente pela fé, tencionavam insistir em que a justificação se fundamenta na confiança somente nos méritos de Cristo. O “somente” não significa que a fé existe sozinha, sem fruto subsequente de obediência. Lutero insistiu em que a fé salvadora é fé viva. Somos justificados somente pela fé, mas não por uma fé que está sozinha, ou seja, uma fé que consiste apenas de uma confissão sem o fruto de serviço amoroso a Deus e ao próximo. Fé “morta” não significa uma fé que pereceu; em vez disso, a imagem sugere uma fé que nunca teve vida verdadeira em si. Uma fé morta não pode nos tornar vivos; não pode “salvar” a nossa alma (1.21), sendo, portanto, falsa e inútil."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a fé... por si só está morta.",
+          "texto": "Quando Lutero e os reformadores insistiram na fórmula justificação somente pela fé, tencionavam insistir em que a justificação se fundamenta na confiança somente nos méritos de Cristo. O “somente” não significa que a fé existe sozinha, sem fruto subsequente de obediência. Lutero insistiu em que a fé salvadora é fé viva. Somos justificados somente pela fé, mas não por uma fé que está sozinha, ou seja, uma fé que consiste apenas de uma confissão sem o fruto de serviço amoroso a Deus e ao próximo. Fé “morta” não significa uma fé que pereceu; em vez disso, a imagem sugere uma fé que nunca teve vida verdadeira em si. Uma fé morta não pode nos tornar vivos; não pode “salvar” a nossa alma (1.21), sendo, portanto, falsa e inútil."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0027",
+      "referencia": "2.18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2.18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2230,
+        "rotulo_original_ocr": "2.18 mostra- me essa tua fe. Tiago desafia",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "mostra-me essa tua fé. Tiago desafia quem afirma ter fé a demonstrá-la, a torná-la visível. Obras de obediência são a única evidência da fé salvadora que é visível aos olhos humanos. Deus pode ver o coração, mas a nossa única visão do coração é a que temos nos frutos exteriores.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "mostra-me essa tua fé. Tiago desafia quem afirma ter fé a demonstrá-la, a torná-la visível. Obras de obediência são a única evidência da fé salvadora que é visível aos olhos humanos. Deus pode ver o coração, mas a nossa única visão do coração é a que temos nos frutos exteriores."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mostra-me essa tua fé.",
+          "texto": "Tiago desafia quem afirma ter fé a demonstrá-la, a torná-la visível. Obras de obediência são a única evidência da fé salvadora que é visível aos olhos humanos. Deus pode ver o coração, mas a nossa única visão do coração é a que temos nos frutos exteriores."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0028",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2231,
+        "rotulo_original_ocr": "2.19 Cres, tu, que Deus e um. Crer que Deus e",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Crês, tu, que Deus é um. Crer que Deus é um só pode ser uma mera asserção intelectual. Crer em Deus exige confiança pessoal. Crer que ele é um só envolve concordar com uma proposição que até os demônios reconhecem, e a “fé dos demônios” não salva ninguém. A fé salvadora inclui conhecimento cognitivo, mas vai além disso; envolve confiança e submissão pessoal.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Crês, tu, que Deus é um. Crer que Deus é um só pode ser uma mera asserção intelectual. Crer em Deus exige confiança pessoal. Crer que ele é um só envolve concordar com uma proposição que até os demônios reconhecem, e a “fé dos demônios” não salva ninguém. A fé salvadora inclui conhecimento cognitivo, mas vai além disso; envolve confiança e submissão pessoal."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Crês, tu, que Deus é um.",
+          "texto": "Crer que Deus é um só pode ser uma mera asserção intelectual. Crer em Deus exige confiança pessoal. Crer que ele é um só envolve concordar com uma proposição que até os demônios reconhecem, e a “fé dos demônios” não salva ninguém. A fé salvadora inclui conhecimento cognitivo, mas vai além disso; envolve confiança e submissão pessoal."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0029",
+      "referencia": "2.20",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.20",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2231,
+        "rotulo_original_ocr": "2.20 homem insensato. Trata-se de uma re",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "homem insensato. Trata-se de uma repreensão forte. É um julgamento moral, mais do que um julgamento intelectual, e lembra o julgamento que recai sobre o “insensato” na literatura de sabedoria do Antigo Testamento.\n\ninoperante. Destituída de fruto.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "homem insensato. Trata-se de uma repreensão forte. É um julgamento moral, mais do que um julgamento intelectual, e lembra o julgamento que recai sobre o “insensato” na literatura de sabedoria do Antigo Testamento.",
+        "inoperante. Destituída de fruto."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "homem insensato.",
+          "texto": "Trata-se de uma repreensão forte. É um julgamento moral, mais do que um julgamento intelectual, e lembra o julgamento que recai sobre o “insensato” na literatura de sabedoria do Antigo Testamento."
+        },
+        {
+          "titulo": "inoperante.",
+          "texto": "Destituída de fruto."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0030",
+      "referencia": "2.21",
+      "capitulo": 2,
+      "versiculos": [
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "2.21",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2231,
+        "rotulo_original_ocr": "2.21 justificado. Tlago apela a Abraao como sua",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "justificado. Tiago apela a Abraão como sua principal exibição de alguém cuja fé é justificada ou demonstrada por suas obras. Isso não envolve nenhum conflito com Paulo, que também apelou a Abraão como o principal exemplo de alguém justificado ou declarado justo aos olhos do Senhor somente pela fé. Note que Tiago apela a Gênesis 22, enquanto Paulo, a Gênesis 15. Aos olhos de Deus, Abraão é justificado em Gênesis 15, muito antes de oferecer Isaque sobre o altar. Deus sabia que a fé de Abraão era genuína. Abraão é justificado para nós, aos olhos humanos, em Gênesis 22, quando mostra sua fé por meio de sua obediência. Jesus usou o mesmo verbo em Lucas 7.35, quando declarou que “a sabedoria é justificada por todos os seus filhos” (ou seja, mostrada como genuína por seus resultados). Aqui, a palavra “justificar” não significa ser reconciliado com Deus e declarado justo aos olhos de Deus; significa demonstrar a verdade de uma afirmação anterior. Assim como a verdadeira sabedoria é demonstrada por seu fruto, a afirmação de fé de Abraão é justificada por seu fruto, ou seja, por sua obediência exterior. Suas obras não foram a causa meritória de sua salvação; não acrescentaram mérito ao perfeito e suficiente mérito de Cristo. Isso também é verdadeiro a respeito de nossas obras.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "justificado. Tiago apela a Abraão como sua principal exibição de alguém cuja fé é justificada ou demonstrada por suas obras. Isso não envolve nenhum conflito com Paulo, que também apelou a Abraão como o principal exemplo de alguém justificado ou declarado justo aos olhos do Senhor somente pela fé. Note que Tiago apela a Gênesis 22, enquanto Paulo, a Gênesis 15. Aos olhos de Deus, Abraão é justificado em Gênesis 15, muito antes de oferecer Isaque sobre o altar. Deus sabia que a fé de Abraão era genuína. Abraão é justificado para nós, aos olhos humanos, em Gênesis 22, quando mostra sua fé por meio de sua obediência. Jesus usou o mesmo verbo em Lucas 7.35, quando declarou que “a sabedoria é justificada por todos os seus filhos” (ou seja, mostrada como genuína por seus resultados). Aqui, a palavra “justificar” não significa ser reconciliado com Deus e declarado justo aos olhos de Deus; significa demonstrar a verdade de uma afirmação anterior. Assim como a verdadeira sabedoria é demonstrada por seu fruto, a afirmação de fé de Abraão é justificada por seu fruto, ou seja, por sua obediência exterior. Suas obras não foram a causa meritória de sua salvação; não acrescentaram mérito ao perfeito e suficiente mérito de Cristo. Isso também é verdadeiro a respeito de nossas obras."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "justificado.",
+          "texto": "Tiago apela a Abraão como sua principal exibição de alguém cuja fé é justificada ou demonstrada por suas obras. Isso não envolve nenhum conflito com Paulo, que também apelou a Abraão como o principal exemplo de alguém justificado ou declarado justo aos olhos do Senhor somente pela fé. Note que Tiago apela a Gênesis 22, enquanto Paulo, a Gênesis 15. Aos olhos de Deus, Abraão é justificado em Gênesis 15, muito antes de oferecer Isaque sobre o altar. Deus sabia que a fé de Abraão era genuína. Abraão é justificado para nós, aos olhos humanos, em Gênesis 22, quando mostra sua fé por meio de sua obediência. Jesus usou o mesmo verbo em Lucas 7.35, quando declarou que “a sabedoria é justificada por todos os seus filhos” (ou seja, mostrada como genuína por seus resultados). Aqui, a palavra “justificar” não significa ser reconciliado com Deus e declarado justo aos olhos de Deus; significa demonstrar a verdade de uma afirmação anterior. Assim como a verdadeira sabedoria é demonstrada por seu fruto, a afirmação de fé de Abraão é justificada por seu fruto, ou seja, por sua obediência exterior. Suas obras não foram a causa meritória de sua salvação; não acrescentaram mérito ao perfeito e suficiente mérito de Cristo. Isso também é verdadeiro a respeito de nossas obras."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0031",
+      "referencia": "2.22",
+      "capitulo": 2,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "2.22",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2231,
+        "rotulo_original_ocr": "2.22 a fe se consumou. 0 desenvolvimento",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "a fé se consumou. O desenvolvimento pleno da fé é visto em obras. A verdadeira fé sempre produz fruto. A fé e as obras podem ser distinguidas, mas nunca separadas ou divorciadas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a fé se consumou. O desenvolvimento pleno da fé é visto em obras. A verdadeira fé sempre produz fruto. A fé e as obras podem ser distinguidas, mas nunca separadas ou divorciadas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a fé se consumou.",
+          "texto": "O desenvolvimento pleno da fé é visto em obras. A verdadeira fé sempre produz fruto. A fé e as obras podem ser distinguidas, mas nunca separadas ou divorciadas."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0032",
+      "referencia": "2.24",
+      "capitulo": 2,
+      "versiculos": [
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "2.24",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2231,
+        "rotulo_original_ocr": "2.24 nao por fe somente. Uma pessoa nao",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "não por fé somente. Uma pessoa não é tida como justa por mera profissão de fé ou por ter uma fé que permanece sozinha e nunca produz boas obras. A validade da profissão de fé de alguém é evidente para outras pessoas por meio do que ela faz. Nenhuma de nossas realizações é digna de justificação aos olhos de Deus. Somente o mérito de Cristo obtém esse tipo de justificação, essa declaração de justiça aos olhos de Deus. É por confiarmos apenas em Cristo que podemos ser declarados justos aos olhos de Deus. Aqui, Tiago ataca todas as formas de antinomianismo que procuram ter Jesus como Salvador sem abraçá-lo como Senhor. Assim como Paulo demonstrou que o fato de alguém confiar em suas próprias obras é mortal, Tiago ensina que confiar em fé morta ou vazia é algo letal. Ver nota teológica “Fé e Obras” acima.",
+      "remissoes": [
+        "tg-art-fe-e-obras"
+      ],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não por fé somente. Uma pessoa não é tida como justa por mera profissão de fé ou por ter uma fé que permanece sozinha e nunca produz boas obras. A validade da profissão de fé de alguém é evidente para outras pessoas por meio do que ela faz. Nenhuma de nossas realizações é digna de justificação aos olhos de Deus. Somente o mérito de Cristo obtém esse tipo de justificação, essa declaração de justiça aos olhos de Deus. É por confiarmos apenas em Cristo que podemos ser declarados justos aos olhos de Deus. Aqui, Tiago ataca todas as formas de antinomianismo que procuram ter Jesus como Salvador sem abraçá-lo como Senhor. Assim como Paulo demonstrou que o fato de alguém confiar em suas próprias obras é mortal, Tiago ensina que confiar em fé morta ou vazia é algo letal. Ver nota teológica “Fé e Obras” acima."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não por fé somente.",
+          "texto": "Uma pessoa não é tida como justa por mera profissão de fé ou por ter uma fé que permanece sozinha e nunca produz boas obras. A validade da profissão de fé de alguém é evidente para outras pessoas por meio do que ela faz. Nenhuma de nossas realizações é digna de justificação aos olhos de Deus. Somente o mérito de Cristo obtém esse tipo de justificação, essa declaração de justiça aos olhos de Deus. É por confiarmos apenas em Cristo que podemos ser declarados justos aos olhos de Deus. Aqui, Tiago ataca todas as formas de antinomianismo que procuram ter Jesus como Salvador sem abraçá-lo como Senhor. Assim como Paulo demonstrou que o fato de alguém confiar em suas próprias obras é mortal, Tiago ensina que confiar em fé morta ou vazia é algo letal. Ver nota teológica “Fé e Obras” acima."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0033",
+      "referencia": "3.1-12",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.1-12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.1-12 Tiago ecoa a enfase de Jesus na importance",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Tiago ecoa a ênfase de Jesus na importância crucial do uso de palavras na vida diária (Mt 12.36; Mc 7.20-23).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tiago ecoa a ênfase de Jesus na importância crucial do uso de palavras na vida diária (Mt 12.36; Mc 7.20-23)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Tiago ecoa a ênfase de Jesus na importância crucial do uso de palavras na vida diária (Mt 12.36; Mc 7.20-23)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0034",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.1 receber maior juizo. Tiago faz uma adver-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "receber maior juízo. Tiago faz uma advertência solene sobre a responsabilidade dos mestres. Os mestres exercem influência sobre os alunos crédulos, um relacionamento que torna os discípulos vulneráveis a erros sérios. O mestre é estritamente responsável pelo que ensina. Esse juízo severo deve restringir os mestres de palavras descuidadas. A língua do mestre pode ser um perigo devastador. A Igreja primitiva considerava muito importante o ofício de mestre (Mt 5.19; 18.6; cf. Rm 14.10-12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "receber maior juízo. Tiago faz uma advertência solene sobre a responsabilidade dos mestres. Os mestres exercem influência sobre os alunos crédulos, um relacionamento que torna os discípulos vulneráveis a erros sérios. O mestre é estritamente responsável pelo que ensina. Esse juízo severo deve restringir os mestres de palavras descuidadas. A língua do mestre pode ser um perigo devastador. A Igreja primitiva considerava muito importante o ofício de mestre (Mt 5.19; 18.6; cf. Rm 14.10-12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "receber maior juízo.",
+          "texto": "Tiago faz uma advertência solene sobre a responsabilidade dos mestres. Os mestres exercem influência sobre os alunos crédulos, um relacionamento que torna os discípulos vulneráveis a erros sérios. O mestre é estritamente responsável pelo que ensina. Esse juízo severo deve restringir os mestres de palavras descuidadas. A língua do mestre pode ser um perigo devastador. A Igreja primitiva considerava muito importante o ofício de mestre (Mt 5.19; 18.6; cf. Rm 14.10-12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0035",
+      "referencia": "3.3-5",
+      "capitulo": 3,
+      "versiculos": [
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.3-5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.3-5 Tiago usa metaforas da experience comum",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Tiago usa metáforas da experiência comum para ilustrar esse ponto crucial de que grandes resultados podem ser conseguidos por pequenos meios. A língua é uma parte pequena de nosso corpo que pode produzir grandes desastres.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tiago usa metáforas da experiência comum para ilustrar esse ponto crucial de que grandes resultados podem ser conseguidos por pequenos meios. A língua é uma parte pequena de nosso corpo que pode produzir grandes desastres."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Tiago usa metáforas da experiência comum para ilustrar esse ponto crucial de que grandes resultados podem ser conseguidos por pequenos meios. A língua é uma parte pequena de nosso corpo que pode produzir grandes desastres."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0036",
+      "referencia": "3.6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.6",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.6 a lingua e fogo. Uma lingua descontrolada",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "a língua é fogo. Uma língua descontrolada é ligada a um fogo que devasta fora de controle (Sl 120.3, 4; Pv 16.27).\n\ncontamina. A fala pecaminosa (incluindo blasfêmia, intriga, calúnia, mentira, votos falsos e coisas semelhantes) tem o poder de prejudicar, contaminar e corromper todo o caráter moral de uma pessoa.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a língua é fogo. Uma língua descontrolada é ligada a um fogo que devasta fora de controle (Sl 120.3, 4; Pv 16.27).",
+        "contamina. A fala pecaminosa (incluindo blasfêmia, intriga, calúnia, mentira, votos falsos e coisas semelhantes) tem o poder de prejudicar, contaminar e corromper todo o caráter moral de uma pessoa."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a língua é fogo.",
+          "texto": "Uma língua descontrolada é ligada a um fogo que devasta fora de controle (Sl 120.3, 4; Pv 16.27)."
+        },
+        {
+          "titulo": "contamina.",
+          "texto": "A fala pecaminosa (incluindo blasfêmia, intriga, calúnia, mentira, votos falsos e coisas semelhantes) tem o poder de prejudicar, contaminar e corromper todo o caráter moral de uma pessoa."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0037",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.8 nenhum dos homens e capaz de do-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "nenhum dos homens é capaz de domar. É mais difícil domar a língua do que animais selvagens. Está cheia de veneno mais letal do que o de uma víbora (Sl 58.4; 140.3; Rm 3.13, 14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "nenhum dos homens é capaz de domar. É mais difícil domar a língua do que animais selvagens. Está cheia de veneno mais letal do que o de uma víbora (Sl 58.4; 140.3; Rm 3.13, 14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "nenhum dos homens é capaz de domar.",
+          "texto": "É mais difícil domar a língua do que animais selvagens. Está cheia de veneno mais letal do que o de uma víbora (Sl 58.4; 140.3; Rm 3.13, 14)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0038",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.9 bendizemos... amaldigoamos. A lingua",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "bendizemos... amaldiçoamos. A língua é capaz de ser usada tanto para virtude como para pecado. A mesma boca usa a língua para cumprir esses propósitos contrários.\n\nfeitos à semelhança de Deus. Ver nota teológica “Seres Humanos Criados à Imagem de Deus”, na p. 13. Nossa fala é uma das maneiras como fomos feitos à imagem de Deus; e devemos usar nossas palavras de modo a refletir a própria Palavra de Deus, o que, por sua vez, honra e abençoa a ele e os outros.",
+      "remissoes": [
+        "tg-rem-0038-13"
+      ],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "bendizemos... amaldiçoamos. A língua é capaz de ser usada tanto para virtude como para pecado. A mesma boca usa a língua para cumprir esses propósitos contrários.",
+        "feitos à semelhança de Deus. Ver nota teológica “Seres Humanos Criados à Imagem de Deus”, na p. 13. Nossa fala é uma das maneiras como fomos feitos à imagem de Deus; e devemos usar nossas palavras de modo a refletir a própria Palavra de Deus, o que, por sua vez, honra e abençoa a ele e os outros."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "bendizemos... amaldiçoamos.",
+          "texto": "A língua é capaz de ser usada tanto para virtude como para pecado. A mesma boca usa a língua para cumprir esses propósitos contrários."
+        },
+        {
+          "titulo": "feitos à semelhança de Deus.",
+          "texto": "Ver nota teológica “Seres Humanos Criados à Imagem de Deus”, na p. 13. Nossa fala é uma das maneiras como fomos feitos à imagem de Deus; e devemos usar nossas palavras de modo a refletir a própria Palavra de Deus, o que, por sua vez, honra e abençoa a ele e os outros."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0039",
+      "referencia": "3.11,12",
+      "capitulo": 3,
+      "versiculos": [
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.11,12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.11, 12. Observe a semelhanga existente aqui en-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Observe a semelhança existente aqui entre as metáforas de Tiago e as metáforas de Jesus em Mateus 7.16.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Observe a semelhança existente aqui entre as metáforas de Tiago e as metáforas de Jesus em Mateus 7.16."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Observe a semelhança existente aqui entre as metáforas de Tiago e as metáforas de Jesus em Mateus 7.16."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0040",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.13 Mostre... sabedoria. Assim como Tiago",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Mostre... sabedoria. Assim como Tiago exorta os crentes a demonstrarem sua fé por meio de obras, também requer a demonstração de sabedoria por meio de um viver santo. Aquele que é verdadeiramente sábio no Senhor mostrará “as suas obras” ou “frutos” (cf. v. 17) ao abençoar com a língua e não amaldiçoar (cf. de novo 3.10-12).\n\nmansidão. O sinal de sabedoria é um espírito humilde e gentil. Como arrogância e insensatez caminham juntas, assim o fazem sabedoria e humildade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Mostre... sabedoria. Assim como Tiago exorta os crentes a demonstrarem sua fé por meio de obras, também requer a demonstração de sabedoria por meio de um viver santo. Aquele que é verdadeiramente sábio no Senhor mostrará “as suas obras” ou “frutos” (cf. v. 17) ao abençoar com a língua e não amaldiçoar (cf. de novo 3.10-12).",
+        "mansidão. O sinal de sabedoria é um espírito humilde e gentil. Como arrogância e insensatez caminham juntas, assim o fazem sabedoria e humildade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Mostre... sabedoria.",
+          "texto": "Assim como Tiago exorta os crentes a demonstrarem sua fé por meio de obras, também requer a demonstração de sabedoria por meio de um viver santo. Aquele que é verdadeiramente sábio no Senhor mostrará “as suas obras” ou “frutos” (cf. v. 17) ao abençoar com a língua e não amaldiçoar (cf. de novo 3.10-12)."
+        },
+        {
+          "titulo": "mansidão.",
+          "texto": "O sinal de sabedoria é um espírito humilde e gentil. Como arrogância e insensatez caminham juntas, assim o fazem sabedoria e humildade."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0041",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.14 inveja amargurada e sentimento",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "inveja amargurada e sentimento faccioso. Inveja e cobiça envenenam o espírito. Estão ligadas à ambição egocêntrica e autossatisfatória. Esses erros cegam a pessoa para os verdadeiros entendimento e sabedoria, e são contrários ao amor ao próximo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "inveja amargurada e sentimento faccioso. Inveja e cobiça envenenam o espírito. Estão ligadas à ambição egocêntrica e autossatisfatória. Esses erros cegam a pessoa para os verdadeiros entendimento e sabedoria, e são contrários ao amor ao próximo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "inveja amargurada e sentimento faccioso.",
+          "texto": "Inveja e cobiça envenenam o espírito. Estão ligadas à ambição egocêntrica e autossatisfatória. Esses erros cegam a pessoa para os verdadeiros entendimento e sabedoria, e são contrários ao amor ao próximo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0042",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.15 terrena, animal e demomaca. A sabe-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "terrena, animal e demoníaca. A sabedoria divina é colocada em acentuado contraste com a sabedoria deste mundo. A sabedoria da carne reflete o engano de Satanás, sendo também insensatez aos olhos de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "terrena, animal e demoníaca. A sabedoria divina é colocada em acentuado contraste com a sabedoria deste mundo. A sabedoria da carne reflete o engano de Satanás, sendo também insensatez aos olhos de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "terrena, animal e demoníaca.",
+          "texto": "A sabedoria divina é colocada em acentuado contraste com a sabedoria deste mundo. A sabedoria da carne reflete o engano de Satanás, sendo também insensatez aos olhos de Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0043",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.16 toda especie de coisas ruins. Anterior-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "toda espécie de coisas ruins. Anteriormente, Tiago mostrou que a língua é capaz de produzir males desastrosos, mas agora ele enfatiza o poder destrutivo da inveja e do egoísmo. Daí fluem todos os tipos de males, incluindo vandalismo, assassinato, adultério, conflitos, roubo, calúnia e outros pecados que ofendem as pessoas e provocam o caos na comunidade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "toda espécie de coisas ruins. Anteriormente, Tiago mostrou que a língua é capaz de produzir males desastrosos, mas agora ele enfatiza o poder destrutivo da inveja e do egoísmo. Daí fluem todos os tipos de males, incluindo vandalismo, assassinato, adultério, conflitos, roubo, calúnia e outros pecados que ofendem as pessoas e provocam o caos na comunidade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "toda espécie de coisas ruins.",
+          "texto": "Anteriormente, Tiago mostrou que a língua é capaz de produzir males desastrosos, mas agora ele enfatiza o poder destrutivo da inveja e do egoísmo. Daí fluem todos os tipos de males, incluindo vandalismo, assassinato, adultério, conflitos, roubo, calúnia e outros pecados que ofendem as pessoas e provocam o caos na comunidade."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0044",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5,
+          6
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.17 sabedoria... do alto. A sabedoria, que e um",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "sabedoria... do alto. A sabedoria, que é um dom de Deus (1.5), reflete a pureza do próprio Deus. De novo, a sabedoria está ligada à piedade, porque Deus mesmo é a fonte da verdadeira sabedoria.\n\npacífica. Trata-se de paz autêntica, livre de uma atitude de conflito.\n\nindulgente. Prudente e respeitosa em relação aos sentimentos das outras pessoas.\n\ntratável. Disposta a ouvir os outros e a obedecer-lhes.\n\nplena de misericórdia. A pessoa sábia não é mesquinha em misericórdia, mas demonstra caridade em medida abundante.\n\nbons frutos. Aqueles que participam da verdadeira sabedoria “do alto” produzirão “bons frutos”, porque foram gerados (“regenerados”) como “primícias” da nova Criação incipiente (1.18). Aqueles que são parte da nova Criação produzirão novos e “bons frutos”.\n\nimparcial, sem fingimento. A pessoa sábia é justa, sem engano, trapaça ou fraude.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sabedoria... do alto. A sabedoria, que é um dom de Deus (1.5), reflete a pureza do próprio Deus. De novo, a sabedoria está ligada à piedade, porque Deus mesmo é a fonte da verdadeira sabedoria.",
+        "pacífica. Trata-se de paz autêntica, livre de uma atitude de conflito.",
+        "indulgente. Prudente e respeitosa em relação aos sentimentos das outras pessoas.",
+        "tratável. Disposta a ouvir os outros e a obedecer-lhes.",
+        "plena de misericórdia. A pessoa sábia não é mesquinha em misericórdia, mas demonstra caridade em medida abundante.",
+        "bons frutos. Aqueles que participam da verdadeira sabedoria “do alto” produzirão “bons frutos”, porque foram gerados (“regenerados”) como “primícias” da nova Criação incipiente (1.18). Aqueles que são parte da nova Criação produzirão novos e “bons frutos”.",
+        "imparcial, sem fingimento. A pessoa sábia é justa, sem engano, trapaça ou fraude."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sabedoria... do alto.",
+          "texto": "A sabedoria, que é um dom de Deus (1.5), reflete a pureza do próprio Deus. De novo, a sabedoria está ligada à piedade, porque Deus mesmo é a fonte da verdadeira sabedoria."
+        },
+        {
+          "titulo": "pacífica.",
+          "texto": "Trata-se de paz autêntica, livre de uma atitude de conflito."
+        },
+        {
+          "titulo": "indulgente.",
+          "texto": "Prudente e respeitosa em relação aos sentimentos das outras pessoas."
+        },
+        {
+          "titulo": "tratável.",
+          "texto": "Disposta a ouvir os outros e a obedecer-lhes."
+        },
+        {
+          "titulo": "plena de misericórdia.",
+          "texto": "A pessoa sábia não é mesquinha em misericórdia, mas demonstra caridade em medida abundante."
+        },
+        {
+          "titulo": "bons frutos.",
+          "texto": "Aqueles que participam da verdadeira sabedoria “do alto” produzirão “bons frutos”, porque foram gerados (“regenerados”) como “primícias” da nova Criação incipiente (1.18). Aqueles que são parte da nova Criação produzirão novos e “bons frutos”."
+        },
+        {
+          "titulo": "imparcial, sem fingimento.",
+          "texto": "A pessoa sábia é justa, sem engano, trapaça ou fraude."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0045",
+      "referencia": "3.18",
+      "capitulo": 3,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.18",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "3.18 o fruto da justiga. 0 fruto colhido por",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "o fruto da justiça. O fruto colhido por plantarmos sabedoria é uma abundante colheita de justiça. Esses frutos “justos” dos verdadeiros crentes, que são agora semeados por Deus (cf. 1.18), serão colhidos no fim do tempo e indicarão que essas pessoas tinham fé autêntica em todo o decurso do seu crer (cf. 2.14-26). Um desses frutos é a “paz”, um dos sinais reveladores da chegada da nova Criação, que será consumada na colheita final (cf. Gl 6.15, 16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o fruto da justiça. O fruto colhido por plantarmos sabedoria é uma abundante colheita de justiça. Esses frutos “justos” dos verdadeiros crentes, que são agora semeados por Deus (cf. 1.18), serão colhidos no fim do tempo e indicarão que essas pessoas tinham fé autêntica em todo o decurso do seu crer (cf. 2.14-26). Um desses frutos é a “paz”, um dos sinais reveladores da chegada da nova Criação, que será consumada na colheita final (cf. Gl 6.15, 16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o fruto da justiça.",
+          "texto": "O fruto colhido por plantarmos sabedoria é uma abundante colheita de justiça. Esses frutos “justos” dos verdadeiros crentes, que são agora semeados por Deus (cf. 1.18), serão colhidos no fim do tempo e indicarão que essas pessoas tinham fé autêntica em todo o decurso do seu crer (cf. 2.14-26). Um desses frutos é a “paz”, um dos sinais reveladores da chegada da nova Criação, que será consumada na colheita final (cf. Gl 6.15, 16)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0046",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.1 contendas. Tiago sonda a fonte das divisoes",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "contendas. Tiago sonda a fonte das divisões entre os santos. Elas são causadas por desejos maus. E a inveja é considerada um desejo mau que é destrutivo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "contendas. Tiago sonda a fonte das divisões entre os santos. Elas são causadas por desejos maus. E a inveja é considerada um desejo mau que é destrutivo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "contendas.",
+          "texto": "Tiago sonda a fonte das divisões entre os santos. Elas são causadas por desejos maus. E a inveja é considerada um desejo mau que é destrutivo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0047",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.2 porque nao pedis. Ou seja, \"nao pedis\" a",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "porque não pedis. Ou seja, “não pedis” a “Deus, que a todos dá liberalmente” (1.5). Inveja é um pecado contra Deus. Procede de uma falta de gratidão para com Deus, que dá dons ao seu povo. Também resulta de alguém buscar no mundo seus próprios dons, e não buscá-los em Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "porque não pedis. Ou seja, “não pedis” a “Deus, que a todos dá liberalmente” (1.5). Inveja é um pecado contra Deus. Procede de uma falta de gratidão para com Deus, que dá dons ao seu povo. Também resulta de alguém buscar no mundo seus próprios dons, e não buscá-los em Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "porque não pedis.",
+          "texto": "Ou seja, “não pedis” a “Deus, que a todos dá liberalmente” (1.5). Inveja é um pecado contra Deus. Procede de uma falta de gratidão para com Deus, que dá dons ao seu povo. Também resulta de alguém buscar no mundo seus próprios dons, e não buscá-los em Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0048",
+      "referencia": "4.3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4.3",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.3 pedis mal. Deus recusa atender as nossas pe-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "pedis mal. Deus recusa atender às nossas petições quando procedem de desejos maus. Orar com motivos errados é não orar com fé (Rm 14.23; Hb 11.6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pedis mal. Deus recusa atender às nossas petições quando procedem de desejos maus. Orar com motivos errados é não orar com fé (Rm 14.23; Hb 11.6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pedis mal.",
+          "texto": "Deus recusa atender às nossas petições quando procedem de desejos maus. Orar com motivos errados é não orar com fé (Rm 14.23; Hb 11.6)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0049",
+      "referencia": "4.4",
+      "capitulo": 4,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "4.4",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.4 Infieis. A infidelidade espiritual esta em vista",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Infiéis. A infidelidade espiritual está em vista aqui. O Antigo Testamento via a adoração idólatra de Israel como adultério, porque mostrava lealdade pactual para com algo dessa Criação, e não para com o Criador, que era o marido de Israel (e.g., Jr 3.9; Ez 16; 23.37; Os 4.13; cf. Ap 2.20-22). Isso é intimidade espiritual ilícita e, portanto, adultério. Ser um amigo “do mundo” é ser mais comprometido com o “mundo” do que com Deus e, assim, alinhar-se com o sistema mau do mundo, que é contra Deus e contra seu povo. Não há neutralidade espiritual.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Infiéis. A infidelidade espiritual está em vista aqui. O Antigo Testamento via a adoração idólatra de Israel como adultério, porque mostrava lealdade pactual para com algo dessa Criação, e não para com o Criador, que era o marido de Israel (e.g., Jr 3.9; Ez 16; 23.37; Os 4.13; cf. Ap 2.20-22). Isso é intimidade espiritual ilícita e, portanto, adultério. Ser um amigo “do mundo” é ser mais comprometido com o “mundo” do que com Deus e, assim, alinhar-se com o sistema mau do mundo, que é contra Deus e contra seu povo. Não há neutralidade espiritual."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Infiéis.",
+          "texto": "A infidelidade espiritual está em vista aqui. O Antigo Testamento via a adoração idólatra de Israel como adultério, porque mostrava lealdade pactual para com algo dessa Criação, e não para com o Criador, que era o marido de Israel (e.g., Jr 3.9; Ez 16; 23.37; Os 4.13; cf. Ap 2.20-22). Isso é intimidade espiritual ilícita e, portanto, adultério. Ser um amigo “do mundo” é ser mais comprometido com o “mundo” do que com Deus e, assim, alinhar-se com o sistema mau do mundo, que é contra Deus e contra seu povo. Não há neutralidade espiritual."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0050",
+      "referencia": "4.5",
+      "capitulo": 4,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "4.5",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.5 afirma a Escritura. Tiago provavelmente",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "afirma a Escritura. Tiago provavelmente não tinha em mente um texto específico; ele está fazendo uma referência geral a um tema bíblico comum, como é visto também em Mateus 2.23. A ideia pode derivar parcialmente de Êxodo 20.5 e Deuteronômio 4.24. Se o versículo é entendido como falando do espírito humano, Tiago estava pensando em textos como Gênesis 6.3 e 8.21, que dizem respeito às consequências do pecado original.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "afirma a Escritura. Tiago provavelmente não tinha em mente um texto específico; ele está fazendo uma referência geral a um tema bíblico comum, como é visto também em Mateus 2.23. A ideia pode derivar parcialmente de Êxodo 20.5 e Deuteronômio 4.24. Se o versículo é entendido como falando do espírito humano, Tiago estava pensando em textos como Gênesis 6.3 e 8.21, que dizem respeito às consequências do pecado original."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "afirma a Escritura.",
+          "texto": "Tiago provavelmente não tinha em mente um texto específico; ele está fazendo uma referência geral a um tema bíblico comum, como é visto também em Mateus 2.23. A ideia pode derivar parcialmente de Êxodo 20.5 e Deuteronômio 4.24. Se o versículo é entendido como falando do espírito humano, Tiago estava pensando em textos como Gênesis 6.3 e 8.21, que dizem respeito às consequências do pecado original."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0051",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.6 Cf. Proverbios 3.34",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Cf. Provérbios 3.34.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Cf. Provérbios 3.34."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Cf. Provérbios 3.34."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0052",
+      "referencia": "4.7",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "4.7",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.7 Sujeitai-vos. Isso exige um ato espontaneo",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Sujeitai-vos. Isso exige um ato espontâneo de aceitação da autoridade de Deus, porque estamos sob a autoridade dele, quer nos submetamos a ele espontaneamente, quer não.\n\nresisti ao diabo, e ele fugirá de vós. Satanás não é igual a Deus em autoridade e poder. Embora Satanás seja poderoso, não é invencível. Ele foge dos santos que vestem a armadura de Deus e resistem a ele (ver Ef 6.10-17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Sujeitai-vos. Isso exige um ato espontâneo de aceitação da autoridade de Deus, porque estamos sob a autoridade dele, quer nos submetamos a ele espontaneamente, quer não.",
+        "resisti ao diabo, e ele fugirá de vós. Satanás não é igual a Deus em autoridade e poder. Embora Satanás seja poderoso, não é invencível. Ele foge dos santos que vestem a armadura de Deus e resistem a ele (ver Ef 6.10-17)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Sujeitai-vos.",
+          "texto": "Isso exige um ato espontâneo de aceitação da autoridade de Deus, porque estamos sob a autoridade dele, quer nos submetamos a ele espontaneamente, quer não."
+        },
+        {
+          "titulo": "resisti ao diabo, e ele fugirá de vós.",
+          "texto": "Satanás não é igual a Deus em autoridade e poder. Embora Satanás seja poderoso, não é invencível. Ele foge dos santos que vestem a armadura de Deus e resistem a ele (ver Ef 6.10-17)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0053",
+      "referencia": "4.9",
+      "capitulo": 4,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "4.9",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.9 Afligi- vos, lamentai e chorai Um cha-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Afligi-vos, lamentai e chorai. Um chamado ao arrependimento genuíno, no qual lamentamos por nossos pecados.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Afligi-vos, lamentai e chorai. Um chamado ao arrependimento genuíno, no qual lamentamos por nossos pecados."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Afligi-vos, lamentai e chorai.",
+          "texto": "Um chamado ao arrependimento genuíno, no qual lamentamos por nossos pecados."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0054",
+      "referencia": "4.11",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.11 faleis mal. Um pecado da fala, a caiunia pro-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "faleis mal. Um pecado da fala, a calúnia procede de inveja e reflete a obra de Satanás. A palavra grega traduzida por “diabo” significa “caluniador”. Caluniar os outros cristãos destrói a comunhão e quebra a lei real. Quando falamos falsamente contra um irmão em Cristo, falamos não contra a pessoa, mas contra a lei de Deus. O caluniador se coloca ilicitamente como juiz acima da lei (v. 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "faleis mal. Um pecado da fala, a calúnia procede de inveja e reflete a obra de Satanás. A palavra grega traduzida por “diabo” significa “caluniador”. Caluniar os outros cristãos destrói a comunhão e quebra a lei real. Quando falamos falsamente contra um irmão em Cristo, falamos não contra a pessoa, mas contra a lei de Deus. O caluniador se coloca ilicitamente como juiz acima da lei (v. 12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "faleis mal.",
+          "texto": "Um pecado da fala, a calúnia procede de inveja e reflete a obra de Satanás. A palavra grega traduzida por “diabo” significa “caluniador”. Caluniar os outros cristãos destrói a comunhão e quebra a lei real. Quando falamos falsamente contra um irmão em Cristo, falamos não contra a pessoa, mas contra a lei de Deus. O caluniador se coloca ilicitamente como juiz acima da lei (v. 12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0055",
+      "referencia": "4.13,14",
+      "capitulo": 4,
+      "versiculos": [
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "4.13,14",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.13, 14 o que sucedera amanha. Tiago",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "o que sucederá amanhã. Tiago repreende a pessoa que leva a vida e faz planos futuros sem qualquer consideração à providência de Deus. Tal pessoa vive sem respeito à soberania de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o que sucederá amanhã. Tiago repreende a pessoa que leva a vida e faz planos futuros sem qualquer consideração à providência de Deus. Tal pessoa vive sem respeito à soberania de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o que sucederá amanhã.",
+          "texto": "Tiago repreende a pessoa que leva a vida e faz planos futuros sem qualquer consideração à providência de Deus. Tal pessoa vive sem respeito à soberania de Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0056",
+      "referencia": "4.15",
+      "capitulo": 4,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "4.15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.15 Se o Senhor quiser. A palavra \"se\" refere-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Se o Senhor quiser. A palavra “se” refere-se a eventos futuros que são condicionais. Aqui, a consideração primária em todo planejamento futuro é a vontade do Deus soberano.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Se o Senhor quiser. A palavra “se” refere-se a eventos futuros que são condicionais. Aqui, a consideração primária em todo planejamento futuro é a vontade do Deus soberano."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Se o Senhor quiser.",
+          "texto": "A palavra “se” refere-se a eventos futuros que são condicionais. Aqui, a consideração primária em todo planejamento futuro é a vontade do Deus soberano."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0057",
+      "referencia": "4.16",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "4.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2233,
+        "rotulo_original_ocr": "4.16 vos jactais. Gloriar-se de seu proprio poder",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "vos jactais. Gloriar-se de seu próprio poder e realizações é pecaminoso. O cristão deve gloriar-se apenas no Senhor (2Co 11.30; 12.5, 9). Pois “que tens tu que não tenhas recebido? E, se o recebeste, por que te vanglorias, como se o não tiveras recebido?” (1Co 4.7). É arrogância não vivermos nossa vida conscientes de que em Deus “vivemos, e nos movemos, e existimos” (At 17.28). Essa arrogância exalta superficialmente o ser humano a uma posição que somente Deus pode ocupar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "vos jactais. Gloriar-se de seu próprio poder e realizações é pecaminoso. O cristão deve gloriar-se apenas no Senhor (2Co 11.30; 12.5, 9). Pois “que tens tu que não tenhas recebido? E, se o recebeste, por que te vanglorias, como se o não tiveras recebido?” (1Co 4.7). É arrogância não vivermos nossa vida conscientes de que em Deus “vivemos, e nos movemos, e existimos” (At 17.28). Essa arrogância exalta superficialmente o ser humano a uma posição que somente Deus pode ocupar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vos jactais.",
+          "texto": "Gloriar-se de seu próprio poder e realizações é pecaminoso. O cristão deve gloriar-se apenas no Senhor (2Co 11.30; 12.5, 9). Pois “que tens tu que não tenhas recebido? E, se o recebeste, por que te vanglorias, como se o não tiveras recebido?” (1Co 4.7). É arrogância não vivermos nossa vida conscientes de que em Deus “vivemos, e nos movemos, e existimos” (At 17.28). Essa arrogância exalta superficialmente o ser humano a uma posição que somente Deus pode ocupar."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0058",
+      "referencia": "4.17",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.17",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "4.17 esta pecando. 0s pecados de negligencia e",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "está pecando. Os pecados de negligência e de omissão estão em vista aqui.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "está pecando. Os pecados de negligência e de omissão estão em vista aqui."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "está pecando.",
+          "texto": "Os pecados de negligência e de omissão estão em vista aqui."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0059",
+      "referencia": "5.1",
+      "capitulo": 5,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "5.1",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.1 ricos. A Biblia nao condena a riqueza em si",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "ricos. A Bíblia não condena a riqueza em si mesma. De fato, a riqueza é vista muitas vezes como bênção de Deus (Pv 10.22). No entanto, os ricos, como uma classe social, podem ser, às vezes, culpados de explorar e oprimir os pobres. Muitos deles podem levar vidas como se não existisse um Deus que governa todas as coisas (4.13-17, nota). Deus reserva juízo severo àqueles que vivem dessa maneira (Lc 6.24).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ricos. A Bíblia não condena a riqueza em si mesma. De fato, a riqueza é vista muitas vezes como bênção de Deus (Pv 10.22). No entanto, os ricos, como uma classe social, podem ser, às vezes, culpados de explorar e oprimir os pobres. Muitos deles podem levar vidas como se não existisse um Deus que governa todas as coisas (4.13-17, nota). Deus reserva juízo severo àqueles que vivem dessa maneira (Lc 6.24)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ricos.",
+          "texto": "A Bíblia não condena a riqueza em si mesma. De fato, a riqueza é vista muitas vezes como bênção de Deus (Pv 10.22). No entanto, os ricos, como uma classe social, podem ser, às vezes, culpados de explorar e oprimir os pobres. Muitos deles podem levar vidas como se não existisse um Deus que governa todas as coisas (4.13-17, nota). Deus reserva juízo severo àqueles que vivem dessa maneira (Lc 6.24)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0060",
+      "referencia": "5.2,3",
+      "capitulo": 5,
+      "versiculos": [
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "5.2,3",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.2, 5 corruptas... comidas de tra$a... gas-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "corruptas... comidas de traça... gastos de ferrugens. Tesouros terrenos estão sujeitos a se deteriorar e, por fim, desaparecer. Tiago ecoa o ensino de Jesus (Mt 6.20).\n\núltimos dias. No Antigo Testamento, os últimos dias começaram com a vinda do Cristo (cf. At 2.17; 1Co 10.11; Gl 4.4; Hb 1.1-4; 9.26; 1Jo 2.18) e continuarão até que sejam consumados na vinda final de Cristo (cf. Hb 9.28; 1Pe 1.5). Aqui, os ricos insensíveis não compreendem que estão vivendo nestes últimos dias, que podem ser consumados a qualquer momento, quando ocorrerá o julgamento final. A acumulação de “tesouros” para si mesmos, tesouros que se deteriorarão, será “testemunho” contra eles no último dia, conduzindo ao julgamento deles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "corruptas... comidas de traça... gastos de ferrugens. Tesouros terrenos estão sujeitos a se deteriorar e, por fim, desaparecer. Tiago ecoa o ensino de Jesus (Mt 6.20).",
+        "últimos dias. No Antigo Testamento, os últimos dias começaram com a vinda do Cristo (cf. At 2.17; 1Co 10.11; Gl 4.4; Hb 1.1-4; 9.26; 1Jo 2.18) e continuarão até que sejam consumados na vinda final de Cristo (cf. Hb 9.28; 1Pe 1.5). Aqui, os ricos insensíveis não compreendem que estão vivendo nestes últimos dias, que podem ser consumados a qualquer momento, quando ocorrerá o julgamento final. A acumulação de “tesouros” para si mesmos, tesouros que se deteriorarão, será “testemunho” contra eles no último dia, conduzindo ao julgamento deles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "corruptas... comidas de traça... gastos de ferrugens.",
+          "texto": "Tesouros terrenos estão sujeitos a se deteriorar e, por fim, desaparecer. Tiago ecoa o ensino de Jesus (Mt 6.20)."
+        },
+        {
+          "titulo": "últimos dias.",
+          "texto": "No Antigo Testamento, os últimos dias começaram com a vinda do Cristo (cf. At 2.17; 1Co 10.11; Gl 4.4; Hb 1.1-4; 9.26; 1Jo 2.18) e continuarão até que sejam consumados na vinda final de Cristo (cf. Hb 9.28; 1Pe 1.5). Aqui, os ricos insensíveis não compreendem que estão vivendo nestes últimos dias, que podem ser consumados a qualquer momento, quando ocorrerá o julgamento final. A acumulação de “tesouros” para si mesmos, tesouros que se deteriorarão, será “testemunho” contra eles no último dia, conduzindo ao julgamento deles."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0061",
+      "referencia": "5.4",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "5.4",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.4 salario... por v6s foi retido. Trata-se de",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "salário... por vós foi retido. Trata-se de uma violação da lei de Deus. Salários não somente devem ser pagos, como também pagos em dia (Lv 19.13; Dt 24.14, 15).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "salário... por vós foi retido. Trata-se de uma violação da lei de Deus. Salários não somente devem ser pagos, como também pagos em dia (Lv 19.13; Dt 24.14, 15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "salário... por vós foi retido.",
+          "texto": "Trata-se de uma violação da lei de Deus. Salários não somente devem ser pagos, como também pagos em dia (Lv 19.13; Dt 24.14, 15)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0062",
+      "referencia": "5.5",
+      "capitulo": 5,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "5.5",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.5 engordado o vosso coragao. Como ani -",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "engordado o vosso coração. Como animais que são engordados para o abate, os ricos são inconscientes do desastre que os aguarda no julgamento final. O “dia de matança” é outra referência ao julgamento final deles. Assim como o gado é inconsciente de seu abate vindouro e prossegue engordando, também acontece com sua contraparte humana incrédula, que sofrerá um julgamento ainda pior. Por outro lado, os cristãos são estrangeiros nesta época presente (Tg 1.1; 1Pe 1.1, 5.13) e devem estar sempre vivendo pacientemente, com os olhos voltados para sua chegada ao lar permanente, nos novos céus e na nova terra eternos (cf. v. 7, nota; Hb 11.13-16), onde nada se desgastará ou se corromperá.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "engordado o vosso coração. Como animais que são engordados para o abate, os ricos são inconscientes do desastre que os aguarda no julgamento final. O “dia de matança” é outra referência ao julgamento final deles. Assim como o gado é inconsciente de seu abate vindouro e prossegue engordando, também acontece com sua contraparte humana incrédula, que sofrerá um julgamento ainda pior. Por outro lado, os cristãos são estrangeiros nesta época presente (Tg 1.1; 1Pe 1.1, 5.13) e devem estar sempre vivendo pacientemente, com os olhos voltados para sua chegada ao lar permanente, nos novos céus e na nova terra eternos (cf. v. 7, nota; Hb 11.13-16), onde nada se desgastará ou se corromperá."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "engordado o vosso coração.",
+          "texto": "Como animais que são engordados para o abate, os ricos são inconscientes do desastre que os aguarda no julgamento final. O “dia de matança” é outra referência ao julgamento final deles. Assim como o gado é inconsciente de seu abate vindouro e prossegue engordando, também acontece com sua contraparte humana incrédula, que sofrerá um julgamento ainda pior. Por outro lado, os cristãos são estrangeiros nesta época presente (Tg 1.1; 1Pe 1.1, 5.13) e devem estar sempre vivendo pacientemente, com os olhos voltados para sua chegada ao lar permanente, nos novos céus e na nova terra eternos (cf. v. 7, nota; Hb 11.13-16), onde nada se desgastará ou se corromperá."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0063",
+      "referencia": "5.6",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "5.6",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.6 condenado e matado. Com frequence,",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "condenado e matado. Com frequência, o uso injusto de poder causa a morte de pessoas inocentes. Este versículo também poderia ser entendido de modo figurado, visto que espoliar pessoas de seu salário e subsistência é o mesmo que cometer um tipo de assassinato contra elas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "condenado e matado. Com frequência, o uso injusto de poder causa a morte de pessoas inocentes. Este versículo também poderia ser entendido de modo figurado, visto que espoliar pessoas de seu salário e subsistência é o mesmo que cometer um tipo de assassinato contra elas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "condenado e matado.",
+          "texto": "Com frequência, o uso injusto de poder causa a morte de pessoas inocentes. Este versículo também poderia ser entendido de modo figurado, visto que espoliar pessoas de seu salário e subsistência é o mesmo que cometer um tipo de assassinato contra elas."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0064",
+      "referencia": "5.7",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "5.7",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.7 pacientes. 0s santos precisam de paciencia",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "pacientes. Os santos precisam de paciência enquanto aguardam a prometida vindicação de Deus para seu povo. Deus promete justiça para corrigir formas prevalecentes de injustiça neste mundo (Lc 18.1-8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pacientes. Os santos precisam de paciência enquanto aguardam a prometida vindicação de Deus para seu povo. Deus promete justiça para corrigir formas prevalecentes de injustiça neste mundo (Lc 18.1-8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pacientes.",
+          "texto": "Os santos precisam de paciência enquanto aguardam a prometida vindicação de Deus para seu povo. Deus promete justiça para corrigir formas prevalecentes de injustiça neste mundo (Lc 18.1-8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0065",
+      "referencia": "5.9",
+      "capitulo": 5,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "5.9",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.9 Eis que o juiz esta as portas. Esse ver-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Eis que o juiz está às portas. Esse versículo reflete o senso urgente da proximidade da vinda de Cristo. A “vinda do Senhor” pode acontecer a qualquer momento. Tiago está ecoando a esperança do Novo Testamento acerca do retorno de Jesus no fim do tempo. Tiago pode também estar pensando na proximidade radical do julgamento que cada pessoa enfrentará, pois, à luz da eternidade, a vida de uma pessoa, em qualquer idade, logo acabará, e, depois, cada pessoa comparecerá diante do julgamento de Deus (cf. v. 3, no qual Tiago menciona os “últimos dias”). Crentes professos podem ser revelados como falsos crentes e julgados se não tiverem fortalecido o coração (cf. v. 8) e demonstrado fé genuína com a produção de fruto (2.14-26; 3.17-18). De fato, trata-se de uma advertência de julgamento para a comunidade da Igreja (cf. Mt 7.15-23), e não para os pagãos incrédulos. Perseverança e paciência são exigidas em face da prometida “vinda do Senhor”, que “está próxima”. Ou seja, a vinda final de Cristo pode acontecer a qualquer momento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Eis que o juiz está às portas. Esse versículo reflete o senso urgente da proximidade da vinda de Cristo. A “vinda do Senhor” pode acontecer a qualquer momento. Tiago está ecoando a esperança do Novo Testamento acerca do retorno de Jesus no fim do tempo. Tiago pode também estar pensando na proximidade radical do julgamento que cada pessoa enfrentará, pois, à luz da eternidade, a vida de uma pessoa, em qualquer idade, logo acabará, e, depois, cada pessoa comparecerá diante do julgamento de Deus (cf. v. 3, no qual Tiago menciona os “últimos dias”). Crentes professos podem ser revelados como falsos crentes e julgados se não tiverem fortalecido o coração (cf. v. 8) e demonstrado fé genuína com a produção de fruto (2.14-26; 3.17-18). De fato, trata-se de uma advertência de julgamento para a comunidade da Igreja (cf. Mt 7.15-23), e não para os pagãos incrédulos. Perseverança e paciência são exigidas em face da prometida “vinda do Senhor”, que “está próxima”. Ou seja, a vinda final de Cristo pode acontecer a qualquer momento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Eis que o juiz está às portas.",
+          "texto": "Esse versículo reflete o senso urgente da proximidade da vinda de Cristo. A “vinda do Senhor” pode acontecer a qualquer momento. Tiago está ecoando a esperança do Novo Testamento acerca do retorno de Jesus no fim do tempo. Tiago pode também estar pensando na proximidade radical do julgamento que cada pessoa enfrentará, pois, à luz da eternidade, a vida de uma pessoa, em qualquer idade, logo acabará, e, depois, cada pessoa comparecerá diante do julgamento de Deus (cf. v. 3, no qual Tiago menciona os “últimos dias”). Crentes professos podem ser revelados como falsos crentes e julgados se não tiverem fortalecido o coração (cf. v. 8) e demonstrado fé genuína com a produção de fruto (2.14-26; 3.17-18). De fato, trata-se de uma advertência de julgamento para a comunidade da Igreja (cf. Mt 7.15-23), e não para os pagãos incrédulos. Perseverança e paciência são exigidas em face da prometida “vinda do Senhor”, que “está próxima”. Ou seja, a vinda final de Cristo pode acontecer a qualquer momento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0074",
+      "referencia": "5.10,11",
+      "capitulo": 5,
+      "versiculos": [
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "5.10,11",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.10, 11 (registro recuperado na imagem)",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Os profetas e, em especial, Jó são exemplos a serem seguidos pelos ouvintes que acabaram de ser exortados a ter paciência (vv. 7-9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os profetas e, em especial, Jó são exemplos a serem seguidos pelos ouvintes que acabaram de ser exortados a ter paciência (vv. 7-9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os profetas e, em especial, Jó são exemplos a serem seguidos pelos ouvintes que acabaram de ser exortados a ter paciência (vv. 7-9)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0066",
+      "referencia": "5.12",
+      "capitulo": 5,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "5.12",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7,
+          8
+        ],
+        "pagina_impressa": 2234,
+        "rotulo_original_ocr": "5.12 Acima de tudo. Essa exortagao enfatica",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Acima de tudo. Essa exortação enfática indica uma importante prioridade em favor da santidade. Exaltar o refrear-se de falsos votos e juramentos a um nível elevado de prioridade pode parecer estranho para alguns, mas é coerente com o interesse bíblico pelo cumprimento da aliança e pela santidade da fé.\n\nnão jureis. Essa não é uma proibição contra amaldiçoar ou contra o uso de vulgaridade. Diz respeito a fazer juramentos apelando a objetos como testemunhas (o que, em termos bíblicos, é uma forma de idolatria). Somente Deus pode ser testemunha onipresente e onisciente de juramentos e votos; portanto, invocar meros objetos como testemunhas é rejeitar o Criador em troca daquilo que é criado. Votos justos e piedosos não são proibidos na Escritura porque formam uma parte vital de todas as alianças. Os únicos votos proibidos são aqueles para cometer pecado, votos feitos com o nome de alguém que não seja o Senhor e votos que a pessoa não tenciona cumprir (cf. Nm 30; Dt 23.21-23).\n\nseja o vosso sim sim. Espera-se que o cristão seja uma pessoa cuja palavra se mostre digna de confiança. O ensino de Tiago aqui ecoa o ensino de Jesus no Sermão do Monte (Mt 5.34-37).\n\npara não cairdes em juízo. Aqui, novamente, há outra exortação à comunidade de crentes para que perseverem em comportamento piedoso, a fim de não caírem “em juízo” no julgamento final. Uma vez mais, as pessoas devem assegurar-se da genuinidade de sua fé por produzirem fruto. Dessa vez, o fruto de falar retamente é ressaltado, como em 3.1-12. Se não perseverarem, talvez sejam reveladas como pessoas de caráter diferente do que professam, e, de acordo com isso, julgadas como incrédulas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Acima de tudo. Essa exortação enfática indica uma importante prioridade em favor da santidade. Exaltar o refrear-se de falsos votos e juramentos a um nível elevado de prioridade pode parecer estranho para alguns, mas é coerente com o interesse bíblico pelo cumprimento da aliança e pela santidade da fé.",
+        "não jureis. Essa não é uma proibição contra amaldiçoar ou contra o uso de vulgaridade. Diz respeito a fazer juramentos apelando a objetos como testemunhas (o que, em termos bíblicos, é uma forma de idolatria). Somente Deus pode ser testemunha onipresente e onisciente de juramentos e votos; portanto, invocar meros objetos como testemunhas é rejeitar o Criador em troca daquilo que é criado. Votos justos e piedosos não são proibidos na Escritura porque formam uma parte vital de todas as alianças. Os únicos votos proibidos são aqueles para cometer pecado, votos feitos com o nome de alguém que não seja o Senhor e votos que a pessoa não tenciona cumprir (cf. Nm 30; Dt 23.21-23).",
+        "seja o vosso sim sim. Espera-se que o cristão seja uma pessoa cuja palavra se mostre digna de confiança. O ensino de Tiago aqui ecoa o ensino de Jesus no Sermão do Monte (Mt 5.34-37).",
+        "para não cairdes em juízo. Aqui, novamente, há outra exortação à comunidade de crentes para que perseverem em comportamento piedoso, a fim de não caírem “em juízo” no julgamento final. Uma vez mais, as pessoas devem assegurar-se da genuinidade de sua fé por produzirem fruto. Dessa vez, o fruto de falar retamente é ressaltado, como em 3.1-12. Se não perseverarem, talvez sejam reveladas como pessoas de caráter diferente do que professam, e, de acordo com isso, julgadas como incrédulas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Acima de tudo.",
+          "texto": "Essa exortação enfática indica uma importante prioridade em favor da santidade. Exaltar o refrear-se de falsos votos e juramentos a um nível elevado de prioridade pode parecer estranho para alguns, mas é coerente com o interesse bíblico pelo cumprimento da aliança e pela santidade da fé."
+        },
+        {
+          "titulo": "não jureis.",
+          "texto": "Essa não é uma proibição contra amaldiçoar ou contra o uso de vulgaridade. Diz respeito a fazer juramentos apelando a objetos como testemunhas (o que, em termos bíblicos, é uma forma de idolatria). Somente Deus pode ser testemunha onipresente e onisciente de juramentos e votos; portanto, invocar meros objetos como testemunhas é rejeitar o Criador em troca daquilo que é criado. Votos justos e piedosos não são proibidos na Escritura porque formam uma parte vital de todas as alianças. Os únicos votos proibidos são aqueles para cometer pecado, votos feitos com o nome de alguém que não seja o Senhor e votos que a pessoa não tenciona cumprir (cf. Nm 30; Dt 23.21-23)."
+        },
+        {
+          "titulo": "seja o vosso sim sim.",
+          "texto": "Espera-se que o cristão seja uma pessoa cuja palavra se mostre digna de confiança. O ensino de Tiago aqui ecoa o ensino de Jesus no Sermão do Monte (Mt 5.34-37)."
+        },
+        {
+          "titulo": "para não cairdes em juízo.",
+          "texto": "Aqui, novamente, há outra exortação à comunidade de crentes para que perseverem em comportamento piedoso, a fim de não caírem “em juízo” no julgamento final. Uma vez mais, as pessoas devem assegurar-se da genuinidade de sua fé por produzirem fruto. Dessa vez, o fruto de falar retamente é ressaltado, como em 3.1-12. Se não perseverarem, talvez sejam reveladas como pessoas de caráter diferente do que professam, e, de acordo com isso, julgadas como incrédulas."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0067",
+      "referencia": "5.13",
+      "capitulo": 5,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "5.13",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.13 Cante louvores. Ver artigo tematico \"Ado-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Cante louvores. Ver artigo temático “Adoração”, na p. 2379.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Cante louvores. Ver artigo temático “Adoração”, na p. 2379."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Cante louvores.",
+          "texto": "Ver artigo temático “Adoração”, na p. 2379."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0068",
+      "referencia": "5.14",
+      "capitulo": 5,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "5.14",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.14 presbiteros. Ver Atos 14.23, Tito 1.5.",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "presbíteros. Ver Atos 14.23; Tito 1.5.\n\nungindo-o com óleo. O azeite de oliveira era usado comumente na medicina, no mundo antigo (Mc 6.13; Lc 10.34). O óleo também pode ter uma referência simbólica ao poder curativo de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "presbíteros. Ver Atos 14.23; Tito 1.5.",
+        "ungindo-o com óleo. O azeite de oliveira era usado comumente na medicina, no mundo antigo (Mc 6.13; Lc 10.34). O óleo também pode ter uma referência simbólica ao poder curativo de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "presbíteros.",
+          "texto": "Ver Atos 14.23; Tito 1.5."
+        },
+        {
+          "titulo": "ungindo-o com óleo.",
+          "texto": "O azeite de oliveira era usado comumente na medicina, no mundo antigo (Mc 6.13; Lc 10.34). O óleo também pode ter uma referência simbólica ao poder curativo de Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0069",
+      "referencia": "5.15",
+      "capitulo": 5,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "5.15",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.15 oragao da fe. Nao ha nenhuma \"oragao da",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "oração da fé. Não há nenhuma “oração da fé” especial que tenha herdado poder curativo. Em vez disso, o poder do crer e da oração fiel é acentuado aqui; a comunidade cristã deveria engajar-se de forma dedicada em oração intercessória pelos enfermos. Esse versículo é o texto-prova clássico para a instituição do sacramento católico romano de ungir os enfermos (antiga “extrema-unção”). A unção de enfermos é um rito curativo que (administrado com os sacramentos da eucaristia e do arrependimento) chegou a ser considerado os “últimos ritos” em preparação para a morte. No entanto, embora esse versículo possa incluir a noção de que a morte pode acontecer e de que a oração da fé é apropriada na morte, o ensino de Tiago é que a Igreja deve orar pela cura e a vida da pessoa doente, para que “o Senhor” a levante. Portanto, a passagem não trata de uma unção sacramental. Além disso, como Tiago já disse, às vezes o chamado da fé é para sermos alegres e firmes em meio a “várias provações” (1.2-4), provações que podem incluir doenças graves e prolongadas. Mesmo quando o cristão oferece essa oração com fé, precisa lembrar que Deus é soberano sobre a vida e a morte, incluindo a do próprio cristão enfermo (cf. 4.13-17). Precisamos tomar cuidado para não isolarmos essa afirmação do ensino do restante da carta.\n\ncometido pecados. Doença e pecado estão relacionados, embora a doença nem sempre seja a consequência de pecados específicos. O perdão é terapêutico para o corpo, bem como para a alma.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "oração da fé. Não há nenhuma “oração da fé” especial que tenha herdado poder curativo. Em vez disso, o poder do crer e da oração fiel é acentuado aqui; a comunidade cristã deveria engajar-se de forma dedicada em oração intercessória pelos enfermos. Esse versículo é o texto-prova clássico para a instituição do sacramento católico romano de ungir os enfermos (antiga “extrema-unção”). A unção de enfermos é um rito curativo que (administrado com os sacramentos da eucaristia e do arrependimento) chegou a ser considerado os “últimos ritos” em preparação para a morte. No entanto, embora esse versículo possa incluir a noção de que a morte pode acontecer e de que a oração da fé é apropriada na morte, o ensino de Tiago é que a Igreja deve orar pela cura e a vida da pessoa doente, para que “o Senhor” a levante. Portanto, a passagem não trata de uma unção sacramental. Além disso, como Tiago já disse, às vezes o chamado da fé é para sermos alegres e firmes em meio a “várias provações” (1.2-4), provações que podem incluir doenças graves e prolongadas. Mesmo quando o cristão oferece essa oração com fé, precisa lembrar que Deus é soberano sobre a vida e a morte, incluindo a do próprio cristão enfermo (cf. 4.13-17). Precisamos tomar cuidado para não isolarmos essa afirmação do ensino do restante da carta.",
+        "cometido pecados. Doença e pecado estão relacionados, embora a doença nem sempre seja a consequência de pecados específicos. O perdão é terapêutico para o corpo, bem como para a alma."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "oração da fé.",
+          "texto": "Não há nenhuma “oração da fé” especial que tenha herdado poder curativo. Em vez disso, o poder do crer e da oração fiel é acentuado aqui; a comunidade cristã deveria engajar-se de forma dedicada em oração intercessória pelos enfermos. Esse versículo é o texto-prova clássico para a instituição do sacramento católico romano de ungir os enfermos (antiga “extrema-unção”). A unção de enfermos é um rito curativo que (administrado com os sacramentos da eucaristia e do arrependimento) chegou a ser considerado os “últimos ritos” em preparação para a morte. No entanto, embora esse versículo possa incluir a noção de que a morte pode acontecer e de que a oração da fé é apropriada na morte, o ensino de Tiago é que a Igreja deve orar pela cura e a vida da pessoa doente, para que “o Senhor” a levante. Portanto, a passagem não trata de uma unção sacramental. Além disso, como Tiago já disse, às vezes o chamado da fé é para sermos alegres e firmes em meio a “várias provações” (1.2-4), provações que podem incluir doenças graves e prolongadas. Mesmo quando o cristão oferece essa oração com fé, precisa lembrar que Deus é soberano sobre a vida e a morte, incluindo a do próprio cristão enfermo (cf. 4.13-17). Precisamos tomar cuidado para não isolarmos essa afirmação do ensino do restante da carta."
+        },
+        {
+          "titulo": "cometido pecados.",
+          "texto": "Doença e pecado estão relacionados, embora a doença nem sempre seja a consequência de pecados específicos. O perdão é terapêutico para o corpo, bem como para a alma."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0070",
+      "referencia": "5.16",
+      "capitulo": 5,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "5.16",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.16 Confessai... vossos pecados. A confis-",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Confessai... vossos pecados. A confissão a um sacerdote não é exigida pela Escritura, e sim a confissão a Deus e de um cristão a outro. A reação exagerada contra o sacramento de penitência católico romano pode levar a uma negligência da autêntica confissão piedosa de um crente a outro, confissão que pode trazer cura e vitalidade renovada para a alma.\n\njusto. Uma pessoa espiritual que ora com fé é uma pessoa justa.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Confessai... vossos pecados. A confissão a um sacerdote não é exigida pela Escritura, e sim a confissão a Deus e de um cristão a outro. A reação exagerada contra o sacramento de penitência católico romano pode levar a uma negligência da autêntica confissão piedosa de um crente a outro, confissão que pode trazer cura e vitalidade renovada para a alma.",
+        "justo. Uma pessoa espiritual que ora com fé é uma pessoa justa."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Confessai... vossos pecados.",
+          "texto": "A confissão a um sacerdote não é exigida pela Escritura, e sim a confissão a Deus e de um cristão a outro. A reação exagerada contra o sacramento de penitência católico romano pode levar a uma negligência da autêntica confissão piedosa de um crente a outro, confissão que pode trazer cura e vitalidade renovada para a alma."
+        },
+        {
+          "titulo": "justo.",
+          "texto": "Uma pessoa espiritual que ora com fé é uma pessoa justa."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0071",
+      "referencia": "5.17,18",
+      "capitulo": 5,
+      "versiculos": [
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "5.17,18",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.17, 18 Elias. Embora Elias tenha tido urn ofi -",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "Elias. Embora Elias tenha tido um ofício especial de profeta no Antigo Testamento, compartilhava da humanidade comum a todos os crentes. Sua vida de oração eficaz é, portanto, um modelo para todos os santos de Deus, ou seja, todos aqueles que creem somente em Jesus para sua salvação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Elias. Embora Elias tenha tido um ofício especial de profeta no Antigo Testamento, compartilhava da humanidade comum a todos os crentes. Sua vida de oração eficaz é, portanto, um modelo para todos os santos de Deus, ou seja, todos aqueles que creem somente em Jesus para sua salvação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Elias.",
+          "texto": "Embora Elias tenha tido um ofício especial de profeta no Antigo Testamento, compartilhava da humanidade comum a todos os crentes. Sua vida de oração eficaz é, portanto, um modelo para todos os santos de Deus, ou seja, todos aqueles que creem somente em Jesus para sua salvação."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0072",
+      "referencia": "5.19",
+      "capitulo": 5,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "5.19",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.19 se desviar da verdade. Extraviar-se para",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "se desviar da verdade. Extraviar-se para padrões pecaminosos de pensamento e comportamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "se desviar da verdade. Extraviar-se para padrões pecaminosos de pensamento e comportamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "se desviar da verdade.",
+          "texto": "Extraviar-se para padrões pecaminosos de pensamento e comportamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-tg-0073",
+      "referencia": "5.20",
+      "capitulo": 5,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "5.20",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2235,
+        "rotulo_original_ocr": "5.20 converte o pecador do seu caminho",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "texto": "converte o pecador do seu caminho errado. O cuidado das almas da comunidade é uma questão de interesse para todos os membros, não somente para os dirigentes ou os ministros da Igreja. Ajuda e encorajamento mútuos são exigidos.\n\ncobrirá. Refere-se a Deus cobrindo os pecados com perdão (Sl 32.1; 85.2), porque, no arrependimento e na fé, por meio dos quais um pecador errante retorna ao Senhor, Deus perdoa as transgressões do pecador.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "converte o pecador do seu caminho errado. O cuidado das almas da comunidade é uma questão de interesse para todos os membros, não somente para os dirigentes ou os ministros da Igreja. Ajuda e encorajamento mútuos são exigidos.",
+        "cobrirá. Refere-se a Deus cobrindo os pecados com perdão (Sl 32.1; 85.2), porque, no arrependimento e na fé, por meio dos quais um pecador errante retorna ao Senhor, Deus perdoa as transgressões do pecador."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "converte o pecador do seu caminho errado.",
+          "texto": "O cuidado das almas da comunidade é uma questão de interesse para todos os membros, não somente para os dirigentes ou os ministros da Igreja. Ajuda e encorajamento mútuos são exigidos."
+        },
+        {
+          "titulo": "cobrirá.",
+          "texto": "Refere-se a Deus cobrindo os pecados com perdão (Sl 32.1; 85.2), porque, no arrependimento e na fé, por meio dos quais um pecador errante retorna ao Senhor, Deus perdoa as transgressões do pecador."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    }
+  ],
+  "artigos": [
+    {
+      "id": "tg-art-fe-e-obras",
+      "titulo": "Fé e Obras",
+      "pagina_original": 4,
+      "paragrafos": [
+        "Muitas pessoas imaginam que, por tentarem viver uma vida respeitosa, fizeram tudo que é necessário para irem para o céu. Depositam sua confiança nas boas obras que realizaram para satisfazer as exigências da justiça de Deus.",
+        "Trata-se de uma esperança inútil. A lei de Deus exige perfeição. Visto que não somos perfeitos, não temos a bondade necessária para entrar no céu. Essa bondade nunca pode ser atingida por vivermos uma vida respeitosa. Mas podemos recebê-la por confiarmos na justiça de Cristo. Seu mérito é perfeito e está disponível a nós pela fé.",
+        "Crer que somos justificados por nossas boas obras sem a fé em Cristo significa abraçar a heresia do legalismo. Crer que somos justificados por um tipo de fé que não produz obras implica adotar a heresia do antinomianismo.",
+        "O relacionamento entre fé e boas obras é um relacionamento que pode ser distinguido, mas nunca separado. Embora nossas boas obras não acrescentem nenhum mérito à nossa fé diante de Deus e a única condição de nossa justificação seja a nossa fé em Cristo, se boas obras não resultarem de nossa profissão de fé, essa é uma clara indicação de que não possuímos a fé justificadora. A fórmula reformada é “somos justificados somente pela fé, mas não pela fé que está sozinha”. A verdadeira justificação sempre resulta no processo de santificação. Se há justificação, inevitavelmente a santificação se seguirá. Se não há santificação, é certo que a justificação não está presente. Isso, contudo, não significa que a justificação dependa da santificação ou se fundamente nela. A justificação depende da verdadeira fé, que, por sua vez, levará inevitavelmente a obras de obediência.",
+        "Quando Tiago declara que a fé sem obras é morta, está dizendo que essa “fé” não pode justificar ninguém, porque não é viva. A fé viva produz boas obras, mas essas boas obras não são a base da justificação. Somente o mérito realizado por Jesus Cristo pode justificar o pecador.",
+        "Sugerir que uma pessoa pode ser justificada por receber Jesus como Salvador, mas não como Senhor, é um erro grave; na verdade, é uma forma moderna da heresia antinomiana. A verdadeira fé recebe Cristo como Salvador e Senhor. Confiar somente em Cristo para a salvação é o mesmo que reconhecer sua total dependência dele e arrepender-se de seu pecado. Arrepender-se do pecado é submeter-se à autoridade de Cristo. Negar o senhorio de Cristo é buscar a justificação com uma fé impenitente, que não é fé.",
+        "Embora as boas obras não mereçam a salvação, são a base sobre a qual Deus promete distribuir recompensas no céu. Nossa entrada no reino de Deus se dá somente pela fé. Nossa recompensa no reino será de acordo com nossas boas obras, o que será, conforme observou Agostinho, um caso de Deus coroando graciosamente seus próprios dons."
+      ],
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 4,
+        "pagina_impressa": 2231,
+        "metodo": "cotejo visual da página impressa 2231; itálicos pendentes"
+      },
+      "estado_editorial": "cotejo_visual_v1_artigo"
+    }
+  ],
+  "remissoes": [
+    {
+      "id": "tg-rem-0038-13",
+      "status": "resolvida_indice_global",
+      "titulo": "Seres Humanos Criados à Imagem de Deus",
+      "citado_em": "fr-tg-0038",
+      "origem": {
+        "pdf": "126 - Tiago (Tg).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2232,
+        "rotulo_original_ocr": "3.9 bendizemos... amaldigoamos. A lingua",
+        "metodo": "cotejo visual das páginas de Tiago; itálicos e versaletes pendentes"
+      },
+      "pagina_impressa_artigo": 13,
+      "evidencia": "Remissão explícita impressa, p. 13.",
+      "artigo_id": "gn-art-imagem-de-deus",
+      "livro_artigo": "Gn",
+      "arquivo_artigo": "dados/notas/fe-reformada/Gn.json",
+      "observacao": "Abertura direta entre livros pendente no leitor V19."
+    }
+  ]
+}

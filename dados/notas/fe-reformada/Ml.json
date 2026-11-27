@@ -1,0 +1,2830 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Ml",
+  "titulo": "Malaquias",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "083 - Malaquias (Ml).pdf",
+    "paginas_pdf": [
+      1,
+      9
+    ],
+    "observacao": "Extração por coluna, OCR passível de correções; texto original preservado nos registros normalizados."
+  },
+  "estado_editorial": "primeiro_cotejo_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-ml-0001",
+      "referencia": "1.1-5",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.1-5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1650,
+        "rotulo_original_ocr": "1.1-5 0 povo de Israel, de volta a sua terra depois",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O povo de Israel, de volta à sua terra depois do exílio, não está convencido de que Deus o ama. Essa seção é a resposta de Deus a essa dúvida cética. O Senhor lembra a Israel que Jacó, seu ancestral, foi escolhido por Deus, enquanto Esaú, o antepassado de Edom, foi rejeitado. Portanto, embora Israel tenha experimentado a ira do Senhor por pouco tempo, Edom é um “povo contra quem o SENHOR está irado para sempre” (1.4). Além disso, enquanto Israel é herdeiro das promessas eternas de seu Senhor pactual, Edom nunca voltará a se levantar de novo. O julgamento do Senhor sobre Edom será motivo de louvor em Israel.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "O povo de Israel, de volta à sua terra depois do exílio, não está convencido de que Deus o ama. Essa seção é a resposta de Deus a essa dúvida cética. O Senhor lembra a Israel que Jacó, seu ancestral, foi escolhido por Deus, enquanto Esaú, o antepassado de Edom, foi rejeitado. Portanto, embora Israel tenha experimentado a ira do Senhor por pouco tempo, Edom é um “povo contra quem o SENHOR está irado para sempre” (1.4). Além disso, enquanto Israel é herdeiro das promessas eternas de seu Senhor pactual, Edom nunca voltará a se levantar de novo. O julgamento do Senhor sobre Edom será motivo de louvor em Israel."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O povo de Israel, de volta à sua terra depois do exílio, não está convencido de que Deus o ama. Essa seção é a resposta de Deus a essa dúvida cética. O Senhor lembra a Israel que Jacó, seu ancestral, foi escolhido por Deus, enquanto Esaú, o antepassado de Edom, foi rejeitado. Portanto, embora Israel tenha experimentado a ira do Senhor por pouco tempo, Edom é um “povo contra quem o SENHOR está irado para sempre” (1.4). Além disso, enquanto Israel é herdeiro das promessas eternas de seu Senhor pactual, Edom nunca voltará a se levantar de novo. O julgamento do Senhor sobre Edom será motivo de louvor em Israel."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0052",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1650,
+        "rotulo_original_ocr": "Registro recuperado do comentário 1.1-5",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Sentença pronunciada. Isaías 13.1, Naum 1.1, Habacuque 1.1, Zacarias 9.1; 12.1. Palavra usada normalmente nas profecias de julgamento, “sentença” pode apontar para a urgência pelo profeta no sentido de transmitir sua mensagem. Sobre essa urgência, ver também Jeremias 20.9; Amós 3.8.\n\nMalaquias. Isso poderia ser ou um nome pessoal ou um título (Introdução: Título e Autor).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Sentença pronunciada. Isaías 13.1, Naum 1.1, Habacuque 1.1, Zacarias 9.1; 12.1. Palavra usada normalmente nas profecias de julgamento, “sentença” pode apontar para a urgência pelo profeta no sentido de transmitir sua mensagem. Sobre essa urgência, ver também Jeremias 20.9; Amós 3.8.",
+        "Malaquias. Isso poderia ser ou um nome pessoal ou um título (Introdução: Título e Autor)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Sentença pronunciada.",
+          "texto": "Isaías 13.1, Naum 1.1, Habacuque 1.1, Zacarias 9.1; 12.1. Palavra usada normalmente nas profecias de julgamento, “sentença” pode apontar para a urgência pelo profeta no sentido de transmitir sua mensagem. Sobre essa urgência, ver também Jeremias 20.9; Amós 3.8."
+        },
+        {
+          "titulo": "Malaquias.",
+          "texto": "Isso poderia ser ou um nome pessoal ou um título (Introdução: Título e Autor)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 1650,
+        "rotulo_original_ocr": "1.2 Eu vos tenho amado. 0 amor eletivo",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Eu vos tenho amado. O amor eletivo de Deus é soberano e incondicional. É exposto principalmente em Deuteronômio, em que os verbos “escolher” e “amar” são análogos, mostrando que o amor não é um sentimento, mas, sim, o comportamento que resulta de um relacionamento comprometido (Dt 7.6-8). O amor de Deus é manifestado na aliança que ele estabelece com seu povo. A intimidade de Deus com Israel deve ser fonte de reverência e admiração (Dt 4.7, 8). O amor de Deus começa na eternidade (Jr 31.3) e se manifesta em seus lidares pactuais com Abraão, Israel e Davi (Gn 17; Êx 19.5, 6; 2Sm 7). A eleição de Deus concernente a Jacó continua a ter relevância para seus lidares com Israel no período do ministério de Malaquias. Entendido corretamente, o amor de Deus não leva a uma complacência moral, e sim a zelo moral. Todavia, a complacência de Israel e o cinismo do povo quanto ao amor de Deus levaram à crise moral que Malaquias aborda. Ver nota teológica “Predestinação”, nesta página.\n\nEm que nos tens amado. A resposta dos ouvintes de Malaquias pode ser surpreendente, em vista de tudo que o Senhor fez por seu povo em todo o Antigo Testamento. Mas, a essa altura da história de Israel, talvez um século após o retorno do exílio, a resposta reflete os árduos desafios da vida num estado vassalo da Pérsia. O povo está perguntando “Onde estão todas as grandes bênçãos que Deus prometeu por meio de seus profetas?”.\n\nJacó. Um dos títulos de Deus nos Salmos é “O Deus de Jacó” (Sl 20.1; 46.7; 75.9; 76.6; 84.8). O amor eletivo de Deus é singular porque ele ama os pecadores, que, por natureza, são os objetos de seu desprazer e de sua ira (Lc 15.2; Rm 5.6-8; Ef 2.1-3). A história de Jacó e Esaú, em Gênesis, aponta claramente para a escolha de Deus no que diz respeito a Jacó, apesar de sua falta de mérito (Gn 25.21-34; 27.1-40; Rm 9.10-13).",
+      "remissoes": [
+        "ml-art-predestinacao"
+      ],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "vinculo_artigo": {
+        "criterio": "remissao_literal_e_artigo_na_mesma_pagina",
+        "pagina_pdf": 1
+      },
+      "paragrafos": [
+        "Eu vos tenho amado. O amor eletivo de Deus é soberano e incondicional. É exposto principalmente em Deuteronômio, em que os verbos “escolher” e “amar” são análogos, mostrando que o amor não é um sentimento, mas, sim, o comportamento que resulta de um relacionamento comprometido (Dt 7.6-8). O amor de Deus é manifestado na aliança que ele estabelece com seu povo. A intimidade de Deus com Israel deve ser fonte de reverência e admiração (Dt 4.7, 8). O amor de Deus começa na eternidade (Jr 31.3) e se manifesta em seus lidares pactuais com Abraão, Israel e Davi (Gn 17; Êx 19.5, 6; 2Sm 7). A eleição de Deus concernente a Jacó continua a ter relevância para seus lidares com Israel no período do ministério de Malaquias. Entendido corretamente, o amor de Deus não leva a uma complacência moral, e sim a zelo moral. Todavia, a complacência de Israel e o cinismo do povo quanto ao amor de Deus levaram à crise moral que Malaquias aborda. Ver nota teológica “Predestinação”, nesta página.",
+        "Em que nos tens amado. A resposta dos ouvintes de Malaquias pode ser surpreendente, em vista de tudo que o Senhor fez por seu povo em todo o Antigo Testamento. Mas, a essa altura da história de Israel, talvez um século após o retorno do exílio, a resposta reflete os árduos desafios da vida num estado vassalo da Pérsia. O povo está perguntando “Onde estão todas as grandes bênçãos que Deus prometeu por meio de seus profetas?”.",
+        "Jacó. Um dos títulos de Deus nos Salmos é “O Deus de Jacó” (Sl 20.1; 46.7; 75.9; 76.6; 84.8). O amor eletivo de Deus é singular porque ele ama os pecadores, que, por natureza, são os objetos de seu desprazer e de sua ira (Lc 15.2; Rm 5.6-8; Ef 2.1-3). A história de Jacó e Esaú, em Gênesis, aponta claramente para a escolha de Deus no que diz respeito a Jacó, apesar de sua falta de mérito (Gn 25.21-34; 27.1-40; Rm 9.10-13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Eu vos tenho amado.",
+          "texto": "O amor eletivo de Deus é soberano e incondicional. É exposto principalmente em Deuteronômio, em que os verbos “escolher” e “amar” são análogos, mostrando que o amor não é um sentimento, mas, sim, o comportamento que resulta de um relacionamento comprometido (Dt 7.6-8). O amor de Deus é manifestado na aliança que ele estabelece com seu povo. A intimidade de Deus com Israel deve ser fonte de reverência e admiração (Dt 4.7, 8). O amor de Deus começa na eternidade (Jr 31.3) e se manifesta em seus lidares pactuais com Abraão, Israel e Davi (Gn 17; Êx 19.5, 6; 2Sm 7). A eleição de Deus concernente a Jacó continua a ter relevância para seus lidares com Israel no período do ministério de Malaquias. Entendido corretamente, o amor de Deus não leva a uma complacência moral, e sim a zelo moral. Todavia, a complacência de Israel e o cinismo do povo quanto ao amor de Deus levaram à crise moral que Malaquias aborda. Ver nota teológica “Predestinação”, nesta página."
+        },
+        {
+          "titulo": "Em que nos tens amado.",
+          "texto": "A resposta dos ouvintes de Malaquias pode ser surpreendente, em vista de tudo que o Senhor fez por seu povo em todo o Antigo Testamento. Mas, a essa altura da história de Israel, talvez um século após o retorno do exílio, a resposta reflete os árduos desafios da vida num estado vassalo da Pérsia. O povo está perguntando “Onde estão todas as grandes bênçãos que Deus prometeu por meio de seus profetas?”."
+        },
+        {
+          "titulo": "Jacó.",
+          "texto": "Um dos títulos de Deus nos Salmos é “O Deus de Jacó” (Sl 20.1; 46.7; 75.9; 76.6; 84.8). O amor eletivo de Deus é singular porque ele ama os pecadores, que, por natureza, são os objetos de seu desprazer e de sua ira (Lc 15.2; Rm 5.6-8; Ef 2.1-3). A história de Jacó e Esaú, em Gênesis, aponta claramente para a escolha de Deus no que diz respeito a Jacó, apesar de sua falta de mérito (Gn 25.21-34; 27.1-40; Rm 9.10-13)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.3 aborrecí. Embora haja um uso desse verbo",
+        "referencia_impressa_convertida": {
+          "motivo": "pagina_do_PDF_nao_exibida_no_app",
+          "citados": [
+            "Predestinação e Reprovação"
+          ],
+          "texto_pre_ajuste": "aborrecí. Embora haja um uso desse verbo que significa \"amar menos\" (Gn 29 31, Lc 14 26), 0 contexto imediato sugere que, aqui, \"aborrecer\" significa rejeição, desprazer e desfavor ativos manifestados em justiça retributiva Assim como amar (12, nota), aborrecer não e meramente uma emoção, mas, sim, um termo pactuai que inclui as ações decorrentes Não significa meramente que Esau (e a nação que procede dele) sofra a ausência ou a diminuição da bênção, mas, sim, que ele recebe julgamento que se realiza no curso da historia Quanto a esse uso de \"aborrecei\", ver Salmos 5 5, Isaias 61 8, Oseias 915, Amos 5 21, Malaquias 216 Ver nota teologica ״Predestinação e Reprovação\", na p 1997 Nem Jacó (Israeli nem Fsan (Edom) merecem 0 amor de Deus Ambos merecem destruição Entretanto por causa do amor eletivo de Deus por Jacó, Israel sera restaurado depois da pumçâo merecida nas mãos dos babilônios, enquanto Edom nào terá essa restauração, Essa distinção deveria encorajar os judeus dos dias de Malaquias a reconhecer a totalmente imerecida misericórdia do Senhor em relação a eles uma assolação. Provavelmente uma referencia a ocupação de Edom pelos arabes nabateus"
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "aborreci. Embora haja um uso desse verbo que significa “amar menos” (Gn 29.31; Lc 14.26), o contexto imediato sugere que, aqui, “aborrecer” significa rejeição, desprazer e desfavor ativos manifestados em justiça retributiva. Assim como amar (1.2, nota), aborrecer não é meramente uma emoção, mas, sim, um termo pactual que inclui as ações decorrentes. Não significa meramente que Esaú (e a nação que procede dele) sofra a ausência ou a diminuição da bênção, mas, sim, que ele recebe julgamento que se realiza no curso da história. Quanto a esse uso de “aborrecer”, ver Salmos 5.5, Isaías 61.8, Oseias 9.15, Amós 5.21, Malaquias 2.16. Ver nota teológica “Predestinação e Reprovação”, na p. 1997. Nem Jacó (Israel) nem Esaú (Edom) merecem o amor de Deus. Ambos merecem destruição. Entretanto, por causa do amor eletivo de Deus por Jacó, Israel será restaurado depois da punição merecida nas mãos dos babilônios, enquanto Edom não terá essa restauração. Essa distinção deveria encorajar os judeus dos dias de Malaquias a reconhecer a totalmente imerecida misericórdia do Senhor em relação a eles.\n\numa assolação. Provavelmente uma referência à ocupação de Edom pelos árabes nabateus.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ml",
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "livro": "Rm",
+          "capitulo": 9,
+          "versiculo": 23
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "aborreci. Embora haja um uso desse verbo que significa “amar menos” (Gn 29.31; Lc 14.26), o contexto imediato sugere que, aqui, “aborrecer” significa rejeição, desprazer e desfavor ativos manifestados em justiça retributiva. Assim como amar (1.2, nota), aborrecer não é meramente uma emoção, mas, sim, um termo pactual que inclui as ações decorrentes. Não significa meramente que Esaú (e a nação que procede dele) sofra a ausência ou a diminuição da bênção, mas, sim, que ele recebe julgamento que se realiza no curso da história. Quanto a esse uso de “aborrecer”, ver Salmos 5.5, Isaías 61.8, Oseias 9.15, Amós 5.21, Malaquias 2.16. Ver nota teológica “Predestinação e Reprovação”, na p. 1997. Nem Jacó (Israel) nem Esaú (Edom) merecem o amor de Deus. Ambos merecem destruição. Entretanto, por causa do amor eletivo de Deus por Jacó, Israel será restaurado depois da punição merecida nas mãos dos babilônios, enquanto Edom não terá essa restauração. Essa distinção deveria encorajar os judeus dos dias de Malaquias a reconhecer a totalmente imerecida misericórdia do Senhor em relação a eles.",
+        "uma assolação. Provavelmente uma referência à ocupação de Edom pelos árabes nabateus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aborreci.",
+          "texto": "Embora haja um uso desse verbo que significa “amar menos” (Gn 29.31; Lc 14.26), o contexto imediato sugere que, aqui, “aborrecer” significa rejeição, desprazer e desfavor ativos manifestados em justiça retributiva. Assim como amar (1.2, nota), aborrecer não é meramente uma emoção, mas, sim, um termo pactual que inclui as ações decorrentes. Não significa meramente que Esaú (e a nação que procede dele) sofra a ausência ou a diminuição da bênção, mas, sim, que ele recebe julgamento que se realiza no curso da história. Quanto a esse uso de “aborrecer”, ver Salmos 5.5, Isaías 61.8, Oseias 9.15, Amós 5.21, Malaquias 2.16. Ver nota teológica “Predestinação e Reprovação”, na p. 1997. Nem Jacó (Israel) nem Esaú (Edom) merecem o amor de Deus. Ambos merecem destruição. Entretanto, por causa do amor eletivo de Deus por Jacó, Israel será restaurado depois da punição merecida nas mãos dos babilônios, enquanto Edom não terá essa restauração. Essa distinção deveria encorajar os judeus dos dias de Malaquias a reconhecer a totalmente imerecida misericórdia do Senhor em relação a eles."
+        },
+        {
+          "titulo": "uma assolação.",
+          "texto": "Provavelmente uma referência à ocupação de Edom pelos árabes nabateus."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0004",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.5 fora dos limites de Israel. Deus é 0 sobe",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "fora dos limites de Israel. Deus é o soberano Senhor da história, cujos propósitos redentores são realizados tanto dentro como fora do antigo Israel (v. 11; Gn 17.4-6). O fato de ainda existir um território que pode ser chamado “Israel”, nos dias de Malaquias, é uma marca da fidelidade de Deus às suas promessas. Em contraste, a terra de Edom desaparecerá para sempre.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "fora dos limites de Israel. Deus é o soberano Senhor da história, cujos propósitos redentores são realizados tanto dentro como fora do antigo Israel (v. 11; Gn 17.4-6). O fato de ainda existir um território que pode ser chamado “Israel”, nos dias de Malaquias, é uma marca da fidelidade de Deus às suas promessas. Em contraste, a terra de Edom desaparecerá para sempre."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fora dos limites de Israel.",
+          "texto": "Deus é o soberano Senhor da história, cujos propósitos redentores são realizados tanto dentro como fora do antigo Israel (v. 11; Gn 17.4-6). O fato de ainda existir um território que pode ser chamado “Israel”, nos dias de Malaquias, é uma marca da fidelidade de Deus às suas promessas. Em contraste, a terra de Edom desaparecerá para sempre."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0005",
+      "referencia": "1.6-2.9",
+      "capitulo": 1,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.6-2.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.6-2.9 Um dos principais motivos da ira do",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Um dos principais motivos da ira do Senhor contra Israel é a atitude dos sacerdotes para com o nome de Deus no altar e para com a lei de Deus no ensino e no julgamento. No altar, eles oferecem em sacrifício animais doentes e imperfeitos, anulando, por meio disso, o propósito de seus labores e trazendo maldição e impureza, quando deveriam trazer bênção e purificação. Em seu ensino e julgamento, eles violavam a aliança com Levi (2.8), mostrando parcialidade e levando muitos a tropeçar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Um dos principais motivos da ira do Senhor contra Israel é a atitude dos sacerdotes para com o nome de Deus no altar e para com a lei de Deus no ensino e no julgamento. No altar, eles oferecem em sacrifício animais doentes e imperfeitos, anulando, por meio disso, o propósito de seus labores e trazendo maldição e impureza, quando deveriam trazer bênção e purificação. Em seu ensino e julgamento, eles violavam a aliança com Levi (2.8), mostrando parcialidade e levando muitos a tropeçar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Um dos principais motivos da ira do Senhor contra Israel é a atitude dos sacerdotes para com o nome de Deus no altar e para com a lei de Deus no ensino e no julgamento. No altar, eles oferecem em sacrifício animais doentes e imperfeitos, anulando, por meio disso, o propósito de seus labores e trazendo maldição e impureza, quando deveriam trazer bênção e purificação. Em seu ensino e julgamento, eles violavam a aliança com Levi (2.8), mostrando parcialidade e levando muitos a tropeçar."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0006",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.6 honra. Se os pais e senhores normais espe-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "honra. Se os pais e senhores normais esperavam honra, quanto mais Deus merece honra? Deus é em si mesmo infinitamente glorioso e tem de receber o reconhecimento de seu povo (Sl 29.1, 2; 57.5, 11).\n\ndesprezais. O oposto de honrar e temer o Senhor (cf. 2Sm 12.9, 10). Com frequência, a palavra é usada em Provérbios (1.7; 15.20; 23.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "honra. Se os pais e senhores normais esperavam honra, quanto mais Deus merece honra? Deus é em si mesmo infinitamente glorioso e tem de receber o reconhecimento de seu povo (Sl 29.1, 2; 57.5, 11).",
+        "desprezais. O oposto de honrar e temer o Senhor (cf. 2Sm 12.9, 10). Com frequência, a palavra é usada em Provérbios (1.7; 15.20; 23.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "honra.",
+          "texto": "Se os pais e senhores normais esperavam honra, quanto mais Deus merece honra? Deus é em si mesmo infinitamente glorioso e tem de receber o reconhecimento de seu povo (Sl 29.1, 2; 57.5, 11)."
+        },
+        {
+          "titulo": "desprezais.",
+          "texto": "O oposto de honrar e temer o Senhor (cf. 2Sm 12.9, 10). Com frequência, a palavra é usada em Provérbios (1.7; 15.20; 23.22)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0007",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.7 pão imundo. A referencia e ao sacrifício de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pão imundo. A referência é ao sacrifício de animais (v. 8). “Imundo” significa cerimonialmente impuro e, por isso, inaceitável a Deus. Deus é ofendido não somente pelas imperfeições cerimoniais, mas também pela atitude de desprezo por trás desses sacrifícios imperfeitos (Gn 4.3-5 e notas; Hb 11.4). O dever do sacerdote é ensinar a lei e supervisionar os sacrifícios, por isso, são culpáveis por permitirem que o povo traga essas ofertas defeituosas.\n\nA mesa do Senhor. Essa expressão e a expressão semelhante no v. 12 aparecem somente aqui no Antigo Testamento, referindo-se, em ambas as ocasiões, ao altar.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Gn",
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "livro": "Gn",
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "livro": "Gn",
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "pão imundo. A referência é ao sacrifício de animais (v. 8). “Imundo” significa cerimonialmente impuro e, por isso, inaceitável a Deus. Deus é ofendido não somente pelas imperfeições cerimoniais, mas também pela atitude de desprezo por trás desses sacrifícios imperfeitos (Gn 4.3-5 e notas; Hb 11.4). O dever do sacerdote é ensinar a lei e supervisionar os sacrifícios, por isso, são culpáveis por permitirem que o povo traga essas ofertas defeituosas.",
+        "A mesa do Senhor. Essa expressão e a expressão semelhante no v. 12 aparecem somente aqui no Antigo Testamento, referindo-se, em ambas as ocasiões, ao altar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pão imundo.",
+          "texto": "A referência é ao sacrifício de animais (v. 8). “Imundo” significa cerimonialmente impuro e, por isso, inaceitável a Deus. Deus é ofendido não somente pelas imperfeições cerimoniais, mas também pela atitude de desprezo por trás desses sacrifícios imperfeitos (Gn 4.3-5 e notas; Hb 11.4). O dever do sacerdote é ensinar a lei e supervisionar os sacrifícios, por isso, são culpáveis por permitirem que o povo traga essas ofertas defeituosas."
+        },
+        {
+          "titulo": "A mesa do Senhor.",
+          "texto": "Essa expressão e a expressão semelhante no v. 12 aparecem somente aqui no Antigo Testamento, referindo-se, em ambas as ocasiões, ao altar."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0008",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.8 0 coxo ou 0 enfermo. A lei proibia expres-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o coxo ou o enfermo. A lei proibia expressamente essas ofertas (Lv 22.22; Dt 15.21). Somente os animais sem defeito eram apropriados, prefigurando a expiação perfeita que Cristo faria definitivamente pelo pecado.\n\nao teu governador. Na cultura de Malaquias, era normal um visitante levar um presente a um superior. Se alguém levasse um animal defeituoso como presente, não deveria esperar aceitação favorável.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "o coxo ou o enfermo. A lei proibia expressamente essas ofertas (Lv 22.22; Dt 15.21). Somente os animais sem defeito eram apropriados, prefigurando a expiação perfeita que Cristo faria definitivamente pelo pecado.",
+        "ao teu governador. Na cultura de Malaquias, era normal um visitante levar um presente a um superior. Se alguém levasse um animal defeituoso como presente, não deveria esperar aceitação favorável."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o coxo ou o enfermo.",
+          "texto": "A lei proibia expressamente essas ofertas (Lv 22.22; Dt 15.21). Somente os animais sem defeito eram apropriados, prefigurando a expiação perfeita que Cristo faria definitivamente pelo pecado."
+        },
+        {
+          "titulo": "ao teu governador.",
+          "texto": "Na cultura de Malaquias, era normal um visitante levar um presente a um superior. Se alguém levasse um animal defeituoso como presente, não deveria esperar aceitação favorável."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0009",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.10 feche as portas Ate a adoração que e",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "feche as portas. Até a adoração que é oferecida no lugar correto, em nome do Deus verdadeiro, não é aceitável quando procede de um coração manchado. O Senhor prefere que nenhuma oferta seja apresentada em seu altar a que sejam apresentadas ofertas defeituosas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "feche as portas. Até a adoração que é oferecida no lugar correto, em nome do Deus verdadeiro, não é aceitável quando procede de um coração manchado. O Senhor prefere que nenhuma oferta seja apresentada em seu altar a que sejam apresentadas ofertas defeituosas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "feche as portas.",
+          "texto": "Até a adoração que é oferecida no lugar correto, em nome do Deus verdadeiro, não é aceitável quando procede de um coração manchado. O Senhor prefere que nenhuma oferta seja apresentada em seu altar a que sejam apresentadas ofertas defeituosas."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0010",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2,
+          3
+        ],
+        "pagina_impressa": 1651,
+        "rotulo_original_ocr": "1.11 é grande entre as nações 0 meu",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "é grande entre as nações o meu nome. Em contraste com o desprezo de seu nome pelos sacerdotes (v. 6), Deus promete o futuro triunfo de seu reino glorioso. “Desde o nascente do sol até ao poente” e expressões semelhantes apontam frequentemente para o julgamento futuro de Deus sobre o mundo inteiro e para a restauração de sua ordem (Sl 50.1; Is 45.6; 59.19).\n\nem todo lugar. Os sacrifícios defeituosos que eram oferecidos no tempo do profeta (vv. 7, 8) são contrastados com as ofertas puras de adoração no futuro (Is 2.2-4; 66.19-21; Zc 14.16-21). A promessa desse versículo está sendo cumprida agora mesmo, quando Cristo reúne seus sacerdotes reais entre as nações (1Pe 2.9; Ap 5.9, 10), e será consumada no futuro, quando as nações se reunirem para adorar a Deus em pureza (Ap 21.27).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "é grande entre as nações o meu nome. Em contraste com o desprezo de seu nome pelos sacerdotes (v. 6), Deus promete o futuro triunfo de seu reino glorioso. “Desde o nascente do sol até ao poente” e expressões semelhantes apontam frequentemente para o julgamento futuro de Deus sobre o mundo inteiro e para a restauração de sua ordem (Sl 50.1; Is 45.6; 59.19).",
+        "em todo lugar. Os sacrifícios defeituosos que eram oferecidos no tempo do profeta (vv. 7, 8) são contrastados com as ofertas puras de adoração no futuro (Is 2.2-4; 66.19-21; Zc 14.16-21). A promessa desse versículo está sendo cumprida agora mesmo, quando Cristo reúne seus sacerdotes reais entre as nações (1Pe 2.9; Ap 5.9, 10), e será consumada no futuro, quando as nações se reunirem para adorar a Deus em pureza (Ap 21.27)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "é grande entre as nações o meu nome.",
+          "texto": "Em contraste com o desprezo de seu nome pelos sacerdotes (v. 6), Deus promete o futuro triunfo de seu reino glorioso. “Desde o nascente do sol até ao poente” e expressões semelhantes apontam frequentemente para o julgamento futuro de Deus sobre o mundo inteiro e para a restauração de sua ordem (Sl 50.1; Is 45.6; 59.19)."
+        },
+        {
+          "titulo": "em todo lugar.",
+          "texto": "Os sacrifícios defeituosos que eram oferecidos no tempo do profeta (vv. 7, 8) são contrastados com as ofertas puras de adoração no futuro (Is 2.2-4; 66.19-21; Zc 14.16-21). A promessa desse versículo está sendo cumprida agora mesmo, quando Cristo reúne seus sacerdotes reais entre as nações (1Pe 2.9; Ap 5.9, 10), e será consumada no futuro, quando as nações se reunirem para adorar a Deus em pureza (Ap 21.27)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0011",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "1.12 A mesa do Senhor. Na expressão seme-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A mesa do SENHOR. Na expressão semelhante apresentada no v. 7, “SENHOR” é o nome divino, Jeová. Aqui, é “Senhor”, a mesma palavra traduzida por “senhor” no versículo 6, enfatizando a falta de respeito que está sendo mostrada a Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "A mesa do SENHOR. Na expressão semelhante apresentada no v. 7, “SENHOR” é o nome divino, Jeová. Aqui, é “Senhor”, a mesma palavra traduzida por “senhor” no versículo 6, enfatizando a falta de respeito que está sendo mostrada a Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "A mesa do SENHOR.",
+          "texto": "Na expressão semelhante apresentada no v. 7, “SENHOR” é o nome divino, Jeová. Aqui, é “Senhor”, a mesma palavra traduzida por “senhor” no versículo 6, enfatizando a falta de respeito que está sendo mostrada a Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0012",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "1.14 maldito seja 0 enganador. Leis que re-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "maldito seja o enganador. Leis que regulavam as ofertas dadas em resposta a um voto exigiam a entrega de uma oferta perfeita. Esse texto sugere a tentativa de enganar o Senhor ao prometer uma oferta de grande valor quando se passa por dificuldade, mas entregar, após o livramento recebido, uma oferta de menor valor (cf. Sl 76.11).\n\neu sou grande Rei. Deus é não somente o Pai (1.6; Êx 4.22) e o Senhor de Israel, é também seu Rei. A ideia de Deus como Rei apareceu cedo na religião do Antigo Testamento (Êx 15.18; Nm 23.21; 24.7; Dt 33.5). Ver Salmos 93–100.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "maldito seja o enganador. Leis que regulavam as ofertas dadas em resposta a um voto exigiam a entrega de uma oferta perfeita. Esse texto sugere a tentativa de enganar o Senhor ao prometer uma oferta de grande valor quando se passa por dificuldade, mas entregar, após o livramento recebido, uma oferta de menor valor (cf. Sl 76.11).",
+        "eu sou grande Rei. Deus é não somente o Pai (1.6; Êx 4.22) e o Senhor de Israel, é também seu Rei. A ideia de Deus como Rei apareceu cedo na religião do Antigo Testamento (Êx 15.18; Nm 23.21; 24.7; Dt 33.5). Ver Salmos 93–100."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "maldito seja o enganador.",
+          "texto": "Leis que regulavam as ofertas dadas em resposta a um voto exigiam a entrega de uma oferta perfeita. Esse texto sugere a tentativa de enganar o Senhor ao prometer uma oferta de grande valor quando se passa por dificuldade, mas entregar, após o livramento recebido, uma oferta de menor valor (cf. Sl 76.11)."
+        },
+        {
+          "titulo": "eu sou grande Rei.",
+          "texto": "Deus é não somente o Pai (1.6; Êx 4.22) e o Senhor de Israel, é também seu Rei. A ideia de Deus como Rei apareceu cedo na religião do Antigo Testamento (Êx 15.18; Nm 23.21; 24.7; Dt 33.5). Ver Salmos 93–100."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0013",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.1 Agora, ó sacerdotes. Os sacerdotes de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Agora, ó sacerdotes. Os sacerdotes deveriam ser os representantes do povo, bem como seus líderes espirituais. Os versículos seguintes mostram como eles falharam em agir de acordo com a vocação sacerdotal.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Agora, ó sacerdotes. Os sacerdotes deveriam ser os representantes do povo, bem como seus líderes espirituais. Os versículos seguintes mostram como eles falharam em agir de acordo com a vocação sacerdotal."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Agora, ó sacerdotes.",
+          "texto": "Os sacerdotes deveriam ser os representantes do povo, bem como seus líderes espirituais. Os versículos seguintes mostram como eles falharam em agir de acordo com a vocação sacerdotal."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0014",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.2 enviarei sobre vós a maldição. Ver Deu-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "enviarei sobre vós a maldição. Ver Deuteronômio 28.20.\n\namaldiçoarei as vossas bênçãos. As bênçãos ou são as bênçãos físicas e materiais prometidas aos sacerdotes que recebem os dízimos do povo (Nm 18.21) ou são os pronunciamentos de bênçãos proferidos pelos sacerdotes por ocasião dos sacrifícios (Nm 6.24-27), que se tornarão uma maldição.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "enviarei sobre vós a maldição. Ver Deuteronômio 28.20.",
+        "amaldiçoarei as vossas bênçãos. As bênçãos ou são as bênçãos físicas e materiais prometidas aos sacerdotes que recebem os dízimos do povo (Nm 18.21) ou são os pronunciamentos de bênçãos proferidos pelos sacerdotes por ocasião dos sacrifícios (Nm 6.24-27), que se tornarão uma maldição."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "enviarei sobre vós a maldição.",
+          "texto": "Ver Deuteronômio 28.20."
+        },
+        {
+          "titulo": "amaldiçoarei as vossas bênçãos.",
+          "texto": "As bênçãos ou são as bênçãos físicas e materiais prometidas aos sacerdotes que recebem os dízimos do povo (Nm 18.21) ou são os pronunciamentos de bênçãos proferidos pelos sacerdotes por ocasião dos sacrifícios (Nm 6.24-27), que se tornarão uma maldição."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0015",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.3 vos reprovarei a descendência. Lite",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vos reprovarei a descendência. Literalmente, “reprovarei vossa semente”. Isso poderia significar uma maldição sobre os descendentes dos sacerdotes ou uma maldição literal sobre sua semente agrícola (cf. 26.16; Dt 28.38). Ou ambas as ideias poderiam estar em vista.\n\natirarei excremento ao vosso rosto. Refere-se aos intestinos do animal e ao seu conteúdo excretório, que são um subproduto do processo de sacrifício.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "Fonte imprime “cf. 26.16”, sem nome de livro; preservado sem completar por inferência."
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "vos reprovarei a descendência. Literalmente, “reprovarei vossa semente”. Isso poderia significar uma maldição sobre os descendentes dos sacerdotes ou uma maldição literal sobre sua semente agrícola (cf. 26.16; Dt 28.38). Ou ambas as ideias poderiam estar em vista.",
+        "atirarei excremento ao vosso rosto. Refere-se aos intestinos do animal e ao seu conteúdo excretório, que são um subproduto do processo de sacrifício."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vos reprovarei a descendência.",
+          "texto": "Literalmente, “reprovarei vossa semente”. Isso poderia significar uma maldição sobre os descendentes dos sacerdotes ou uma maldição literal sobre sua semente agrícola (cf. 26.16; Dt 28.38). Ou ambas as ideias poderiam estar em vista."
+        },
+        {
+          "titulo": "atirarei excremento ao vosso rosto.",
+          "texto": "Refere-se aos intestinos do animal e ao seu conteúdo excretório, que são um subproduto do processo de sacrifício."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0016",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.4 aliança... com Levi. Essa aliança inclui os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "aliança... com Levi. Essa aliança inclui os descendentes de Levi, dando-lhes o direito a um sacerdócio hereditário (cf. Êx 32.29; Nm 25.11-13; Jr 33.20, 21).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "aliança... com Levi. Essa aliança inclui os descendentes de Levi, dando-lhes o direito a um sacerdócio hereditário (cf. Êx 32.29; Nm 25.11-13; Jr 33.20, 21)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aliança... com Levi.",
+          "texto": "Essa aliança inclui os descendentes de Levi, dando-lhes o direito a um sacerdócio hereditário (cf. Êx 32.29; Nm 25.11-13; Jr 33.20, 21)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0017",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.5 de vida e de paz. 0 ponto central de Deu",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "de vida e de paz. O ponto central de Deuteronômio é mostrar a conexão entre obediência e vida pactual. O compromisso com Deus leva a uma vida plena. Alguns veem em “aliança... de paz” uma alusão à aliança com Fineias mencionada em Números 25.10-13.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "de vida e de paz. O ponto central de Deuteronômio é mostrar a conexão entre obediência e vida pactual. O compromisso com Deus leva a uma vida plena. Alguns veem em “aliança... de paz” uma alusão à aliança com Fineias mencionada em Números 25.10-13."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "de vida e de paz.",
+          "texto": "O ponto central de Deuteronômio é mostrar a conexão entre obediência e vida pactual. O compromisso com Deus leva a uma vida plena. Alguns veem em “aliança... de paz” uma alusão à aliança com Fineias mencionada em Números 25.10-13."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0053",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "Registro recuperado do comentário 2.5",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "lábios do sacerdote devem guardar o conhecimento. Ver Esdras 7.10, Oseias 4.6. A conexão entre o verdadeiro conhecimento do Senhor e a instrução sacerdotal na lei é apresentada de maneira evidente em 2 Crônicas 15.3, que diz: “Israel esteve por muito tempo sem o verdadeiro Deus, sem sacerdote que o ensinasse e sem lei”. Prover essa instrução era o primeiro dever do sacerdócio (Dt 33.10).\n\nmensageiro do SENHOR dos Exércitos. A palavra hebraica traduzida como “mensageiro” é a mesma que em outras passagens é traduzida como “anjo”, ressaltando a autoridade com que o sacerdote fala.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "lábios do sacerdote devem guardar o conhecimento. Ver Esdras 7.10, Oseias 4.6. A conexão entre o verdadeiro conhecimento do Senhor e a instrução sacerdotal na lei é apresentada de maneira evidente em 2 Crônicas 15.3, que diz: “Israel esteve por muito tempo sem o verdadeiro Deus, sem sacerdote que o ensinasse e sem lei”. Prover essa instrução era o primeiro dever do sacerdócio (Dt 33.10).",
+        "mensageiro do SENHOR dos Exércitos. A palavra hebraica traduzida como “mensageiro” é a mesma que em outras passagens é traduzida como “anjo”, ressaltando a autoridade com que o sacerdote fala."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "lábios do sacerdote devem guardar o conhecimento.",
+          "texto": "Ver Esdras 7.10, Oseias 4.6. A conexão entre o verdadeiro conhecimento do Senhor e a instrução sacerdotal na lei é apresentada de maneira evidente em 2 Crônicas 15.3, que diz: “Israel esteve por muito tempo sem o verdadeiro Deus, sem sacerdote que o ensinasse e sem lei”. Prover essa instrução era o primeiro dever do sacerdócio (Dt 33.10)."
+        },
+        {
+          "titulo": "mensageiro do SENHOR dos Exércitos.",
+          "texto": "A palavra hebraica traduzida como “mensageiro” é a mesma que em outras passagens é traduzida como “anjo”, ressaltando a autoridade com que o sacerdote fala."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0018",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.8 vos tendes desviado do caminho. Ver",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vos tendes desviado do caminho. Ver Neemias 13.29. As atitudes e ações dos sacerdotes são um mau exemplo para o povo. Eles abandonaram seu verdadeiro chamado, tanto de ensinar como de praticar a verdade. Em vez de afastarem o povo da iniquidade (v. 7), eles estão realmente desviando o povo do caminho verdadeiro.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "vos tendes desviado do caminho. Ver Neemias 13.29. As atitudes e ações dos sacerdotes são um mau exemplo para o povo. Eles abandonaram seu verdadeiro chamado, tanto de ensinar como de praticar a verdade. Em vez de afastarem o povo da iniquidade (v. 7), eles estão realmente desviando o povo do caminho verdadeiro."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vos tendes desviado do caminho.",
+          "texto": "Ver Neemias 13.29. As atitudes e ações dos sacerdotes são um mau exemplo para o povo. Eles abandonaram seu verdadeiro chamado, tanto de ensinar como de praticar a verdade. Em vez de afastarem o povo da iniquidade (v. 7), eles estão realmente desviando o povo do caminho verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0019",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.9 vos mostrastes parciais no aplicar-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vos mostrastes parciais no aplicardes a lei. A base para essa censura é o caráter de Deus. Ele “não faz acepção de pessoas, nem aceita suborno” (Dt 10.17; cf. Lv 19.15). Possivelmente os sacerdotes estão favorecendo as pessoas ricas e poderosas da sociedade à custa dos pobres e desamparados.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "vos mostrastes parciais no aplicardes a lei. A base para essa censura é o caráter de Deus. Ele “não faz acepção de pessoas, nem aceita suborno” (Dt 10.17; cf. Lv 19.15). Possivelmente os sacerdotes estão favorecendo as pessoas ricas e poderosas da sociedade à custa dos pobres e desamparados."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vos mostrastes parciais no aplicardes a lei.",
+          "texto": "A base para essa censura é o caráter de Deus. Ele “não faz acepção de pessoas, nem aceita suborno” (Dt 10.17; cf. Lv 19.15). Possivelmente os sacerdotes estão favorecendo as pessoas ricas e poderosas da sociedade à custa dos pobres e desamparados."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0020",
+      "referencia": "2.10-16",
+      "capitulo": 2,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.10-16",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1652,
+        "rotulo_original_ocr": "2.10-16 A falta de fidelidade para com Deus leva",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A falta de fidelidade para com Deus leva ao colapso dos relacionamentos humanos. Malaquias aborda dois problemas: o casamento com esposas idólatras (vv. 10-12) e o divórcio das esposas israelitas (vv. 13-16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "A falta de fidelidade para com Deus leva ao colapso dos relacionamentos humanos. Malaquias aborda dois problemas: o casamento com esposas idólatras (vv. 10-12) e o divórcio das esposas israelitas (vv. 13-16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A falta de fidelidade para com Deus leva ao colapso dos relacionamentos humanos. Malaquias aborda dois problemas: o casamento com esposas idólatras (vv. 10-12) e o divórcio das esposas israelitas (vv. 13-16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0021",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1653,
+        "rotulo_original_ocr": "2.10 0 mesmo Pai. Alguns interpretam isso",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o mesmo Pai. Alguns interpretam isso como se referindo a Abraão (Is 51.2). Mais provavelmente isso se refere a Deus (1.6; Êx 4.22, 23; Dt 32.6; Is 63.16; 64.8; Jr 3.4, 19; 31.9). Como um bom Pai, ele disciplinará os desobedientes (Hb 12.5-11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "o mesmo Pai. Alguns interpretam isso como se referindo a Abraão (Is 51.2). Mais provavelmente isso se refere a Deus (1.6; Êx 4.22, 23; Dt 32.6; Is 63.16; 64.8; Jr 3.4, 19; 31.9). Como um bom Pai, ele disciplinará os desobedientes (Hb 12.5-11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o mesmo Pai.",
+          "texto": "Alguns interpretam isso como se referindo a Abraão (Is 51.2). Mais provavelmente isso se refere a Deus (1.6; Êx 4.22, 23; Dt 32.6; Is 63.16; 64.8; Jr 3.4, 19; 31.9). Como um bom Pai, ele disciplinará os desobedientes (Hb 12.5-11)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0022",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1653,
+        "rotulo_original_ocr": "2.11 tem sido desleal. Esse verbo e usado cinco",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "tem sido desleal. Esse verbo é usado cinco vezes nos versículos 10-16. Em Jeremias 3.20, refere-se ao aspecto da infidelidade conjugal; no sentido mais geral, o verbo se aplica a qualquer violação das obrigações pactuais.\n\nabominação. Aqui, a palavra hebraica, empregada proeminentemente em Deuteronômio, refere-se às práticas religiosas idólatras (Dt 7.25, 26; 12.31; 13.14; 18.12). Também pode referir-se a transgressões sexuais (Lv 18.22, 26, 29, 30; Dt 24.4).\n\nprofanou o santuário do SENHOR. A palavra hebraica traduzida como “santuário” também pode ser entendida como se referindo ao próprio povo (“santa semente” — Is 6.13; cf. Ed 9.2). O povo, que é amado por Deus, contamina a si mesmo pela desobediência em suas práticas de casamento.\n\ncasou com adoradora de deus estranho. Essa frase se refere ao casamento com uma mulher ainda comprometida com um deus estranho — uma idólatra que está fora da aliança (cf. Gn 24.3, 4; Êx 34.12-16; Dt 7.3, 4; Js 23.12; 1Rs 11.1-10). A proibição do casamento com incrédulos continua no Novo Testamento (1Co 7.39; 2Co 6.14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "tem sido desleal. Esse verbo é usado cinco vezes nos versículos 10-16. Em Jeremias 3.20, refere-se ao aspecto da infidelidade conjugal; no sentido mais geral, o verbo se aplica a qualquer violação das obrigações pactuais.",
+        "abominação. Aqui, a palavra hebraica, empregada proeminentemente em Deuteronômio, refere-se às práticas religiosas idólatras (Dt 7.25, 26; 12.31; 13.14; 18.12). Também pode referir-se a transgressões sexuais (Lv 18.22, 26, 29, 30; Dt 24.4).",
+        "profanou o santuário do SENHOR. A palavra hebraica traduzida como “santuário” também pode ser entendida como se referindo ao próprio povo (“santa semente” — Is 6.13; cf. Ed 9.2). O povo, que é amado por Deus, contamina a si mesmo pela desobediência em suas práticas de casamento.",
+        "casou com adoradora de deus estranho. Essa frase se refere ao casamento com uma mulher ainda comprometida com um deus estranho — uma idólatra que está fora da aliança (cf. Gn 24.3, 4; Êx 34.12-16; Dt 7.3, 4; Js 23.12; 1Rs 11.1-10). A proibição do casamento com incrédulos continua no Novo Testamento (1Co 7.39; 2Co 6.14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tem sido desleal.",
+          "texto": "Esse verbo é usado cinco vezes nos versículos 10-16. Em Jeremias 3.20, refere-se ao aspecto da infidelidade conjugal; no sentido mais geral, o verbo se aplica a qualquer violação das obrigações pactuais."
+        },
+        {
+          "titulo": "abominação.",
+          "texto": "Aqui, a palavra hebraica, empregada proeminentemente em Deuteronômio, refere-se às práticas religiosas idólatras (Dt 7.25, 26; 12.31; 13.14; 18.12). Também pode referir-se a transgressões sexuais (Lv 18.22, 26, 29, 30; Dt 24.4)."
+        },
+        {
+          "titulo": "profanou o santuário do SENHOR.",
+          "texto": "A palavra hebraica traduzida como “santuário” também pode ser entendida como se referindo ao próprio povo (“santa semente” — Is 6.13; cf. Ed 9.2). O povo, que é amado por Deus, contamina a si mesmo pela desobediência em suas práticas de casamento."
+        },
+        {
+          "titulo": "casou com adoradora de deus estranho.",
+          "texto": "Essa frase se refere ao casamento com uma mulher ainda comprometida com um deus estranho — uma idólatra que está fora da aliança (cf. Gn 24.3, 4; Êx 34.12-16; Dt 7.3, 4; Js 23.12; 1Rs 11.1-10). A proibição do casamento com incrédulos continua no Novo Testamento (1Co 7.39; 2Co 6.14)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0023",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1653,
+        "rotulo_original_ocr": "2.13 cobris 0 altar do Senhor de lágrimas.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "cobris o altar do SENHOR de lágrimas. Essas lágrimas não são as marcas do verdadeiro arrependimento. As ações do povo demonstram que essas lágrimas são piedade fingida, estando mais em harmonia com os rituais pagãos do que com a verdadeira adoração de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "cobris o altar do SENHOR de lágrimas. Essas lágrimas não são as marcas do verdadeiro arrependimento. As ações do povo demonstram que essas lágrimas são piedade fingida, estando mais em harmonia com os rituais pagãos do que com a verdadeira adoração de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "cobris o altar do SENHOR de lágrimas.",
+          "texto": "Essas lágrimas não são as marcas do verdadeiro arrependimento. As ações do povo demonstram que essas lágrimas são piedade fingida, estando mais em harmonia com os rituais pagãos do que com a verdadeira adoração de Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0024",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4,
+          5
+        ],
+        "pagina_impressa": 1653,
+        "rotulo_original_ocr": "2.14 mulher da tua mocidade. Ver v 15; Pro-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "mulher da tua mocidade. Ver v. 15; Provérbios 5.18. A motivação para abandonar esses casamentos pode ser amorosa ou uma busca por vantagem política com os grupos étnicos circunvizinhos, que tinham muito poder.\n\ntua companheira. Uma forma correlata dessa palavra singular é usada para descrever um encaixe ou uma junção num prédio ou o processo de cimentar algo.\n\nmulher da tua aliança. A fidelidade pactual de Deus deve ser refletida nas relações de casamento de seu povo (Pv 2.17; Ef 5.22-33).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "mulher da tua mocidade. Ver v. 15; Provérbios 5.18. A motivação para abandonar esses casamentos pode ser amorosa ou uma busca por vantagem política com os grupos étnicos circunvizinhos, que tinham muito poder.",
+        "tua companheira. Uma forma correlata dessa palavra singular é usada para descrever um encaixe ou uma junção num prédio ou o processo de cimentar algo.",
+        "mulher da tua aliança. A fidelidade pactual de Deus deve ser refletida nas relações de casamento de seu povo (Pv 2.17; Ef 5.22-33)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mulher da tua mocidade.",
+          "texto": "Ver v. 15; Provérbios 5.18. A motivação para abandonar esses casamentos pode ser amorosa ou uma busca por vantagem política com os grupos étnicos circunvizinhos, que tinham muito poder."
+        },
+        {
+          "titulo": "tua companheira.",
+          "texto": "Uma forma correlata dessa palavra singular é usada para descrever um encaixe ou uma junção num prédio ou o processo de cimentar algo."
+        },
+        {
+          "titulo": "mulher da tua aliança.",
+          "texto": "A fidelidade pactual de Deus deve ser refletida nas relações de casamento de seu povo (Pv 2.17; Ef 5.22-33)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0025",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "2.15 um. Ver Gênesis 2.24.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "um. Ver Gênesis 2.24.\n\npouco de espírito. A união matrimonial não é meramente física, mas também espiritual. E tem como seu alvo a descendência piedosa para Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "um. Ver Gênesis 2.24.",
+        "pouco de espírito. A união matrimonial não é meramente física, mas também espiritual. E tem como seu alvo a descendência piedosa para Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "um.",
+          "texto": "Ver Gênesis 2.24."
+        },
+        {
+          "titulo": "pouco de espírito.",
+          "texto": "A união matrimonial não é meramente física, mas também espiritual. E tem como seu alvo a descendência piedosa para Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0026",
+      "referencia": "2.16",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.16",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "2.16 odeia o repúdio. Ver Isaías 501, Deutero-",
+        "referencia_impressa_convertida": {
+          "motivo": "pagina_do_PDF_nao_exibida_no_app",
+          "citados": [
+            "Casamento",
+            "Divórcio"
+          ],
+          "texto_pre_ajuste": "odeia o repúdio. Ver Isaías 501, Deuteronómio 24.1-4, nota teológica \"Casamento\", acima, e \"Divorcio\", na p 1755 Assim como em 13, \"odeia\" e um termo da aliança que descreve a rejeição de relacionamento vestes. Entrar no casamento e ter uma esposa, as vezes e algo retratado como cobrir-se com uma veste (Rt 3 9; Ez 16 8). Abusar de uma esposa e divorciar-se dela mancham metaforicamente as vestes de um homem, tornando-o impróprio para entrai na presença de Deus"
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "odeia o repúdio. Ver Isaías 50.1; Deuteronômio 24.1-4; nota teológica “Casamento”, acima, e “Divórcio”, na p. 1755. Assim como em 1.3, “odeia” é um termo da aliança que descreve a rejeição de relacionamento.\n\nvestes. Entrar no casamento e ter uma esposa, às vezes, é algo retratado como cobrir-se com uma veste (Rt 3.9; Ez 16.8). Abusar de uma esposa e divorciar-se dela mancham metaforicamente as vestes de um homem, tornando-o impróprio para entrar na presença de Deus.",
+      "remissoes": [
+        "ml-art-casamento",
+        "ml-pendente-2-16-divorcio"
+      ],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "odeia o repúdio.",
+          "texto": "Ver Isaías 50.1; Deuteronômio 24.1-4; nota teológica “Casamento”, acima, e “Divórcio”, na p. 1755. Assim como em 1.3, “odeia” é um termo da aliança que descreve a rejeição de relacionamento."
+        },
+        {
+          "titulo": "vestes.",
+          "texto": "Entrar no casamento e ter uma esposa, às vezes, é algo retratado como cobrir-se com uma veste (Rt 3.9; Ez 16.8). Abusar de uma esposa e divorciar-se dela mancham metaforicamente as vestes de um homem, tornando-o impróprio para entrar na presença de Deus."
+        }
+      ],
+      "paragrafos": [
+        "odeia o repúdio. Ver Isaías 50.1; Deuteronômio 24.1-4; nota teológica “Casamento”, acima, e “Divórcio”, na p. 1755. Assim como em 1.3, “odeia” é um termo da aliança que descreve a rejeição de relacionamento.",
+        "vestes. Entrar no casamento e ter uma esposa, às vezes, é algo retratado como cobrir-se com uma veste (Rt 3.9; Ez 16.8). Abusar de uma esposa e divorciar-se dela mancham metaforicamente as vestes de um homem, tornando-o impróprio para entrar na presença de Deus."
+      ]
+    },
+    {
+      "id": "fr-ml-0027",
+      "referencia": "2.17-3.5",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.17-3.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "2.17-3.5 Os céticos religiosos acusam 0 Senhor de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Os céticos religiosos acusam o Senhor de injustiça. Deus responde com a promessa de que enviará um mensageiro para preparar o caminho antes de ele mesmo retornar ao seu templo. Sua presença no meio de um povo ímpio exige julgamento e purificação graciosa (3.2, 3). Ele mudará o coração dos levitas, e eles novamente oferecerão sacrifícios em justiça. O julgamento será severo (3.5). O Senhor mesmo será a principal testemunha de acusação de seu povo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Os céticos religiosos acusam o Senhor de injustiça. Deus responde com a promessa de que enviará um mensageiro para preparar o caminho antes de ele mesmo retornar ao seu templo. Sua presença no meio de um povo ímpio exige julgamento e purificação graciosa (3.2, 3). Ele mudará o coração dos levitas, e eles novamente oferecerão sacrifícios em justiça. O julgamento será severo (3.5). O Senhor mesmo será a principal testemunha de acusação de seu povo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os céticos religiosos acusam o Senhor de injustiça. Deus responde com a promessa de que enviará um mensageiro para preparar o caminho antes de ele mesmo retornar ao seu templo. Sua presença no meio de um povo ímpio exige julgamento e purificação graciosa (3.2, 3). Ele mudará o coração dos levitas, e eles novamente oferecerão sacrifícios em justiça. O julgamento será severo (3.5). O Senhor mesmo será a principal testemunha de acusação de seu povo."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0028",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "2.17 Enfadais 0 Senhor. Ver Isaías 43 24",
+        "texto_ocr_pre_normalizacao": "Enfadais 0 Senhor. Ver Isaías 43 24 Em Malaquias, as ofensas giram em torno da rejeição cínica do governo moral de Deus e do resultante espirito insolente que julga Deus constantemente Qualquer que faz 0 mal passa por bom. Essa e uma rejeição explicita da afirmação do Senhor em Deuteronõmio 1812 Eles tropeçam nas mesmas questões que causaram as dificuldades do salmista no Salmo 73",
+        "correcoes_literal_reversiveis": {
+          "espirito": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Enfadais o SENHOR. Ver Isaías 43.24. Em Malaquias, as ofensas giram em torno da rejeição cínica do governo moral de Deus e do resultante espírito insolente que julga Deus constantemente.\n\nQualquer que faz o mal passa por bom. Essa é uma rejeição explícita da afirmação do Senhor em Deuteronômio 18.12. Eles tropeçam nas mesmas questões que causaram as dificuldades do salmista no Salmo 73.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Enfadais o SENHOR. Ver Isaías 43.24. Em Malaquias, as ofensas giram em torno da rejeição cínica do governo moral de Deus e do resultante espírito insolente que julga Deus constantemente.",
+        "Qualquer que faz o mal passa por bom. Essa é uma rejeição explícita da afirmação do Senhor em Deuteronômio 18.12. Eles tropeçam nas mesmas questões que causaram as dificuldades do salmista no Salmo 73."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Enfadais o SENHOR.",
+          "texto": "Ver Isaías 43.24. Em Malaquias, as ofensas giram em torno da rejeição cínica do governo moral de Deus e do resultante espírito insolente que julga Deus constantemente."
+        },
+        {
+          "titulo": "Qualquer que faz o mal passa por bom.",
+          "texto": "Essa é uma rejeição explícita da afirmação do Senhor em Deuteronômio 18.12. Eles tropeçam nas mesmas questões que causaram as dificuldades do salmista no Salmo 73."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0029",
+      "referencia": "3.1-5",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.1-5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "3.1-5 Essa seção refuta duas afnmações céticas",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa seção refuta duas afirmações céticas do capítulo 2. Em primeiro lugar, a alegação em 2.17 de que Deus não faz diferença entre o bem e o mal é respondida em 3.2, pela alusão ao ministério de refinamento e purificação do mensageiro da aliança. A segunda afirmação, “Onde está o Deus do juízo?” (2.17), tem resposta no versículo 5. Os judeus dos dias de Malaquias aguardavam a vinda do Senhor para julgar as nações, mas, em vez disso, o Senhor se chegará a eles para exercer julgamento (v. 5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa seção refuta duas afirmações céticas do capítulo 2. Em primeiro lugar, a alegação em 2.17 de que Deus não faz diferença entre o bem e o mal é respondida em 3.2, pela alusão ao ministério de refinamento e purificação do mensageiro da aliança. A segunda afirmação, “Onde está o Deus do juízo?” (2.17), tem resposta no versículo 5. Os judeus dos dias de Malaquias aguardavam a vinda do Senhor para julgar as nações, mas, em vez disso, o Senhor se chegará a eles para exercer julgamento (v. 5)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa seção refuta duas afirmações céticas do capítulo 2. Em primeiro lugar, a alegação em 2.17 de que Deus não faz diferença entre o bem e o mal é respondida em 3.2, pela alusão ao ministério de refinamento e purificação do mensageiro da aliança. A segunda afirmação, “Onde está o Deus do juízo?” (2.17), tem resposta no versículo 5. Os judeus dos dias de Malaquias aguardavam a vinda do Senhor para julgar as nações, mas, em vez disso, o Senhor se chegará a eles para exercer julgamento (v. 5)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0030",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "3.1 meu mensageiro. Ver 4 5, também Isaias",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "meu mensageiro. Ver 4.5; também Isaías 40.3 (onde “preparar o caminho” também ocorre). Era prática no antigo Oriente Próximo enviar mensageiros adiante de um rei visitante para anunciar sua vinda e remover todos os obstáculos e empecilhos. Esse mensageiro profético (Mt 11.10) será o último de seu tipo a aparecer antes da vinda do Senhor, que é “o Anjo da Aliança”.\n\nde repente. Na Escritura, essa palavra sempre está associada a uma circunstância infeliz e calamitosa (Nm 12.4; Is 47.11, cf. 2Pe 3.10).\n\no Anjo da Aliança. Alguém distinto de “meu mensageiro”. Ele purificará os sacrifícios, os sacerdotes e a nação (vv. 2-5). Esse “Anjo da Aliança” é o Messias, e tal profecia se cumpriu em Jesus, que, sozinho, realizou o sacrifício perfeito em favor de seu povo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "meu mensageiro. Ver 4.5; também Isaías 40.3 (onde “preparar o caminho” também ocorre). Era prática no antigo Oriente Próximo enviar mensageiros adiante de um rei visitante para anunciar sua vinda e remover todos os obstáculos e empecilhos. Esse mensageiro profético (Mt 11.10) será o último de seu tipo a aparecer antes da vinda do Senhor, que é “o Anjo da Aliança”.",
+        "de repente. Na Escritura, essa palavra sempre está associada a uma circunstância infeliz e calamitosa (Nm 12.4; Is 47.11, cf. 2Pe 3.10).",
+        "o Anjo da Aliança. Alguém distinto de “meu mensageiro”. Ele purificará os sacrifícios, os sacerdotes e a nação (vv. 2-5). Esse “Anjo da Aliança” é o Messias, e tal profecia se cumpriu em Jesus, que, sozinho, realizou o sacrifício perfeito em favor de seu povo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "meu mensageiro.",
+          "texto": "Ver 4.5; também Isaías 40.3 (onde “preparar o caminho” também ocorre). Era prática no antigo Oriente Próximo enviar mensageiros adiante de um rei visitante para anunciar sua vinda e remover todos os obstáculos e empecilhos. Esse mensageiro profético (Mt 11.10) será o último de seu tipo a aparecer antes da vinda do Senhor, que é “o Anjo da Aliança”."
+        },
+        {
+          "titulo": "de repente.",
+          "texto": "Na Escritura, essa palavra sempre está associada a uma circunstância infeliz e calamitosa (Nm 12.4; Is 47.11, cf. 2Pe 3.10)."
+        },
+        {
+          "titulo": "o Anjo da Aliança.",
+          "texto": "Alguém distinto de “meu mensageiro”. Ele purificará os sacrifícios, os sacerdotes e a nação (vv. 2-5). Esse “Anjo da Aliança” é o Messias, e tal profecia se cumpriu em Jesus, que, sozinho, realizou o sacrifício perfeito em favor de seu povo."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0031",
+      "referencia": "3.2",
+      "capitulo": 3,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "3.2",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "3.2 potassa dos lavandeiros. Os lavandei-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "potassa dos lavandeiros. Os lavandeiros antigos usavam fortes substâncias químicas extraídas de plantas para remover as manchas resistentes das roupas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "potassa dos lavandeiros. Os lavandeiros antigos usavam fortes substâncias químicas extraídas de plantas para remover as manchas resistentes das roupas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "potassa dos lavandeiros.",
+          "texto": "Os lavandeiros antigos usavam fortes substâncias químicas extraídas de plantas para remover as manchas resistentes das roupas."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0032",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "3.3 purificará os filhos de Levi. Os sacer-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "purificará os filhos de Levi. Os sacerdotes têm sido instrumentos em desviar o povo de Deus. A obra de purificação começará por eles e se propagará deles por toda a nação. Os levitas são o padrão para a nação, que deve ser um “reino de sacerdotes” (Êx 19.6). É mais difícil purificar a prata do que o ouro.\n\njustas ofertas. Ver “ofertas puras” em 1.11. Por causa da obra do Anjo da Aliança, novamente a adoração apropriada será oferecida, porque o coração e a vida dos adoradores serão purificados (Sl 4.5; Sf 3.9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "purificará os filhos de Levi. Os sacerdotes têm sido instrumentos em desviar o povo de Deus. A obra de purificação começará por eles e se propagará deles por toda a nação. Os levitas são o padrão para a nação, que deve ser um “reino de sacerdotes” (Êx 19.6). É mais difícil purificar a prata do que o ouro.",
+        "justas ofertas. Ver “ofertas puras” em 1.11. Por causa da obra do Anjo da Aliança, novamente a adoração apropriada será oferecida, porque o coração e a vida dos adoradores serão purificados (Sl 4.5; Sf 3.9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "purificará os filhos de Levi.",
+          "texto": "Os sacerdotes têm sido instrumentos em desviar o povo de Deus. A obra de purificação começará por eles e se propagará deles por toda a nação. Os levitas são o padrão para a nação, que deve ser um “reino de sacerdotes” (Êx 19.6). É mais difícil purificar a prata do que o ouro."
+        },
+        {
+          "titulo": "justas ofertas.",
+          "texto": "Ver “ofertas puras” em 1.11. Por causa da obra do Anjo da Aliança, novamente a adoração apropriada será oferecida, porque o coração e a vida dos adoradores serão purificados (Sl 4.5; Sf 3.9)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0033",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "3.5 Chegar-me-ei a vós outros para juí-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Chegar-me-ei a vós outros para juízo. Essa seção teve início com os céticos religiosos acusando o Senhor de injustiça. E termina com um litígio pactual em que o Senhor traz acusações contra seu povo. Os sete pecados específicos mencionados no versículo 5 incluem ofensas claramente proibidas na lei de Deus. A causa fundamental desses pecados é que as pessoas “não me temem”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Chegar-me-ei a vós outros para juízo. Essa seção teve início com os céticos religiosos acusando o Senhor de injustiça. E termina com um litígio pactual em que o Senhor traz acusações contra seu povo. Os sete pecados específicos mencionados no versículo 5 incluem ofensas claramente proibidas na lei de Deus. A causa fundamental desses pecados é que as pessoas “não me temem”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Chegar-me-ei a vós outros para juízo.",
+          "texto": "Essa seção teve início com os céticos religiosos acusando o Senhor de injustiça. E termina com um litígio pactual em que o Senhor traz acusações contra seu povo. Os sete pecados específicos mencionados no versículo 5 incluem ofensas claramente proibidas na lei de Deus. A causa fundamental desses pecados é que as pessoas “não me temem”."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0034",
+      "referencia": "3.6-12",
+      "capitulo": 3,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.6-12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "3.6-12 0 povo nao somente esta trazendo ofer-",
+        "texto_ocr_pre_normalizacao": "0 povo nao somente esta trazendo ofertas defeituosas, como também retendo 0 dizimo, aparentemente devido ao retorno escasso da colheita Mas reter 0 dízimo significa roubar 0 Senhor. Em consequência, 0 Senhor justo retêm as bênçãos 0 pecado que estão cometendo também evidencia a falta de confiança no Senhoi para suprir as necessidades deles, se obedecerem aos seus mandamentos Portanto, 0 Senhor os exorta a provarem-no Se fizerem isso, a provisão resultante sera tão grande que as nações verão a diferença e pronunciarão Israel bendito.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O povo não somente está trazendo ofertas defeituosas, como também retendo o dízimo, aparentemente devido ao retorno escasso da colheita. Mas reter o dízimo significa roubar o Senhor. Em consequência, o Senhor justo retém as bênçãos. O pecado que estão cometendo também evidencia a falta de confiança no Senhor para suprir as necessidades deles, se obedecerem aos seus mandamentos. Portanto, o Senhor os exorta a provarem-no. Se fizerem isso, a provisão resultante será tão grande que as nações verão a diferença e pronunciarão Israel bendito.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "O povo não somente está trazendo ofertas defeituosas, como também retendo o dízimo, aparentemente devido ao retorno escasso da colheita. Mas reter o dízimo significa roubar o Senhor. Em consequência, o Senhor justo retém as bênçãos. O pecado que estão cometendo também evidencia a falta de confiança no Senhor para suprir as necessidades deles, se obedecerem aos seus mandamentos. Portanto, o Senhor os exorta a provarem-no. Se fizerem isso, a provisão resultante será tão grande que as nações verão a diferença e pronunciarão Israel bendito."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O povo não somente está trazendo ofertas defeituosas, como também retendo o dízimo, aparentemente devido ao retorno escasso da colheita. Mas reter o dízimo significa roubar o Senhor. Em consequência, o Senhor justo retém as bênçãos. O pecado que estão cometendo também evidencia a falta de confiança no Senhor para suprir as necessidades deles, se obedecerem aos seus mandamentos. Portanto, o Senhor os exorta a provarem-no. Se fizerem isso, a provisão resultante será tão grande que as nações verão a diferença e pronunciarão Israel bendito."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0035",
+      "referencia": "3.6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.6",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.6 eu... não mudo. A imutabilidade, ou ca-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "eu... não mudo. A imutabilidade, ou caráter imutável, de Deus é vista no propósito de abençoar seu povo eleito. Portanto, apesar de seus inúmeros pecados, eles não serão destruídos (Êx 34.6, 7; Jr 30.11). Esse versículo conclui a seção anterior e dá início à seguinte.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "eu... não mudo. A imutabilidade, ou caráter imutável, de Deus é vista no propósito de abençoar seu povo eleito. Portanto, apesar de seus inúmeros pecados, eles não serão destruídos (Êx 34.6, 7; Jr 30.11). Esse versículo conclui a seção anterior e dá início à seguinte."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "eu... não mudo.",
+          "texto": "A imutabilidade, ou caráter imutável, de Deus é vista no propósito de abençoar seu povo eleito. Portanto, apesar de seus inúmeros pecados, eles não serão destruídos (Êx 34.6, 7; Jr 30.11). Esse versículo conclui a seção anterior e dá início à seguinte."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0036",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.7 tornai-vos para mim, e eu me tor-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "tornai-vos para mim, e eu me tornarei para vós. A exortação para que se arrependam está conectada a uma promessa (cf. Zc 1.3; Tg 4.8). O pecado causa separação entre o povo e Deus e faz com que Deus encubra seu rosto (Is 59.2).\n\nEm que havemos de tornar. Essa não é uma pergunta genuína. Eles já dispõem de muitas informações nas Escrituras sobre como se voltarem para o Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "tornai-vos para mim, e eu me tornarei para vós. A exortação para que se arrependam está conectada a uma promessa (cf. Zc 1.3; Tg 4.8). O pecado causa separação entre o povo e Deus e faz com que Deus encubra seu rosto (Is 59.2).",
+        "Em que havemos de tornar. Essa não é uma pergunta genuína. Eles já dispõem de muitas informações nas Escrituras sobre como se voltarem para o Senhor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tornai-vos para mim, e eu me tornarei para vós.",
+          "texto": "A exortação para que se arrependam está conectada a uma promessa (cf. Zc 1.3; Tg 4.8). O pecado causa separação entre o povo e Deus e faz com que Deus encubra seu rosto (Is 59.2)."
+        },
+        {
+          "titulo": "Em que havemos de tornar.",
+          "texto": "Essa não é uma pergunta genuína. Eles já dispõem de muitas informações nas Escrituras sobre como se voltarem para o Senhor."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0037",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.8 dízimos. Literalmente, \"um décimo\" Dar 0",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "dízimos. Literalmente, “um décimo”. Dar o dízimo é um comportamento mencionado nos relatos sobre Abraão (Gn 14.20) e Jacó (Gn 28.22); e a lei de Moisés estabelece como dever anual a entrega de um décimo da produção agrícola como um sinal de que o Senhor era o possuidor da Terra Prometida (Lv 27.30; Nm 18.26; Dt 14.22-29).\n\nofertas. As porções dos sacrifícios de animais que o sacerdote tinha o direito de receber (Êx 29.27, 28; Lv 9.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "dízimos. Literalmente, “um décimo”. Dar o dízimo é um comportamento mencionado nos relatos sobre Abraão (Gn 14.20) e Jacó (Gn 28.22); e a lei de Moisés estabelece como dever anual a entrega de um décimo da produção agrícola como um sinal de que o Senhor era o possuidor da Terra Prometida (Lv 27.30; Nm 18.26; Dt 14.22-29).",
+        "ofertas. As porções dos sacrifícios de animais que o sacerdote tinha o direito de receber (Êx 29.27, 28; Lv 9.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "dízimos.",
+          "texto": "Literalmente, “um décimo”. Dar o dízimo é um comportamento mencionado nos relatos sobre Abraão (Gn 14.20) e Jacó (Gn 28.22); e a lei de Moisés estabelece como dever anual a entrega de um décimo da produção agrícola como um sinal de que o Senhor era o possuidor da Terra Prometida (Lv 27.30; Nm 18.26; Dt 14.22-29)."
+        },
+        {
+          "titulo": "ofertas.",
+          "texto": "As porções dos sacrifícios de animais que o sacerdote tinha o direito de receber (Êx 29.27, 28; Lv 9.22)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0038",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.10 casa do Tesouro. Refere-se a um cômodo",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "casa do Tesouro. Refere-se a um cômodo no templo destinado a guardar as dádivas, para que fossem distribuídas aos sacerdotes e aos levitas, bem como aos pobres da comunidade (2Cr 31.11; Ne 10.38, 39; 12.44; 13.12).\n\nprovai-me. Essa é uma inversão do padrão bíblico normal, em que, tipicamente, Deus prova os seres humanos (Sl 11.5; 26.2; 66.10; Pv 17.3; Jr 11.20; 12.3; 17.10). Somente em poucas ocasiões os humanos são convidados a provar Deus (ou seja, provar suas afirmações e corroborar seus mandamentos; Is 7.11, 12; 1Rs 18.22-46). Como o dízimo é uma obrigação pactual na vigência da aliança do Sinai, algumas bênçãos e maldições específicas estão ligadas a ele. Na nova aliança, Paulo nos chama a sermos abundantes na graça de contribuir (2Co 8.7). Isso sugere que o amor deve levar-nos a uma generosidade maior do que a lei jamais poderia levar-nos e que o dízimo na antiga aliança era realmente apenas o mínimo que o povo deveria dar para a obra de Deus.\n\njanelas do céu. Ver Gênesis 7.11. A chuva em seu tempo apropriado é uma bênção do Senhor e crucial para o bem-estar agrícola da comunidade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "casa do Tesouro. Refere-se a um cômodo no templo destinado a guardar as dádivas, para que fossem distribuídas aos sacerdotes e aos levitas, bem como aos pobres da comunidade (2Cr 31.11; Ne 10.38, 39; 12.44; 13.12).",
+        "provai-me. Essa é uma inversão do padrão bíblico normal, em que, tipicamente, Deus prova os seres humanos (Sl 11.5; 26.2; 66.10; Pv 17.3; Jr 11.20; 12.3; 17.10). Somente em poucas ocasiões os humanos são convidados a provar Deus (ou seja, provar suas afirmações e corroborar seus mandamentos; Is 7.11, 12; 1Rs 18.22-46). Como o dízimo é uma obrigação pactual na vigência da aliança do Sinai, algumas bênçãos e maldições específicas estão ligadas a ele. Na nova aliança, Paulo nos chama a sermos abundantes na graça de contribuir (2Co 8.7). Isso sugere que o amor deve levar-nos a uma generosidade maior do que a lei jamais poderia levar-nos e que o dízimo na antiga aliança era realmente apenas o mínimo que o povo deveria dar para a obra de Deus.",
+        "janelas do céu. Ver Gênesis 7.11. A chuva em seu tempo apropriado é uma bênção do Senhor e crucial para o bem-estar agrícola da comunidade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "casa do Tesouro.",
+          "texto": "Refere-se a um cômodo no templo destinado a guardar as dádivas, para que fossem distribuídas aos sacerdotes e aos levitas, bem como aos pobres da comunidade (2Cr 31.11; Ne 10.38, 39; 12.44; 13.12)."
+        },
+        {
+          "titulo": "provai-me.",
+          "texto": "Essa é uma inversão do padrão bíblico normal, em que, tipicamente, Deus prova os seres humanos (Sl 11.5; 26.2; 66.10; Pv 17.3; Jr 11.20; 12.3; 17.10). Somente em poucas ocasiões os humanos são convidados a provar Deus (ou seja, provar suas afirmações e corroborar seus mandamentos; Is 7.11, 12; 1Rs 18.22-46). Como o dízimo é uma obrigação pactual na vigência da aliança do Sinai, algumas bênçãos e maldições específicas estão ligadas a ele. Na nova aliança, Paulo nos chama a sermos abundantes na graça de contribuir (2Co 8.7). Isso sugere que o amor deve levar-nos a uma generosidade maior do que a lei jamais poderia levar-nos e que o dízimo na antiga aliança era realmente apenas o mínimo que o povo deveria dar para a obra de Deus."
+        },
+        {
+          "titulo": "janelas do céu.",
+          "texto": "Ver Gênesis 7.11. A chuva em seu tempo apropriado é uma bênção do Senhor e crucial para o bem-estar agrícola da comunidade."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0039",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.11 repreenderei 0 devorador. Além de",
+        "texto_ocr_pre_normalizacao": "repreenderei 0 devorador. Além de suprir a chuva tao importante, 0 Senhor tambem promete proteger as lavouras das pestes destrutivas, que, em si mesmas, são um sinal da maldição pactuai sob a lei mosaica (ver Dt 28,38- 42) 0 resultado dessas bençaos sera uma colheita frutífera",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "repreenderei o devorador. Além de suprir a chuva tão importante, o Senhor também promete proteger as lavouras das pestes destrutivas, que, em si mesmas, são um sinal da maldição pactual sob a lei mosaica (ver Dt 28.38-42). O resultado dessas bênçãos será uma colheita frutífera.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "repreenderei o devorador. Além de suprir a chuva tão importante, o Senhor também promete proteger as lavouras das pestes destrutivas, que, em si mesmas, são um sinal da maldição pactual sob a lei mosaica (ver Dt 28.38-42). O resultado dessas bênçãos será uma colheita frutífera."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "repreenderei o devorador.",
+          "texto": "Além de suprir a chuva tão importante, o Senhor também promete proteger as lavouras das pestes destrutivas, que, em si mesmas, são um sinal da maldição pactual sob a lei mosaica (ver Dt 28.38-42). O resultado dessas bênçãos será uma colheita frutífera."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0040",
+      "referencia": "3.13-4.6",
+      "capitulo": 3,
+      "versiculos": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.13-4.6",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.13-4.6 A ultima seção retorna a profecia",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A última seção retorna à profecia em 3.1-5, concernente ao precursor (Mt 11.10) e à vinda de Deus. De várias maneiras, o começo da seção lembra um salmo de lamento. As queixas, porém, são interpretadas como palavras duras contra o Senhor. Mas existem aqueles que sentem as mesmas injustiças sem concluir que é inútil servir ao Senhor. O primeiro grupo fala palavras duras e provoca a resposta do Senhor; o segundo grupo teme o Senhor e, por isso, registra palavras de lembrança a respeito deles. E promete que serão uma possessão especial no grande dia do Senhor.\n\nA referência àquele “dia” (v. 17) introduz, de novo, o último dia de julgamento, um dia de destruição para os ímpios, mas de cura para os justos. Os versículos finais voltam ao precursor prometido e exortam o povo a guardar a lei de Moisés.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "A última seção retorna à profecia em 3.1-5, concernente ao precursor (Mt 11.10) e à vinda de Deus. De várias maneiras, o começo da seção lembra um salmo de lamento. As queixas, porém, são interpretadas como palavras duras contra o Senhor. Mas existem aqueles que sentem as mesmas injustiças sem concluir que é inútil servir ao Senhor. O primeiro grupo fala palavras duras e provoca a resposta do Senhor; o segundo grupo teme o Senhor e, por isso, registra palavras de lembrança a respeito deles. E promete que serão uma possessão especial no grande dia do Senhor.",
+        "A referência àquele “dia” (v. 17) introduz, de novo, o último dia de julgamento, um dia de destruição para os ímpios, mas de cura para os justos. Os versículos finais voltam ao precursor prometido e exortam o povo a guardar a lei de Moisés."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A última seção retorna à profecia em 3.1-5, concernente ao precursor (Mt 11.10) e à vinda de Deus. De várias maneiras, o começo da seção lembra um salmo de lamento. As queixas, porém, são interpretadas como palavras duras contra o Senhor. Mas existem aqueles que sentem as mesmas injustiças sem concluir que é inútil servir ao Senhor. O primeiro grupo fala palavras duras e provoca a resposta do Senhor; o segundo grupo teme o Senhor e, por isso, registra palavras de lembrança a respeito deles. E promete que serão uma possessão especial no grande dia do Senhor."
+        },
+        {
+          "titulo": "",
+          "texto": "A referência àquele “dia” (v. 17) introduz, de novo, o último dia de julgamento, um dia de destruição para os ímpios, mas de cura para os justos. Os versículos finais voltam ao precursor prometido e exortam o povo a guardar a lei de Moisés."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0041",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.13 vossas palavras foram duras. Isso",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vossas palavras foram duras. Isso descreve adequadamente as respostas do povo ao Senhor em todo o livro de Malaquias, as quais revelam a correspondente dureza de seus corações. Em vez de se arrepender, o povo contesta a validade de cada uma das acusações do Senhor contra eles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "vossas palavras foram duras. Isso descreve adequadamente as respostas do povo ao Senhor em todo o livro de Malaquias, as quais revelam a correspondente dureza de seus corações. Em vez de se arrepender, o povo contesta a validade de cada uma das acusações do Senhor contra eles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vossas palavras foram duras.",
+          "texto": "Isso descreve adequadamente as respostas do povo ao Senhor em todo o livro de Malaquias, as quais revelam a correspondente dureza de seus corações. Em vez de se arrepender, o povo contesta a validade de cada uma das acusações do Senhor contra eles."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0042",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.14 Inútil. Literalmente, \"vazio\" ou \"futil\" Adu",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Inútil. Literalmente, “vazio” ou “fútil”. A dureza do coração do povo é revelada por sua resposta à prosperidade dos ímpios. Eles concluíram que servir ao Senhor não vale a pena.\n\naproveitou. Em geral, a palavra hebraica se refere a ganho injusto. A cobiça é incompatível com o desejo pela verdade de Deus (Sl 119.36).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Inútil. Literalmente, “vazio” ou “fútil”. A dureza do coração do povo é revelada por sua resposta à prosperidade dos ímpios. Eles concluíram que servir ao Senhor não vale a pena.",
+        "aproveitou. Em geral, a palavra hebraica se refere a ganho injusto. A cobiça é incompatível com o desejo pela verdade de Deus (Sl 119.36)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Inútil.",
+          "texto": "Literalmente, “vazio” ou “fútil”. A dureza do coração do povo é revelada por sua resposta à prosperidade dos ímpios. Eles concluíram que servir ao Senhor não vale a pena."
+        },
+        {
+          "titulo": "aproveitou.",
+          "texto": "Em geral, a palavra hebraica se refere a ganho injusto. A cobiça é incompatível com o desejo pela verdade de Deus (Sl 119.36)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0043",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.15 tentam ao Senhor. Uma típica expres-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "tentam ao SENHOR. Uma típica expressão de incredulidade deliberada (Nm 14.22; Dt 6.16; Sl 95.9; Mt 4.7). Raramente o Senhor convida as pessoas a provarem-no, uma situação em que a rejeição é sinal de incredulidade (3.10, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ml",
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "tentam ao SENHOR. Uma típica expressão de incredulidade deliberada (Nm 14.22; Dt 6.16; Sl 95.9; Mt 4.7). Raramente o Senhor convida as pessoas a provarem-no, uma situação em que a rejeição é sinal de incredulidade (3.10, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tentam ao SENHOR.",
+          "texto": "Uma típica expressão de incredulidade deliberada (Nm 14.22; Dt 6.16; Sl 95.9; Mt 4.7). Raramente o Senhor convida as pessoas a provarem-no, uma situação em que a rejeição é sinal de incredulidade (3.10, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0044",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1655,
+        "rotulo_original_ocr": "3.16 Então. A conversa e a conduta daqueles",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Então. A conversa e a conduta daqueles que temem a Deus são ocasionadas pelas palavras de murmuração anteriores e colocadas em contraste com elas. Em vez de falar palavras duras contra Deus, esse grupo se lembra do nome do Senhor.\n\nmemorial escrito. Essa expressão se encontra apenas aqui, mas referências a um livro especial se encontram em outras passagens bíblicas (Êx 32.32; Sl 69.28; Dn 7.10). Essa é a resposta àqueles que antes perguntaram: “Onde está o Deus do juízo?” (2.17). O Senhor está ciente do que está acontecendo e cuida daqueles que verdadeiramente lhe pertencem.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Então. A conversa e a conduta daqueles que temem a Deus são ocasionadas pelas palavras de murmuração anteriores e colocadas em contraste com elas. Em vez de falar palavras duras contra Deus, esse grupo se lembra do nome do Senhor.",
+        "memorial escrito. Essa expressão se encontra apenas aqui, mas referências a um livro especial se encontram em outras passagens bíblicas (Êx 32.32; Sl 69.28; Dn 7.10). Essa é a resposta àqueles que antes perguntaram: “Onde está o Deus do juízo?” (2.17). O Senhor está ciente do que está acontecendo e cuida daqueles que verdadeiramente lhe pertencem."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Então.",
+          "texto": "A conversa e a conduta daqueles que temem a Deus são ocasionadas pelas palavras de murmuração anteriores e colocadas em contraste com elas. Em vez de falar palavras duras contra Deus, esse grupo se lembra do nome do Senhor."
+        },
+        {
+          "titulo": "memorial escrito.",
+          "texto": "Essa expressão se encontra apenas aqui, mas referências a um livro especial se encontram em outras passagens bíblicas (Êx 32.32; Sl 69.28; Dn 7.10). Essa é a resposta àqueles que antes perguntaram: “Onde está o Deus do juízo?” (2.17). O Senhor está ciente do que está acontecendo e cuida daqueles que verdadeiramente lhe pertencem."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0045",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "3.17 serão para mim. Refere-se ao remanes-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "serão para mim. Refere-se ao remanescente descrito no v. 16.\n\nparticular tesouro. No primeiro estágio da revelação do Antigo Testamento, a nação de Israel é chamada “propriedade peculiar” de Deus (Êx 19.5; Dt 7.6; 14.2). No dia em que o Senhor constituir esse remanescente precioso, ficará claro para todos que o ato de servir ao Senhor não foi realmente em vão (3.14).\n\nseu filho que o serve. Ver 1.6.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "serão para mim. Refere-se ao remanescente descrito no v. 16.",
+        "particular tesouro. No primeiro estágio da revelação do Antigo Testamento, a nação de Israel é chamada “propriedade peculiar” de Deus (Êx 19.5; Dt 7.6; 14.2). No dia em que o Senhor constituir esse remanescente precioso, ficará claro para todos que o ato de servir ao Senhor não foi realmente em vão (3.14).",
+        "seu filho que o serve. Ver 1.6."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "serão para mim.",
+          "texto": "Refere-se ao remanescente descrito no v. 16."
+        },
+        {
+          "titulo": "particular tesouro.",
+          "texto": "No primeiro estágio da revelação do Antigo Testamento, a nação de Israel é chamada “propriedade peculiar” de Deus (Êx 19.5; Dt 7.6; 14.2). No dia em que o Senhor constituir esse remanescente precioso, ficará claro para todos que o ato de servir ao Senhor não foi realmente em vão (3.14)."
+        },
+        {
+          "titulo": "seu filho que o serve.",
+          "texto": "Ver 1.6."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0046",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "4.1 os abrasará. Duas imagens de fogo sâo",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "os abrasará. Duas imagens de fogo são usadas em Malaquias para descrever o Senhor: um fogo purificador (3.2) e um fogo destruidor (4.1). Os malfeitores não põem o Senhor à prova e escapam (ver 3.15).\n\nnem raiz nem ramo. Os ímpios são comparados a uma árvore (Am 2.9) que será totalmente destruída, consumida desde o ramo mais alto até as raízes.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "os abrasará. Duas imagens de fogo são usadas em Malaquias para descrever o Senhor: um fogo purificador (3.2) e um fogo destruidor (4.1). Os malfeitores não põem o Senhor à prova e escapam (ver 3.15).",
+        "nem raiz nem ramo. Os ímpios são comparados a uma árvore (Am 2.9) que será totalmente destruída, consumida desde o ramo mais alto até as raízes."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os abrasará.",
+          "texto": "Duas imagens de fogo são usadas em Malaquias para descrever o Senhor: um fogo purificador (3.2) e um fogo destruidor (4.1). Os malfeitores não põem o Senhor à prova e escapam (ver 3.15)."
+        },
+        {
+          "titulo": "nem raiz nem ramo.",
+          "texto": "Os ímpios são comparados a uma árvore (Am 2.9) que será totalmente destruída, consumida desde o ramo mais alto até as raízes."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0047",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "4.2 sol da justiça. Uma expressão exclusiva de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sol da justiça. Uma expressão exclusiva de Malaquias (cf. Sl 84.12). O rei davídico reinará com justiça (Is 32.1) e será chamado “Renovo justo” (Jr 23.5, 6). O sol nascente revela a verdade sobre o Senhor e seu povo, vindicando aqueles que são fiéis e condenando aqueles que permanecem rebeldes.\n\nsalvação nas suas asas. A Bíblia considera análogas a enfermidade física e a enfermidade espiritual ou pecado. Com frequência, a salvação é comparada a uma cura física (Êx 15.26; 2Cr 7.14; Sl 103.3; Is 53.5; Jr 17.14). Na antiguidade, o sol era geralmente retratado como um disco alado.\n\nbezerros soltos da estrebaria. Bezerros que foram engordados de modo especial e estão cheios de vigor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "sol da justiça. Uma expressão exclusiva de Malaquias (cf. Sl 84.12). O rei davídico reinará com justiça (Is 32.1) e será chamado “Renovo justo” (Jr 23.5, 6). O sol nascente revela a verdade sobre o Senhor e seu povo, vindicando aqueles que são fiéis e condenando aqueles que permanecem rebeldes.",
+        "salvação nas suas asas. A Bíblia considera análogas a enfermidade física e a enfermidade espiritual ou pecado. Com frequência, a salvação é comparada a uma cura física (Êx 15.26; 2Cr 7.14; Sl 103.3; Is 53.5; Jr 17.14). Na antiguidade, o sol era geralmente retratado como um disco alado.",
+        "bezerros soltos da estrebaria. Bezerros que foram engordados de modo especial e estão cheios de vigor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sol da justiça.",
+          "texto": "Uma expressão exclusiva de Malaquias (cf. Sl 84.12). O rei davídico reinará com justiça (Is 32.1) e será chamado “Renovo justo” (Jr 23.5, 6). O sol nascente revela a verdade sobre o Senhor e seu povo, vindicando aqueles que são fiéis e condenando aqueles que permanecem rebeldes."
+        },
+        {
+          "titulo": "salvação nas suas asas.",
+          "texto": "A Bíblia considera análogas a enfermidade física e a enfermidade espiritual ou pecado. Com frequência, a salvação é comparada a uma cura física (Êx 15.26; 2Cr 7.14; Sl 103.3; Is 53.5; Jr 17.14). Na antiguidade, o sol era geralmente retratado como um disco alado."
+        },
+        {
+          "titulo": "bezerros soltos da estrebaria.",
+          "texto": "Bezerros que foram engordados de modo especial e estão cheios de vigor."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0048",
+      "referencia": "4.3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4.3",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "4.3 naquele dia que prepararei. A paciência",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "naquele dia que prepararei. A paciência é exigida até o dia em que Deus agirá para demonstrar a diferença decisiva entre o destino dos justos e o destino dos ímpios.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "naquele dia que prepararei. A paciência é exigida até o dia em que Deus agirá para demonstrar a diferença decisiva entre o destino dos justos e o destino dos ímpios."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "naquele dia que prepararei.",
+          "texto": "A paciência é exigida até o dia em que Deus agirá para demonstrar a diferença decisiva entre o destino dos justos e o destino dos ímpios."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0049",
+      "referencia": "4.4",
+      "capitulo": 4,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "4.4",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "4.4 Lembrai-vos da Lei de Moisés, meu",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Lembrai-vos da Lei de Moisés, meu servo. Juntos, Elias e Moisés (v. 5) representam a Lei e os Profetas. Moisés comunicou a lei de Deus com seus estatutos e normas, que os sacerdotes estavam deixando de ensinar ao povo (2.6). Mas o remanescente justo se lembrará deles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Lembrai-vos da Lei de Moisés, meu servo. Juntos, Elias e Moisés (v. 5) representam a Lei e os Profetas. Moisés comunicou a lei de Deus com seus estatutos e normas, que os sacerdotes estavam deixando de ensinar ao povo (2.6). Mas o remanescente justo se lembrará deles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Lembrai-vos da Lei de Moisés, meu servo.",
+          "texto": "Juntos, Elias e Moisés (v. 5) representam a Lei e os Profetas. Moisés comunicou a lei de Deus com seus estatutos e normas, que os sacerdotes estavam deixando de ensinar ao povo (2.6). Mas o remanescente justo se lembrará deles."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0050",
+      "referencia": "4.5",
+      "capitulo": 4,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "4.5",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "4.5 Eis que eu vos enviarei 0 profeta",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Eis que eu vos enviarei o profeta Elias. A tarefa do profeta é convencer aqueles que têm falhado em atentar para a lei de Moisés e chamá-los a se arrepender de seu pecado. A conexão literária desse versículo com 3.1 indica que “Elias” é a mesma pessoa que “meu mensageiro”. Ambos os versículos começam com a expressão “eis que” e usam a mesma forma do verbo “enviar”. Em ambos os casos, a missão é trazer arrependimento antes do dia do Senhor vindouro. O Novo Testamento identifica esse “Elias” como João Batista, que sintetizou a mensagem de julgamento e arrependimento do profeta (Mt 11.14; 17.10; Mc 9.11-13; Lc 1.17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Eis que eu vos enviarei o profeta Elias. A tarefa do profeta é convencer aqueles que têm falhado em atentar para a lei de Moisés e chamá-los a se arrepender de seu pecado. A conexão literária desse versículo com 3.1 indica que “Elias” é a mesma pessoa que “meu mensageiro”. Ambos os versículos começam com a expressão “eis que” e usam a mesma forma do verbo “enviar”. Em ambos os casos, a missão é trazer arrependimento antes do dia do Senhor vindouro. O Novo Testamento identifica esse “Elias” como João Batista, que sintetizou a mensagem de julgamento e arrependimento do profeta (Mt 11.14; 17.10; Mc 9.11-13; Lc 1.17)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Eis que eu vos enviarei o profeta Elias.",
+          "texto": "A tarefa do profeta é convencer aqueles que têm falhado em atentar para a lei de Moisés e chamá-los a se arrepender de seu pecado. A conexão literária desse versículo com 3.1 indica que “Elias” é a mesma pessoa que “meu mensageiro”. Ambos os versículos começam com a expressão “eis que” e usam a mesma forma do verbo “enviar”. Em ambos os casos, a missão é trazer arrependimento antes do dia do Senhor vindouro. O Novo Testamento identifica esse “Elias” como João Batista, que sintetizou a mensagem de julgamento e arrependimento do profeta (Mt 11.14; 17.10; Mc 9.11-13; Lc 1.17)."
+        }
+      ]
+    },
+    {
+      "id": "fr-ml-0051",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1656,
+        "rotulo_original_ocr": "4.6 converterá 0 coração dos pais aos",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "converterá o coração dos pais aos filhos. O arrependimento e a conversão a Deus serão vistos na restauração dos relacionamentos familiares (Lc 1.17). Como Deus é nosso Pai (1.6), o arrependimento também significa restauração nesse relacionamento.\n\npara que eu não venha e fira a terra. Malaquias começou com o anúncio do amor eletivo de Deus, mas o livro termina com a ameaça de uma maldição. O duplo pensamento de misericórdia e julgamento de Malaquias é ecoado pela assertiva de Paulo: “Considerai, pois, a bondade e a severidade de Deus” (Rm 11.22; cf. Dt 30.19, 20). De forma admirável, Lucas 1.17 foca o lado positivo da profecia de Malaquias, porque, em sua primeira vinda, Jesus veio buscar e salvar o perdido. Mas aqueles que recusam a salvação que Cristo trouxe enfrentarão outra vinda, na qual Jesus trará destruição sobre os impenitentes (Ap 19.11-21).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "converterá o coração dos pais aos filhos. O arrependimento e a conversão a Deus serão vistos na restauração dos relacionamentos familiares (Lc 1.17). Como Deus é nosso Pai (1.6), o arrependimento também significa restauração nesse relacionamento.",
+        "para que eu não venha e fira a terra. Malaquias começou com o anúncio do amor eletivo de Deus, mas o livro termina com a ameaça de uma maldição. O duplo pensamento de misericórdia e julgamento de Malaquias é ecoado pela assertiva de Paulo: “Considerai, pois, a bondade e a severidade de Deus” (Rm 11.22; cf. Dt 30.19, 20). De forma admirável, Lucas 1.17 foca o lado positivo da profecia de Malaquias, porque, em sua primeira vinda, Jesus veio buscar e salvar o perdido. Mas aqueles que recusam a salvação que Cristo trouxe enfrentarão outra vinda, na qual Jesus trará destruição sobre os impenitentes (Ap 19.11-21)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "converterá o coração dos pais aos filhos.",
+          "texto": "O arrependimento e a conversão a Deus serão vistos na restauração dos relacionamentos familiares (Lc 1.17). Como Deus é nosso Pai (1.6), o arrependimento também significa restauração nesse relacionamento."
+        },
+        {
+          "titulo": "para que eu não venha e fira a terra.",
+          "texto": "Malaquias começou com o anúncio do amor eletivo de Deus, mas o livro termina com a ameaça de uma maldição. O duplo pensamento de misericórdia e julgamento de Malaquias é ecoado pela assertiva de Paulo: “Considerai, pois, a bondade e a severidade de Deus” (Rm 11.22; cf. Dt 30.19, 20). De forma admirável, Lucas 1.17 foca o lado positivo da profecia de Malaquias, porque, em sua primeira vinda, Jesus veio buscar e salvar o perdido. Mas aqueles que recusam a salvação que Cristo trouxe enfrentarão outra vinda, na qual Jesus trará destruição sobre os impenitentes (Ap 19.11-21)."
+        }
+      ]
+    }
+  ],
+  "artigos": [
+    {
+      "id": "ml-art-predestinacao",
+      "titulo": "Predestinação",
+      "pagina_original": 1,
+      "referencia_impressa_contextual": "Ml 1:2",
+      "paragrafos": [
+        "Poucas doutrinas suscitam tanta controvérsia ou provocam tanta perplexidade quanto a doutrina da predestinação. Trata-se de uma doutrina difícil, que demanda uma abordagem com bastante cuidado e cautela. É uma doutrina bíblica e, portanto, tem de ser abordada. Não ousamos ignorá-la.",
+        "Quase todas as igrejas cristãs têm alguma doutrina da predestinação. Isso é inevitável porque o conceito se encontra claramente na Escritura Sagrada. Mas essas igrejas discordam, às vezes veementemente, quanto ao significado da doutrina. A opinião metodista difere da opinião luterana, que discorda da opinião presbiteriana. No entanto, embora essas opiniões apresentem distinções, cada uma delas está em busca de entender esse assunto difícil.",
+        "O que a predestinação significa, em sua forma mais elementar, é que nosso destino final, céu ou inferno, é decidido por Deus não somente antes de chegarmos lá, mas também antes de nascermos. A predestinação ensina que nosso destino final está nas mãos de Deus. Outra maneira de afirmá-la é a seguinte: desde toda a eternidade, antes que viéssemos a existir, Deus decidiu salvar alguns membros da raça humana e deixar o restante perecer. Deus fez uma escolha — escolheu alguns indivíduos para que fossem salvos para a bem-aventurança eterna, no céu, e, quanto a outros, optou por ignorá-los, permitindo-lhes seguir as consequências de seus pecados para o tormento eterno, no inferno.",
+        "Aceitar essa definição é comum para muitas igrejas. Para chegar ao âmago da questão, temos de perguntar: como Deus escolhe? O ponto de vista não reformado, sustentado pela maioria dos cristãos, é que Deus faz essa escolha com base em sua presciência. Deus escolhe para a vida eterna aqueles que ele sabe que o escolherão. Isso é chamado o ponto de vista de presciência da predestinação, porque se baseia no conhecimento antecipado de Deus sobre as decisões e ações humanas.",
+        "O ponto de vista reformado difere ao ver a decisão suprema para a salvação como estando com Deus, e não conosco. Segundo esse ponto de vista, a eleição de Deus é soberana. Não se baseia nas decisões ou respostas previstas dos seres humanos. Na verdade, esse ponto de vista entende tais decisões como resultantes da soberana graça de Deus.",
+        "O ponto de vista reformado sustenta que, por si mesma, nenhuma pessoa caída jamais escolheria a Deus. As pessoas caídas ainda têm uma vontade livre e são capazes de escolher o que desejam. Mas a questão é que não temos nenhum desejo por Deus e não escolheremos a Cristo se não formos, em primeiro lugar, regenerados. A fé é um dom que se manifesta a partir do novo nascimento. Somente aqueles que são eleitos responderão ao evangelho com fé.",
+        "Os eleitos escolhem realmente a Cristo, mas somente porque foram inicialmente escolhidos por Deus. Como no caso de Jacó e Esaú, os eleitos são escolhidos unicamente com base no soberano beneplácito de Deus, e não com base em qualquer coisa que eles tenham feito ou farão. Paulo declara:",
+        "E não ela somente, mas também Rebeca, ao conceber de um só, Isaque, nosso pai. E ainda não eram os gêmeos nascidos, nem tinham praticado o bem ou o mal (para que o propósito de Deus, quanto à eleição, prevalecesse, não por obras, mas por aquele que chama), já fora dito a ela. O mais velho será servo do mais moço (...) Assim, pois, não depende de quem quer ou de quem corre, mas de usar Deus a sua misericórdia (Rm 9.10-12, 16).",
+        "Um problema inquietante em relação à predestinação é que Deus não escolhe nem elege todas as pessoas para a salvação. Deus reserva para si o direito de ter misericórdia de quem ele quiser ter misericórdia. Alguns da humanidade caída recebem a graça e a misericórdia da eleição. Deus ignora os demais, deixando-os em seus pecados. Os não eleitos recebem justiça. Os eleitos recebem misericórdia. Ninguém recebe injustiça. Deus não está obrigado a ser misericordioso com ninguém, nem com todos. Quão misericordioso ele escolhe ser, essa é uma decisão que lhe pertence. No entanto, Deus nunca é culpado de ser injusto em relação a ninguém (ver Rm 9.14-15)."
+      ],
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 1,
+        "pagina_impressa": 1650,
+        "metodo": "cotejo visual V1; duas colunas",
+        "paginas_pdf": [
+          1
+        ]
+      },
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "observacao_editorial": "Artigo da própria fonte; vinculado à remissão explícita em Malaquias 1:2."
+    },
+    {
+      "id": "ml-art-casamento",
+      "titulo": "Casamento",
+      "pagina_original": 4,
+      "referencia_impressa_contextual": "Ml 2:16",
+      "paragrafos": [
+        "O casamento foi ordenado e instituído por Deus na criação. Cristo o santificou por meio de sua presença na festa de casamento em Caná e de suas instruções por meio dos apóstolos no Novo Testamento. A maioria das cerimônias de casamento modernas reflete isso e reconhece a origem divina do casamento. O que, com frequência, é ignorado ou menosprezado nos contratos modernos é que o casamento é regulado pelos mandamentos de Deus. A lei de Deus define o significado e a legitimidade do casamento.",
+        "O casamento deve ser um relacionamento exclusivo entre um homem e uma mulher segundo o qual os dois se tornam “uma só carne”, sendo unidos física, emocional, intelectual e espiritualmente. Deve durar por toda a vida. A união é assegurada por um voto e uma aliança sagrados, bem como consumada pela união física. A Escritura cita apenas duas circunstâncias em que o acordo pode ser dissolvido — infidelidade e abandono.",
+        "A infidelidade é proibida no relacionamento matrimonial. A instituição do casamento foi criada por Deus, para que os homens e as mulheres possam completar um ao outro e fazer parte da obra criativa de Deus na procriação. A união física necessária para a procriação tem um significado espiritual. Aponta para a união espiritual de marido e mulher, ilustrando-a. Paulo usa essa união para simbolizar a relação entre Cristo e sua igreja, assim como o Antigo Testamento descreve o relacionamento de aliança entre Deus e Israel pela figura do casamento. Fidelidade, cuidado mútuo e apoio devem ser o âmago da relação matrimonial. Os atos de infidelidade rompem a aliança, permitindo, assim, que a parte ofendida pleiteie o divórcio.",
+        "Além disso, em 1 Coríntios 7.12-16, Paulo diz que, se um cônjuge cristão é abandonado, não está sob a obrigação de manter a aliança de casamento. Assim como a infidelidade, o abandono é uma violação fundamental do plano de Deus para o casamento.",
+        "O casamento é uma ordenança da criação. Ninguém precisa ser cristão para receber a graça comum dessa instituição. No entanto, embora todos os homens e mulheres possam unir-se em casamento, o cristão é chamado a se casar apenas “no Senhor”. A Escritura é clara em sua proibição contra o casamento de cristãos com não cristãos.",
+        "Na ordem do casamento, o marido é chamado a ser o “cabeça” da mulher. A mulher é chamada a estar em submissão a seu marido, como ao Senhor. O marido é chamado a amar sua mulher e dar-se a si mesmo, de maneira sacrificial, à sua mulher, como Cristo amou sua noiva, a igreja, e deu a si mesmo por ela."
+      ],
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1653,
+        "metodo": "cotejo visual V1; duas colunas"
+      },
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "observacao_editorial": "Remissão explícita na nota de Ml 2:16, página impressa 1654."
+    }
+  ],
+  "remissoes": [
+    {
+      "id": "ml-pendente-2-16-divorcio",
+      "status": "resolvida_indice_global",
+      "titulo": "Divórcio",
+      "citado_em": "fr-ml-0026",
+      "origem": {
+        "pdf": "083 - Malaquias (Ml).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1654,
+        "rotulo_original_ocr": "2.16 odeia o repúdio. Ver Isaías 501, Deutero-",
+        "referencia_impressa_convertida": {
+          "motivo": "pagina_do_PDF_nao_exibida_no_app",
+          "citados": [
+            "Casamento",
+            "Divórcio"
+          ],
+          "texto_pre_ajuste": "odeia o repúdio. Ver Isaías 501, Deuteronómio 24.1-4, nota teológica \"Casamento\", acima, e \"Divorcio\", na p 1755 Assim como em 13, \"odeia\" e um termo da aliança que descreve a rejeição de relacionamento vestes. Entrar no casamento e ter uma esposa, as vezes e algo retratado como cobrir-se com uma veste (Rt 3 9; Ez 16 8). Abusar de uma esposa e divorciar-se dela mancham metaforicamente as vestes de um homem, tornando-o impróprio para entrai na presença de Deus"
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "evidencia": "Nota teológica “Divórcio”, na p. 1755.",
+      "artigo_id": "mc-art-divorcio",
+      "livro_artigo": "Mc",
+      "arquivo_artigo": "dados/notas/fe-reformada/Mc.json",
+      "pagina_impressa_artigo": 1755,
+      "observacao": "Artigo acessível pelo índice global. O leitor V19 não abre diretamente artigos armazenados em outro livro pelo campo remissoes."
+    }
+  ]
+}

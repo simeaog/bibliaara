@@ -1,0 +1,2089 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Jn",
+  "titulo": "Jonas",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "069 - Jonas (Jn) (1).pdf",
+    "paginas_pdf": [
+      1,
+      5
+    ],
+    "observacao": "Cotejo visual de cinco páginas. Segunda leitura e teste funcional pendentes.",
+    "drive_url": "https://drive.google.com/file/d/1gnVlJspvhr7jgyCaE6JbtjtfQwaFBApu/view"
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-jn-0001",
+      "referencia": "1.1-2.10",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.1-2.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.1-2.10 0 livro de Jonas contem duas divisoes",
+        "texto_ocr_pre_normalizacao": "0 livro de Jonas contem duas divisoes principais,ecada uma delas terniniciopelaafirmagao “Veio apalavra do SENHOR aJonas\" A primeira divisao envolve duas segoes: o chamado, a fuga e o julgamento de Jonas (cap.1) e o salmo de agaode gragas (cap. 2).",
+        "normalizacoes_literais_reversiveis": {
+          "gragas": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O livro de Jonas contém duas divisões principais, e cada uma delas tem início pela afirmação “Veio a palavra do SENHOR a Jonas”. A primeira divisão envolve duas seções: o chamado, a fuga e o julgamento de Jonas (cap. 1) e o salmo de ação de graças (cap. 2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O livro de Jonas contém duas divisões principais, e cada uma delas tem início pela afirmação “Veio a palavra do SENHOR a Jonas”. A primeira divisão envolve duas seções: o chamado, a fuga e o julgamento de Jonas (cap. 1) e o salmo de ação de graças (cap. 2)."
+        }
+      ],
+      "paragrafos": [
+        "O livro de Jonas contém duas divisões principais, e cada uma delas tem início pela afirmação “Veio a palavra do SENHOR a Jonas”. A primeira divisão envolve duas seções: o chamado, a fuga e o julgamento de Jonas (cap. 1) e o salmo de ação de graças (cap. 2)."
+      ]
+    },
+    {
+      "id": "fr-jn-0002",
+      "referencia": "1.1-17",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.1-17",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.1-17 Essa passagem descreve a resposta deso-",
+        "texto_ocr_pre_normalizacao": "Essa passagem descreve a resposta desobediente de Jonas a sua comissao de profetapara ir a Ninive. Mas a passagem nao nos diz a razao de Jonas fugir de Deus (revelada apenas em 4.2). Aqui, testemunhamos a interagao de Jonas com osmarinheiros gentios,interagao que faz parte de um tema importante na segunda divisao do livro — a misericordia do Senhor para com os gentios. Apesar da desobediencia e da hipocrisia de Jonas, os marinheiros nao desprezam o Deus de Jonas, mas veem daramente a mao do Deus de Israel e reagem com adoragao. Em contraste com Jonas, os marinheiros gentios sao cuidadosos em evitar pecado pessoaldiante deDeus (v 14).0profeta de Deus e julgado, mas os gentios sao poupados, um evento que prefigura a resposta e a preservagao dos ninivitasnasegundaparte dolivro.",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 2,
+          "misericordia": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa passagem descreve a resposta desobediente de Jonas à sua comissão de profeta para ir a Nínive. Mas a passagem não nos diz a razão de Jonas fugir de Deus (revelada apenas em 4.2). Aqui, testemunhamos a interação de Jonas com os marinheiros gentios, interação que faz parte de um tema importante na segunda divisão do livro — a misericórdia do Senhor para com os gentios. Apesar da desobediência e da hipocrisia de Jonas, os marinheiros não desprezam o Deus de Jonas, mas veem claramente a mão do Deus de Israel e reagem com adoração. Em contraste com Jonas, os marinheiros gentios são cuidadosos em evitar pecado pessoal diante de Deus (v. 14). O profeta de Deus é julgado, mas os gentios são poupados, um evento que prefigura a resposta e a preservação dos ninivitas na segunda parte do livro.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa passagem descreve a resposta desobediente de Jonas à sua comissão de profeta para ir a Nínive. Mas a passagem não nos diz a razão de Jonas fugir de Deus (revelada apenas em 4.2). Aqui, testemunhamos a interação de Jonas com os marinheiros gentios, interação que faz parte de um tema importante na segunda divisão do livro — a misericórdia do Senhor para com os gentios. Apesar da desobediência e da hipocrisia de Jonas, os marinheiros não desprezam o Deus de Jonas, mas veem claramente a mão do Deus de Israel e reagem com adoração. Em contraste com Jonas, os marinheiros gentios são cuidadosos em evitar pecado pessoal diante de Deus (v. 14). O profeta de Deus é julgado, mas os gentios são poupados, um evento que prefigura a resposta e a preservação dos ninivitas na segunda parte do livro."
+        }
+      ],
+      "paragrafos": [
+        "Essa passagem descreve a resposta desobediente de Jonas à sua comissão de profeta para ir a Nínive. Mas a passagem não nos diz a razão de Jonas fugir de Deus (revelada apenas em 4.2). Aqui, testemunhamos a interação de Jonas com os marinheiros gentios, interação que faz parte de um tema importante na segunda divisão do livro — a misericórdia do Senhor para com os gentios. Apesar da desobediência e da hipocrisia de Jonas, os marinheiros não desprezam o Deus de Jonas, mas veem claramente a mão do Deus de Israel e reagem com adoração. Em contraste com Jonas, os marinheiros gentios são cuidadosos em evitar pecado pessoal diante de Deus (v. 14). O profeta de Deus é julgado, mas os gentios são poupados, um evento que prefigura a resposta e a preservação dos ninivitas na segunda parte do livro."
+      ]
+    },
+    {
+      "id": "fr-jn-0003",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.1 Veio a palavra do SENHOR a Jonas.",
+        "texto_ocr_pre_normalizacao": "Veio a palavra do SENHOR a Jonas. Com algumas variagoes, essa fraseologia e usada cerca de 112 vezes no Antigo Testamento para descrever a entrega de uma mensagem divina aumprofeta. Jonas, filho de Amitai. 0 recebedor da revelagao do Senhor e Jonas (“pomba\"), o filho de Amitai (\"leal\" ou \"fiel\"). Essa designagao identifica o profeta como o personagem historico de 2 Reis 14.25, o qual prodamou que Jeroboao II (793-753 a.C.) reconquistaria o territorio dos sirios no norte. Contraste a mensagem de Jonas para o reino de Jeroboao com as palavras de Amos e Oseias, que profetizaram no periodo de dech'nio espiritual de Israel, naparte final do seculo VIII (ver Introdugao: Data eCircunstancias)",
+        "normalizacoes_literais_reversiveis": {
+          "revelagao": 1,
+          "Introdugao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Veio a palavra do SENHOR a Jonas. Com algumas variações, essa fraseologia é usada cerca de 112 vezes no Antigo Testamento para descrever a entrega de uma mensagem divina a um profeta.\n\nJonas, filho de Amitai. O recebedor da revelação do Senhor é Jonas (“pomba”), o filho de Amitai (“leal” ou “fiel”). Essa designação identifica o profeta como o personagem histórico de 2 Reis 14.25, o qual proclamou que Jeroboão II (793–753 a.C.) reconquistaria o território dos sírios no norte. Contraste a mensagem de Jonas para o reino de Jeroboão com as palavras de Amós e Oseias, que profetizaram no período de declínio espiritual de Israel, na parte final do século VIII (ver Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Veio a palavra do SENHOR a Jonas.",
+          "texto": "Com algumas variações, essa fraseologia é usada cerca de 112 vezes no Antigo Testamento para descrever a entrega de uma mensagem divina a um profeta."
+        },
+        {
+          "titulo": "Jonas, filho de Amitai.",
+          "texto": "O recebedor da revelação do Senhor é Jonas (“pomba”), o filho de Amitai (“leal” ou “fiel”). Essa designação identifica o profeta como o personagem histórico de 2 Reis 14.25, o qual proclamou que Jeroboão II (793–753 a.C.) reconquistaria o território dos sírios no norte. Contraste a mensagem de Jonas para o reino de Jeroboão com as palavras de Amós e Oseias, que profetizaram no período de declínio espiritual de Israel, na parte final do século VIII (ver Introdução: Data e Circunstâncias)."
+        }
+      ],
+      "paragrafos": [
+        "Veio a palavra do SENHOR a Jonas. Com algumas variações, essa fraseologia é usada cerca de 112 vezes no Antigo Testamento para descrever a entrega de uma mensagem divina a um profeta.",
+        "Jonas, filho de Amitai. O recebedor da revelação do Senhor é Jonas (“pomba”), o filho de Amitai (“leal” ou “fiel”). Essa designação identifica o profeta como o personagem histórico de 2 Reis 14.25, o qual proclamou que Jeroboão II (793–753 a.C.) reconquistaria o território dos sírios no norte. Contraste a mensagem de Jonas para o reino de Jeroboão com as palavras de Amós e Oseias, que profetizaram no período de declínio espiritual de Israel, na parte final do século VIII (ver Introdução: Data e Circunstâncias)."
+      ]
+    },
+    {
+      "id": "fr-jn-0004",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.2 vai a...Ninive.A soberaniade Deus sobreto-",
+        "texto_ocr_pre_normalizacao": "vai a...Ninive.A soberaniade Deus sobretodas as nagoes esta implicita na ordem para Jonas. Deus e o \"Juiz de toda a terra\" (Gn 18.25). A ultima capital do Imperio Assirio, Ninive, ficava na margem leste do rio Tigre,no ladodiretamente oposto a moderna cidade de Mossul, no norte do Iraque. 0 local tern sido amplamente escavado e expoe uma historia grandiosa e rica. E digno de nota o fato de a Assiria haver exigido tributo deum rei israelita chamado Jeu (841-814 a.C.;2Rs10.34,nota). Portanto, na perspectiva da audiencia original do livro, que viveu no seculo VIII a.C., a Assiria ainda era temida na memoria do povo de Israel, embora a ameaga militar dos assirios tivesse diminuido temporariamente clamacontra ela.Embora nao seja reveladoaqui, Jonas entende que sua prodamagao de julgamento do Senhor sobre o temido e odiado Imperio Assirio e reversivel(4.2, nota). Jonas sabe que sua mensagem ofereceoportunidadeparaarrependimento. suamaliciasubiu ate mim.Na profeciaposterior deNaum(seculo VIIa.C.),acapitalassiria, Ninive, e o foco da ira divina, sendo descrita como a incorporagaodo maledacrueldade(Na3.1-7).Nosdiasde Naum,a maquina de guerra assiria era responsavel por atrocidades horrendas. Em 612 a.C.,esse imperio se tornaria vitimade um destruidor cruel.",
+        "normalizacoes_literais_reversiveis": {
+          "nagoes": 1,
+          "tern": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vai à... Nínive. A soberania de Deus sobre todas as nações está implícita na ordem para Jonas. Deus é o “Juiz de toda a terra” (Gn 18.25). A última capital do Império Assírio, Nínive, ficava na margem leste do rio Tigre, no lado diretamente oposto à moderna cidade de Mossul, no norte do Iraque. O local tem sido amplamente escavado e expõe uma história grandiosa e rica. É digno de nota o fato de a Assíria haver exigido tributo de um rei israelita chamado Jeú (841–814 a.C.; 2Rs 10.34, nota). Portanto, na perspectiva da audiência original do livro, que viveu no século VIII a.C., a Assíria ainda era temida na memória do povo de Israel, embora a ameaça militar dos assírios tivesse diminuído temporariamente.\n\nclama contra ela. Embora não seja revelado aqui, Jonas entende que sua proclamação de julgamento do Senhor sobre o temido e odiado Império Assírio é reversível (4.2, nota). Jonas sabe que sua mensagem oferece oportunidade para arrependimento.\n\nsua malícia subiu até mim. Na profecia posterior de Naum (século VII a.C.), a capital assíria, Nínive, é o foco da ira divina, sendo descrita como a incorporação do mal e da crueldade (Na 3.1–7). Nos dias de Naum, a máquina de guerra assíria era responsável por atrocidades horrendas. Em 612 a.C., esse império se tornaria vítima de um destruidor cruel.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jn",
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "livro": "2Rs",
+          "capitulo": 10,
+          "versiculo": 34
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "vai à... Nínive.",
+          "texto": "A soberania de Deus sobre todas as nações está implícita na ordem para Jonas. Deus é o “Juiz de toda a terra” (Gn 18.25). A última capital do Império Assírio, Nínive, ficava na margem leste do rio Tigre, no lado diretamente oposto à moderna cidade de Mossul, no norte do Iraque. O local tem sido amplamente escavado e expõe uma história grandiosa e rica. É digno de nota o fato de a Assíria haver exigido tributo de um rei israelita chamado Jeú (841–814 a.C.; 2Rs 10.34, nota). Portanto, na perspectiva da audiência original do livro, que viveu no século VIII a.C., a Assíria ainda era temida na memória do povo de Israel, embora a ameaça militar dos assírios tivesse diminuído temporariamente."
+        },
+        {
+          "titulo": "clama contra ela.",
+          "texto": "Embora não seja revelado aqui, Jonas entende que sua proclamação de julgamento do Senhor sobre o temido e odiado Império Assírio é reversível (4.2, nota). Jonas sabe que sua mensagem oferece oportunidade para arrependimento."
+        },
+        {
+          "titulo": "sua malícia subiu até mim.",
+          "texto": "Na profecia posterior de Naum (século VII a.C.), a capital assíria, Nínive, é o foco da ira divina, sendo descrita como a incorporação do mal e da crueldade (Na 3.1–7). Nos dias de Naum, a máquina de guerra assíria era responsável por atrocidades horrendas. Em 612 a.C., esse império se tornaria vítima de um destruidor cruel."
+        }
+      ],
+      "paragrafos": [
+        "vai à... Nínive. A soberania de Deus sobre todas as nações está implícita na ordem para Jonas. Deus é o “Juiz de toda a terra” (Gn 18.25). A última capital do Império Assírio, Nínive, ficava na margem leste do rio Tigre, no lado diretamente oposto à moderna cidade de Mossul, no norte do Iraque. O local tem sido amplamente escavado e expõe uma história grandiosa e rica. É digno de nota o fato de a Assíria haver exigido tributo de um rei israelita chamado Jeú (841–814 a.C.; 2Rs 10.34, nota). Portanto, na perspectiva da audiência original do livro, que viveu no século VIII a.C., a Assíria ainda era temida na memória do povo de Israel, embora a ameaça militar dos assírios tivesse diminuído temporariamente.",
+        "clama contra ela. Embora não seja revelado aqui, Jonas entende que sua proclamação de julgamento do Senhor sobre o temido e odiado Império Assírio é reversível (4.2, nota). Jonas sabe que sua mensagem oferece oportunidade para arrependimento.",
+        "sua malícia subiu até mim. Na profecia posterior de Naum (século VII a.C.), a capital assíria, Nínive, é o foco da ira divina, sendo descrita como a incorporação do mal e da crueldade (Na 3.1–7). Nos dias de Naum, a máquina de guerra assíria era responsável por atrocidades horrendas. Em 612 a.C., esse império se tornaria vítima de um destruidor cruel."
+      ]
+    },
+    {
+      "id": "fr-jn-0005",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.3 da presenga do SENHOR. Porque Deus",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "da presença do SENHOR. Porque Deus está presente até mesmo “nos confins dos mares”, escapar é impossível.\n\nTársis. É muito difícil identificar, com precisão, esse local. Em geral, pensa-se que é a cidade portuária de Tartesso, no sul da Espanha. Às vezes, porém, essa palavra designa terras litorâneas remotas do Mediterrâneo. De qualquer forma, Jonas fugiu na direção oposta de Nínive.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "da presença do SENHOR.",
+          "texto": "Porque Deus está presente até mesmo “nos confins dos mares”, escapar é impossível."
+        },
+        {
+          "titulo": "Társis.",
+          "texto": "É muito difícil identificar, com precisão, esse local. Em geral, pensa-se que é a cidade portuária de Tartesso, no sul da Espanha. Às vezes, porém, essa palavra designa terras litorâneas remotas do Mediterrâneo. De qualquer forma, Jonas fugiu na direção oposta de Nínive."
+        }
+      ],
+      "paragrafos": [
+        "da presença do SENHOR. Porque Deus está presente até mesmo “nos confins dos mares”, escapar é impossível.",
+        "Társis. É muito difícil identificar, com precisão, esse local. Em geral, pensa-se que é a cidade portuária de Tartesso, no sul da Espanha. Às vezes, porém, essa palavra designa terras litorâneas remotas do Mediterrâneo. De qualquer forma, Jonas fugiu na direção oposta de Nínive."
+      ]
+    },
+    {
+      "id": "fr-jn-0006",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.4 o SENHOR langou sobre o mar um forte",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o SENHOR lançou sobre o mar um forte vento. O Deus de Jonas é o Criador e o Senhor do mar (Gn 1.10, 21; Êx 14.21; Mc 4.41). A fúria da tempestade é evidente no temor desses marinheiros experientes e no fato de que o navio está em perigo de se despedaçar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "o SENHOR lançou sobre o mar um forte vento.",
+          "texto": "O Deus de Jonas é o Criador e o Senhor do mar (Gn 1.10, 21; Êx 14.21; Mc 4.41). A fúria da tempestade é evidente no temor desses marinheiros experientes e no fato de que o navio está em perigo de se despedaçar."
+        }
+      ],
+      "paragrafos": [
+        "o SENHOR lançou sobre o mar um forte vento. O Deus de Jonas é o Criador e o Senhor do mar (Gn 1.10, 21; Êx 14.21; Mc 4.41). A fúria da tempestade é evidente no temor desses marinheiros experientes e no fato de que o navio está em perigo de se despedaçar."
+      ]
+    },
+    {
+      "id": "fr-jn-0007",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.7 lancemos sortes. Langar sortes era uma",
+        "texto_ocr_pre_normalizacao": "lancemos sortes. Langar sortes era uma forma comum de adivinhagao no mundo antigo, umrecursoempregado para se descobrir a vontade dos deuses.Essemetodo de discernir a vontade do Deus verdadeiro nao era proibido no Israel antigo, porque o Senhor governa ate mesmo sobre as sortes (Lv16.8-10,Nm 26.55;Js18.6-10;Jz20.9;lSm10.19- 21;Ne10.34;11.1;Pv16.33;18.18, At1.24-26).",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "lancemos sortes. Lançar sortes era uma forma comum de adivinhação no mundo antigo, um recurso empregado para se descobrir a vontade dos deuses. Esse método de discernir a vontade do Deus verdadeiro não era proibido no Israel antigo, porque o Senhor governa até mesmo as sortes (Lv 16.8–10; Nm 26.55; Js 18.6–10; Jz 20.9; 1Sm 10.19–21; Ne 10.34; 11.1; Pv 16.33; 18.18; At 1.24–26).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "lancemos sortes.",
+          "texto": "Lançar sortes era uma forma comum de adivinhação no mundo antigo, um recurso empregado para se descobrir a vontade dos deuses. Esse método de discernir a vontade do Deus verdadeiro não era proibido no Israel antigo, porque o Senhor governa até mesmo as sortes (Lv 16.8–10; Nm 26.55; Js 18.6–10; Jz 20.9; 1Sm 10.19–21; Ne 10.34; 11.1; Pv 16.33; 18.18; At 1.24–26)."
+        }
+      ],
+      "paragrafos": [
+        "lancemos sortes. Lançar sortes era uma forma comum de adivinhação no mundo antigo, um recurso empregado para se descobrir a vontade dos deuses. Esse método de discernir a vontade do Deus verdadeiro não era proibido no Israel antigo, porque o Senhor governa até mesmo as sortes (Lv 16.8–10; Nm 26.55; Js 18.6–10; Jz 20.9; 1Sm 10.19–21; Ne 10.34; 11.1; Pv 16.33; 18.18; At 1.24–26)."
+      ]
+    },
+    {
+      "id": "fr-jn-0008",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1565,
+        "rotulo_original_ocr": "1.9 Sou hebreu. Ver nota em Genesis14.13. Jonas",
+        "texto_ocr_pre_normalizacao": "Sou hebreu. Ver nota em Genesis14.13. Jonas seidentificaem termos etnicos.A palavra \"hebreu\" e usada comumente pelos israelitas para se identificar aosestrangeiros (Gn 40.15;Ex 1.19; 3.18;10.3). temo ao SENHOR. Jonas tambem se identifica em termos religiosos. A ordem das palavras foca a atengao no nome divino.0 Senhor, seu Deus,nao e apenasuma deidade pessoal, familiar ou nacional. Ele e o Deus supremo e soberano, criador da terra edomar. o Deus do ceu. Um tituloantigo (Gn 24.3, 7) usado comumente tambem no periodo persa, depois do exilio(2Cr 36.23;Ed1.2;Ne 1.4, 5;2.4).",
+        "normalizacoes_literais_reversiveis": {
+          "tambem": 2,
+          "nao": 1,
+          "exilio": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Sou hebreu. Ver nota em Gênesis 14.13. Jonas se identifica em termos étnicos. A palavra “hebreu” é usada comumente pelos israelitas para se identificar aos estrangeiros (Gn 40.15; Êx 1.19; 3.18; 10.3).\n\ntemo ao SENHOR. Jonas também se identifica em termos religiosos. A ordem das palavras foca a atenção no nome divino. O Senhor, seu Deus, não é apenas uma deidade pessoal, familiar ou nacional. Ele é o Deus supremo e soberano, criador da terra e do mar.\n\no Deus do céu. Um título antigo (Gn 24.3, 7) usado comumente também no período persa, depois do exílio (2Cr 36.23; Ed 1.2; Ne 1.4, 5; 2.4).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Gn",
+          "capitulo": 14,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Sou hebreu.",
+          "texto": "Ver nota em Gênesis 14.13. Jonas se identifica em termos étnicos. A palavra “hebreu” é usada comumente pelos israelitas para se identificar aos estrangeiros (Gn 40.15; Êx 1.19; 3.18; 10.3)."
+        },
+        {
+          "titulo": "temo ao SENHOR.",
+          "texto": "Jonas também se identifica em termos religiosos. A ordem das palavras foca a atenção no nome divino. O Senhor, seu Deus, não é apenas uma deidade pessoal, familiar ou nacional. Ele é o Deus supremo e soberano, criador da terra e do mar."
+        },
+        {
+          "titulo": "o Deus do céu.",
+          "texto": "Um título antigo (Gn 24.3, 7) usado comumente também no período persa, depois do exílio (2Cr 36.23; Ed 1.2; Ne 1.4, 5; 2.4)."
+        }
+      ],
+      "paragrafos": [
+        "Sou hebreu. Ver nota em Gênesis 14.13. Jonas se identifica em termos étnicos. A palavra “hebreu” é usada comumente pelos israelitas para se identificar aos estrangeiros (Gn 40.15; Êx 1.19; 3.18; 10.3).",
+        "temo ao SENHOR. Jonas também se identifica em termos religiosos. A ordem das palavras foca a atenção no nome divino. O Senhor, seu Deus, não é apenas uma deidade pessoal, familiar ou nacional. Ele é o Deus supremo e soberano, criador da terra e do mar.",
+        "o Deus do céu. Um título antigo (Gn 24.3, 7) usado comumente também no período persa, depois do exílio (2Cr 36.23; Ed 1.2; Ne 1.4, 5; 2.4)."
+      ]
+    },
+    {
+      "id": "fr-jn-0009",
+      "referencia": "1.17",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.17",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1566,
+        "rotulo_original_ocr": "1.17Deparou o SENHOR.A mesmapalavra he-",
+        "texto_ocr_pre_normalizacao": "Deparou o SENHOR.A mesmapalavra hebraica tambem ocorre tres vezes em 4.6-8. Cada ocorrencia retrata um exemplo impressionante da soberania de Deus sobre o mundo natural. A misericordia de Deus tambem se manifesta quando Jonas e salvo, apesar de sua desobediencia obstinada. um grande peixe. A especie de baleiaou peixe que engoliu Jonas nao pode ser identificada com certeza. Algumas sugestoes tern incluido a cachaloteou um tubarao enorme.0peixe e instrumento de Deus para resgatar Jonas das profundezas do mar (“o ventre doabismo\" — 2.2). tres dias e tres noites. Jesus se referiu ao livro de Jonas para comunicar verdades relacionadas as suas proprias mensagem e missao (Mt 12.38-41, 16.4; Lc 11.29-32). Ele falou do sinal \"do profeta Jonas\" nao somente com referenda aos tres dias e as tres noites que Jonas passou no ventre do peixe (Mt 12.39-40), mas tambem no que diz respeito a eficacia da pregagao de Jonas. Sem o beneficio de um sinal miraculoso, os ninivitas reconheceram a mensagem de Jonas como uma mensagem de autoridade divina e responderam com arrependimento.",
+        "normalizacoes_literais_reversiveis": {
+          "tambem": 3,
+          "misericordia": 1,
+          "nao": 2,
+          "tern": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Deparou o SENHOR. A mesma palavra hebraica também ocorre três vezes em 4.6–8. Cada ocorrência retrata um exemplo impressionante da soberania de Deus sobre o mundo natural. A misericórdia de Deus também se manifesta quando Jonas é salvo, apesar de sua desobediência obstinada.\n\num grande peixe. A espécie de baleia ou peixe que engoliu Jonas não pode ser identificada com certeza. Algumas sugestões têm incluído a cachalote ou um tubarão enorme. O peixe é instrumento de Deus para resgatar Jonas das profundezas do mar (“o ventre do abismo” — 2.2).\n\ntrês dias e três noites. Jesus se referiu ao livro de Jonas para comunicar verdades relacionadas às suas próprias mensagem e missão (Mt 12.38–41; 16.4; Lc 11.29–32). Ele falou do sinal “do profeta Jonas” não somente com referência aos três dias e às três noites que Jonas passou no ventre do peixe (Mt 12.39–40), mas também no que diz respeito à eficácia da pregação de Jonas. Sem o benefício de um sinal miraculoso, os ninivitas reconheceram a mensagem de Jonas como uma mensagem de autoridade divina e responderam com arrependimento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deparou o SENHOR.",
+          "texto": "A mesma palavra hebraica também ocorre três vezes em 4.6–8. Cada ocorrência retrata um exemplo impressionante da soberania de Deus sobre o mundo natural. A misericórdia de Deus também se manifesta quando Jonas é salvo, apesar de sua desobediência obstinada."
+        },
+        {
+          "titulo": "um grande peixe.",
+          "texto": "A espécie de baleia ou peixe que engoliu Jonas não pode ser identificada com certeza. Algumas sugestões têm incluído a cachalote ou um tubarão enorme. O peixe é instrumento de Deus para resgatar Jonas das profundezas do mar (“o ventre do abismo” — 2.2)."
+        },
+        {
+          "titulo": "três dias e três noites.",
+          "texto": "Jesus se referiu ao livro de Jonas para comunicar verdades relacionadas às suas próprias mensagem e missão (Mt 12.38–41; 16.4; Lc 11.29–32). Ele falou do sinal “do profeta Jonas” não somente com referência aos três dias e às três noites que Jonas passou no ventre do peixe (Mt 12.39–40), mas também no que diz respeito à eficácia da pregação de Jonas. Sem o benefício de um sinal miraculoso, os ninivitas reconheceram a mensagem de Jonas como uma mensagem de autoridade divina e responderam com arrependimento."
+        }
+      ],
+      "paragrafos": [
+        "Deparou o SENHOR. A mesma palavra hebraica também ocorre três vezes em 4.6–8. Cada ocorrência retrata um exemplo impressionante da soberania de Deus sobre o mundo natural. A misericórdia de Deus também se manifesta quando Jonas é salvo, apesar de sua desobediência obstinada.",
+        "um grande peixe. A espécie de baleia ou peixe que engoliu Jonas não pode ser identificada com certeza. Algumas sugestões têm incluído a cachalote ou um tubarão enorme. O peixe é instrumento de Deus para resgatar Jonas das profundezas do mar (“o ventre do abismo” — 2.2).",
+        "três dias e três noites. Jesus se referiu ao livro de Jonas para comunicar verdades relacionadas às suas próprias mensagem e missão (Mt 12.38–41; 16.4; Lc 11.29–32). Ele falou do sinal “do profeta Jonas” não somente com referência aos três dias e às três noites que Jonas passou no ventre do peixe (Mt 12.39–40), mas também no que diz respeito à eficácia da pregação de Jonas. Sem o benefício de um sinal miraculoso, os ninivitas reconheceram a mensagem de Jonas como uma mensagem de autoridade divina e responderam com arrependimento."
+      ]
+    },
+    {
+      "id": "fr-jn-0010",
+      "referencia": "2.1-10",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.1-10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1566,
+        "rotulo_original_ocr": "2.1-10 A resposta de Jonas ao julgamento de Deus",
+        "texto_ocr_pre_normalizacao": "A resposta de Jonas ao julgamento de Deus e apresentada na forma de um salmo de agao de gragas (v. 9). 0 clamor do profeta se concentra no carater urgente de sua situagao, ao usar palavras tiplcas de describes poeticas da morte oudaproximldade da morte. Em sua afligao, Jonas se volta para o santo templo do Senhor, a indicagao fisica da present salvifica do Senhor com seu povo. 0 salmo e um testemunho convlncente do amago da fe de Israel e do coragao do profeta, mas Jonas ainda tern muito a aprender. A essa altura, sua visao damisericordia de Deus ainda e muitorestrita, como oultimo capitulo dolivro revela.",
+        "normalizacoes_literais_reversiveis": {
+          "gragas": 1,
+          "coragao": 1,
+          "tern": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A resposta de Jonas ao julgamento de Deus é apresentada na forma de um salmo de ação de graças (v. 9). O clamor do profeta se concentra no caráter urgente de sua situação, ao usar palavras típicas de descrições poéticas da morte ou da proximidade da morte. Em sua aflição, Jonas se volta para o santo templo do Senhor, a indicação física da presença salvífica do Senhor com seu povo. O salmo é um testemunho convincente do âmago da fé de Israel e do coração do profeta, mas Jonas ainda tem muito a aprender. A essa altura, sua visão da misericórdia de Deus ainda é muito restrita, como o último capítulo do livro revela.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A resposta de Jonas ao julgamento de Deus é apresentada na forma de um salmo de ação de graças (v. 9). O clamor do profeta se concentra no caráter urgente de sua situação, ao usar palavras típicas de descrições poéticas da morte ou da proximidade da morte. Em sua aflição, Jonas se volta para o santo templo do Senhor, a indicação física da presença salvífica do Senhor com seu povo. O salmo é um testemunho convincente do âmago da fé de Israel e do coração do profeta, mas Jonas ainda tem muito a aprender. A essa altura, sua visão da misericórdia de Deus ainda é muito restrita, como o último capítulo do livro revela."
+        }
+      ],
+      "paragrafos": [
+        "A resposta de Jonas ao julgamento de Deus é apresentada na forma de um salmo de ação de graças (v. 9). O clamor do profeta se concentra no caráter urgente de sua situação, ao usar palavras típicas de descrições poéticas da morte ou da proximidade da morte. Em sua aflição, Jonas se volta para o santo templo do Senhor, a indicação física da presença salvífica do Senhor com seu povo. O salmo é um testemunho convincente do âmago da fé de Israel e do coração do profeta, mas Jonas ainda tem muito a aprender. A essa altura, sua visão da misericórdia de Deus ainda é muito restrita, como o último capítulo do livro revela."
+      ]
+    },
+    {
+      "id": "fr-jn-0011",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1566,
+        "rotulo_original_ocr": "2.1 Jonas... orou. Em coerencia com o estilo",
+        "texto_ocr_pre_normalizacao": "Jonas... orou. Em coerencia com o estilo de narrativa do Antigo Testamento, a historia de Jonas e mterrompida com um poema (vv. 2-9), um salmo de agao de gragas e celebragao pelo livramento e a misericordia do Senhor. A estrutura literaria e ti'pica de um salmo de agao de gragas: (1) clamor por livramento (2.2); (2) revisao da crise (2.3-6);(3) revisao do livramento (2.6-7);(4) louvor pelolivramento (2.8-9).",
+        "normalizacoes_literais_reversiveis": {
+          "gragas": 2,
+          "misericordia": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Jonas... orou. Em coerência com o estilo de narrativa do Antigo Testamento, a história de Jonas é interrompida com um poema (vv. 2–9), um salmo de ação de graças e celebração pelo livramento e a misericórdia do Senhor. A estrutura literária é típica de um salmo de ação de graças: (1) clamor por livramento (2.2); (2) revisão da crise (2.3–6); (3) revisão do livramento (2.6–7); (4) louvor pelo livramento (2.8–9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Jonas... orou.",
+          "texto": "Em coerência com o estilo de narrativa do Antigo Testamento, a história de Jonas é interrompida com um poema (vv. 2–9), um salmo de ação de graças e celebração pelo livramento e a misericórdia do Senhor. A estrutura literária é típica de um salmo de ação de graças: (1) clamor por livramento (2.2); (2) revisão da crise (2.3–6); (3) revisão do livramento (2.6–7); (4) louvor pelo livramento (2.8–9)."
+        }
+      ],
+      "paragrafos": [
+        "Jonas... orou. Em coerência com o estilo de narrativa do Antigo Testamento, a história de Jonas é interrompida com um poema (vv. 2–9), um salmo de ação de graças e celebração pelo livramento e a misericórdia do Senhor. A estrutura literária é típica de um salmo de ação de graças: (1) clamor por livramento (2.2); (2) revisão da crise (2.3–6); (3) revisão do livramento (2.6–7); (4) louvor pelo livramento (2.8–9)."
+      ]
+    },
+    {
+      "id": "fr-jn-0012",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1566,
+        "rotulo_original_ocr": "2.2 clamei... ele me respondeu. Usando o",
+        "texto_ocr_pre_normalizacao": "clamei... ele me respondeu. Usando o recurso poetico do paralelismo, o salmo de Jonas e introduzido com duas parelhas que falam da oragao do profeta e da resposta do Senhor. Jonas reconhece que foi resgatado \"do ventre do abismo” Personificado nessainstanciacomo tendo um apetite insaciavel, o \"abismo” (Sheol) pode referir- -seou a propriamorte ou ao reino dos mortos, para onde os impios vao.",
+        "normalizacoes_literais_reversiveis": {
+          "oragao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "clamei... ele me respondeu. Usando o recurso poético do paralelismo, o salmo de Jonas é introduzido com duas parelhas que falam da oração do profeta e da resposta do Senhor. Jonas reconhece que foi resgatado “do ventre do abismo”. Personificado nessa instância como tendo um apetite insaciável, o “abismo” (Sheol) pode referir-se ou à própria morte ou ao reino dos mortos, para onde os ímpios vão.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "clamei... ele me respondeu.",
+          "texto": "Usando o recurso poético do paralelismo, o salmo de Jonas é introduzido com duas parelhas que falam da oração do profeta e da resposta do Senhor. Jonas reconhece que foi resgatado “do ventre do abismo”. Personificado nessa instância como tendo um apetite insaciável, o “abismo” (Sheol) pode referir-se ou à própria morte ou ao reino dos mortos, para onde os ímpios vão."
+        }
+      ],
+      "paragrafos": [
+        "clamei... ele me respondeu. Usando o recurso poético do paralelismo, o salmo de Jonas é introduzido com duas parelhas que falam da oração do profeta e da resposta do Senhor. Jonas reconhece que foi resgatado “do ventre do abismo”. Personificado nessa instância como tendo um apetite insaciável, o “abismo” (Sheol) pode referir-se ou à própria morte ou ao reino dos mortos, para onde os ímpios vão."
+      ]
+    },
+    {
+      "id": "fr-jn-0013",
+      "referencia": "2.3-6",
+      "capitulo": 2,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.3-6",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1566,
+        "rotulo_original_ocr": "2.3-6 Esses versiculos contem uma recordagao",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Esses versículos contêm uma recordação vívida da crise que o levou para bem perto da morte, de suas causas e dos resultados. A horrível situação de Jonas é o julgamento do Senhor sobre sua desobediência. O encontro com um sepulcro de águas é apresentado em imagens expressivas: emaranhamento em algas, o silêncio das profundezas e ondas rolando fortemente acima da vítima.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos contêm uma recordação vívida da crise que o levou para bem perto da morte, de suas causas e dos resultados. A horrível situação de Jonas é o julgamento do Senhor sobre sua desobediência. O encontro com um sepulcro de águas é apresentado em imagens expressivas: emaranhamento em algas, o silêncio das profundezas e ondas rolando fortemente acima da vítima."
+        }
+      ],
+      "paragrafos": [
+        "Esses versículos contêm uma recordação vívida da crise que o levou para bem perto da morte, de suas causas e dos resultados. A horrível situação de Jonas é o julgamento do Senhor sobre sua desobediência. O encontro com um sepulcro de águas é apresentado em imagens expressivas: emaranhamento em algas, o silêncio das profundezas e ondas rolando fortemente acima da vítima."
+      ]
+    },
+    {
+      "id": "fr-jn-0014",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1566,
+        "rotulo_original_ocr": "2.4 langado estou de diante dos teus",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "lançado estou de diante dos teus olhos. Para o profeta, o horror supremo da morte é a separação da presença de Deus (Sl 88.4, 5, 10–12).\n\ntornarei... a ver o teu santo templo. O templo em Jerusalém é o lugar terreno da presença divina. Jonas anseia pela comunhão com Deus que o templo oferece. O profeta lamenta a perda dessa presença divina, da qual, antes, ele procurou escapar (1.3, 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "lançado estou de diante dos teus olhos.",
+          "texto": "Para o profeta, o horror supremo da morte é a separação da presença de Deus (Sl 88.4, 5, 10–12)."
+        },
+        {
+          "titulo": "tornarei... a ver o teu santo templo.",
+          "texto": "O templo em Jerusalém é o lugar terreno da presença divina. Jonas anseia pela comunhão com Deus que o templo oferece. O profeta lamenta a perda dessa presença divina, da qual, antes, ele procurou escapar (1.3, 10)."
+        }
+      ],
+      "paragrafos": [
+        "lançado estou de diante dos teus olhos. Para o profeta, o horror supremo da morte é a separação da presença de Deus (Sl 88.4, 5, 10–12).",
+        "tornarei... a ver o teu santo templo. O templo em Jerusalém é o lugar terreno da presença divina. Jonas anseia pela comunhão com Deus que o templo oferece. O profeta lamenta a perda dessa presença divina, da qual, antes, ele procurou escapar (1.3, 10)."
+      ]
+    },
+    {
+      "id": "fr-jn-0015",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "2.6 desci. Jonas esteve as portas da morte.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "desci. Jonas esteve às portas da morte. Sua descida lenta e silenciosa pelas profundezas, como uma viagem ao mundo subterrâneo, o levou às “portas da morte” pouco antes de seu resgate (Sl 9.13).\n\nfizeste subir da sepultura a minha vida. Aqui, o termo “sepultura” é usado para descrever o reino dos mortos (Jó 33.22, 24; Sl 49.9; Is 51.14). Apesar do desespero das circunstâncias, o profeta arrependido é resgatado do reino dos mortos e restaurado à comunhão com Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "desci.",
+          "texto": "Jonas esteve às portas da morte. Sua descida lenta e silenciosa pelas profundezas, como uma viagem ao mundo subterrâneo, o levou às “portas da morte” pouco antes de seu resgate (Sl 9.13)."
+        },
+        {
+          "titulo": "fizeste subir da sepultura a minha vida.",
+          "texto": "Aqui, o termo “sepultura” é usado para descrever o reino dos mortos (Jó 33.22, 24; Sl 49.9; Is 51.14). Apesar do desespero das circunstâncias, o profeta arrependido é resgatado do reino dos mortos e restaurado à comunhão com Deus."
+        }
+      ],
+      "paragrafos": [
+        "desci. Jonas esteve às portas da morte. Sua descida lenta e silenciosa pelas profundezas, como uma viagem ao mundo subterrâneo, o levou às “portas da morte” pouco antes de seu resgate (Sl 9.13).",
+        "fizeste subir da sepultura a minha vida. Aqui, o termo “sepultura” é usado para descrever o reino dos mortos (Jó 33.22, 24; Sl 49.9; Is 51.14). Apesar do desespero das circunstâncias, o profeta arrependido é resgatado do reino dos mortos e restaurado à comunhão com Deus."
+      ]
+    },
+    {
+      "id": "fr-jn-0016",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "2.7 eu me lembrei do SENHOR. 0 contexto",
+        "texto_ocr_pre_normalizacao": "eu me lembrei do SENHOR. 0 contexto indica que essa oragao foi atendida. A importancia e a eficacia da oragao sao novamente enfatizadas, comono versfculo 2 (cf.Hb 4.16).",
+        "normalizacoes_literais_reversiveis": {
+          "oragao": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "eu me lembrei do SENHOR. O contexto indica que essa oração foi atendida. A importância e a eficácia da oração são novamente enfatizadas, como no versículo 2 (cf. Hb 4.16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "eu me lembrei do SENHOR.",
+          "texto": "O contexto indica que essa oração foi atendida. A importância e a eficácia da oração são novamente enfatizadas, como no versículo 2 (cf. Hb 4.16)."
+        }
+      ],
+      "paragrafos": [
+        "eu me lembrei do SENHOR. O contexto indica que essa oração foi atendida. A importância e a eficácia da oração são novamente enfatizadas, como no versículo 2 (cf. Hb 4.16)."
+      ]
+    },
+    {
+      "id": "fr-jn-0017",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "2.8 Os que se entregam a idolatria va. Re-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Os que se entregam à idolatria vã. Recordando a ineficácia das orações dos marinheiros e de seus deuses (1.5), Jonas condena aqueles que depositam sua fé em ídolos.\n\nabandonam aquele que lhes é misericordioso. Isso pode ser uma referência indireta aos israelitas. A palavra traduzida como “misericordioso” é hesed, que, com frequência, descreve a fidelidade pactual de Deus para com seu povo. Esse versículo adverte que os adoradores de ídolos abandonam a hesed de Deus por eles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Os que se entregam à idolatria vã.",
+          "texto": "Recordando a ineficácia das orações dos marinheiros e de seus deuses (1.5), Jonas condena aqueles que depositam sua fé em ídolos."
+        },
+        {
+          "titulo": "abandonam aquele que lhes é misericordioso.",
+          "texto": "Isso pode ser uma referência indireta aos israelitas. A palavra traduzida como “misericordioso” é hesed, que, com frequência, descreve a fidelidade pactual de Deus para com seu povo. Esse versículo adverte que os adoradores de ídolos abandonam a hesed de Deus por eles."
+        }
+      ],
+      "paragrafos": [
+        "Os que se entregam à idolatria vã. Recordando a ineficácia das orações dos marinheiros e de seus deuses (1.5), Jonas condena aqueles que depositam sua fé em ídolos.",
+        "abandonam aquele que lhes é misericordioso. Isso pode ser uma referência indireta aos israelitas. A palavra traduzida como “misericordioso” é hesed, que, com frequência, descreve a fidelidade pactual de Deus para com seu povo. Esse versículo adverte que os adoradores de ídolos abandonam a hesed de Deus por eles."
+      ]
+    },
+    {
+      "id": "fr-jn-0018",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "2.9 Ao SENHOR pertence a salvagao. Como",
+        "texto_ocr_pre_normalizacao": "Ao SENHOR pertence a salvagao. Como Josue antes dele (Js 24.14-15), Jonas dedara sua lealdade ao Senhor e o exalta como a unica fonte de salvagao e livramento. Ao outorgar salvagao a Jonas, o Senhor move o profeta da desobediencia ao arrependimento; ao outorgar salvagao aos ninivitas, o Senhor os leva da idolatria a fe (3.5- 10); ao outorgar salvagao aos gentios, na epoca da nova alianga - como na antiga alianga -, o Senhor os conduz soberanamente a fe e ao arrependimento (At 11.17, 18)",
+        "normalizacoes_literais_reversiveis": {
+          "salvagao": 5,
+          "alianga": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ao SENHOR pertence a salvação. Como Josué antes dele (Js 24.14–15), Jonas declara sua lealdade ao Senhor e o exalta como a única fonte de salvação e livramento. Ao outorgar salvação a Jonas, o Senhor move o profeta da desobediência ao arrependimento; ao outorgar salvação aos ninivitas, o Senhor os leva da idolatria à fé (3.5–10); ao outorgar salvação aos gentios, na época da nova aliança — como na antiga aliança —, o Senhor os conduz soberanamente à fé e ao arrependimento (At 11.17, 18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ao SENHOR pertence a salvação.",
+          "texto": "Como Josué antes dele (Js 24.14–15), Jonas declara sua lealdade ao Senhor e o exalta como a única fonte de salvação e livramento. Ao outorgar salvação a Jonas, o Senhor move o profeta da desobediência ao arrependimento; ao outorgar salvação aos ninivitas, o Senhor os leva da idolatria à fé (3.5–10); ao outorgar salvação aos gentios, na época da nova aliança — como na antiga aliança —, o Senhor os conduz soberanamente à fé e ao arrependimento (At 11.17, 18)."
+        }
+      ],
+      "paragrafos": [
+        "Ao SENHOR pertence a salvação. Como Josué antes dele (Js 24.14–15), Jonas declara sua lealdade ao Senhor e o exalta como a única fonte de salvação e livramento. Ao outorgar salvação a Jonas, o Senhor move o profeta da desobediência ao arrependimento; ao outorgar salvação aos ninivitas, o Senhor os leva da idolatria à fé (3.5–10); ao outorgar salvação aos gentios, na época da nova aliança — como na antiga aliança —, o Senhor os conduz soberanamente à fé e ao arrependimento (At 11.17, 18)."
+      ]
+    },
+    {
+      "id": "fr-jn-0019",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "2.10 Falou... o SENHOR ao peixe, e este",
+        "texto_ocr_pre_normalizacao": "Falou... o SENHOR ao peixe, e este vomitou a Jonas. De novo, acriagao responde obedientemente as ordens soberanas do Criador (1.4, 15, 17). Pela graga, o peixe serviu como um instrumento de Deus para devolver Jonas a condigaodeseguranga.",
+        "normalizacoes_literais_reversiveis": {
+          "graga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Falou... o SENHOR ao peixe, e este vomitou a Jonas. De novo, a criação responde obedientemente às ordens soberanas do Criador (1.4, 15, 17). Pela graça, o peixe serviu como um instrumento de Deus para devolver Jonas à condição de segurança.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Falou... o SENHOR ao peixe, e este vomitou a Jonas.",
+          "texto": "De novo, a criação responde obedientemente às ordens soberanas do Criador (1.4, 15, 17). Pela graça, o peixe serviu como um instrumento de Deus para devolver Jonas à condição de segurança."
+        }
+      ],
+      "paragrafos": [
+        "Falou... o SENHOR ao peixe, e este vomitou a Jonas. De novo, a criação responde obedientemente às ordens soberanas do Criador (1.4, 15, 17). Pela graça, o peixe serviu como um instrumento de Deus para devolver Jonas à condição de segurança."
+      ]
+    },
+    {
+      "id": "fr-jn-0020",
+      "referencia": "3.1-4.11",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.1-4.11",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "3.1-4.11Nessa segunda divisao dolivro,Jonaspre-",
+        "texto_ocr_pre_normalizacao": "Nessa segunda divisao dolivro,Jonasprega a mensagem que Deus Ihe ordenou, e o povo de Ninive responde com arrependimento genuino (cap.3).Quando o Senhor nao realiza o julgamento ameagado,a verdadeira razao pela qual Jonas fugiu na primeira vez se revela no texto: ele temeu que Deus mostrasse misericordia pelos odiados assfrios (4.2). Por meio de ligoes relatadasem seguida,aamplitude damisericordiae da compaixao do Senhor e revelada (4 5-11).",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1,
+          "misericordia": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Nessa segunda divisão do livro, Jonas prega a mensagem que Deus lhe ordenou, e o povo de Nínive responde com arrependimento genuíno (cap. 3). Quando o Senhor não realiza o julgamento ameaçado, a verdadeira razão pela qual Jonas fugiu na primeira vez se revela no texto: ele temeu que Deus mostrasse misericórdia pelos odiados assírios (4.2). Por meio de lições relatadas em seguida, a amplitude da misericórdia e da compaixão do Senhor é revelada (4.5–11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Nessa segunda divisão do livro, Jonas prega a mensagem que Deus lhe ordenou, e o povo de Nínive responde com arrependimento genuíno (cap. 3). Quando o Senhor não realiza o julgamento ameaçado, a verdadeira razão pela qual Jonas fugiu na primeira vez se revela no texto: ele temeu que Deus mostrasse misericórdia pelos odiados assírios (4.2). Por meio de lições relatadas em seguida, a amplitude da misericórdia e da compaixão do Senhor é revelada (4.5–11)."
+        }
+      ],
+      "paragrafos": [
+        "Nessa segunda divisão do livro, Jonas prega a mensagem que Deus lhe ordenou, e o povo de Nínive responde com arrependimento genuíno (cap. 3). Quando o Senhor não realiza o julgamento ameaçado, a verdadeira razão pela qual Jonas fugiu na primeira vez se revela no texto: ele temeu que Deus mostrasse misericórdia pelos odiados assírios (4.2). Por meio de lições relatadas em seguida, a amplitude da misericórdia e da compaixão do Senhor é revelada (4.5–11)."
+      ]
+    },
+    {
+      "id": "fr-jn-0021",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "3.3 Levantou-se... Jonas e foi. Havendo",
+        "texto_ocr_pre_normalizacao": "Levantou-se... Jonas e foi. Havendo aprendido que o chamado de Deus e irrevogavel (cf Rm 11.29),Jonas responde acomissao renovada da partedo Senhor. Ninive era. Alguns tern sugerido que o uso do tempo preterito (\"era”) indica que a cidade nao mais existiano tempo da escrita dolivro.Levando em conta a destruigao da cidade,em 612 a.C., pelos medos e babilonios, essa interpretagao fixaria a data do livro em algum tempo depois dos ultimos anos do seculo VII a.C. Todavia, o tempo passado nao impede uma data do seculo VIII, porque sim - plesmente indica o status da cidade quando o profetachegou. cidade mui importante... tres dias para percorre-la. Muitos comentaristas interpretam essas frases como uma referenda ao tamanho fisico de Ninive. Escavagoes arqueologicas demonstraram que a cidade possuia de 11 a 13 quilometros de circunferencia. Outros sugerem que a primeira formulagao deveria ser traduzida como \"uma cidade muito importante\" ou \"uma grande cidade para Deus” (enfatizando sua importancia, e nao seu tamanho). A segunda expressao (literalmente, \"jornada de tres dias\") poderia indicar a duragao de visita apropriada (em termos de protocolo diplomatic do antigo Oriente Proximo) para um emissario que vinha a uma cidade tao importante quanto aquela. Alternativamente, a expressao \"a grande cidade\" (1.2; 3.2; 4.11) poderia referir-se a regiao que tambem incluia as cidades de Reobote-lr, Cala e Resem (ver Gn 10.11, 12)",
+        "normalizacoes_literais_reversiveis": {
+          "tern": 1,
+          "nao": 3,
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Levantou-se... Jonas e foi. Havendo aprendido que o chamado de Deus é irrevogável (cf. Rm 11.29), Jonas responde à comissão renovada da parte do Senhor.\n\nNínive era. Alguns têm sugerido que o uso do tempo pretérito (“era”) indica que a cidade não mais existia no tempo da escrita do livro. Levando em conta a destruição da cidade, em 612 a.C., pelos medos e babilônios, essa interpretação fixaria a data do livro em algum tempo depois dos últimos anos do século VII a.C. Todavia, o tempo passado não impede uma data do século VIII, porque simplesmente indica o status da cidade quando o profeta chegou.\n\ncidade mui importante... três dias para percorrê-la. Muitos comentaristas interpretam essas frases como uma referência ao tamanho físico de Nínive. Escavações arqueológicas demonstraram que a cidade possuía de 11 a 13 quilômetros de circunferência. Outros sugerem que a primeira formulação deveria ser traduzida como “uma cidade muito importante” ou “uma grande cidade para Deus” (enfatizando sua importância, e não seu tamanho). A segunda expressão (literalmente, “jornada de três dias”) poderia indicar a duração de visita apropriada (em termos de protocolo diplomático do antigo Oriente Próximo) para um emissário que vinha a uma cidade tão importante quanto aquela. Alternativamente, a expressão “a grande cidade” (1.2; 3.2; 4.11) poderia referir-se à região que também incluía as cidades de Reobote-Ir, Calá e Resém (ver Gn 10.11, 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Levantou-se... Jonas e foi.",
+          "texto": "Havendo aprendido que o chamado de Deus é irrevogável (cf. Rm 11.29), Jonas responde à comissão renovada da parte do Senhor."
+        },
+        {
+          "titulo": "Nínive era.",
+          "texto": "Alguns têm sugerido que o uso do tempo pretérito (“era”) indica que a cidade não mais existia no tempo da escrita do livro. Levando em conta a destruição da cidade, em 612 a.C., pelos medos e babilônios, essa interpretação fixaria a data do livro em algum tempo depois dos últimos anos do século VII a.C. Todavia, o tempo passado não impede uma data do século VIII, porque simplesmente indica o status da cidade quando o profeta chegou."
+        },
+        {
+          "titulo": "cidade mui importante... três dias para percorrê-la.",
+          "texto": "Muitos comentaristas interpretam essas frases como uma referência ao tamanho físico de Nínive. Escavações arqueológicas demonstraram que a cidade possuía de 11 a 13 quilômetros de circunferência. Outros sugerem que a primeira formulação deveria ser traduzida como “uma cidade muito importante” ou “uma grande cidade para Deus” (enfatizando sua importância, e não seu tamanho). A segunda expressão (literalmente, “jornada de três dias”) poderia indicar a duração de visita apropriada (em termos de protocolo diplomático do antigo Oriente Próximo) para um emissário que vinha a uma cidade tão importante quanto aquela. Alternativamente, a expressão “a grande cidade” (1.2; 3.2; 4.11) poderia referir-se à região que também incluía as cidades de Reobote-Ir, Calá e Resém (ver Gn 10.11, 12)."
+        }
+      ],
+      "paragrafos": [
+        "Levantou-se... Jonas e foi. Havendo aprendido que o chamado de Deus é irrevogável (cf. Rm 11.29), Jonas responde à comissão renovada da parte do Senhor.",
+        "Nínive era. Alguns têm sugerido que o uso do tempo pretérito (“era”) indica que a cidade não mais existia no tempo da escrita do livro. Levando em conta a destruição da cidade, em 612 a.C., pelos medos e babilônios, essa interpretação fixaria a data do livro em algum tempo depois dos últimos anos do século VII a.C. Todavia, o tempo passado não impede uma data do século VIII, porque simplesmente indica o status da cidade quando o profeta chegou.",
+        "cidade mui importante... três dias para percorrê-la. Muitos comentaristas interpretam essas frases como uma referência ao tamanho físico de Nínive. Escavações arqueológicas demonstraram que a cidade possuía de 11 a 13 quilômetros de circunferência. Outros sugerem que a primeira formulação deveria ser traduzida como “uma cidade muito importante” ou “uma grande cidade para Deus” (enfatizando sua importância, e não seu tamanho). A segunda expressão (literalmente, “jornada de três dias”) poderia indicar a duração de visita apropriada (em termos de protocolo diplomático do antigo Oriente Próximo) para um emissário que vinha a uma cidade tão importante quanto aquela. Alternativamente, a expressão “a grande cidade” (1.2; 3.2; 4.11) poderia referir-se à região que também incluía as cidades de Reobote-Ir, Calá e Resém (ver Gn 10.11, 12)."
+      ]
+    },
+    {
+      "id": "fr-jn-0022",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "3.5 Os ninivitas creram. 0s piores temores",
+        "texto_ocr_pre_normalizacao": "Os ninivitas creram. 0s piores temores de Jonas se realizaram (cf. v. 10; 4.1, 2) quando o povo creu, se arrependeu, prodamou um jejum e se vestiu de pano de saco (uma veste tradicional de lamento no antigo Oriente Proximo). 0 arrependimento e rapido e envolve toda a cidade.0 narrador citaindiretamente esse arrependimento em favor do ninivitas para acusar sua audiencia de israelitas pela falta de arrependimento e a falta de zelo por santidade e justiga",
+        "normalizacoes_literais_reversiveis": {
+          "justiga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Os ninivitas creram. Os piores temores de Jonas se realizaram (cf. v. 10; 4.1, 2) quando o povo creu, se arrependeu, proclamou um jejum e se vestiu de pano de saco (uma veste tradicional de lamento no antigo Oriente Próximo). O arrependimento é rápido e envolve toda a cidade. O narrador cita indiretamente esse arrependimento em favor dos ninivitas para acusar sua audiência de israelitas pela falta de arrependimento e a falta de zelo por santidade e justiça.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Os ninivitas creram.",
+          "texto": "Os piores temores de Jonas se realizaram (cf. v. 10; 4.1, 2) quando o povo creu, se arrependeu, proclamou um jejum e se vestiu de pano de saco (uma veste tradicional de lamento no antigo Oriente Próximo). O arrependimento é rápido e envolve toda a cidade. O narrador cita indiretamente esse arrependimento em favor dos ninivitas para acusar sua audiência de israelitas pela falta de arrependimento e a falta de zelo por santidade e justiça."
+        }
+      ],
+      "paragrafos": [
+        "Os ninivitas creram. Os piores temores de Jonas se realizaram (cf. v. 10; 4.1, 2) quando o povo creu, se arrependeu, proclamou um jejum e se vestiu de pano de saco (uma veste tradicional de lamento no antigo Oriente Próximo). O arrependimento é rápido e envolve toda a cidade. O narrador cita indiretamente esse arrependimento em favor dos ninivitas para acusar sua audiência de israelitas pela falta de arrependimento e a falta de zelo por santidade e justiça."
+      ]
+    },
+    {
+      "id": "fr-jn-0023",
+      "referencia": "3.6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.6",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3,
+          4
+        ],
+        "pagina_impressa": 1567,
+        "rotulo_original_ocr": "3.6 o rei de Ninive.Ummaneira incomum de se",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o rei de Nínive. Uma maneira incomum de se referir ao rei da Assíria. À luz das políticas assírias em meados do século VIII a.C., o termo “rei” pode ser usado aqui como referência a um forte governante de província que exerce controle sobre a região de Nínive. Nesse período, a autoridade do rei da Assíria era um tanto limitada.\n\nlevantou-se... assentou-se sobre cinza. A resposta do rei é imediata e espontânea, como a de seus súditos. A autoridade real dá lugar à humildade penitente. O rei troca suas vestes por panos de saco, e seu trono, por uma cama de cinzas (cf. Jó 42.6; Is 58.5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "o rei de Nínive.",
+          "texto": "Uma maneira incomum de se referir ao rei da Assíria. À luz das políticas assírias em meados do século VIII a.C., o termo “rei” pode ser usado aqui como referência a um forte governante de província que exerce controle sobre a região de Nínive. Nesse período, a autoridade do rei da Assíria era um tanto limitada."
+        },
+        {
+          "titulo": "levantou-se... assentou-se sobre cinza.",
+          "texto": "A resposta do rei é imediata e espontânea, como a de seus súditos. A autoridade real dá lugar à humildade penitente. O rei troca suas vestes por panos de saco, e seu trono, por uma cama de cinzas (cf. Jó 42.6; Is 58.5)."
+        }
+      ],
+      "paragrafos": [
+        "o rei de Nínive. Uma maneira incomum de se referir ao rei da Assíria. À luz das políticas assírias em meados do século VIII a.C., o termo “rei” pode ser usado aqui como referência a um forte governante de província que exerce controle sobre a região de Nínive. Nesse período, a autoridade do rei da Assíria era um tanto limitada.",
+        "levantou-se... assentou-se sobre cinza. A resposta do rei é imediata e espontânea, como a de seus súditos. A autoridade real dá lugar à humildade penitente. O rei troca suas vestes por panos de saco, e seu trono, por uma cama de cinzas (cf. Jó 42.6; Is 58.5)."
+      ]
+    },
+    {
+      "id": "fr-jn-0024",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "3.7 decreto do rei. Quando o edito real ordena",
+        "texto_ocr_pre_normalizacao": "decreto do rei. Quando o edito real ordena oragao, ritosdelamentoeumjejumparahomens e animais, o arrependimento de Ninive se completa. Aindusao deanimaisdestacaacompletudee agenuinidade do arrependimento dos ninivitas. Posteriormente, torna-se costumeiro entre os persas induir animais domesticos nosritosdelamento.",
+        "normalizacoes_literais_reversiveis": {
+          "oragao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "decreto do rei. Quando o édito real ordena oração, ritos de lamento e um jejum para homens e animais, o arrependimento de Nínive se completa. A inclusão de animais destaca a completude e a genuinidade do arrependimento dos ninivitas. Posteriormente, torna-se costumeiro entre os persas incluir animais domésticos nos ritos de lamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "decreto do rei.",
+          "texto": "Quando o édito real ordena oração, ritos de lamento e um jejum para homens e animais, o arrependimento de Nínive se completa. A inclusão de animais destaca a completude e a genuinidade do arrependimento dos ninivitas. Posteriormente, torna-se costumeiro entre os persas incluir animais domésticos nos ritos de lamento."
+        }
+      ],
+      "paragrafos": [
+        "decreto do rei. Quando o édito real ordena oração, ritos de lamento e um jejum para homens e animais, o arrependimento de Nínive se completa. A inclusão de animais destaca a completude e a genuinidade do arrependimento dos ninivitas. Posteriormente, torna-se costumeiro entre os persas incluir animais domésticos nos ritos de lamento."
+      ]
+    },
+    {
+      "id": "fr-jn-0025",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "3.8 se converterao, cada um... da violen-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "se converterão, cada um... da violência. Essa admoestação real se dirige aos pecados mais proeminentes de Nínive. Violência física e injustiça social são as marcas peculiares do Império Assírio na época bíblica (Na 3.1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "se converterão, cada um... da violência.",
+          "texto": "Essa admoestação real se dirige aos pecados mais proeminentes de Nínive. Violência física e injustiça social são as marcas peculiares do Império Assírio na época bíblica (Na 3.1)."
+        }
+      ],
+      "paragrafos": [
+        "se converterão, cada um... da violência. Essa admoestação real se dirige aos pecados mais proeminentes de Nínive. Violência física e injustiça social são as marcas peculiares do Império Assírio na época bíblica (Na 3.1)."
+      ]
+    },
+    {
+      "id": "fr-jn-0026",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "3.9 0 rei da expressao pessoal e coletiva a espe-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O rei dá expressão pessoal e coletiva à esperança de que o arrependimento genuíno pode evitar o julgamento divino. A estrutura de 3.5–9 se harmoniza com o padrão típico do Antigo Testamento, no sentido de relatar arrependimento coletivo (Jr 36.3; Jl 2): (1) ameaça de julgamento; (2) resposta penitente; (3) resolução divina de reter a punição.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O rei dá expressão pessoal e coletiva à esperança de que o arrependimento genuíno pode evitar o julgamento divino. A estrutura de 3.5–9 se harmoniza com o padrão típico do Antigo Testamento, no sentido de relatar arrependimento coletivo (Jr 36.3; Jl 2): (1) ameaça de julgamento; (2) resposta penitente; (3) resolução divina de reter a punição."
+        }
+      ],
+      "paragrafos": [
+        "O rei dá expressão pessoal e coletiva à esperança de que o arrependimento genuíno pode evitar o julgamento divino. A estrutura de 3.5–9 se harmoniza com o padrão típico do Antigo Testamento, no sentido de relatar arrependimento coletivo (Jr 36.3; Jl 2): (1) ameaça de julgamento; (2) resposta penitente; (3) resolução divina de reter a punição."
+      ]
+    },
+    {
+      "id": "fr-jn-0027",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "3.10 Viu Deus o que fizeram. A advertencia",
+        "texto_ocr_pre_normalizacao": "Viu Deus o que fizeram. A advertencia profetica (v. 4) tinha uma condigao implicita, ou seja, o fato de o julgamento ser iminente — na hipotese de a cidade nao se arrepender. Ao se converterem \"do seu mau caminho\", os ninivitas satisfizeram essacondigao. Deus se arrependeu. Quando aBiblianarra as agoes de Deus,faz isso frequentemente em termos antropomorficos,ou seja, atribuindo aDeus caracteristicas humanas. Essa mudanga nas agoes de Deus nao significa uma mudanga em sua vontade soberana. A aparente mudanga de pensamento do Senhor (ou seja, sua escolha soberana de realizar suas agoes de um modo que se mostra adequado arespostahumana) e plenamente compativelcom a soberaniae a imutabilidade de Deus, porque ele ordenaosmeios,bem comoos fins,desua vontade soberana (Jr18.7-10). Ver nota em Genesis 6.6.",
+        "normalizacoes_literais_reversiveis": {
+          "profetica": 1,
+          "nao": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Viu Deus o que fizeram. A advertência profética (v. 4) tinha uma condição implícita, ou seja, o fato de o julgamento ser iminente — na hipótese de a cidade não se arrepender. Ao se converterem “do seu mau caminho”, os ninivitas satisfizeram essa condição.\n\nDeus se arrependeu. Quando a Bíblia narra as ações de Deus, faz isso frequentemente em termos antropomórficos, ou seja, atribuindo a Deus características humanas. Essa mudança nas ações de Deus não significa uma mudança em sua vontade soberana. A aparente mudança de pensamento do Senhor (ou seja, sua escolha soberana de realizar suas ações de um modo que se mostra adequado à resposta humana) é plenamente compatível com a soberania e a imutabilidade de Deus, porque ele ordena os meios, bem como os fins, de sua vontade soberana (Jr 18.7–10). Ver nota em Gênesis 6.6.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Gn",
+          "capitulo": 6,
+          "versiculo": 6
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Viu Deus o que fizeram.",
+          "texto": "A advertência profética (v. 4) tinha uma condição implícita, ou seja, o fato de o julgamento ser iminente — na hipótese de a cidade não se arrepender. Ao se converterem “do seu mau caminho”, os ninivitas satisfizeram essa condição."
+        },
+        {
+          "titulo": "Deus se arrependeu.",
+          "texto": "Quando a Bíblia narra as ações de Deus, faz isso frequentemente em termos antropomórficos, ou seja, atribuindo a Deus características humanas. Essa mudança nas ações de Deus não significa uma mudança em sua vontade soberana. A aparente mudança de pensamento do Senhor (ou seja, sua escolha soberana de realizar suas ações de um modo que se mostra adequado à resposta humana) é plenamente compatível com a soberania e a imutabilidade de Deus, porque ele ordena os meios, bem como os fins, de sua vontade soberana (Jr 18.7–10). Ver nota em Gênesis 6.6."
+        }
+      ],
+      "paragrafos": [
+        "Viu Deus o que fizeram. A advertência profética (v. 4) tinha uma condição implícita, ou seja, o fato de o julgamento ser iminente — na hipótese de a cidade não se arrepender. Ao se converterem “do seu mau caminho”, os ninivitas satisfizeram essa condição.",
+        "Deus se arrependeu. Quando a Bíblia narra as ações de Deus, faz isso frequentemente em termos antropomórficos, ou seja, atribuindo a Deus características humanas. Essa mudança nas ações de Deus não significa uma mudança em sua vontade soberana. A aparente mudança de pensamento do Senhor (ou seja, sua escolha soberana de realizar suas ações de um modo que se mostra adequado à resposta humana) é plenamente compatível com a soberania e a imutabilidade de Deus, porque ele ordena os meios, bem como os fins, de sua vontade soberana (Jr 18.7–10). Ver nota em Gênesis 6.6."
+      ]
+    },
+    {
+      "id": "fr-jn-0028",
+      "referencia": "4.1-11",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.1-11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "4.1-110 livro termina com Jonas irado, recebendo",
+        "texto_ocr_pre_normalizacao": "O livro termina com Jonas irado, recebendo do proprio Deus uma ligao sobre a misericordia e a compaixao divina. De forma admiravel, o texto nao explicacomo Jonas reagiu aessa instrugao. Em vez disso,o livro termina deixando o leitor com o contraste entre a atitude de ressentimento de Jonas e a grande misericordia de Deus para com os ninivitas.",
+        "normalizacoes_literais_reversiveis": {
+          "proprio": 1,
+          "misericordia": 2,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O livro termina com Jonas irado, recebendo do próprio Deus uma lição sobre a misericórdia e a compaixão divina. De forma admirável, o texto não explica como Jonas reagiu a essa instrução. Em vez disso, o livro termina deixando o leitor com o contraste entre a atitude de ressentimento de Jonas e a grande misericórdia de Deus para com os ninivitas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O livro termina com Jonas irado, recebendo do próprio Deus uma lição sobre a misericórdia e a compaixão divina. De forma admirável, o texto não explica como Jonas reagiu a essa instrução. Em vez disso, o livro termina deixando o leitor com o contraste entre a atitude de ressentimento de Jonas e a grande misericórdia de Deus para com os ninivitas."
+        }
+      ],
+      "paragrafos": [
+        "O livro termina com Jonas irado, recebendo do próprio Deus uma lição sobre a misericórdia e a compaixão divina. De forma admirável, o texto não explica como Jonas reagiu a essa instrução. Em vez disso, o livro termina deixando o leitor com o contraste entre a atitude de ressentimento de Jonas e a grande misericórdia de Deus para com os ninivitas."
+      ]
+    },
+    {
+      "id": "fr-jn-0029",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "4.1 desgostou-se Jonas extremamente",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "desgostou-se Jonas extremamente. O hebraico é especialmente vívido aqui (literalmente, “foi mal para Jonas, como um grande erro”). Jonas expressa sua emoção na linguagem mais forte possível: seu grande temor antes de ir a Nínive era de que o Senhor outorgasse perdão ao inimigo mais odiado de Israel (v. 2), e esse perdão foi o que aconteceu.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "desgostou-se Jonas extremamente.",
+          "texto": "O hebraico é especialmente vívido aqui (literalmente, “foi mal para Jonas, como um grande erro”). Jonas expressa sua emoção na linguagem mais forte possível: seu grande temor antes de ir a Nínive era de que o Senhor outorgasse perdão ao inimigo mais odiado de Israel (v. 2), e esse perdão foi o que aconteceu."
+        }
+      ],
+      "paragrafos": [
+        "desgostou-se Jonas extremamente. O hebraico é especialmente vívido aqui (literalmente, “foi mal para Jonas, como um grande erro”). Jonas expressa sua emoção na linguagem mais forte possível: seu grande temor antes de ir a Nínive era de que o Senhor outorgasse perdão ao inimigo mais odiado de Israel (v. 2), e esse perdão foi o que aconteceu."
+      ]
+    },
+    {
+      "id": "fr-jn-0030",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "4.2 es Deus clemente... te arrependes do",
+        "texto_ocr_pre_normalizacao": "es Deus clemente... te arrependes do mal. A razao para a fuga inicial de Jonas para Tarsis e revelada. Apesar de sua desobediencia e de sua intolerance notorias, Jonas entende o carater de Deus. Aqui, ele esta ecoando uma importante afirmagao que descreve a misericordia de Deus paracom umIsrael indigno (p.ex.,Ex 34.6;Nm14.18; Ne 9.17;51103.8; Jl 2.13). Somente aqui e em Joel 2.13, a referenda ao arrependimento divino (\"se arrepende domal\") e induida (3.10, nota),umaindusao apropriadaaocontexto de arrependimento elivramentodeNinive.",
+        "normalizacoes_literais_reversiveis": {
+          "misericordia": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "és Deus clemente... te arrependes do mal. A razão para a fuga inicial de Jonas para Társis é revelada. Apesar de sua desobediência e de sua intolerância notórias, Jonas entende o caráter de Deus. Aqui, ele está ecoando uma importante afirmação que descreve a misericórdia de Deus para com um Israel indigno (p. ex., Êx 34.6; Nm 14.18; Ne 9.17; Sl 103.8; Jl 2.13). Somente aqui e em Joel 2.13, a referência ao arrependimento divino (“se arrepende do mal”) é incluída (3.10, nota), uma inclusão apropriada ao contexto de arrependimento e livramento de Nínive.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jn",
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "és Deus clemente... te arrependes do mal.",
+          "texto": "A razão para a fuga inicial de Jonas para Társis é revelada. Apesar de sua desobediência e de sua intolerância notórias, Jonas entende o caráter de Deus. Aqui, ele está ecoando uma importante afirmação que descreve a misericórdia de Deus para com um Israel indigno (p. ex., Êx 34.6; Nm 14.18; Ne 9.17; Sl 103.8; Jl 2.13). Somente aqui e em Joel 2.13, a referência ao arrependimento divino (“se arrepende do mal”) é incluída (3.10, nota), uma inclusão apropriada ao contexto de arrependimento e livramento de Nínive."
+        }
+      ],
+      "paragrafos": [
+        "és Deus clemente... te arrependes do mal. A razão para a fuga inicial de Jonas para Társis é revelada. Apesar de sua desobediência e de sua intolerância notórias, Jonas entende o caráter de Deus. Aqui, ele está ecoando uma importante afirmação que descreve a misericórdia de Deus para com um Israel indigno (p. ex., Êx 34.6; Nm 14.18; Ne 9.17; Sl 103.8; Jl 2.13). Somente aqui e em Joel 2.13, a referência ao arrependimento divino (“se arrepende do mal”) é incluída (3.10, nota), uma inclusão apropriada ao contexto de arrependimento e livramento de Nínive."
+      ]
+    },
+    {
+      "id": "fr-jn-0031",
+      "referencia": "4.5",
+      "capitulo": 4,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "4.5",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "4.5 Jonas saiu... fez uma enramada. Grato",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Jonas saiu... fez uma enramada. Grato por seu próprio livramento, Jonas ainda se recusa a aceitar o livramento dos ninivitas. Esperando que o Senhor execute seu julgamento, Jonas sai da cidade para um lugar privilegiado, de onde possa ver a destruição da cidade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Jonas saiu... fez uma enramada.",
+          "texto": "Grato por seu próprio livramento, Jonas ainda se recusa a aceitar o livramento dos ninivitas. Esperando que o Senhor execute seu julgamento, Jonas sai da cidade para um lugar privilegiado, de onde possa ver a destruição da cidade."
+        }
+      ],
+      "paragrafos": [
+        "Jonas saiu... fez uma enramada. Grato por seu próprio livramento, Jonas ainda se recusa a aceitar o livramento dos ninivitas. Esperando que o Senhor execute seu julgamento, Jonas sai da cidade para um lugar privilegiado, de onde possa ver a destruição da cidade."
+      ]
+    },
+    {
+      "id": "fr-jn-0032",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "4.6 fez o Senhor Deus nascer uma plan-",
+        "texto_ocr_pre_normalizacao": "fez o Senhor Deus nascer uma planta. Ver nota em 1.17.Provavelmente por causa da escassez de madeira nessa regiao seca, o abrigo de Jonas nao prove protegao adequadadosolardente do Oriente Proximo.0 tipo de vegetagao e incerto. Embora alguns sugiram uma planta de mamona, que chega rapidamente a uma altura de quatro metros e meio,umaplantatrepadeira,como o cabaceiro, e mais provavel.",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "fez o Senhor Deus nascer uma planta. Ver nota em 1.17. Provavelmente por causa da escassez de madeira nessa região seca, o abrigo de Jonas não provê proteção adequada do sol ardente do Oriente Próximo. O tipo de vegetação é incerto. Embora alguns sugiram uma planta de mamona, que chega rapidamente a uma altura de quatro metros e meio, uma planta trepadeira, como o cabaceiro, é mais provável.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jn",
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "fez o Senhor Deus nascer uma planta.",
+          "texto": "Ver nota em 1.17. Provavelmente por causa da escassez de madeira nessa região seca, o abrigo de Jonas não provê proteção adequada do sol ardente do Oriente Próximo. O tipo de vegetação é incerto. Embora alguns sugiram uma planta de mamona, que chega rapidamente a uma altura de quatro metros e meio, uma planta trepadeira, como o cabaceiro, é mais provável."
+        }
+      ],
+      "paragrafos": [
+        "fez o Senhor Deus nascer uma planta. Ver nota em 1.17. Provavelmente por causa da escassez de madeira nessa região seca, o abrigo de Jonas não provê proteção adequada do sol ardente do Oriente Próximo. O tipo de vegetação é incerto. Embora alguns sugiram uma planta de mamona, que chega rapidamente a uma altura de quatro metros e meio, uma planta trepadeira, como o cabaceiro, é mais provável."
+      ]
+    },
+    {
+      "id": "fr-jn-0033",
+      "referencia": "4.7,8",
+      "capitulo": 4,
+      "versiculos": [
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "4.7,8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4,
+          5
+        ],
+        "pagina_impressa": 1568,
+        "rotulo_original_ocr": "4.7, 8 A mesma mao divina que, em misericordia,",
+        "texto_ocr_pre_normalizacao": "A mesma mao divina que, em misericordia, providenciou o grande peixe e a sombra agora traz um verme para matar aplanta e um ardente vento oriental para afligir o amargurado profeta. Jonas tern dificuldade para entender por que Deus age dessaforma,provendo protegaoemumdiaeremovendo-a no dia seguinte. 0 episodio com a planta refleteeventos maisamplos.A plantaproporcionou abrigo temporario para Jonas, e o arrependimento deNinive significaque Israel esta temporariamente salvo da violenta invasao assiria. No entanto, assim como a planta murcha e Jonas sofre, uma futura geragao de ninivitas retornara,em decadas, ao comportamento tipico do imperio e destruira o reinodoNorte,Israel.Jonas naoconsegueentender por que Deus permitiria esse evento. Ele nao consegue aceitar que Deus esteja dispostoaperdoar o povodeNinive,oqual,segundoeleentende,merece ser punidopor sua impiedade.",
+        "normalizacoes_literais_reversiveis": {
+          "misericordia": 1,
+          "tern": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A mesma mão divina que, em misericórdia, providenciou o grande peixe e a sombra agora traz um verme para matar a planta e um ardente vento oriental para afligir o amargurado profeta. Jonas tem dificuldade para entender por que Deus age dessa forma, provendo proteção em um dia e removendo-a no dia seguinte. O episódio com a planta reflete eventos mais amplos. A planta proporcionou abrigo temporário para Jonas, e o arrependimento de Nínive significa que Israel está temporariamente salvo da violenta invasão assíria. No entanto, assim como a planta murcha e Jonas sofre, uma futura geração de ninivitas retornará, em décadas, ao comportamento típico do império e destruirá o reino do Norte, Israel. Jonas não consegue entender por que Deus permitiria esse evento. Ele não consegue aceitar que Deus esteja disposto a perdoar o povo de Nínive, o qual, segundo ele entende, merece ser punido por sua impiedade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A mesma mão divina que, em misericórdia, providenciou o grande peixe e a sombra agora traz um verme para matar a planta e um ardente vento oriental para afligir o amargurado profeta. Jonas tem dificuldade para entender por que Deus age dessa forma, provendo proteção em um dia e removendo-a no dia seguinte. O episódio com a planta reflete eventos mais amplos. A planta proporcionou abrigo temporário para Jonas, e o arrependimento de Nínive significa que Israel está temporariamente salvo da violenta invasão assíria. No entanto, assim como a planta murcha e Jonas sofre, uma futura geração de ninivitas retornará, em décadas, ao comportamento típico do império e destruirá o reino do Norte, Israel. Jonas não consegue entender por que Deus permitiria esse evento. Ele não consegue aceitar que Deus esteja disposto a perdoar o povo de Nínive, o qual, segundo ele entende, merece ser punido por sua impiedade."
+        }
+      ],
+      "paragrafos": [
+        "A mesma mão divina que, em misericórdia, providenciou o grande peixe e a sombra agora traz um verme para matar a planta e um ardente vento oriental para afligir o amargurado profeta. Jonas tem dificuldade para entender por que Deus age dessa forma, provendo proteção em um dia e removendo-a no dia seguinte. O episódio com a planta reflete eventos mais amplos. A planta proporcionou abrigo temporário para Jonas, e o arrependimento de Nínive significa que Israel está temporariamente salvo da violenta invasão assíria. No entanto, assim como a planta murcha e Jonas sofre, uma futura geração de ninivitas retornará, em décadas, ao comportamento típico do império e destruirá o reino do Norte, Israel. Jonas não consegue entender por que Deus permitiria esse evento. Ele não consegue aceitar que Deus esteja disposto a perdoar o povo de Nínive, o qual, segundo ele entende, merece ser punido por sua impiedade."
+      ]
+    },
+    {
+      "id": "fr-jn-0034",
+      "referencia": "4.9-11",
+      "capitulo": 4,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.9-11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "069 - Jonas (Jn) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1569,
+        "rotulo_original_ocr": "4.9-11 A intengao divina das ligoes e revelada",
+        "texto_ocr_pre_normalizacao": "A intengao divina das ligoes e revelada aqui. A magnifica compaixao de Deus para com o povo e os animais que ele cria e sustenta (v.11) e contrastada com a preocupagao egoista de Jonas com a planta (v.10).0 leitor pode lembrar a compaixao de Jesus quando viuasmultidoes (Mt 9.36; Me 6.34; 8.2) e sua afirmagao em Mateus 10.29, de que nenhumpardal caiem terra sem avontade do Pai. Em sua infancia,a igreja do Novo Testamento, formadaamplamentepor judeus,lidacom esse assunto da amplitude da misericordia de Deus,aqui suscitadono livrode Jonas,quando o Senhor abre o coragao dosgentios para obedecer ao evangelho (At11.18;15.14;28.28).",
+        "normalizacoes_literais_reversiveis": {
+          "misericordia": 1,
+          "coragao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A intenção divina das lições é revelada aqui. A magnífica compaixão de Deus para com o povo e os animais que ele cria e sustenta (v. 11) é contrastada com a preocupação egoísta de Jonas com a planta (v. 10). O leitor pode lembrar a compaixão de Jesus quando viu as multidões (Mt 9.36; Mc 6.34; 8.2) e sua afirmação em Mateus 10.29, de que nenhum pardal cai em terra sem a vontade do Pai. Em sua infância, a igreja do Novo Testamento, formada amplamente por judeus, lida com esse assunto da amplitude da misericórdia de Deus, aqui suscitado no livro de Jonas, quando o Senhor abre o coração dos gentios para obedecer ao evangelho (At 11.18; 15.14; 28.28).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A intenção divina das lições é revelada aqui. A magnífica compaixão de Deus para com o povo e os animais que ele cria e sustenta (v. 11) é contrastada com a preocupação egoísta de Jonas com a planta (v. 10). O leitor pode lembrar a compaixão de Jesus quando viu as multidões (Mt 9.36; Mc 6.34; 8.2) e sua afirmação em Mateus 10.29, de que nenhum pardal cai em terra sem a vontade do Pai. Em sua infância, a igreja do Novo Testamento, formada amplamente por judeus, lida com esse assunto da amplitude da misericórdia de Deus, aqui suscitado no livro de Jonas, quando o Senhor abre o coração dos gentios para obedecer ao evangelho (At 11.18; 15.14; 28.28)."
+        }
+      ],
+      "paragrafos": [
+        "A intenção divina das lições é revelada aqui. A magnífica compaixão de Deus para com o povo e os animais que ele cria e sustenta (v. 11) é contrastada com a preocupação egoísta de Jonas com a planta (v. 10). O leitor pode lembrar a compaixão de Jesus quando viu as multidões (Mt 9.36; Mc 6.34; 8.2) e sua afirmação em Mateus 10.29, de que nenhum pardal cai em terra sem a vontade do Pai. Em sua infância, a igreja do Novo Testamento, formada amplamente por judeus, lida com esse assunto da amplitude da misericórdia de Deus, aqui suscitado no livro de Jonas, quando o Senhor abre o coração dos gentios para obedecer ao evangelho (At 11.18; 15.14; 28.28)."
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

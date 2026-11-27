@@ -1,0 +1,303 @@
+{
+  "schema": "notas-genebra-v1",
+  "livro": "3Jo",
+  "titulo": "3 João",
+  "fonte": {
+    "titulo": "Bíblia de Estudo de Genebra",
+    "arquivo": "biblia-de-estudo-genebra.pdf",
+    "paginas_pdf": [
+      1701,
+      1702
+    ],
+    "observacao": "Texto transcrito do PDF fornecido; inconsistências linguísticas da fonte não foram corrigidas por suposição."
+  },
+  "estado_editorial": "revisao_estrutural_lote_2_com_pendencias",
+  "notas": [
+    {
+      "id": "gen-3jo-0001",
+      "referencia": "1-2",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1-2",
+      "pagina_original": 1701,
+      "remissoes": [],
+      "texto": "O autor se identifica como \"o ancião\", como em 2 João. Ele escreve para seu querido amigo Caio para elogiá-lo por sua hospitalidade e discutir com ele a situação na congregação de que Caio é uma parte. João começa com uma oração para o bem-estar, uma forma comum de abrir uma carta pessoal.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1701,
+        "rotulo_impresso": "1-2"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0002",
+      "referencia": "3-4",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3-4",
+      "pagina_original": 1701,
+      "remissoes": [],
+      "texto": "Ver a expressão semelhante de alegria em 2 João 4 .",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1701,
+        "rotulo_impresso": "3-4"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0003",
+      "referencia": "5-8",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "5-8",
+      "pagina_original": 1701,
+      "remissoes": [],
+      "texto": "João elogia Gaio para receber viajar professores cristãos com hospitalidade. A obrigação de acolher e incentivar aqueles que proclamam o verdadeiro evangelho de lugar para lugar, e a alegria que vem com isso, estão em contraste com a necessidade de evitar aqueles que proclamam um falso evangelho ( 1 João 4:1-3 ; 2 João 10 , 11 ). Aqueles que proclamam a mensagem e aqueles que incentivar e apoiar-los trabalhar juntos em servir a verdade.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1701,
+        "rotulo_impresso": "5-8"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "1 João 4:1",
+          "livro": "1Jo",
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ]
+    },
+    {
+      "id": "gen-3jo-0004",
+      "referencia": "7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "7",
+      "pagina_original": 1701,
+      "remissoes": [],
+      "texto": "gentios. aqueles que não são povo de Deus. Tal uso indica que a comunidade cristã (composta de judeus e gentios étnicos) tinham vindo para ver-se como o novo Israel.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1701,
+        "rotulo_impresso": "7"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0005",
+      "referencia": "9-10",
+      "capitulo": 1,
+      "versiculos": [
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "9-10",
+      "pagina_original": 1701,
+      "remissoes": [],
+      "texto": "A cooperação eo amor que deve ser normal entre os cristãos havia sido quebrado pelo comportamento de Diótrefes, que abusou de sua posição de liderança na congregação, atacando outros obreiros cristãos.Evidentemente Diótrefes considerados outros professores cristãos como ameaças e não como colegas de trabalho. Orgulhoso e egoísta, ele virou-se evangelistas viajando e punidos com a excomunhão aqueles que os acolheu.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1701,
+        "rotulo_impresso": "9-10"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0006",
+      "referencia": "9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "9",
+      "pagina_original": 1702,
+      "remissoes": [],
+      "texto": "Tenho escrito alguma coisa para a igreja. Uma carta anterior, que não sobreviveu.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1702,
+        "rotulo_impresso": "9"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0007",
+      "referencia": "10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "10",
+      "pagina_original": 1702,
+      "remissoes": [],
+      "texto": "se eu for, eu vou trazer o que ele está fazendo. resposta discreta do autor à provocação grave de Diótrefes indica sua sensibilidade pastoral, mas também não deixa dúvidas de que a sua visita vai colocar um ponto decisivo para o comportamento de Diótrefes. Presença pessoal do apóstolo era uma extensão da presença de autoridade de Cristo, tanto para o incentivo e de aviso ( 2 Coríntios. 13:1- 3 , 10 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1702,
+        "rotulo_impresso": "10"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "2 Coríntios. 13:1",
+          "livro": "2Co",
+          "capitulo": 13,
+          "versiculo": 1
+        }
+      ]
+    },
+    {
+      "id": "gen-3jo-0008",
+      "referencia": "11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "11",
+      "pagina_original": 1702,
+      "remissoes": [],
+      "texto": "tirania como a de Diótrefes reflete o oposto do amor de Deus; a tentação de responder na mesma moeda deve ser resistido.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1702,
+        "rotulo_impresso": "11"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0009",
+      "referencia": "12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "12",
+      "pagina_original": 1702,
+      "remissoes": [],
+      "texto": "O corpo da carta termina com uma recomendação de Demetrius, o portador da carta, como um cristão fiel. Essa comenda pelo nome, como a nomeação do destinatário da carta, foi necessário para garantir que a carta não foi nem suprimida nem mal utilizado por aqueles que, como Diótrefes, iria perturbar a unidade da congregação (v. 9 ). Demétrio pode ter sido um professor itinerante si mesmo; se assim for, a carta de João encorajaria Gaius para mostrar hospitalidade.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1702,
+        "rotulo_impresso": "12"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-3jo-0010",
+      "referencia": "13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "13",
+      "pagina_original": 1702,
+      "remissoes": [],
+      "texto": ", 14 A carta termina de uma forma similar à 2 João 12 , 13 , com uma diferença de formulação, mas o mesmo toque pessoal.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1702,
+        "rotulo_impresso": "13"
+      },
+      "citacoes_validadas": []
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

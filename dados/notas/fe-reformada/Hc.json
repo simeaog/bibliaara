@@ -1,0 +1,3181 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Hc",
+  "titulo": "Habacuque",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "075 - Habacuque (Hc).pdf",
+    "paginas_pdf": [
+      1,
+      7
+    ],
+    "observacao": "Cotejo visual das páginas 1600–1606. Subtítulos e parágrafos estruturados; itálicos, segunda leitura independente e teste funcional pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-hc-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.1 Sentenga. Usualmente, termo tecnico que",
+        "texto_ocr_pre_normalizacao": "Sentenga. Usualmente, termo tecnico que se refere a uma profecia de julgamento contra uma nagao estrangeira (Is 13.1; 15.1; Na 1.1;cf.nota sobre Ml 1.1). revelada. A mensagem divina assumiu a forma de uma revelagao sobrenatural dada a conscienciainterior do profetacom tanta dareza e nitidez quanto a visao ou a audigao fisica (Mq 1.1). profeta Habacuque. Ver Introdugao: Titulo e Autor.",
+        "correcoes_literal_reversiveis": {
+          "nagao": 1,
+          "revelagao": 1,
+          "Introdugao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Sentença. Usualmente, termo técnico que se refere a uma profecia de julgamento contra uma nação estrangeira (Is 13.1; 15.1; Na 1.1; cf. nota sobre Ml 1.1).\n\nrevelada. A mensagem divina assumiu a forma de uma revelação sobrenatural dada à consciência interior do profeta com tanta clareza e nitidez quanto a visão ou a audição física (Mq 1.1).\n\nprofeta Habacuque. Ver Introdução: Título e Autor.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Ml",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Sentença.",
+          "texto": "Usualmente, termo técnico que se refere a uma profecia de julgamento contra uma nação estrangeira (Is 13.1; 15.1; Na 1.1; cf. nota sobre Ml 1.1)."
+        },
+        {
+          "titulo": "revelada.",
+          "texto": "A mensagem divina assumiu a forma de uma revelação sobrenatural dada à consciência interior do profeta com tanta clareza e nitidez quanto a visão ou a audição física (Mq 1.1)."
+        },
+        {
+          "titulo": "profeta Habacuque.",
+          "texto": "Ver Introdução: Título e Autor."
+        }
+      ],
+      "paragrafos": [
+        "Sentença. Usualmente, termo técnico que se refere a uma profecia de julgamento contra uma nação estrangeira (Is 13.1; 15.1; Na 1.1; cf. nota sobre Ml 1.1).",
+        "revelada. A mensagem divina assumiu a forma de uma revelação sobrenatural dada à consciência interior do profeta com tanta clareza e nitidez quanto a visão ou a audição física (Mq 1.1).",
+        "profeta Habacuque. Ver Introdução: Título e Autor."
+      ]
+    },
+    {
+      "id": "fr-hc-0002",
+      "referencia": "1.2-4",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.2-4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.2-4 A primeira queixadeHabacuque:o profetase",
+        "texto_ocr_pre_normalizacao": "A primeira queixadeHabacuque:o profetase entristecee ficachocado pelomodocomo osimpios prosperam a custa dos justos.Os impios na comunidade da alianga nao vivem mais como urn povo santoe eleito (Ex 19.4-6). Mas Habacuque ficaainda maispreocupadocomaaparenteinatividade do Senhor. A quebra da alianga deveria trazer maldigoes e julgamento (Dt 28.15-68).Portanto,em linguagem reminiscentedos salmosdequeixaindividual,o profetaapelaao Senhor para que corrija uma situagao visivelmente desanimadora.0 dialogo fervorosode HabacuqueesualutaangustiantecomoSenhor dominama primeiraparte dolivro(1.2-2.20).",
+        "correcoes_literal_reversiveis": {
+          "alianga": 2,
+          "nao": 1,
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A primeira queixa de Habacuque: o profeta se entristece e fica chocado pelo modo como os ímpios prosperam à custa dos justos. Os ímpios na comunidade da aliança não vivem mais como um povo santo e eleito (Êx 19.4-6). Mas Habacuque fica ainda mais preocupado com a aparente inatividade do Senhor. A quebra da aliança deveria trazer maldições e julgamento (Dt 28.15-68). Portanto, em linguagem reminiscente dos salmos de queixa individual, o profeta apela ao Senhor para que corrija uma situação visivelmente desanimadora. O diálogo fervoroso de Habacuque e sua luta angustiante com o Senhor dominam a primeira parte do livro (1.2–2.20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A primeira queixa de Habacuque: o profeta se entristece e fica chocado pelo modo como os ímpios prosperam à custa dos justos. Os ímpios na comunidade da aliança não vivem mais como um povo santo e eleito (Êx 19.4-6). Mas Habacuque fica ainda mais preocupado com a aparente inatividade do Senhor. A quebra da aliança deveria trazer maldições e julgamento (Dt 28.15-68). Portanto, em linguagem reminiscente dos salmos de queixa individual, o profeta apela ao Senhor para que corrija uma situação visivelmente desanimadora. O diálogo fervoroso de Habacuque e sua luta angustiante com o Senhor dominam a primeira parte do livro (1.2–2.20)."
+        }
+      ],
+      "paragrafos": [
+        "A primeira queixa de Habacuque: o profeta se entristece e fica chocado pelo modo como os ímpios prosperam à custa dos justos. Os ímpios na comunidade da aliança não vivem mais como um povo santo e eleito (Êx 19.4-6). Mas Habacuque fica ainda mais preocupado com a aparente inatividade do Senhor. A quebra da aliança deveria trazer maldições e julgamento (Dt 28.15-68). Portanto, em linguagem reminiscente dos salmos de queixa individual, o profeta apela ao Senhor para que corrija uma situação visivelmente desanimadora. O diálogo fervoroso de Habacuque e sua luta angustiante com o Senhor dominam a primeira parte do livro (1.2–2.20)."
+      ]
+    },
+    {
+      "id": "fr-hc-0003",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.2 Ate quando. Essa pergunta impaciente, ca-",
+        "texto_ocr_pre_normalizacao": "Ate quando. Essa pergunta impaciente, caracterfstica dos salmos de lamento (S113.2; 62.3; Jr 47.6), indica tanto incomodo como perseveranga no apelo do profeta ao Senhor, o Juiz supremo nas questoesdedesobedienciaaalianga. clamarei eu. Isso indica o clamor altissonante de alguem que esta em profunda tristeza (SI 22.24; 30.2). violencia. Esse termo resume a violagao deliberada,brutal e insensivel dos direitos e privileges dos membrosdacomunidadedaalianga.0 termo “destruigao\" (v. 3) diz respeito mais ao dano causado as propriedadesdoqueaurnataquepessoalmalicioso. nao salvaras.Habacuqueobserva,comtristeza, as aparentes indiferenga e inatividade do Senhor em face de urnsofrimento imerecido.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Até quando. Essa pergunta impaciente, característica dos salmos de lamento (Sl 13.2; 62.3; Jr 47.6), indica tanto incômodo como perseverança no apelo do profeta ao Senhor, o Juiz supremo nas questões de desobediência à aliança.\n\nclamarei eu. Isso indica o clamor altissonante de alguém que está em profunda tristeza (Sl 22.24; 30.2).\n\nviolência. Esse termo resume a violação deliberada, brutal e insensível dos direitos e privilégios dos membros da comunidade da aliança. O termo “destruição” (v. 3) diz respeito mais ao dano causado às propriedades do que a um ataque pessoal malicioso.\n\nnão salvarás. Habacuque observa, com tristeza, as aparentes indiferença e inatividade do Senhor em face de um sofrimento imerecido.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Até quando.",
+          "texto": "Essa pergunta impaciente, característica dos salmos de lamento (Sl 13.2; 62.3; Jr 47.6), indica tanto incômodo como perseverança no apelo do profeta ao Senhor, o Juiz supremo nas questões de desobediência à aliança."
+        },
+        {
+          "titulo": "clamarei eu.",
+          "texto": "Isso indica o clamor altissonante de alguém que está em profunda tristeza (Sl 22.24; 30.2)."
+        },
+        {
+          "titulo": "violência.",
+          "texto": "Esse termo resume a violação deliberada, brutal e insensível dos direitos e privilégios dos membros da comunidade da aliança. O termo “destruição” (v. 3) diz respeito mais ao dano causado às propriedades do que a um ataque pessoal malicioso."
+        },
+        {
+          "titulo": "não salvarás.",
+          "texto": "Habacuque observa, com tristeza, as aparentes indiferença e inatividade do Senhor em face de um sofrimento imerecido."
+        }
+      ],
+      "paragrafos": [
+        "Até quando. Essa pergunta impaciente, característica dos salmos de lamento (Sl 13.2; 62.3; Jr 47.6), indica tanto incômodo como perseverança no apelo do profeta ao Senhor, o Juiz supremo nas questões de desobediência à aliança.",
+        "clamarei eu. Isso indica o clamor altissonante de alguém que está em profunda tristeza (Sl 22.24; 30.2).",
+        "violência. Esse termo resume a violação deliberada, brutal e insensível dos direitos e privilégios dos membros da comunidade da aliança. O termo “destruição” (v. 3) diz respeito mais ao dano causado às propriedades do que a um ataque pessoal malicioso.",
+        "não salvarás. Habacuque observa, com tristeza, as aparentes indiferença e inatividade do Senhor em face de um sofrimento imerecido."
+      ]
+    },
+    {
+      "id": "fr-hc-0004",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.3 Por que... fazes. A pergunta da continui-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Por que... fazes. A pergunta dá continuidade à queixa (cf. Lm 5.20).\n\niniquidade. Literalmente, “labor” (ou “labuta”) que leva a angústia, exaustão e desânimo.\n\ncontendas... litígio. A impiedade incontida resulta em uma comunidade dividida e cheia de suspeitas, acusações e ataques pessoais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Por que... fazes.",
+          "texto": "A pergunta dá continuidade à queixa (cf. Lm 5.20)."
+        },
+        {
+          "titulo": "iniquidade.",
+          "texto": "Literalmente, “labor” (ou “labuta”) que leva a angústia, exaustão e desânimo."
+        },
+        {
+          "titulo": "contendas... litígio.",
+          "texto": "A impiedade incontida resulta em uma comunidade dividida e cheia de suspeitas, acusações e ataques pessoais."
+        }
+      ],
+      "paragrafos": [
+        "Por que... fazes. A pergunta dá continuidade à queixa (cf. Lm 5.20).",
+        "iniquidade. Literalmente, “labor” (ou “labuta”) que leva a angústia, exaustão e desânimo.",
+        "contendas... litígio. A impiedade incontida resulta em uma comunidade dividida e cheia de suspeitas, acusações e ataques pessoais."
+      ]
+    },
+    {
+      "id": "fr-hc-0005",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.4 a lei se afrouxa. Literalmente, \"a lei e pa-",
+        "texto_ocr_pre_normalizacao": "a lei se afrouxa. Literalmente, \"a lei e paralisada” A palavra que significa \"lei” (do hebraico torah) denota o padrao revelado por Deus para a vida na alianga. 0 poder e a influencia dos impios tornama lei ineficaz, porque juizes justos nao podem ser achados. Apesar disso,aindahaurn remanescente justonaterra. o perverso. Aqueles em Israel que desprezam a lei e a vontade do Senhor. Eles dominam a sociedade em Juda, impedindo que os justos recebam justiga.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1,
+          "nao": 1,
+          "justiga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a lei se afrouxa. Literalmente, “a lei é paralisada”. A palavra que significa “lei” (do hebraico torah) denota o padrão revelado por Deus para a vida na aliança. O poder e a influência dos ímpios tornam a lei ineficaz, porque juízes justos não podem ser achados. Apesar disso, ainda há um remanescente justo na terra.\n\no perverso. Aqueles em Israel que desprezam a lei e a vontade do Senhor. Eles dominam a sociedade em Judá, impedindo que os justos recebam justiça.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "a lei se afrouxa.",
+          "texto": "Literalmente, “a lei é paralisada”. A palavra que significa “lei” (do hebraico torah) denota o padrão revelado por Deus para a vida na aliança. O poder e a influência dos ímpios tornam a lei ineficaz, porque juízes justos não podem ser achados. Apesar disso, ainda há um remanescente justo na terra."
+        },
+        {
+          "titulo": "o perverso.",
+          "texto": "Aqueles em Israel que desprezam a lei e a vontade do Senhor. Eles dominam a sociedade em Judá, impedindo que os justos recebam justiça."
+        }
+      ],
+      "paragrafos": [
+        "a lei se afrouxa. Literalmente, “a lei é paralisada”. A palavra que significa “lei” (do hebraico torah) denota o padrão revelado por Deus para a vida na aliança. O poder e a influência dos ímpios tornam a lei ineficaz, porque juízes justos não podem ser achados. Apesar disso, ainda há um remanescente justo na terra.",
+        "o perverso. Aqueles em Israel que desprezam a lei e a vontade do Senhor. Eles dominam a sociedade em Judá, impedindo que os justos recebam justiça."
+      ]
+    },
+    {
+      "id": "fr-hc-0006",
+      "referencia": "1.5-11",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.5-11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.5-11Aprimeiraresposta de Deus:o Senhor ja esta",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A primeira resposta de Deus: o Senhor já está agindo. Ele enviará os babilônios para julgar seu povo. Ele usa instrumentos estranhos contra seu povo infiel — os terríveis babilônios (cf. Is 10.5, 6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A primeira resposta de Deus: o Senhor já está agindo. Ele enviará os babilônios para julgar seu povo. Ele usa instrumentos estranhos contra seu povo infiel — os terríveis babilônios (cf. Is 10.5, 6)."
+        }
+      ],
+      "paragrafos": [
+        "A primeira resposta de Deus: o Senhor já está agindo. Ele enviará os babilônios para julgar seu povo. Ele usa instrumentos estranhos contra seu povo infiel — os terríveis babilônios (cf. Is 10.5, 6)."
+      ]
+    },
+    {
+      "id": "fr-hc-0007",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.5 maravilhai-vos... nao crereis. No tempo",
+        "texto_ocr_pre_normalizacao": "maravilhai-vos... nao crereis. No tempo daqueixadeHabacuqueaDeus,osbabiloniosainda naohaviamchegadoaumaposigaodepoder no antigo OrienteProximo. Todos ficarao surpresos com a vindadosbabilonios parapuniros impiosemJuda.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "maravilhai-vos... não crereis. No tempo da queixa de Habacuque a Deus, os babilônios ainda não haviam chegado a uma posição de poder no antigo Oriente Próximo. Todos ficarão surpresos com a vinda dos babilônios para punir os ímpios em Judá.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "maravilhai-vos... não crereis.",
+          "texto": "No tempo da queixa de Habacuque a Deus, os babilônios ainda não haviam chegado a uma posição de poder no antigo Oriente Próximo. Todos ficarão surpresos com a vinda dos babilônios para punir os ímpios em Judá."
+        }
+      ],
+      "paragrafos": [
+        "maravilhai-vos... não crereis. No tempo da queixa de Habacuque a Deus, os babilônios ainda não haviam chegado a uma posição de poder no antigo Oriente Próximo. Todos ficarão surpresos com a vinda dos babilônios para punir os ímpios em Judá."
+      ]
+    },
+    {
+      "id": "fr-hc-0008",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.6 eis que suscito. 0 soberano Deus de Israel",
+        "texto_ocr_pre_normalizacao": "eis que suscito. 0 soberano Deus de Israel controla todopoder na historia,inclusive osagressivoscaldeus. caldeus. Tambem chamados babilonios ou neobabilonios, os caldeus assumiram o controle da Babilonia em 626 a.C., quando o poder da Assiria dedinou. Desempenharam urn papel importante na destruigao de Ninive, capital da Assiria, em 612 a.C. Depois de vencerem o exercito egipcio em 605 a.C., eles estabeleceram urn imperio que durou ate os persas capturarem a capital,a cidade da Babilonia,em 539 a.C.",
+        "correcoes_literal_reversiveis": {
+          "urn": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "eis que suscito. O soberano Deus de Israel controla todo poder na história, inclusive os agressivos caldeus.\n\ncaldeus. Também chamados babilônios ou neobabilônios, os caldeus assumiram o controle da Babilônia em 626 a.C., quando o poder da Assíria declinou. Desempenharam um papel importante na destruição de Nínive, capital da Assíria, em 612 a.C. Depois de vencerem o exército egípcio em 605 a.C., eles estabeleceram um império que durou até os persas capturarem a capital, a cidade da Babilônia, em 539 a.C.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "eis que suscito.",
+          "texto": "O soberano Deus de Israel controla todo poder na história, inclusive os agressivos caldeus."
+        },
+        {
+          "titulo": "caldeus.",
+          "texto": "Também chamados babilônios ou neobabilônios, os caldeus assumiram o controle da Babilônia em 626 a.C., quando o poder da Assíria declinou. Desempenharam um papel importante na destruição de Nínive, capital da Assíria, em 612 a.C. Depois de vencerem o exército egípcio em 605 a.C., eles estabeleceram um império que durou até os persas capturarem a capital, a cidade da Babilônia, em 539 a.C."
+        }
+      ],
+      "paragrafos": [
+        "eis que suscito. O soberano Deus de Israel controla todo poder na história, inclusive os agressivos caldeus.",
+        "caldeus. Também chamados babilônios ou neobabilônios, os caldeus assumiram o controle da Babilônia em 626 a.C., quando o poder da Assíria declinou. Desempenharam um papel importante na destruição de Nínive, capital da Assíria, em 612 a.C. Depois de vencerem o exército egípcio em 605 a.C., eles estabeleceram um império que durou até os persas capturarem a capital, a cidade da Babilônia, em 539 a.C."
+      ]
+    },
+    {
+      "id": "fr-hc-0009",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1600,
+        "rotulo_original_ocr": "1.7 eles mesmos... direito. Isso descreve a",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "eles mesmos... direito. Isso descreve a arrogância do inimigo vindouro, cujos padrões de ação e honra são totalmente autodeterminados e autocentrados, sem respeito aos direitos dos outros, nem mesmo a Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "eles mesmos... direito.",
+          "texto": "Isso descreve a arrogância do inimigo vindouro, cujos padrões de ação e honra são totalmente autodeterminados e autocentrados, sem respeito aos direitos dos outros, nem mesmo a Deus."
+        }
+      ],
+      "paragrafos": [
+        "eles mesmos... direito. Isso descreve a arrogância do inimigo vindouro, cujos padrões de ação e honra são totalmente autodeterminados e autocentrados, sem respeito aos direitos dos outros, nem mesmo a Deus."
+      ]
+    },
+    {
+      "id": "fr-hc-0010",
+      "referencia": "1.8,9",
+      "capitulo": 1,
+      "versiculos": [
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.8,9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.8, 9 Imagens vividas descrevem a rapidez e",
+        "texto_ocr_pre_normalizacao": "Imagens vividas descrevem a rapidez e a determinagao desses guerreiros violentos e irresistiveis. lobos ao anoitecer. Esfomeados porque nao comeram odiainteiroe,portanto,ferozese resolutosem identificar edevorar presas.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Imagens vívidas descrevem a rapidez e a determinação desses guerreiros violentos e irresistíveis.\n\nlobos ao anoitecer. Esfomeados porque não comeram o dia inteiro e, portanto, ferozes e resolutos em identificar e devorar presas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Imagens vívidas descrevem a rapidez e a determinação desses guerreiros violentos e irresistíveis."
+        },
+        {
+          "titulo": "lobos ao anoitecer.",
+          "texto": "Esfomeados porque não comeram o dia inteiro e, portanto, ferozes e resolutos em identificar e devorar presas."
+        }
+      ],
+      "paragrafos": [
+        "Imagens vívidas descrevem a rapidez e a determinação desses guerreiros violentos e irresistíveis.",
+        "lobos ao anoitecer. Esfomeados porque não comeram o dia inteiro e, portanto, ferozes e resolutos em identificar e devorar presas."
+      ]
+    },
+    {
+      "id": "fr-hc-0011",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.10 escarnecem dos reis. 0s intimidadores",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "escarnecem dos reis. Os intimidadores exércitos babilônicos veem os obstáculos como desafios e tratam sua oposição com desdém.\n\namontoando terra. Rampas de cerco construídas por atacantes para ter acesso às muralhas de uma cidade fortificada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "escarnecem dos reis.",
+          "texto": "Os intimidadores exércitos babilônicos veem os obstáculos como desafios e tratam sua oposição com desdém."
+        },
+        {
+          "titulo": "amontoando terra.",
+          "texto": "Rampas de cerco construídas por atacantes para ter acesso às muralhas de uma cidade fortificada."
+        }
+      ],
+      "paragrafos": [
+        "escarnecem dos reis. Os intimidadores exércitos babilônicos veem os obstáculos como desafios e tratam sua oposição com desdém.",
+        "amontoando terra. Rampas de cerco construídas por atacantes para ter acesso às muralhas de uma cidade fortificada."
+      ]
+    },
+    {
+      "id": "fr-hc-0012",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.11cujo poder e o seu deus. Ou \"este seu po-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "cujo poder é o seu deus. Ou “este seu poder é seu deus”. O orgulho, especialmente a deificação do próprio poder de alguém, é ofensivo a Deus, o único que merece adoração.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "cujo poder é o seu deus.",
+          "texto": "Ou “este seu poder é seu deus”. O orgulho, especialmente a deificação do próprio poder de alguém, é ofensivo a Deus, o único que merece adoração."
+        }
+      ],
+      "paragrafos": [
+        "cujo poder é o seu deus. Ou “este seu poder é seu deus”. O orgulho, especialmente a deificação do próprio poder de alguém, é ofensivo a Deus, o único que merece adoração."
+      ]
+    },
+    {
+      "id": "fr-hc-0013",
+      "referencia": "1.12-17",
+      "capitulo": 1,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.12-17",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.12-17 A segunda queixa de Habacuque: nao",
+        "texto_ocr_pre_normalizacao": "A segunda queixa de Habacuque: nao sabemos a extensao de tempo que se passou entre as queixas de Habacuque. Ele expressa sua perplexidade diante do piano do Senhor de usar os perversos babilonios para punir Israel, porque isso parece estar em flagrante oposigao ao carater revelado doproprioDeus.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A segunda queixa de Habacuque: não sabemos a extensão de tempo que se passou entre as queixas de Habacuque. Ele expressa sua perplexidade diante do plano do Senhor de usar os perversos babilônios para punir Israel, porque isso parece estar em flagrante oposição ao caráter revelado do próprio Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A segunda queixa de Habacuque: não sabemos a extensão de tempo que se passou entre as queixas de Habacuque. Ele expressa sua perplexidade diante do plano do Senhor de usar os perversos babilônios para punir Israel, porque isso parece estar em flagrante oposição ao caráter revelado do próprio Deus."
+        }
+      ],
+      "paragrafos": [
+        "A segunda queixa de Habacuque: não sabemos a extensão de tempo que se passou entre as queixas de Habacuque. Ele expressa sua perplexidade diante do plano do Senhor de usar os perversos babilônios para punir Israel, porque isso parece estar em flagrante oposição ao caráter revelado do próprio Deus."
+      ]
+    },
+    {
+      "id": "fr-hc-0014",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.12 desde a eternidade. Como Deus eterno",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "desde a eternidade. Como Deus eterno da história e Senhor de seu povo, ele é livre para escolher os agentes do castigo. Em fé, Habacuque começa por apresentar aquilo de que tem certeza: o caráter de Deus.\n\nmeu Deus, ó meu Santo. Um relacionamento pessoal com o Deus incomparável, o Santo, transforma confusão em convicção de que a angústia presente não será o fim.\n\nNão morreremos. Isso expressa a confiança da fé no fato de que o Senhor cumprirá seu compromisso pactual com Israel (Jr 31.36; 33.23-26).\n\nó Rocha. Esse antigo nome mosaico referente a Deus enfatiza dependência e proteção divina (Dt 32.4, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Dt",
+          "capitulo": 32,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "desde a eternidade.",
+          "texto": "Como Deus eterno da história e Senhor de seu povo, ele é livre para escolher os agentes do castigo. Em fé, Habacuque começa por apresentar aquilo de que tem certeza: o caráter de Deus."
+        },
+        {
+          "titulo": "meu Deus, ó meu Santo.",
+          "texto": "Um relacionamento pessoal com o Deus incomparável, o Santo, transforma confusão em convicção de que a angústia presente não será o fim."
+        },
+        {
+          "titulo": "Não morreremos.",
+          "texto": "Isso expressa a confiança da fé no fato de que o Senhor cumprirá seu compromisso pactual com Israel (Jr 31.36; 33.23-26)."
+        },
+        {
+          "titulo": "ó Rocha.",
+          "texto": "Esse antigo nome mosaico referente a Deus enfatiza dependência e proteção divina (Dt 32.4, nota)."
+        }
+      ],
+      "paragrafos": [
+        "desde a eternidade. Como Deus eterno da história e Senhor de seu povo, ele é livre para escolher os agentes do castigo. Em fé, Habacuque começa por apresentar aquilo de que tem certeza: o caráter de Deus.",
+        "meu Deus, ó meu Santo. Um relacionamento pessoal com o Deus incomparável, o Santo, transforma confusão em convicção de que a angústia presente não será o fim.",
+        "Não morreremos. Isso expressa a confiança da fé no fato de que o Senhor cumprirá seu compromisso pactual com Israel (Jr 31.36; 33.23-26).",
+        "ó Rocha. Esse antigo nome mosaico referente a Deus enfatiza dependência e proteção divina (Dt 32.4, nota)."
+      ]
+    },
+    {
+      "id": "fr-hc-0015",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.13 tao puro de olhos. Como o Deus santo e",
+        "texto_ocr_pre_normalizacao": "tao puro de olhos. Como o Deus santo e todo-poderoso, para quern o pecado e totalmente repugnante,pode permitir que o mal continue desenfreado e impune? os que procedem perfidamente. Literalmente, \"aqueles que agem traigoeiramente\" A referenda e aos babilonios. Habacuque nao pode sequer imaginar como urn Deus santo pode usar uma nagao inescrupulosa e impia para punir Juda, cujo proceder e,comparativamente, \"mais justo\"",
+        "correcoes_literal_reversiveis": {
+          "quern": 1,
+          "nao": 1,
+          "urn": 1,
+          "nagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "tão puro de olhos. Como o Deus santo e todo-poderoso, para quem o pecado é totalmente repugnante, pode permitir que o mal continue desenfreado e impune?\n\nos que procedem perfidamente. Literalmente, “aqueles que agem traiçoeiramente”. A referência é aos babilônios. Habacuque não pode sequer imaginar como um Deus santo pode usar uma nação inescrupulosa e ímpia para punir Judá, cujo proceder é, comparativamente, “mais justo”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "tão puro de olhos.",
+          "texto": "Como o Deus santo e todo-poderoso, para quem o pecado é totalmente repugnante, pode permitir que o mal continue desenfreado e impune?"
+        },
+        {
+          "titulo": "os que procedem perfidamente.",
+          "texto": "Literalmente, “aqueles que agem traiçoeiramente”. A referência é aos babilônios. Habacuque não pode sequer imaginar como um Deus santo pode usar uma nação inescrupulosa e ímpia para punir Judá, cujo proceder é, comparativamente, “mais justo”."
+        }
+      ],
+      "paragrafos": [
+        "tão puro de olhos. Como o Deus santo e todo-poderoso, para quem o pecado é totalmente repugnante, pode permitir que o mal continue desenfreado e impune?",
+        "os que procedem perfidamente. Literalmente, “aqueles que agem traiçoeiramente”. A referência é aos babilônios. Habacuque não pode sequer imaginar como um Deus santo pode usar uma nação inescrupulosa e ímpia para punir Judá, cujo proceder é, comparativamente, “mais justo”."
+      ]
+    },
+    {
+      "id": "fr-hc-0016",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1601,
+        "rotulo_original_ocr": "1.14 fazes os homens. Uma acusagao ousa-",
+        "texto_ocr_pre_normalizacao": "fazes os homens. Uma acusagao ousada da parte de Habacuque. Se o Senhor tolera as agoesperversasdosbabilonios,torna-se responsavelpelo destino das vitimas deles. como os peixes. A figura daBabiloniacomo urn pescador queapanhapeixes indefesos edesenvolvidanos versiculos14-17.Pescar era umaatividade importante na Babilonia, que estava localizada na regiao dos rios Tigres e Eufrates, e fazia fronteira, ao sul,com o golfo Persico. Alguns relevos de muralhas do antigo Oriente Proximo retratam governantes vitoriosos levando cativos em redes de pesca. nao tern quern os governe. Nao ha ninguem para protege-los. No antigo Oriente Proximo, os reis eram vistos como os protetores de seu povo (lSm 8.20). Uma acusagao implicita tambem pode estar presente aqui, visto que o Senhor e o rei e protetor supremo de seu povo (Dt 33.5;Is 63.18,19).",
+        "correcoes_literal_reversiveis": {
+          "urn": 1,
+          "nao": 1,
+          "tern": 1,
+          "quern": 1,
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "fazes os homens. Uma acusação ousada da parte de Habacuque. Se o Senhor tolera as ações perversas dos babilônios, torna-se responsável pelo destino das vítimas deles.\n\ncomo os peixes. A figura da Babilônia como um pescador que apanha peixes indefesos é desenvolvida nos versículos 14-17. Pescar era uma atividade importante na Babilônia, que estava localizada na região dos rios Tigres e Eufrates, e fazia fronteira, ao sul, com o golfo Pérsico. Alguns relevos de muralhas do antigo Oriente Próximo retratam governantes vitoriosos levando cativos em redes de pesca.\n\nnão têm quem os governe. Não há ninguém para protegê-los. No antigo Oriente Próximo, os reis eram vistos como os protetores de seu povo (1Sm 8.20). Uma acusação implícita também pode estar presente aqui, visto que o Senhor é o rei e protetor supremo de seu povo (Dt 33.5; Is 63.18, 19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "fazes os homens.",
+          "texto": "Uma acusação ousada da parte de Habacuque. Se o Senhor tolera as ações perversas dos babilônios, torna-se responsável pelo destino das vítimas deles."
+        },
+        {
+          "titulo": "como os peixes.",
+          "texto": "A figura da Babilônia como um pescador que apanha peixes indefesos é desenvolvida nos versículos 14-17. Pescar era uma atividade importante na Babilônia, que estava localizada na região dos rios Tigres e Eufrates, e fazia fronteira, ao sul, com o golfo Pérsico. Alguns relevos de muralhas do antigo Oriente Próximo retratam governantes vitoriosos levando cativos em redes de pesca."
+        },
+        {
+          "titulo": "não têm quem os governe.",
+          "texto": "Não há ninguém para protegê-los. No antigo Oriente Próximo, os reis eram vistos como os protetores de seu povo (1Sm 8.20). Uma acusação implícita também pode estar presente aqui, visto que o Senhor é o rei e protetor supremo de seu povo (Dt 33.5; Is 63.18, 19)."
+        }
+      ],
+      "paragrafos": [
+        "fazes os homens. Uma acusação ousada da parte de Habacuque. Se o Senhor tolera as ações perversas dos babilônios, torna-se responsável pelo destino das vítimas deles.",
+        "como os peixes. A figura da Babilônia como um pescador que apanha peixes indefesos é desenvolvida nos versículos 14-17. Pescar era uma atividade importante na Babilônia, que estava localizada na região dos rios Tigres e Eufrates, e fazia fronteira, ao sul, com o golfo Pérsico. Alguns relevos de muralhas do antigo Oriente Próximo retratam governantes vitoriosos levando cativos em redes de pesca.",
+        "não têm quem os governe. Não há ninguém para protegê-los. No antigo Oriente Próximo, os reis eram vistos como os protetores de seu povo (1Sm 8.20). Uma acusação implícita também pode estar presente aqui, visto que o Senhor é o rei e protetor supremo de seu povo (Dt 33.5; Is 63.18, 19)."
+      ]
+    },
+    {
+      "id": "fr-hc-0017",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1602,
+        "rotulo_original_ocr": "1.16 oferece sacrificio. 0s instrumentos de seu",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "oferece sacrifício. Os instrumentos de seu sucesso são idolatrados e adorados (v. 11, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Hc",
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "oferece sacrifício.",
+          "texto": "Os instrumentos de seu sucesso são idolatrados e adorados (v. 11, nota)."
+        }
+      ],
+      "paragrafos": [
+        "oferece sacrifício. Os instrumentos de seu sucesso são idolatrados e adorados (v. 11, nota)."
+      ]
+    },
+    {
+      "id": "fr-hc-0018",
+      "referencia": "2.1-20",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.1-20",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1602,
+        "rotulo_original_ocr": "2.1-20 A segunda resposta de Deus: Habacuque",
+        "texto_ocr_pre_normalizacao": "A segunda resposta de Deus: Habacuque recebe uma resposta as suas perguntas angustiantes em 1.12-17. Deus mostrara que e justo e o justificador daqueles que tem fe nele.0 resultado final da historia sera a adoragao do umco rei santo e justo (v. 20).0 destino das nagoes, bem como dos individuos. sera determinado por sua atitude paracom Deus,manifestadaem dependence fiel e perseverante ou em rejeigao arrogante (S11;2 2-3) Nesseinterim,Deuschama seupovo paraviver por meiodefe perseverante",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A segunda resposta de Deus: Habacuque recebe uma resposta às suas perguntas angustiantes em 1.12-17. Deus mostrará que é justo e o justificador daqueles que têm fé nele. O resultado final da história será a adoração do único rei santo e justo (v. 20). O destino das nações, bem como dos indivíduos, será determinado por sua atitude para com Deus, manifestada em dependência fiel e perseverante ou em rejeição arrogante (Sl 1; 2.2-3). Nesse ínterim, Deus chama seu povo para viver por meio de fé perseverante.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A segunda resposta de Deus: Habacuque recebe uma resposta às suas perguntas angustiantes em 1.12-17. Deus mostrará que é justo e o justificador daqueles que têm fé nele. O resultado final da história será a adoração do único rei santo e justo (v. 20). O destino das nações, bem como dos indivíduos, será determinado por sua atitude para com Deus, manifestada em dependência fiel e perseverante ou em rejeição arrogante (Sl 1; 2.2-3). Nesse ínterim, Deus chama seu povo para viver por meio de fé perseverante."
+        }
+      ],
+      "paragrafos": [
+        "A segunda resposta de Deus: Habacuque recebe uma resposta às suas perguntas angustiantes em 1.12-17. Deus mostrará que é justo e o justificador daqueles que têm fé nele. O resultado final da história será a adoração do único rei santo e justo (v. 20). O destino das nações, bem como dos indivíduos, será determinado por sua atitude para com Deus, manifestada em dependência fiel e perseverante ou em rejeição arrogante (Sl 1; 2.2-3). Nesse ínterim, Deus chama seu povo para viver por meio de fé perseverante."
+      ]
+    },
+    {
+      "id": "fr-hc-0019",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1602,
+        "rotulo_original_ocr": "2.1 Um versiculo de transigao. 0 questiona-",
+        "texto_ocr_pre_normalizacao": "Um versiculo de transigao. 0 questionamento angustiado deHabacuque o conduz a fonte de todaa sabedoria, a fim de esperar por uma resposta.Suaspalavrasexpressam adeterminagao de esperar por uma resposta Deus e soberano tanto em palavra como em obras - sua revelagao nao pode ser forgada. torre de vigia... fortaleza. Termos militares que descrevem figurativamente o profeta como um atalaia em vigilancia por uma palavra de Deus (Is 62.6,7;Ez 3.16; 33.1-9)",
+        "correcoes_literal_reversiveis": {
+          "revelagao": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Um versículo de transição. O questionamento angustiado de Habacuque o conduz à fonte de toda a sabedoria, a fim de esperar por uma resposta. Suas palavras expressam a determinação de esperar por uma resposta. Deus é soberano tanto em palavra como em obras — sua revelação não pode ser forçada.\n\ntorre de vigia... fortaleza. Termos militares que descrevem figurativamente o profeta como um atalaia em vigilância por uma palavra de Deus (Is 62.6, 7; Ez 3.16; 33.1-9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Um versículo de transição.",
+          "texto": "O questionamento angustiado de Habacuque o conduz à fonte de toda a sabedoria, a fim de esperar por uma resposta. Suas palavras expressam a determinação de esperar por uma resposta. Deus é soberano tanto em palavra como em obras — sua revelação não pode ser forçada."
+        },
+        {
+          "titulo": "torre de vigia... fortaleza.",
+          "texto": "Termos militares que descrevem figurativamente o profeta como um atalaia em vigilância por uma palavra de Deus (Is 62.6, 7; Ez 3.16; 33.1-9)."
+        }
+      ],
+      "paragrafos": [
+        "Um versículo de transição. O questionamento angustiado de Habacuque o conduz à fonte de toda a sabedoria, a fim de esperar por uma resposta. Suas palavras expressam a determinação de esperar por uma resposta. Deus é soberano tanto em palavra como em obras — sua revelação não pode ser forçada.",
+        "torre de vigia... fortaleza. Termos militares que descrevem figurativamente o profeta como um atalaia em vigilância por uma palavra de Deus (Is 62.6, 7; Ez 3.16; 33.1-9)."
+      ]
+    },
+    {
+      "id": "fr-hc-0020",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1602,
+        "rotulo_original_ocr": "2.2 Escreve... grava-a sobre tabuas. A fim",
+        "texto_ocr_pre_normalizacao": "Escreve... grava-a sobre tabuas. A fim de que seja preservada e transmitida (cf.Jr 30.2; Na 1.1) como um testemunho de longa duragao, porquea intervengao do Senhor exigira tempo parase visao. Ver nota em 1.1 possa ler ate quern passa correndo. Talvez uma figura (embora alguns sugiram que Habacuque escreveu realmente um oraculo em tabuletas grandes) indicando que a profecia de Habacuque deve ser tornada publica Ou o escrito deve ser tao daro que um mensageiro que esta correndo com as tabuletas possa le-las, ou que a dareza do escrito capacite um transeunte a ler sem dificuldade (ou seja, “que alguem possa le-la rapidamente\") 2.B tempo determinado... nao tardara. Um periodo fixo deve transcorrer antes que a profeciase cumpra, mas isso nao deve ser conside rado falha ou engano Pelo contrario, esse tempo pode ser suportado com a garantia do Senhor de que o cumprimento da profecia se aproxima 0 julgamento sobre os babilonios veio (muito tempo depois da visao de Habacuque), por meio de Ciro, em 29 de outubrode539a.C.",
+        "correcoes_literal_reversiveis": {
+          "quern": 1,
+          "nao": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Escreve... grava-a sobre tábuas. A fim de que seja preservada e transmitida (cf. Jr 30.2; Na 1.1) como um testemunho de longa duração, porque a intervenção do Senhor exigirá tempo para se desenvolver.\n\nvisão. Ver nota em 1.1.\n\npossa ler até quem passa correndo. Talvez uma figura (embora alguns sugiram que Habacuque escreveu realmente um oráculo em tabuletas grandes) indicando que a profecia de Habacuque deve ser tornada pública. Ou o escrito deve ser tão claro que um mensageiro que está correndo com as tabuletas possa lê-las, ou que a clareza do escrito capacite um transeunte a ler sem dificuldade (ou seja, “que alguém possa lê-la rapidamente”).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Hc",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Escreve... grava-a sobre tábuas.",
+          "texto": "A fim de que seja preservada e transmitida (cf. Jr 30.2; Na 1.1) como um testemunho de longa duração, porque a intervenção do Senhor exigirá tempo para se desenvolver."
+        },
+        {
+          "titulo": "visão.",
+          "texto": "Ver nota em 1.1."
+        },
+        {
+          "titulo": "possa ler até quem passa correndo.",
+          "texto": "Talvez uma figura (embora alguns sugiram que Habacuque escreveu realmente um oráculo em tabuletas grandes) indicando que a profecia de Habacuque deve ser tornada pública. Ou o escrito deve ser tão claro que um mensageiro que está correndo com as tabuletas possa lê-las, ou que a clareza do escrito capacite um transeunte a ler sem dificuldade (ou seja, “que alguém possa lê-la rapidamente”)."
+        }
+      ],
+      "paragrafos": [
+        "Escreve... grava-a sobre tábuas. A fim de que seja preservada e transmitida (cf. Jr 30.2; Na 1.1) como um testemunho de longa duração, porque a intervenção do Senhor exigirá tempo para se desenvolver.",
+        "visão. Ver nota em 1.1.",
+        "possa ler até quem passa correndo. Talvez uma figura (embora alguns sugiram que Habacuque escreveu realmente um oráculo em tabuletas grandes) indicando que a profecia de Habacuque deve ser tornada pública. Ou o escrito deve ser tão claro que um mensageiro que está correndo com as tabuletas possa lê-las, ou que a clareza do escrito capacite um transeunte a ler sem dificuldade (ou seja, “que alguém possa lê-la rapidamente”)."
+      ]
+    },
+    {
+      "id": "fr-hc-0055",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1602,
+        "rotulo_original_ocr": "2.3",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "tempo determinado... não tardará. Um período fixo deve transcorrer antes que a profecia se cumpra, mas isso não deve ser considerado falha ou engano. Pelo contrário, esse tempo pode ser suportado com a garantia do Senhor de que o cumprimento da profecia se aproxima. O julgamento sobre os babilônios veio (muito tempo depois da visão de Habacuque), por meio de Ciro, em 29 de outubro de 539 a.C.",
+      "remissoes": [],
+      "links_notas": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "tempo determinado... não tardará.",
+          "texto": "Um período fixo deve transcorrer antes que a profecia se cumpra, mas isso não deve ser considerado falha ou engano. Pelo contrário, esse tempo pode ser suportado com a garantia do Senhor de que o cumprimento da profecia se aproxima. O julgamento sobre os babilônios veio (muito tempo depois da visão de Habacuque), por meio de Ciro, em 29 de outubro de 539 a.C."
+        }
+      ],
+      "paragrafos": [
+        "tempo determinado... não tardará. Um período fixo deve transcorrer antes que a profecia se cumpra, mas isso não deve ser considerado falha ou engano. Pelo contrário, esse tempo pode ser suportado com a garantia do Senhor de que o cumprimento da profecia se aproxima. O julgamento sobre os babilônios veio (muito tempo depois da visão de Habacuque), por meio de Ciro, em 29 de outubro de 539 a.C."
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    },
+    {
+      "id": "fr-hc-0021",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3,
+          4
+        ],
+        "pagina_impressa": 1602,
+        "rotulo_original_ocr": "2.4 Aqui, o Senhor revela a distingao essencial",
+        "texto_ocr_pre_normalizacao": "Aqui, o Senhor revela a distingao essencial que faz entre os impios, os babilonios e os justos, o remanescente de Juda. 0s impios tomam caminhos que conduzem a morte e a derrota; os justos tomam, pela fe, um caminho que leva a vida e a vitoria. A distingao feita pelo Senhor e a promessa contida para os justos trazem uma palavra de consolo para Habacuque. Isso tambem se torna o ponto de virada em sua luta pessoal quanto ao fato de que o Senhor usa os perversos babilonios como uma vara de julgamento contra seu povo. soberbo. 0 rei e o reino babilonico,a incorporagao da impiedade no mundo. Antes, Habacuque ja havia descrito aarroganciadeles (1.7,10, 11). pela sua fe. Ou “por sua fidelidade ' Nesse contexto, a palavra hebraica denota a confianga inabalavel no Senhor, uma confianga que persevera. No meio de uma terra cheia de impiedade (1.2-4) e sujeita a ira de Deus, o Senhor promete que um remanescente justo de Juda confiara no Deus que, em sua ira, se lembra da misericordia (3.2). 0 hebraico relembra as palavras de Genesis 15.6,aplicando-as a situagao de Habacuque. Pela fe,Abraao esperou pacientemente o cumprimento das promessas de Deus (Hb 615);agora, Habacuque e o remanescente tambem devem esperar com paciencia (v. 3; 3.16). Aqui, Paulo encontra prova biblica para a doutrma da justificagao pela fe (Rm 1.17;Gl 3.11); e a palavra de consolo de Habacuque tem sido um texto crucial para a fe protestante desde o seculo XVI.",
+        "correcoes_literal_reversiveis": {
+          "tambem": 2,
+          "misericordia": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Aqui, o Senhor revela a distinção essencial que faz entre os ímpios, os babilônios e os justos, o remanescente de Judá. Os ímpios tomam caminhos que conduzem à morte e à derrota; os justos tomam, pela fé, um caminho que leva à vida e à vitória. A distinção feita pelo Senhor e a promessa contida para os justos trazem uma palavra de consolo para Habacuque. Isso também se torna o ponto de virada em sua luta pessoal quanto ao fato de que o Senhor usa os perversos babilônios como uma vara de julgamento contra seu povo.\n\nsoberbo. O rei e o reino babilônico, a incorporação da impiedade no mundo. Antes, Habacuque já havia descrito a arrogância deles (1.7, 10, 11).\n\npela sua fé. Ou “por sua fidelidade”. Nesse contexto, a palavra hebraica denota a confiança inabalável no Senhor, uma confiança que persevera. No meio de uma terra cheia de impiedade (1.2-4) e sujeita à ira de Deus, o Senhor promete que um remanescente justo de Judá confiará no Deus que, em sua ira, se lembra da misericórdia (3.2). O hebraico relembra as palavras de Gênesis 15.6, aplicando-as à situação de Habacuque. Pela fé, Abraão esperou pacientemente o cumprimento das promessas de Deus (Hb 6.15); agora, Habacuque e o remanescente também devem esperar com paciência (v. 3; 3.16). Aqui, Paulo encontra prova bíblica para a doutrina da justificação pela fé (Rm 1.17; Gl 3.11); e a palavra de consolo de Habacuque tem sido um texto crucial para a fé protestante desde o século XVI.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Aqui, o Senhor revela a distinção essencial que faz entre os ímpios, os babilônios e os justos, o remanescente de Judá. Os ímpios tomam caminhos que conduzem à morte e à derrota; os justos tomam, pela fé, um caminho que leva à vida e à vitória. A distinção feita pelo Senhor e a promessa contida para os justos trazem uma palavra de consolo para Habacuque. Isso também se torna o ponto de virada em sua luta pessoal quanto ao fato de que o Senhor usa os perversos babilônios como uma vara de julgamento contra seu povo."
+        },
+        {
+          "titulo": "soberbo.",
+          "texto": "O rei e o reino babilônico, a incorporação da impiedade no mundo. Antes, Habacuque já havia descrito a arrogância deles (1.7, 10, 11)."
+        },
+        {
+          "titulo": "pela sua fé.",
+          "texto": "Ou “por sua fidelidade”. Nesse contexto, a palavra hebraica denota a confiança inabalável no Senhor, uma confiança que persevera. No meio de uma terra cheia de impiedade (1.2-4) e sujeita à ira de Deus, o Senhor promete que um remanescente justo de Judá confiará no Deus que, em sua ira, se lembra da misericórdia (3.2). O hebraico relembra as palavras de Gênesis 15.6, aplicando-as à situação de Habacuque. Pela fé, Abraão esperou pacientemente o cumprimento das promessas de Deus (Hb 6.15); agora, Habacuque e o remanescente também devem esperar com paciência (v. 3; 3.16). Aqui, Paulo encontra prova bíblica para a doutrina da justificação pela fé (Rm 1.17; Gl 3.11); e a palavra de consolo de Habacuque tem sido um texto crucial para a fé protestante desde o século XVI."
+        }
+      ],
+      "paragrafos": [
+        "Aqui, o Senhor revela a distinção essencial que faz entre os ímpios, os babilônios e os justos, o remanescente de Judá. Os ímpios tomam caminhos que conduzem à morte e à derrota; os justos tomam, pela fé, um caminho que leva à vida e à vitória. A distinção feita pelo Senhor e a promessa contida para os justos trazem uma palavra de consolo para Habacuque. Isso também se torna o ponto de virada em sua luta pessoal quanto ao fato de que o Senhor usa os perversos babilônios como uma vara de julgamento contra seu povo.",
+        "soberbo. O rei e o reino babilônico, a incorporação da impiedade no mundo. Antes, Habacuque já havia descrito a arrogância deles (1.7, 10, 11).",
+        "pela sua fé. Ou “por sua fidelidade”. Nesse contexto, a palavra hebraica denota a confiança inabalável no Senhor, uma confiança que persevera. No meio de uma terra cheia de impiedade (1.2-4) e sujeita à ira de Deus, o Senhor promete que um remanescente justo de Judá confiará no Deus que, em sua ira, se lembra da misericórdia (3.2). O hebraico relembra as palavras de Gênesis 15.6, aplicando-as à situação de Habacuque. Pela fé, Abraão esperou pacientemente o cumprimento das promessas de Deus (Hb 6.15); agora, Habacuque e o remanescente também devem esperar com paciência (v. 3; 3.16). Aqui, Paulo encontra prova bíblica para a doutrina da justificação pela fé (Rm 1.17; Gl 3.11); e a palavra de consolo de Habacuque tem sido um texto crucial para a fé protestante desde o século XVI."
+      ]
+    },
+    {
+      "id": "fr-hc-0022",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.5 vinho e enganoso... arrogante. A",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vinho é enganoso... arrogante. A arrogância e a insaciabilidade dos babilônios são comparadas a um bêbado intoxicado pelo vinho.\n\nsepulcro... morte. Nos dias de Habacuque, era proverbial comparar a morte a uma boca devoradora sempre pronta para mais mortos (Pv 1.12; 27.20; 30.15, 16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "vinho é enganoso... arrogante.",
+          "texto": "A arrogância e a insaciabilidade dos babilônios são comparadas a um bêbado intoxicado pelo vinho."
+        },
+        {
+          "titulo": "sepulcro... morte.",
+          "texto": "Nos dias de Habacuque, era proverbial comparar a morte a uma boca devoradora sempre pronta para mais mortos (Pv 1.12; 27.20; 30.15, 16)."
+        }
+      ],
+      "paragrafos": [
+        "vinho é enganoso... arrogante. A arrogância e a insaciabilidade dos babilônios são comparadas a um bêbado intoxicado pelo vinho.",
+        "sepulcro... morte. Nos dias de Habacuque, era proverbial comparar a morte a uma boca devoradora sempre pronta para mais mortos (Pv 1.12; 27.20; 30.15, 16)."
+      ]
+    },
+    {
+      "id": "fr-hc-0023",
+      "referencia": "2.6-20",
+      "capitulo": 2,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.6-20",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.6-20 Essa segao de “ais' forma uma unidade",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa seção de “ais” forma uma unidade literária distinta. Aqui, os julgamentos proféticos são apresentados numa canção de motejo, uma forma poética que zomba dos vencidos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa seção de “ais” forma uma unidade literária distinta. Aqui, os julgamentos proféticos são apresentados numa canção de motejo, uma forma poética que zomba dos vencidos."
+        }
+      ],
+      "paragrafos": [
+        "Essa seção de “ais” forma uma unidade literária distinta. Aqui, os julgamentos proféticos são apresentados numa canção de motejo, uma forma poética que zomba dos vencidos."
+      ]
+    },
+    {
+      "id": "fr-hc-0024",
+      "referencia": "2.6-8",
+      "capitulo": 2,
+      "versiculos": [
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.6-8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.6-8 O primeiro ai. Aqueles que despojam",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O primeiro ai. Aqueles que despojam outras pessoas serão, eles mesmos, despojados.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "O primeiro ai.",
+          "texto": "Aqueles que despojam outras pessoas serão, eles mesmos, despojados."
+        }
+      ],
+      "paragrafos": [
+        "O primeiro ai. Aqueles que despojam outras pessoas serão, eles mesmos, despojados."
+      ]
+    },
+    {
+      "id": "fr-hc-0025",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.6 todos estes. Juda e todos os que sofreram",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "todos estes. Judá e todos os que sofreram sob o opressor babilônico. As profecias de infortúnio nos versículos 6-20 são apresentadas em termos tão gerais e proverbiais que adquirem aplicabilidade universal à luta dos justos perseguidos contra os ímpios.\n\nAi. Aparentemente, a palavra hebraica é uma interjeição derivada dos lamentos fúnebres (às vezes, traduzida como “Ah!”; cf. 1Rs 13.30), mas, com frequência, é usada nas profecias de julgamento.\n\npenhores. O elevado tributo exigido pelos babilônios é descrito figurativamente como artigos tomados como garantia por débitos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "todos estes.",
+          "texto": "Judá e todos os que sofreram sob o opressor babilônico. As profecias de infortúnio nos versículos 6-20 são apresentadas em termos tão gerais e proverbiais que adquirem aplicabilidade universal à luta dos justos perseguidos contra os ímpios."
+        },
+        {
+          "titulo": "Ai.",
+          "texto": "Aparentemente, a palavra hebraica é uma interjeição derivada dos lamentos fúnebres (às vezes, traduzida como “Ah!”; cf. 1Rs 13.30), mas, com frequência, é usada nas profecias de julgamento."
+        },
+        {
+          "titulo": "penhores.",
+          "texto": "O elevado tributo exigido pelos babilônios é descrito figurativamente como artigos tomados como garantia por débitos."
+        }
+      ],
+      "paragrafos": [
+        "todos estes. Judá e todos os que sofreram sob o opressor babilônico. As profecias de infortúnio nos versículos 6-20 são apresentadas em termos tão gerais e proverbiais que adquirem aplicabilidade universal à luta dos justos perseguidos contra os ímpios.",
+        "Ai. Aparentemente, a palavra hebraica é uma interjeição derivada dos lamentos fúnebres (às vezes, traduzida como “Ah!”; cf. 1Rs 13.30), mas, com frequência, é usada nas profecias de julgamento.",
+        "penhores. O elevado tributo exigido pelos babilônios é descrito figurativamente como artigos tomados como garantia por débitos."
+      ]
+    },
+    {
+      "id": "fr-hc-0026",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.8 sangue. A violencia e o derramamento de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sangue. A violência e o derramamento de sangue por meio dos quais os babilônios obtinham seus despojos clamam por vingança (v. 11; cf. Gn 4.10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "sangue.",
+          "texto": "A violência e o derramamento de sangue por meio dos quais os babilônios obtinham seus despojos clamam por vingança (v. 11; cf. Gn 4.10)."
+        }
+      ],
+      "paragrafos": [
+        "sangue. A violência e o derramamento de sangue por meio dos quais os babilônios obtinham seus despojos clamam por vingança (v. 11; cf. Gn 4.10)."
+      ]
+    },
+    {
+      "id": "fr-hc-0027",
+      "referencia": "2.9-11",
+      "capitulo": 2,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.9-11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.9-11 0 segundo ai condena aqueles que pro-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O segundo ai condena aqueles que procuram segurança e ganho econômico à custa de outras pessoas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O segundo ai condena aqueles que procuram segurança e ganho econômico à custa de outras pessoas."
+        }
+      ],
+      "paragrafos": [
+        "O segundo ai condena aqueles que procuram segurança e ganho econômico à custa de outras pessoas."
+      ]
+    },
+    {
+      "id": "fr-hc-0028",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.9 em lugar alto o seu ninho. As aves de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "em lugar alto o seu ninho. As aves de rapina fazem comumente seus ninhos em lugares altos e inacessíveis. De forma semelhante, os babilônios consideram segura sua posição na história mundial (Is 14.13, 14; 47.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "em lugar alto o seu ninho.",
+          "texto": "As aves de rapina fazem comumente seus ninhos em lugares altos e inacessíveis. De forma semelhante, os babilônios consideram segura sua posição na história mundial (Is 14.13, 14; 47.7)."
+        }
+      ],
+      "paragrafos": [
+        "em lugar alto o seu ninho. As aves de rapina fazem comumente seus ninhos em lugares altos e inacessíveis. De forma semelhante, os babilônios consideram segura sua posição na história mundial (Is 14.13, 14; 47.7)."
+      ]
+    },
+    {
+      "id": "fr-hc-0029",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.11 pedra clamara... respondera. Uma",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pedra clamará... responderá. Uma personificação impressionante. Esse clamor contra a injustiça emergirá dos materiais de construção roubados de outras pessoas ou vendidos com ganho injusto.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "pedra clamará... responderá.",
+          "texto": "Uma personificação impressionante. Esse clamor contra a injustiça emergirá dos materiais de construção roubados de outras pessoas ou vendidos com ganho injusto."
+        }
+      ],
+      "paragrafos": [
+        "pedra clamará... responderá. Uma personificação impressionante. Esse clamor contra a injustiça emergirá dos materiais de construção roubados de outras pessoas ou vendidos com ganho injusto."
+      ]
+    },
+    {
+      "id": "fr-hc-0030",
+      "referencia": "2.12-14",
+      "capitulo": 2,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.12-14",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.12-14 0 terceiro ai pronuncia julgamento sobre",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O terceiro ai pronuncia julgamento sobre os impiedosos mas fúteis esforços do tirano para perpetuar sua fama.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O terceiro ai pronuncia julgamento sobre os impiedosos mas fúteis esforços do tirano para perpetuar sua fama."
+        }
+      ],
+      "paragrafos": [
+        "O terceiro ai pronuncia julgamento sobre os impiedosos mas fúteis esforços do tirano para perpetuar sua fama."
+      ]
+    },
+    {
+      "id": "fr-hc-0031",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.12 edifica a cidade com sangue. Ins-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "edifica a cidade com sangue. Inscrições babilônicas confirmam o elevado valor depositado nas atividades de construção. Nabucodonosor, que usava os povos subjugados como trabalhadores forçados, sentia especial orgulho de sua edificação da Babilônia (Dn 4.30). Esses projetos envolviam perda de vida e eram pagos com espólios de guerra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "edifica a cidade com sangue.",
+          "texto": "Inscrições babilônicas confirmam o elevado valor depositado nas atividades de construção. Nabucodonosor, que usava os povos subjugados como trabalhadores forçados, sentia especial orgulho de sua edificação da Babilônia (Dn 4.30). Esses projetos envolviam perda de vida e eram pagos com espólios de guerra."
+        }
+      ],
+      "paragrafos": [
+        "edifica a cidade com sangue. Inscrições babilônicas confirmam o elevado valor depositado nas atividades de construção. Nabucodonosor, que usava os povos subjugados como trabalhadores forçados, sentia especial orgulho de sua edificação da Babilônia (Dn 4.30). Esses projetos envolviam perda de vida e eram pagos com espólios de guerra."
+      ]
+    },
+    {
+      "id": "fr-hc-0032",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.13 do SENHOR... vao.Deus garante,de forma",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "do SENHOR... vão. Deus garante, de forma soberana, que os esforços dos orgulhosos para perpetuar sua própria glória equivalem a nada. Em vez disso, “a terra se encherá do conhecimento da glória do SENHOR” (v. 14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "do SENHOR... vão.",
+          "texto": "Deus garante, de forma soberana, que os esforços dos orgulhosos para perpetuar sua própria glória equivalem a nada. Em vez disso, “a terra se encherá do conhecimento da glória do SENHOR” (v. 14)."
+        }
+      ],
+      "paragrafos": [
+        "do SENHOR... vão. Deus garante, de forma soberana, que os esforços dos orgulhosos para perpetuar sua própria glória equivalem a nada. Em vez disso, “a terra se encherá do conhecimento da glória do SENHOR” (v. 14)."
+      ]
+    },
+    {
+      "id": "fr-hc-0033",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.14 se enchera.Nao maisapenaso tabernaculo",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "se encherá. Não mais apenas o tabernáculo (Êx 40.34, 35) ou o templo (1Rs 8.11), mas toda a terra reconhecerá a glória de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "se encherá.",
+          "texto": "Não mais apenas o tabernáculo (Êx 40.34, 35) ou o templo (1Rs 8.11), mas toda a terra reconhecerá a glória de Deus."
+        }
+      ],
+      "paragrafos": [
+        "se encherá. Não mais apenas o tabernáculo (Êx 40.34, 35) ou o templo (1Rs 8.11), mas toda a terra reconhecerá a glória de Deus."
+      ]
+    },
+    {
+      "id": "fr-hc-0034",
+      "referencia": "2.15-17",
+      "capitulo": 2,
+      "versiculos": [
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.15-17",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1603,
+        "rotulo_original_ocr": "2.15-17 0quarto ai pronunciajulgamento sobre o",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O quarto ai pronuncia julgamento sobre o modo cruel e humilhante como os babilônios tratavam os outros.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O quarto ai pronuncia julgamento sobre o modo cruel e humilhante como os babilônios tratavam os outros."
+        }
+      ],
+      "paragrafos": [
+        "O quarto ai pronuncia julgamento sobre o modo cruel e humilhante como os babilônios tratavam os outros."
+      ]
+    },
+    {
+      "id": "fr-hc-0035",
+      "referencia": "2.16",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.16",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "2.16 calice da mao direita do SENHOR.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "cálice da mão direita do SENHOR. Essa metáfora bíblica indica retribuição divina (Is 51.17-23). O que os babilônios fizeram aos outros lhes será feito (vv. 7, 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "cálice da mão direita do SENHOR.",
+          "texto": "Essa metáfora bíblica indica retribuição divina (Is 51.17-23). O que os babilônios fizeram aos outros lhes será feito (vv. 7, 8)."
+        }
+      ],
+      "paragrafos": [
+        "cálice da mão direita do SENHOR. Essa metáfora bíblica indica retribuição divina (Is 51.17-23). O que os babilônios fizeram aos outros lhes será feito (vv. 7, 8)."
+      ]
+    },
+    {
+      "id": "fr-hc-0036",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "2.17 violencia contra o Libano. Em geral, as",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "violência contra o Líbano. Em geral, as campanhas militares causavam muitos danos a plantas e animais. As árvores forneciam lenha e material para construção (Dt 20.19, 20); os animais domésticos e selvagens eram mortos para servir de comida. Muitos cedros se perderam durante a campanha babilônica contra o Líbano (Is 14.8). O interesse de Deus por sua criação deve ser notado.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "violência contra o Líbano.",
+          "texto": "Em geral, as campanhas militares causavam muitos danos a plantas e animais. As árvores forneciam lenha e material para construção (Dt 20.19, 20); os animais domésticos e selvagens eram mortos para servir de comida. Muitos cedros se perderam durante a campanha babilônica contra o Líbano (Is 14.8). O interesse de Deus por sua criação deve ser notado."
+        }
+      ],
+      "paragrafos": [
+        "violência contra o Líbano. Em geral, as campanhas militares causavam muitos danos a plantas e animais. As árvores forneciam lenha e material para construção (Dt 20.19, 20); os animais domésticos e selvagens eram mortos para servir de comida. Muitos cedros se perderam durante a campanha babilônica contra o Líbano (Is 14.8). O interesse de Deus por sua criação deve ser notado."
+      ]
+    },
+    {
+      "id": "fr-hc-0037",
+      "referencia": "2.18-20",
+      "capitulo": 2,
+      "versiculos": [
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.18-20",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "2.18-20 0 quinto ai denuncia a idolatria, o culto",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O quinto ai denuncia a idolatria, o culto aos falsos deuses, como algo fútil e insensato (Is 44.9-17; 57.12, 13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O quinto ai denuncia a idolatria, o culto aos falsos deuses, como algo fútil e insensato (Is 44.9-17; 57.12, 13)."
+        }
+      ],
+      "paragrafos": [
+        "O quinto ai denuncia a idolatria, o culto aos falsos deuses, como algo fútil e insensato (Is 44.9-17; 57.12, 13)."
+      ]
+    },
+    {
+      "id": "fr-hc-0038",
+      "referencia": "2.20",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.20",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "2.20 templo.Literalmente, \"palacio\" o santua-",
+        "texto_ocr_pre_normalizacao": "templo.Literalmente, \"palacio\" o santuario celestial a partir do qual o Senhor, o grande Rei,governa seu mundo (SI11.4). cale-se...toda a terra.Urn intenso contraste e delineado entre os idolos mudos e o Deus vivo (v. 19), diante de quern todos os outros devem manter silencio. Os ais de julgamento sobre os orgulhosos e impios culminamcom o silencio universal de adoragao na gloriosa presenga do Deus incomparavel(v. 14; SI 46.10).",
+        "correcoes_literal_reversiveis": {
+          "quern": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "templo. Literalmente, “palácio”, o santuário celestial a partir do qual o Senhor, o grande Rei, governa seu mundo (Sl 11.4).\n\ncale-se... toda a terra. Um intenso contraste é delineado entre os ídolos mudos e o Deus vivo (v. 19), diante de quem todos os outros devem manter silêncio. Os ais de julgamento sobre os orgulhosos e ímpios culminam com o silêncio universal de adoração na gloriosa presença do Deus incomparável (v. 14; Sl 46.10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "templo.",
+          "texto": "Literalmente, “palácio”, o santuário celestial a partir do qual o Senhor, o grande Rei, governa seu mundo (Sl 11.4)."
+        },
+        {
+          "titulo": "cale-se... toda a terra.",
+          "texto": "Um intenso contraste é delineado entre os ídolos mudos e o Deus vivo (v. 19), diante de quem todos os outros devem manter silêncio. Os ais de julgamento sobre os orgulhosos e ímpios culminam com o silêncio universal de adoração na gloriosa presença do Deus incomparável (v. 14; Sl 46.10)."
+        }
+      ],
+      "paragrafos": [
+        "templo. Literalmente, “palácio”, o santuário celestial a partir do qual o Senhor, o grande Rei, governa seu mundo (Sl 11.4).",
+        "cale-se... toda a terra. Um intenso contraste é delineado entre os ídolos mudos e o Deus vivo (v. 19), diante de quem todos os outros devem manter silêncio. Os ais de julgamento sobre os orgulhosos e ímpios culminam com o silêncio universal de adoração na gloriosa presença do Deus incomparável (v. 14; Sl 46.10)."
+      ]
+    },
+    {
+      "id": "fr-hc-0039",
+      "referencia": "3.1-19",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.1-19",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "3.1-19 Esse capitulo registra a oragao perseveran-",
+        "texto_ocr_pre_normalizacao": "Esse capitulo registra a oragao perseverante de Habacuque Num estilo de hino comovente, Habacuque responde (vv. 16-19) as revelagoes do Senhor (2.2-5) a respeito de sua intervengao iminente na historia em favor de seu povo (vv 3-15). Assim como os babilonios representam os arrogantes e impios em seu caminho para a ruina, tambem agora Habacuque exemplifica os justos fieis que perseveram e se regozijam na esperanga da promessa de vida do Senhor.",
+        "correcoes_literal_reversiveis": {
+          "oragao": 1,
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Esse capítulo registra a oração perseverante de Habacuque. Num estilo de hino comovente, Habacuque responde (vv. 16-19) às revelações do Senhor (2.2-5) a respeito de sua intervenção iminente na história em favor de seu povo (vv. 3-15). Assim como os babilônios representam os arrogantes e ímpios em seu caminho para a ruína, também agora Habacuque exemplifica os justos fiéis que perseveram e se regozijam na esperança da promessa de vida do Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esse capítulo registra a oração perseverante de Habacuque. Num estilo de hino comovente, Habacuque responde (vv. 16-19) às revelações do Senhor (2.2-5) a respeito de sua intervenção iminente na história em favor de seu povo (vv. 3-15). Assim como os babilônios representam os arrogantes e ímpios em seu caminho para a ruína, também agora Habacuque exemplifica os justos fiéis que perseveram e se regozijam na esperança da promessa de vida do Senhor."
+        }
+      ],
+      "paragrafos": [
+        "Esse capítulo registra a oração perseverante de Habacuque. Num estilo de hino comovente, Habacuque responde (vv. 16-19) às revelações do Senhor (2.2-5) a respeito de sua intervenção iminente na história em favor de seu povo (vv. 3-15). Assim como os babilônios representam os arrogantes e ímpios em seu caminho para a ruína, também agora Habacuque exemplifica os justos fiéis que perseveram e se regozijam na esperança da promessa de vida do Senhor."
+      ]
+    },
+    {
+      "id": "fr-hc-0040",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "3.1 Oragao. Aqui talvez seja urn sinonimo de",
+        "texto_ocr_pre_normalizacao": "Oragao. Aqui talvez seja urn sinonimo de hino (SI 72.20). As anotagoes musicais e liturgicas no titulo, no texto e na condusao dessa oragao sao como as que encontramos nos salmos Ver Introdugao a Salmos: Caracteristicas e Temas Principais",
+        "correcoes_literal_reversiveis": {
+          "urn": 1,
+          "oragao": 1,
+          "Introdugao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Oração. Aqui talvez seja um sinônimo de hino (Sl 72.20). As anotações musicais e litúrgicas no título, no texto e na conclusão dessa oração são como as que encontramos nos salmos. Ver Introdução a Salmos: Características e Temas Principais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Oração.",
+          "texto": "Aqui talvez seja um sinônimo de hino (Sl 72.20). As anotações musicais e litúrgicas no título, no texto e na conclusão dessa oração são como as que encontramos nos salmos. Ver Introdução a Salmos: Características e Temas Principais."
+        }
+      ],
+      "paragrafos": [
+        "Oração. Aqui talvez seja um sinônimo de hino (Sl 72.20). As anotações musicais e litúrgicas no título, no texto e na conclusão dessa oração são como as que encontramos nos salmos. Ver Introdução a Salmos: Características e Temas Principais."
+      ]
+    },
+    {
+      "id": "fr-hc-0041",
+      "referencia": "3.2",
+      "capitulo": 3,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "3.2",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "3.2 A invocagao ou o prologo do hino.",
+        "texto_ocr_pre_normalizacao": "A invocagao ou o prologo do hino. Tenho ouvido. A paciencia de Habacuque em permanecer diante do Senhor (2.1, nota) e recompensada por uma visao baseada nos poderosos atos de Deus praticados no passado. aviva a tua obra. A oragao de Habacuque e que o Senhor seja tao presente e ativo quanto o foi no tempo de Moises. na tua ira, lembra-te da misericordia. Uma suplica pela combinagao graciosa de julgamento divino temperado com misericordia.",
+        "correcoes_literal_reversiveis": {
+          "oragao": 1,
+          "misericordia": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A invocação ou o prólogo do hino.\n\nTenho ouvido. A paciência de Habacuque em permanecer diante do Senhor (2.1, nota) é recompensada por uma visão baseada nos poderosos atos de Deus praticados no passado.\n\naviva a tua obra. A oração de Habacuque é que o Senhor seja tão presente e ativo quanto o foi no tempo de Moisés.\n\nna tua ira, lembra-te da misericórdia. Uma súplica pela combinação graciosa de julgamento divino temperado com misericórdia.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Hc",
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A invocação ou o prólogo do hino."
+        },
+        {
+          "titulo": "Tenho ouvido.",
+          "texto": "A paciência de Habacuque em permanecer diante do Senhor (2.1, nota) é recompensada por uma visão baseada nos poderosos atos de Deus praticados no passado."
+        },
+        {
+          "titulo": "aviva a tua obra.",
+          "texto": "A oração de Habacuque é que o Senhor seja tão presente e ativo quanto o foi no tempo de Moisés."
+        },
+        {
+          "titulo": "na tua ira, lembra-te da misericórdia.",
+          "texto": "Uma súplica pela combinação graciosa de julgamento divino temperado com misericórdia."
+        }
+      ],
+      "paragrafos": [
+        "A invocação ou o prólogo do hino.",
+        "Tenho ouvido. A paciência de Habacuque em permanecer diante do Senhor (2.1, nota) é recompensada por uma visão baseada nos poderosos atos de Deus praticados no passado.",
+        "aviva a tua obra. A oração de Habacuque é que o Senhor seja tão presente e ativo quanto o foi no tempo de Moisés.",
+        "na tua ira, lembra-te da misericórdia. Uma súplica pela combinação graciosa de julgamento divino temperado com misericórdia."
+      ]
+    },
+    {
+      "id": "fr-hc-0042",
+      "referencia": "3.3-15",
+      "capitulo": 3,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.3-15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "3.3-15 A oragao de Habacuque descreve uma",
+        "texto_ocr_pre_normalizacao": "A oragao de Habacuque descreve uma teofania ou automanifestagao visivel de Deus, usando imagens que se encontram nas describes tradicionais de aparecimentos de Deus no exodo do Egito, na entrega da lei pactual no Sinai e durante aconquista de Canaa (Ex 15.1-18;Dt 33.2, 3; jz",
+        "correcoes_literal_reversiveis": {
+          "oragao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A oração de Habacuque descreve uma teofania ou automanifestação visível de Deus, usando imagens que se encontram nas descrições tradicionais de aparecimentos de Deus no êxodo do Egito, na entrega da lei pactual no Sinai e durante a conquista de Canaã (Êx 15.1-18; Dt 33.2, 3; Jz 5.4, 5; Sl 18.10; 68.7, 8, 24; 77.16-20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A oração de Habacuque descreve uma teofania ou automanifestação visível de Deus, usando imagens que se encontram nas descrições tradicionais de aparecimentos de Deus no êxodo do Egito, na entrega da lei pactual no Sinai e durante a conquista de Canaã (Êx 15.1-18; Dt 33.2, 3; Jz 5.4, 5; Sl 18.10; 68.7, 8, 24; 77.16-20)."
+        }
+      ],
+      "paragrafos": [
+        "A oração de Habacuque descreve uma teofania ou automanifestação visível de Deus, usando imagens que se encontram nas descrições tradicionais de aparecimentos de Deus no êxodo do Egito, na entrega da lei pactual no Sinai e durante a conquista de Canaã (Êx 15.1-18; Dt 33.2, 3; Jz 5.4, 5; Sl 18.10; 68.7, 8, 24; 77.16-20)."
+      ]
+    },
+    {
+      "id": "fr-hc-0043",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5,
+          6
+        ],
+        "pagina_impressa": 1604,
+        "rotulo_original_ocr": "3.3 Tema.0 nome do neto de Esau representa a",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Temã. O nome do neto de Esaú representa a terra de Edom (Am 1.12, nota).\n\nmonte Parã. Uma montanha no deserto da península do Sinai (Dt 33.2). As imagens dos versículos 3-7 referem-se à marcha de Deus até seu monte santo e, subsequentemente, ao ato de conduzir seu povo para tomar posse da terra que ganhara para eles.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Am",
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Temã.",
+          "texto": "O nome do neto de Esaú representa a terra de Edom (Am 1.12, nota)."
+        },
+        {
+          "titulo": "monte Parã.",
+          "texto": "Uma montanha no deserto da península do Sinai (Dt 33.2). As imagens dos versículos 3-7 referem-se à marcha de Deus até seu monte santo e, subsequentemente, ao ato de conduzir seu povo para tomar posse da terra que ganhara para eles."
+        }
+      ],
+      "paragrafos": [
+        "Temã. O nome do neto de Esaú representa a terra de Edom (Am 1.12, nota).",
+        "monte Parã. Uma montanha no deserto da península do Sinai (Dt 33.2). As imagens dos versículos 3-7 referem-se à marcha de Deus até seu monte santo e, subsequentemente, ao ato de conduzir seu povo para tomar posse da terra que ganhara para eles."
+      ]
+    },
+    {
+      "id": "fr-hc-0044",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.5 a peste, e a pestilencia. Habacuque des-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a peste, e a pestilência. Habacuque descreve dimensões ameaçadoras da vinda de Deus em julgamento (Dt 28.21, 22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "a peste, e a pestilência.",
+          "texto": "Habacuque descreve dimensões ameaçadoras da vinda de Deus em julgamento (Dt 28.21, 22)."
+        }
+      ],
+      "paragrafos": [
+        "a peste, e a pestilência. Habacuque descreve dimensões ameaçadoras da vinda de Deus em julgamento (Dt 28.21, 22)."
+      ]
+    },
+    {
+      "id": "fr-hc-0045",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.7 Cusa... Midia. Esses, possivelmente, sao",
+        "texto_ocr_pre_normalizacao": "Cusa... Midia. Esses, possivelmente, sao nomes alternatives para urn povo ou uma regiao, talvez osnomades dapeninsulado Sinai.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Cusã... Midiã. Esses, possivelmente, são nomes alternativos para um povo ou uma região, talvez os nômades da península do Sinai.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Cusã... Midiã.",
+          "texto": "Esses, possivelmente, são nomes alternativos para um povo ou uma região, talvez os nômades da península do Sinai."
+        }
+      ],
+      "paragrafos": [
+        "Cusã... Midiã. Esses, possivelmente, são nomes alternativos para um povo ou uma região, talvez os nômades da península do Sinai."
+      ]
+    },
+    {
+      "id": "fr-hc-0046",
+      "referencia": "3.8-11",
+      "capitulo": 3,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.8-11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.8-11 Aqui, o profeta se dirige diretamente a",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Aqui, o profeta se dirige diretamente a Deus. O Senhor que está vindo é o invencível guerreiro divino que demonstra sua autoridade sobre o cosmos. Imagens poéticas semelhantes são conhecidas dos cananeus e de outras mitologias.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Aqui, o profeta se dirige diretamente a Deus. O Senhor que está vindo é o invencível guerreiro divino que demonstra sua autoridade sobre o cosmos. Imagens poéticas semelhantes são conhecidas dos cananeus e de outras mitologias."
+        }
+      ],
+      "paragrafos": [
+        "Aqui, o profeta se dirige diretamente a Deus. O Senhor que está vindo é o invencível guerreiro divino que demonstra sua autoridade sobre o cosmos. Imagens poéticas semelhantes são conhecidas dos cananeus e de outras mitologias."
+      ]
+    },
+    {
+      "id": "fr-hc-0047",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.8 rios... mar. 0 Senhor demonstrou seu poder",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "rios... mar. O Senhor demonstrou seu poder sobre o rio Nilo (Êx 7.14-24), o Jordão (Js 3.14-17) e o mar Vermelho (Êx 14.21-30).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "rios... mar.",
+          "texto": "O Senhor demonstrou seu poder sobre o rio Nilo (Êx 7.14-24), o Jordão (Js 3.14-17) e o mar Vermelho (Êx 14.21-30)."
+        }
+      ],
+      "paragrafos": [
+        "rios... mar. O Senhor demonstrou seu poder sobre o rio Nilo (Êx 7.14-24), o Jordão (Js 3.14-17) e o mar Vermelho (Êx 14.21-30)."
+      ]
+    },
+    {
+      "id": "fr-hc-0048",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.11param. Ver Josue10.12,13.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "param. Ver Josué 10.12, 13.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "param.",
+          "texto": "Ver Josué 10.12, 13."
+        }
+      ],
+      "paragrafos": [
+        "param. Ver Josué 10.12, 13."
+      ]
+    },
+    {
+      "id": "fr-hc-0049",
+      "referencia": "3.12-15",
+      "capitulo": 3,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.12-15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.12-15 0 Senhor da naturezatambem tern poder",
+        "texto_ocr_pre_normalizacao": "0 Senhor da naturezatambem tern poder absoluto sobre as forgas da historia. Ele vem para livrar seu povo e julgar os impios.",
+        "correcoes_literal_reversiveis": {
+          "tern": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O Senhor da natureza também tem poder absoluto sobre as forças da história. Ele vem para livrar seu povo e julgar os ímpios.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O Senhor da natureza também tem poder absoluto sobre as forças da história. Ele vem para livrar seu povo e julgar os ímpios."
+        }
+      ],
+      "paragrafos": [
+        "O Senhor da natureza também tem poder absoluto sobre as forças da história. Ele vem para livrar seu povo e julgar os ímpios."
+      ]
+    },
+    {
+      "id": "fr-hc-0050",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.12 calcas aos pes. Umaimagem agricola deri-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "calcas aos pés. Uma imagem agrícola derivada do modo como o grão era debulhado, por batimento ou esmagamento violento (Am 1.3, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Am",
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "calcas aos pés.",
+          "texto": "Uma imagem agrícola derivada do modo como o grão era debulhado, por batimento ou esmagamento violento (Am 1.3, nota)."
+        }
+      ],
+      "paragrafos": [
+        "calcas aos pés. Uma imagem agrícola derivada do modo como o grão era debulhado, por batimento ou esmagamento violento (Am 1.3, nota)."
+      ]
+    },
+    {
+      "id": "fr-hc-0051",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.13 Tu sais. No passado, o Senhor saiu de seu",
+        "texto_ocr_pre_normalizacao": "Tu sais. No passado, o Senhor saiu de seu santuario para salvar seu povo em afligao. Isso e o que Habacuque espera que o Senhor volte a fazer. salvamento...ungido. Ou'parasalvar teu Ungido\". Talvez urn sinonimo alusivo aos eleitos de Israel(cf. SI105.15);porem,mais provavelmente,uma referendaaoreinado davidico,quando vier em sua expressao final no Messias(SI132.10).",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Tu sais. No passado, o Senhor saiu de seu santuário para salvar seu povo em aflição. Isso é o que Habacuque espera que o Senhor volte a fazer.\n\nsalvamento... ungido. Ou “para salvar teu Ungido”. Talvez um sinônimo alusivo aos eleitos de Israel (cf. Sl 105.15); porém, mais provavelmente, uma referência ao reinado davídico, quando vier em sua expressão final no Messias (Sl 132.10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tu sais.",
+          "texto": "No passado, o Senhor saiu de seu santuário para salvar seu povo em aflição. Isso é o que Habacuque espera que o Senhor volte a fazer."
+        },
+        {
+          "titulo": "salvamento... ungido.",
+          "texto": "Ou “para salvar teu Ungido”. Talvez um sinônimo alusivo aos eleitos de Israel (cf. Sl 105.15); porém, mais provavelmente, uma referência ao reinado davídico, quando vier em sua expressão final no Messias (Sl 132.10)."
+        }
+      ],
+      "paragrafos": [
+        "Tu sais. No passado, o Senhor saiu de seu santuário para salvar seu povo em aflição. Isso é o que Habacuque espera que o Senhor volte a fazer.",
+        "salvamento... ungido. Ou “para salvar teu Ungido”. Talvez um sinônimo alusivo aos eleitos de Israel (cf. Sl 105.15); porém, mais provavelmente, uma referência ao reinado davídico, quando vier em sua expressão final no Messias (Sl 132.10)."
+      ]
+    },
+    {
+      "id": "fr-hc-0052",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1605,
+        "rotulo_original_ocr": "3.15 mar.Habacuque se refere de novo ahisto-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "mar. Habacuque se refere de novo à história do êxodo, ocasião em que Deus manifestou seu domínio invencível sobre forças históricas e naturais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "mar.",
+          "texto": "Habacuque se refere de novo à história do êxodo, ocasião em que Deus manifestou seu domínio invencível sobre forças históricas e naturais."
+        }
+      ],
+      "paragrafos": [
+        "mar. Habacuque se refere de novo à história do êxodo, ocasião em que Deus manifestou seu domínio invencível sobre forças históricas e naturais."
+      ]
+    },
+    {
+      "id": "fr-hc-0053",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1606,
+        "rotulo_original_ocr": "3.16 Este versiculo e o v. 2 marcam os limites do",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Este versículo e o v. 2 marcam os limites do hino nos versículos 3-15, com referências autobiográficas no começo e no fim.\n\nmeu íntimo se comoveu. Habacuque descreve, em termos físicos, o profundo efeito que a autorrevelação divina produziu nele (cf. Jr 4.19). O Senhor respondeu às suas perguntas inquietantes e ouvirá sua oração.\n\nem silêncio, devo esperar... angústia. Impactado com a majestade divina, Habacuque pode descansar na certeza de que o Senhor julgará os ímpios.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Este versículo e o v. 2 marcam os limites do hino nos versículos 3-15, com referências autobiográficas no começo e no fim."
+        },
+        {
+          "titulo": "meu íntimo se comoveu.",
+          "texto": "Habacuque descreve, em termos físicos, o profundo efeito que a autorrevelação divina produziu nele (cf. Jr 4.19). O Senhor respondeu às suas perguntas inquietantes e ouvirá sua oração."
+        },
+        {
+          "titulo": "em silêncio, devo esperar... angústia.",
+          "texto": "Impactado com a majestade divina, Habacuque pode descansar na certeza de que o Senhor julgará os ímpios."
+        }
+      ],
+      "paragrafos": [
+        "Este versículo e o v. 2 marcam os limites do hino nos versículos 3-15, com referências autobiográficas no começo e no fim.",
+        "meu íntimo se comoveu. Habacuque descreve, em termos físicos, o profundo efeito que a autorrevelação divina produziu nele (cf. Jr 4.19). O Senhor respondeu às suas perguntas inquietantes e ouvirá sua oração.",
+        "em silêncio, devo esperar... angústia. Impactado com a majestade divina, Habacuque pode descansar na certeza de que o Senhor julgará os ímpios."
+      ]
+    },
+    {
+      "id": "fr-hc-0054",
+      "referencia": "3.17,18",
+      "capitulo": 3,
+      "versiculos": [
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.17,18",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1606,
+        "rotulo_original_ocr": "3.17,18 Mesmo quando as colheitas e os rebanhos",
+        "texto_ocr_pre_normalizacao": "Mesmo quando as colheitas e os rebanhos nao produzirem (urn pensamento horrivel no contexto de uma economiaagricola) ea sociedade vivenciar a fome e a pobreza, a esperanga confiante a e conde Habacuque nao sera abalada. Esperan^ fianga transformam seutemor do futurono desejo de se regozijar sempre em Deus, seuSalvador. 3.190 SENHOR Deus e a minhafortaleza. A total dependence do soberano Senhor da alianga e o segredo davidade Habacuque. meus pes como os da corga... andar altaneiramente. Essa figura impressionante descrevea forgaeaconflangaque o Senhor transmiteaos justos (Is 40.29-31). mestre de canto. Ver notano v. 1.",
+        "correcoes_literal_reversiveis": {
+          "nao": 2,
+          "urn": 1,
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Mesmo quando as colheitas e os rebanhos não produzirem (um pensamento horrível no contexto de uma economia agrícola) e a sociedade vivenciar a fome e a pobreza, a esperança confiante de Habacuque não será abalada. Esperança e confiança transformam seu temor do futuro no desejo de se regozijar sempre em Deus, seu Salvador.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Mesmo quando as colheitas e os rebanhos não produzirem (um pensamento horrível no contexto de uma economia agrícola) e a sociedade vivenciar a fome e a pobreza, a esperança confiante de Habacuque não será abalada. Esperança e confiança transformam seu temor do futuro no desejo de se regozijar sempre em Deus, seu Salvador."
+        }
+      ],
+      "paragrafos": [
+        "Mesmo quando as colheitas e os rebanhos não produzirem (um pensamento horrível no contexto de uma economia agrícola) e a sociedade vivenciar a fome e a pobreza, a esperança confiante de Habacuque não será abalada. Esperança e confiança transformam seu temor do futuro no desejo de se regozijar sempre em Deus, seu Salvador."
+      ]
+    },
+    {
+      "id": "fr-hc-0056",
+      "referencia": "3.19",
+      "capitulo": 3,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.19",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "075 - Habacuque (Hc).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1606,
+        "rotulo_original_ocr": "3.19",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O SENHOR Deus é a minha fortaleza. A total dependência do soberano Senhor da aliança é o segredo da vida de Habacuque.\n\nmeus pés como os da corça... andar altaneiramente. Essa figura impressionante descreve a força e a confiança que o Senhor transmite aos justos (Is 40.29-31).\n\nmestre de canto. Ver nota no v. 1.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Hc",
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "O SENHOR Deus é a minha fortaleza.",
+          "texto": "A total dependência do soberano Senhor da aliança é o segredo da vida de Habacuque."
+        },
+        {
+          "titulo": "meus pés como os da corça... andar altaneiramente.",
+          "texto": "Essa figura impressionante descreve a força e a confiança que o Senhor transmite aos justos (Is 40.29-31)."
+        },
+        {
+          "titulo": "mestre de canto.",
+          "texto": "Ver nota no v. 1."
+        }
+      ],
+      "paragrafos": [
+        "O SENHOR Deus é a minha fortaleza. A total dependência do soberano Senhor da aliança é o segredo da vida de Habacuque.",
+        "meus pés como os da corça... andar altaneiramente. Essa figura impressionante descreve a força e a confiança que o Senhor transmite aos justos (Is 40.29-31).",
+        "mestre de canto. Ver nota no v. 1."
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

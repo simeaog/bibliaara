@@ -1,0 +1,1275 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Jd",
+  "titulo": "Judas",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "138 - Judas (Jd).pdf",
+    "paginas_pdf": [
+      1,
+      3
+    ],
+    "observacao": "Cotejo visual das três páginas; segunda leitura e teste funcional pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-jd-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "1 Judas... irmao de Tiago. Ver Introdugao:",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "Judas... irmão de Tiago. Ver Introdução: Autor. Se, como é provável, o Tiago e o Judas que foram autores de epístolas do Novo Testamento eram meios-irmãos de Jesus (Mt 13.55), é importante ressaltar que nenhum dos dois se identificou em relação à conexão familiar com Jesus. Ambos se identificaram como “servos” (escravos) de Jesus, dando a entender, talvez, que sua posição como líderes na Igreja não era atribuível à proximidade biológica com o Messias, e sim ao seu chamado e à sua capacitação pela graça.\n\nchamados. A expressão da soberana e graciosa iniciativa de Deus em chamar, de forma eficaz, para a salvação aqueles que ele escolheu (cf. Rm 8.29-30).\n\namados. Ou seja, Deus “separou” para seu cuidado e uso especial aqueles a quem chamou.\n\nguardados em Jesus Cristo. Os eleitos perseverarão na fé porque Deus os preserva (v. 24; Jo 10.27-30; 1Pe 1.5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Judas... irmão de Tiago. Ver Introdução: Autor. Se, como é provável, o Tiago e o Judas que foram autores de epístolas do Novo Testamento eram meios-irmãos de Jesus (Mt 13.55), é importante ressaltar que nenhum dos dois se identificou em relação à conexão familiar com Jesus. Ambos se identificaram como “servos” (escravos) de Jesus, dando a entender, talvez, que sua posição como líderes na Igreja não era atribuível à proximidade biológica com o Messias, e sim ao seu chamado e à sua capacitação pela graça.",
+        "chamados. A expressão da soberana e graciosa iniciativa de Deus em chamar, de forma eficaz, para a salvação aqueles que ele escolheu (cf. Rm 8.29-30).",
+        "amados. Ou seja, Deus “separou” para seu cuidado e uso especial aqueles a quem chamou.",
+        "guardados em Jesus Cristo. Os eleitos perseverarão na fé porque Deus os preserva (v. 24; Jo 10.27-30; 1Pe 1.5)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Judas... irmão de Tiago.",
+          "texto": "Ver Introdução: Autor. Se, como é provável, o Tiago e o Judas que foram autores de epístolas do Novo Testamento eram meios-irmãos de Jesus (Mt 13.55), é importante ressaltar que nenhum dos dois se identificou em relação à conexão familiar com Jesus. Ambos se identificaram como “servos” (escravos) de Jesus, dando a entender, talvez, que sua posição como líderes na Igreja não era atribuível à proximidade biológica com o Messias, e sim ao seu chamado e à sua capacitação pela graça."
+        },
+        {
+          "titulo": "chamados.",
+          "texto": "A expressão da soberana e graciosa iniciativa de Deus em chamar, de forma eficaz, para a salvação aqueles que ele escolheu (cf. Rm 8.29-30)."
+        },
+        {
+          "titulo": "amados.",
+          "texto": "Ou seja, Deus “separou” para seu cuidado e uso especial aqueles a quem chamou."
+        },
+        {
+          "titulo": "guardados em Jesus Cristo.",
+          "texto": "Os eleitos perseverarão na fé porque Deus os preserva (v. 24; Jo 10.27-30; 1Pe 1.5)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "2 a misericordia, a paz e o amor. Judas",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "a misericórdia, a paz e o amor. Judas impregna uma saudação judaica tradicional (“misericórdia e paz”) de profundo significado ao acrescentar “amor”. A misericórdia de Deus para com os pecadores indignos e a paz resultante fundamentam-se no amor de Deus manifestado em Jesus Cristo (Jo 3.16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a misericórdia, a paz e o amor. Judas impregna uma saudação judaica tradicional (“misericórdia e paz”) de profundo significado ao acrescentar “amor”. A misericórdia de Deus para com os pecadores indignos e a paz resultante fundamentam-se no amor de Deus manifestado em Jesus Cristo (Jo 3.16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a misericórdia, a paz e o amor.",
+          "texto": "Judas impregna uma saudação judaica tradicional (“misericórdia e paz”) de profundo significado ao acrescentar “amor”. A misericórdia de Deus para com os pecadores indignos e a paz resultante fundamentam-se no amor de Deus manifestado em Jesus Cristo (Jo 3.16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "3 me senti obrigado. Em vez do tratado doutri-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "me senti obrigado. Em vez do tratado doutrinário sobre a “nossa comum salvação”, que presumivelmente teria sido mais positivo e menos polêmico, Judas sentiu-se compelido a abordar o problema dos falsos mestres (v. 4). Não sabemos se a sua intenção original se cumpriu em algum outro tempo.\n\nbatalhardes... pela fé. Aqui, “fé” indica o conteúdo doutrinário da mensagem ensinada pelos apóstolos e sustentada em comum por todos os cristãos (note a expressão anterior “nossa comum salvação”), e não o exercício pessoal de confiança por parte de um crente. O cristianismo inclui um corpo autoritário de crenças dado por Deus à Igreja por meio dos apóstolos (1Co 15.3-8). Junto com o Antigo Testamento (Ef 2.20), esse testemunho apostólico, achado no Novo Testamento, é o padrão para a Igreja (2Jo 9, 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "me senti obrigado. Em vez do tratado doutrinário sobre a “nossa comum salvação”, que presumivelmente teria sido mais positivo e menos polêmico, Judas sentiu-se compelido a abordar o problema dos falsos mestres (v. 4). Não sabemos se a sua intenção original se cumpriu em algum outro tempo.",
+        "batalhardes... pela fé. Aqui, “fé” indica o conteúdo doutrinário da mensagem ensinada pelos apóstolos e sustentada em comum por todos os cristãos (note a expressão anterior “nossa comum salvação”), e não o exercício pessoal de confiança por parte de um crente. O cristianismo inclui um corpo autoritário de crenças dado por Deus à Igreja por meio dos apóstolos (1Co 15.3-8). Junto com o Antigo Testamento (Ef 2.20), esse testemunho apostólico, achado no Novo Testamento, é o padrão para a Igreja (2Jo 9, 10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "me senti obrigado.",
+          "texto": "Em vez do tratado doutrinário sobre a “nossa comum salvação”, que presumivelmente teria sido mais positivo e menos polêmico, Judas sentiu-se compelido a abordar o problema dos falsos mestres (v. 4). Não sabemos se a sua intenção original se cumpriu em algum outro tempo."
+        },
+        {
+          "titulo": "batalhardes... pela fé.",
+          "texto": "Aqui, “fé” indica o conteúdo doutrinário da mensagem ensinada pelos apóstolos e sustentada em comum por todos os cristãos (note a expressão anterior “nossa comum salvação”), e não o exercício pessoal de confiança por parte de um crente. O cristianismo inclui um corpo autoritário de crenças dado por Deus à Igreja por meio dos apóstolos (1Co 15.3-8). Junto com o Antigo Testamento (Ef 2.20), esse testemunho apostólico, achado no Novo Testamento, é o padrão para a Igreja (2Jo 9, 10)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "4 certos indivfduos se introduziram com",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "certos indivíduos se introduziram com dissimulação. Parece que os perturbadores não eram parte específica da Igreja para a qual Judas escreve. Talvez eles se apresentassem como profetas ou mestres itinerantes (2Jo 10, 11).\n\npronunciados para esta condenação. Essa frase difícil refere-se, talvez, a várias profecias sobre o surgimento e a condenação de homens ímpios como falsos mestres, incluindo a profecia de Enoque nos vv. 14, 15 e as profecias apostólicas nos vv. 17, 18. Ou, menos provavelmente, pode referir-se ao registro do destino dos ímpios nos livros celestiais (Jr 22.30; Ap 17.8). A ideia é muito semelhante à que vemos em 1 Pedro 2.8b: “São estes os que tropeçam na palavra, sendo desobedientes, para o que também foram postos”.\n\ntransformam em libertinagem a graça de nosso Deus. Os oponentes de Judas eram culpados de antinomianismo — a crença de que os cristãos não se acham mais sob qualquer obrigação de seguir a lei moral como norma de vida. Esse ensino foi um problema persistente na Igreja primitiva (Rm 3.8; 6.15; 1Co 6.12-15; Gl 5.13), especialmente onde a ênfase de Paulo sobre a justificação pela graça, mediante a fé, foi mal compreendida e pervertida.\n\nnegam... Soberano e Senhor, Jesus Cristo. Por seu comportamento ímpio e imoral, os falsos mestres negam Cristo. A designação de Cristo como “Senhor” reconhece a divindade de Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "certos indivíduos se introduziram com dissimulação. Parece que os perturbadores não eram parte específica da Igreja para a qual Judas escreve. Talvez eles se apresentassem como profetas ou mestres itinerantes (2Jo 10, 11).",
+        "pronunciados para esta condenação. Essa frase difícil refere-se, talvez, a várias profecias sobre o surgimento e a condenação de homens ímpios como falsos mestres, incluindo a profecia de Enoque nos vv. 14, 15 e as profecias apostólicas nos vv. 17, 18. Ou, menos provavelmente, pode referir-se ao registro do destino dos ímpios nos livros celestiais (Jr 22.30; Ap 17.8). A ideia é muito semelhante à que vemos em 1 Pedro 2.8b: “São estes os que tropeçam na palavra, sendo desobedientes, para o que também foram postos”.",
+        "transformam em libertinagem a graça de nosso Deus. Os oponentes de Judas eram culpados de antinomianismo — a crença de que os cristãos não se acham mais sob qualquer obrigação de seguir a lei moral como norma de vida. Esse ensino foi um problema persistente na Igreja primitiva (Rm 3.8; 6.15; 1Co 6.12-15; Gl 5.13), especialmente onde a ênfase de Paulo sobre a justificação pela graça, mediante a fé, foi mal compreendida e pervertida.",
+        "negam... Soberano e Senhor, Jesus Cristo. Por seu comportamento ímpio e imoral, os falsos mestres negam Cristo. A designação de Cristo como “Senhor” reconhece a divindade de Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "certos indivíduos se introduziram com dissimulação.",
+          "texto": "Parece que os perturbadores não eram parte específica da Igreja para a qual Judas escreve. Talvez eles se apresentassem como profetas ou mestres itinerantes (2Jo 10, 11)."
+        },
+        {
+          "titulo": "pronunciados para esta condenação.",
+          "texto": "Essa frase difícil refere-se, talvez, a várias profecias sobre o surgimento e a condenação de homens ímpios como falsos mestres, incluindo a profecia de Enoque nos vv. 14, 15 e as profecias apostólicas nos vv. 17, 18. Ou, menos provavelmente, pode referir-se ao registro do destino dos ímpios nos livros celestiais (Jr 22.30; Ap 17.8). A ideia é muito semelhante à que vemos em 1 Pedro 2.8b: “São estes os que tropeçam na palavra, sendo desobedientes, para o que também foram postos”."
+        },
+        {
+          "titulo": "transformam em libertinagem a graça de nosso Deus.",
+          "texto": "Os oponentes de Judas eram culpados de antinomianismo — a crença de que os cristãos não se acham mais sob qualquer obrigação de seguir a lei moral como norma de vida. Esse ensino foi um problema persistente na Igreja primitiva (Rm 3.8; 6.15; 1Co 6.12-15; Gl 5.13), especialmente onde a ênfase de Paulo sobre a justificação pela graça, mediante a fé, foi mal compreendida e pervertida."
+        },
+        {
+          "titulo": "negam... Soberano e Senhor, Jesus Cristo.",
+          "texto": "Por seu comportamento ímpio e imoral, os falsos mestres negam Cristo. A designação de Cristo como “Senhor” reconhece a divindade de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0005",
+      "referencia": "1.5-7",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.5-7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "5-7 Tres exemplos da historia antiga mostram que",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "Três exemplos da história antiga mostram que as pessoas que abusam dos privilégios dados por Deus receberão, no final, punição e destruição da parte de Deus. Os israelitas que desfrutaram a libertação da escravidão egípcia, no êxodo, pereceram depois no deserto, porque não creram que Deus poderia capacitá-los a conquistar nações pagãs que habitavam a Terra Prometida (Nm 14.27-34). Anjos que ocupavam posições privilegiadas de autoridade se rebelaram contra seu Criador e estão agora aprisionados em trevas, esperando a destruição no julgamento final. Judas não menciona a pujança de Sodoma e Gomorra e arredores (de acordo com Gn 13.10: “toda bem regada... como o jardim do Senhor”), mas talvez tenha presumido que seus leitores se lembrariam do que atraíra Ló para aquelas cidades. A perversão sexual daquelas cidades causou sua destruição por fogo (Gn 18.16-19.29).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Três exemplos da história antiga mostram que as pessoas que abusam dos privilégios dados por Deus receberão, no final, punição e destruição da parte de Deus. Os israelitas que desfrutaram a libertação da escravidão egípcia, no êxodo, pereceram depois no deserto, porque não creram que Deus poderia capacitá-los a conquistar nações pagãs que habitavam a Terra Prometida (Nm 14.27-34). Anjos que ocupavam posições privilegiadas de autoridade se rebelaram contra seu Criador e estão agora aprisionados em trevas, esperando a destruição no julgamento final. Judas não menciona a pujança de Sodoma e Gomorra e arredores (de acordo com Gn 13.10: “toda bem regada... como o jardim do Senhor”), mas talvez tenha presumido que seus leitores se lembrariam do que atraíra Ló para aquelas cidades. A perversão sexual daquelas cidades causou sua destruição por fogo (Gn 18.16-19.29)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Três exemplos da história antiga mostram que as pessoas que abusam dos privilégios dados por Deus receberão, no final, punição e destruição da parte de Deus. Os israelitas que desfrutaram a libertação da escravidão egípcia, no êxodo, pereceram depois no deserto, porque não creram que Deus poderia capacitá-los a conquistar nações pagãs que habitavam a Terra Prometida (Nm 14.27-34). Anjos que ocupavam posições privilegiadas de autoridade se rebelaram contra seu Criador e estão agora aprisionados em trevas, esperando a destruição no julgamento final. Judas não menciona a pujança de Sodoma e Gomorra e arredores (de acordo com Gn 13.10: “toda bem regada... como o jardim do Senhor”), mas talvez tenha presumido que seus leitores se lembrariam do que atraíra Ló para aquelas cidades. A perversão sexual daquelas cidades causou sua destruição por fogo (Gn 18.16-19.29)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0025",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "o Senhor, tendo libertado um povo. / destruiu... os que não creram.",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "o Senhor, tendo libertado um povo. Vários manuscritos contêm a redação “Jesus, tendo libertado”, que reflete o texto mais provável. De forma admirável, Judas usa o nome humano conferido ao Filho encarnado, em seu nascimento, para se referir ao livramento de Israel realizado por ele, no êxodo, antes da encarnação. Judas deixa claro o que outros autores do Novo Testamento também ensinam, que o eterno Filho de Deus, que se tornou homem, na plenitude do tempo, existia pessoalmente antes de sua encarnação e esteve ativo como aquele por meio de quem Deus criou o universo (Jo 1.3; Cl 1.16; Hb 1.2) e por intermédio de quem Deus redimiu seu povo (Êx 3.14; Jo 8.58).\n\ndestruiu... os que não creram. Deus julgou Israel com quarenta anos de peregrinação no deserto por causa de incredulidade, quando se recusaram a entrar em Canaã, depois do relato dos espias (Nm 14.27-34; Hb 3.16-19). Assim como o julgamento recaiu sobre os israelitas apóstatas, depois de seu livramento do Egito, também recairá sobre os membros de Igreja que apostatam (Hb 4.1, 2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o Senhor, tendo libertado um povo. Vários manuscritos contêm a redação “Jesus, tendo libertado”, que reflete o texto mais provável. De forma admirável, Judas usa o nome humano conferido ao Filho encarnado, em seu nascimento, para se referir ao livramento de Israel realizado por ele, no êxodo, antes da encarnação. Judas deixa claro o que outros autores do Novo Testamento também ensinam, que o eterno Filho de Deus, que se tornou homem, na plenitude do tempo, existia pessoalmente antes de sua encarnação e esteve ativo como aquele por meio de quem Deus criou o universo (Jo 1.3; Cl 1.16; Hb 1.2) e por intermédio de quem Deus redimiu seu povo (Êx 3.14; Jo 8.58).",
+        "destruiu... os que não creram. Deus julgou Israel com quarenta anos de peregrinação no deserto por causa de incredulidade, quando se recusaram a entrar em Canaã, depois do relato dos espias (Nm 14.27-34; Hb 3.16-19). Assim como o julgamento recaiu sobre os israelitas apóstatas, depois de seu livramento do Egito, também recairá sobre os membros de Igreja que apostatam (Hb 4.1, 2)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o Senhor, tendo libertado um povo.",
+          "texto": "Vários manuscritos contêm a redação “Jesus, tendo libertado”, que reflete o texto mais provável. De forma admirável, Judas usa o nome humano conferido ao Filho encarnado, em seu nascimento, para se referir ao livramento de Israel realizado por ele, no êxodo, antes da encarnação. Judas deixa claro o que outros autores do Novo Testamento também ensinam, que o eterno Filho de Deus, que se tornou homem, na plenitude do tempo, existia pessoalmente antes de sua encarnação e esteve ativo como aquele por meio de quem Deus criou o universo (Jo 1.3; Cl 1.16; Hb 1.2) e por intermédio de quem Deus redimiu seu povo (Êx 3.14; Jo 8.58)."
+        },
+        {
+          "titulo": "destruiu... os que não creram.",
+          "texto": "Deus julgou Israel com quarenta anos de peregrinação no deserto por causa de incredulidade, quando se recusaram a entrar em Canaã, depois do relato dos espias (Nm 14.27-34; Hb 3.16-19). Assim como o julgamento recaiu sobre os israelitas apóstatas, depois de seu livramento do Egito, também recairá sobre os membros de Igreja que apostatam (Hb 4.1, 2)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0006",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "6 anjos. Ver nota em 2 Pedro 2.4.",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "anjos. Ver nota em 2 Pedro 2.4.\n\nnão guardaram o seu estado original, mas abandonaram o seu próprio domicílio. Os anjos em questão se rebelaram contra as responsabilidades dadas por Deus e abandonaram suas áreas de ministério ou residência. Alguns entendem isso como significando que eles deixaram o céu e vieram para a terra. Pode referir-se a uma queda primordial de anjos, no tempo em que Satanás se rebelou contra o Senhor.\n\no grande Dia. O dia de julgamento na segunda vinda de Cristo.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "anjos. Ver nota em 2 Pedro 2.4.",
+        "não guardaram o seu estado original, mas abandonaram o seu próprio domicílio. Os anjos em questão se rebelaram contra as responsabilidades dadas por Deus e abandonaram suas áreas de ministério ou residência. Alguns entendem isso como significando que eles deixaram o céu e vieram para a terra. Pode referir-se a uma queda primordial de anjos, no tempo em que Satanás se rebelou contra o Senhor.",
+        "o grande Dia. O dia de julgamento na segunda vinda de Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "anjos.",
+          "texto": "Ver nota em 2 Pedro 2.4."
+        },
+        {
+          "titulo": "não guardaram o seu estado original, mas abandonaram o seu próprio domicílio.",
+          "texto": "Os anjos em questão se rebelaram contra as responsabilidades dadas por Deus e abandonaram suas áreas de ministério ou residência. Alguns entendem isso como significando que eles deixaram o céu e vieram para a terra. Pode referir-se a uma queda primordial de anjos, no tempo em que Satanás se rebelou contra o Senhor."
+        },
+        {
+          "titulo": "o grande Dia.",
+          "texto": "O dia de julgamento na segunda vinda de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0007",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 2291,
+        "rotulo_original_ocr": "7 como aqueles. Na perversidade de sua trans-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "como aqueles. Na perversidade de sua transgressão sexual, Sodoma, Gomorra e as outras cidades se assemelham aos anjos ímpios (ou à geração ímpia dos dias de Noé) do v. 6. Assim como os anjos caídos rejeitaram a adoração a Deus e trocaram-na pela adoração do ego, também Sodoma e Gomorra e as cidades circunvizinhas substituíram a glória do Criador pela criação e foram, portanto, entregues ao seu pecado (cf. Rm 1.21-27). A comparação também poderia apontar para a ostentação e o orgulho com que eles abandonaram seu próprio lugar. Visto que as analogias anteriores retratam a sequência — privilégio, rebelião, destruição — na experiência de Israel depois do êxodo e dos anjos caídos, talvez Judas esperasse que seus leitores se lembrassem da fertilidade edênica do vale do Jordão, no qual Sodoma, Gomorra e as cidades circunvizinhas estavam localizadas (Gn 13.10), tornando a resistência delas ao Senhor ainda mais indesculpável.\n\nprostituição... seguindo após outra carne. O “seguir após outra carne” em vista é a homossexualidade descrita em Gênesis 19.4, 5.\n\npara exemplo do fogo eterno. A destruição por fogo de Sodoma e Gomorra e das cidades circunvizinhas em Gênesis 19 serve, em toda a Escritura, como um exemplo do julgamento de Deus sobre o pecado (Dt 29.23; Is 1.9; Jr 49.17, 18; Rm 9.29).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "como aqueles. Na perversidade de sua transgressão sexual, Sodoma, Gomorra e as outras cidades se assemelham aos anjos ímpios (ou à geração ímpia dos dias de Noé) do v. 6. Assim como os anjos caídos rejeitaram a adoração a Deus e trocaram-na pela adoração do ego, também Sodoma e Gomorra e as cidades circunvizinhas substituíram a glória do Criador pela criação e foram, portanto, entregues ao seu pecado (cf. Rm 1.21-27). A comparação também poderia apontar para a ostentação e o orgulho com que eles abandonaram seu próprio lugar. Visto que as analogias anteriores retratam a sequência — privilégio, rebelião, destruição — na experiência de Israel depois do êxodo e dos anjos caídos, talvez Judas esperasse que seus leitores se lembrassem da fertilidade edênica do vale do Jordão, no qual Sodoma, Gomorra e as cidades circunvizinhas estavam localizadas (Gn 13.10), tornando a resistência delas ao Senhor ainda mais indesculpável.",
+        "prostituição... seguindo após outra carne. O “seguir após outra carne” em vista é a homossexualidade descrita em Gênesis 19.4, 5.",
+        "para exemplo do fogo eterno. A destruição por fogo de Sodoma e Gomorra e das cidades circunvizinhas em Gênesis 19 serve, em toda a Escritura, como um exemplo do julgamento de Deus sobre o pecado (Dt 29.23; Is 1.9; Jr 49.17, 18; Rm 9.29)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como aqueles.",
+          "texto": "Na perversidade de sua transgressão sexual, Sodoma, Gomorra e as outras cidades se assemelham aos anjos ímpios (ou à geração ímpia dos dias de Noé) do v. 6. Assim como os anjos caídos rejeitaram a adoração a Deus e trocaram-na pela adoração do ego, também Sodoma e Gomorra e as cidades circunvizinhas substituíram a glória do Criador pela criação e foram, portanto, entregues ao seu pecado (cf. Rm 1.21-27). A comparação também poderia apontar para a ostentação e o orgulho com que eles abandonaram seu próprio lugar. Visto que as analogias anteriores retratam a sequência — privilégio, rebelião, destruição — na experiência de Israel depois do êxodo e dos anjos caídos, talvez Judas esperasse que seus leitores se lembrassem da fertilidade edênica do vale do Jordão, no qual Sodoma, Gomorra e as cidades circunvizinhas estavam localizadas (Gn 13.10), tornando a resistência delas ao Senhor ainda mais indesculpável."
+        },
+        {
+          "titulo": "prostituição... seguindo após outra carne.",
+          "texto": "O “seguir após outra carne” em vista é a homossexualidade descrita em Gênesis 19.4, 5."
+        },
+        {
+          "titulo": "para exemplo do fogo eterno.",
+          "texto": "A destruição por fogo de Sodoma e Gomorra e das cidades circunvizinhas em Gênesis 19 serve, em toda a Escritura, como um exemplo do julgamento de Deus sobre o pecado (Dt 29.23; Is 1.9; Jr 49.17, 18; Rm 9.29)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0008",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2292,
+        "rotulo_original_ocr": "8 sonhadores. Provavelmente uma referenda",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "sonhadores. Provavelmente uma referência às reivindicações dos falsos mestres de revelação divina por meio de experiências visionárias (ver Cl 2.18), reivindicações que eles podiam usar para justificar as três ações seguintes.\n\ncontaminam a carne. Imoralidade sexual (v. 4 e nota), talvez até homossexualidade (v. 7; Rm 1.26, 27).\n\nrejeitam governo. Embora alguns entendam isso no sentido de autoridade humana ou angelical, a referência ao senhorio e à autoridade de Jesus Cristo é mais provável (v. 4).\n\ndifamam autoridades superiores. Ver nota em 2 Pedro 2.10.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sonhadores. Provavelmente uma referência às reivindicações dos falsos mestres de revelação divina por meio de experiências visionárias (ver Cl 2.18), reivindicações que eles podiam usar para justificar as três ações seguintes.",
+        "contaminam a carne. Imoralidade sexual (v. 4 e nota), talvez até homossexualidade (v. 7; Rm 1.26, 27).",
+        "rejeitam governo. Embora alguns entendam isso no sentido de autoridade humana ou angelical, a referência ao senhorio e à autoridade de Jesus Cristo é mais provável (v. 4).",
+        "difamam autoridades superiores. Ver nota em 2 Pedro 2.10."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sonhadores.",
+          "texto": "Provavelmente uma referência às reivindicações dos falsos mestres de revelação divina por meio de experiências visionárias (ver Cl 2.18), reivindicações que eles podiam usar para justificar as três ações seguintes."
+        },
+        {
+          "titulo": "contaminam a carne.",
+          "texto": "Imoralidade sexual (v. 4 e nota), talvez até homossexualidade (v. 7; Rm 1.26, 27)."
+        },
+        {
+          "titulo": "rejeitam governo.",
+          "texto": "Embora alguns entendam isso no sentido de autoridade humana ou angelical, a referência ao senhorio e à autoridade de Jesus Cristo é mais provável (v. 4)."
+        },
+        {
+          "titulo": "difamam autoridades superiores.",
+          "texto": "Ver nota em 2 Pedro 2.10."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0009",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2292,
+        "rotulo_original_ocr": "9 o arcanjo Miguel. Deacordocom Daniel10.13, 21;",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "o arcanjo Miguel. De acordo com Daniel 10.13, 21; 12.1, Miguel é um dos principais anjos e o guardião especial de Israel. Em Apocalipse 12.7, Miguel lidera uma hoste de anjos em guerra contra o Diabo e seus anjos.\n\nAlgumas evidências indicam que esse incidente encontra correspondente na Ascensão de Moisés, uma obra judaica apócrifa (da qual sobreviveram apenas fragmentos), que expande a narrativa do sepultamento de Moisés em Deuteronômio 34.5, 6 (ver Introdução: Assuntos Especiais). A história versa sobre um confronto entre o arcanjo Miguel e o Diabo em relação à posse do corpo de Moisés. Conforme, usualmente, é interpretado, o ensino de Judas é que a fala severa dos falsos mestres contrasta com a fala moderada de Miguel (2Pe 2.10 e nota). Outros entendem que Judas está contrastando o apelo de Miguel à autoridade de Deus com a afirmação dos falsos mestres de possuírem sua própria autoridade espiritual. Alguns argumentam que se trata de uma narrativa ficcional na Ascensão de Moisés. No entanto, como todos os outros exemplos do Antigo Testamento aludidos nos vv. 6-8 dizem respeito a eventos reais da história do Antigo Testamento, esse pequeno episódio narrado na Ascensão de Moisés é, provavelmente, um evento histórico, ainda que não seja narrado em Deuteronômio. Talvez fosse um evento histórico guardado na memória dos judeus, um evento que foi lembrado e escrito na ascensão de Moisés, à qual Judas pode ter recorrido. Por outro lado, Judas pode tê-lo conhecido apenas como parte da tradição judaica, que ele ouvia desde a juventude.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o arcanjo Miguel. De acordo com Daniel 10.13, 21; 12.1, Miguel é um dos principais anjos e o guardião especial de Israel. Em Apocalipse 12.7, Miguel lidera uma hoste de anjos em guerra contra o Diabo e seus anjos.",
+        "Algumas evidências indicam que esse incidente encontra correspondente na Ascensão de Moisés, uma obra judaica apócrifa (da qual sobreviveram apenas fragmentos), que expande a narrativa do sepultamento de Moisés em Deuteronômio 34.5, 6 (ver Introdução: Assuntos Especiais). A história versa sobre um confronto entre o arcanjo Miguel e o Diabo em relação à posse do corpo de Moisés. Conforme, usualmente, é interpretado, o ensino de Judas é que a fala severa dos falsos mestres contrasta com a fala moderada de Miguel (2Pe 2.10 e nota). Outros entendem que Judas está contrastando o apelo de Miguel à autoridade de Deus com a afirmação dos falsos mestres de possuírem sua própria autoridade espiritual. Alguns argumentam que se trata de uma narrativa ficcional na Ascensão de Moisés. No entanto, como todos os outros exemplos do Antigo Testamento aludidos nos vv. 6-8 dizem respeito a eventos reais da história do Antigo Testamento, esse pequeno episódio narrado na Ascensão de Moisés é, provavelmente, um evento histórico, ainda que não seja narrado em Deuteronômio. Talvez fosse um evento histórico guardado na memória dos judeus, um evento que foi lembrado e escrito na ascensão de Moisés, à qual Judas pode ter recorrido. Por outro lado, Judas pode tê-lo conhecido apenas como parte da tradição judaica, que ele ouvia desde a juventude."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o arcanjo Miguel.",
+          "texto": "De acordo com Daniel 10.13, 21; 12.1, Miguel é um dos principais anjos e o guardião especial de Israel. Em Apocalipse 12.7, Miguel lidera uma hoste de anjos em guerra contra o Diabo e seus anjos."
+        },
+        {
+          "titulo": "",
+          "texto": "Algumas evidências indicam que esse incidente encontra correspondente na Ascensão de Moisés, uma obra judaica apócrifa (da qual sobreviveram apenas fragmentos), que expande a narrativa do sepultamento de Moisés em Deuteronômio 34.5, 6 (ver Introdução: Assuntos Especiais). A história versa sobre um confronto entre o arcanjo Miguel e o Diabo em relação à posse do corpo de Moisés. Conforme, usualmente, é interpretado, o ensino de Judas é que a fala severa dos falsos mestres contrasta com a fala moderada de Miguel (2Pe 2.10 e nota). Outros entendem que Judas está contrastando o apelo de Miguel à autoridade de Deus com a afirmação dos falsos mestres de possuírem sua própria autoridade espiritual. Alguns argumentam que se trata de uma narrativa ficcional na Ascensão de Moisés. No entanto, como todos os outros exemplos do Antigo Testamento aludidos nos vv. 6-8 dizem respeito a eventos reais da história do Antigo Testamento, esse pequeno episódio narrado na Ascensão de Moisés é, provavelmente, um evento histórico, ainda que não seja narrado em Deuteronômio. Talvez fosse um evento histórico guardado na memória dos judeus, um evento que foi lembrado e escrito na ascensão de Moisés, à qual Judas pode ter recorrido. Por outro lado, Judas pode tê-lo conhecido apenas como parte da tradição judaica, que ele ouvia desde a juventude."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0010",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2292,
+        "rotulo_original_ocr": "11 caminho de Cairn. Ver Genesis 4.1-15; He-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "caminho de Caim. Ver Gênesis 4.1-15; Hebreus 11.4; 1 João 3.12. De acordo com a tradição judaica, à qual Judas pode estar se referindo, Caim era o arquétipo de pecador e mestre de outras pessoas no pecado.\n\nerro de Balaão. A prontidão de Balaão para, movido por “ganância”, abusar de seu dom profético é registrada em Neemias 22-24; 31.16. Ver nota em 2 Pedro 2.15.\n\nrevolta de Corá. Aliado a Datã e Abirão, Corá liderou 250 homens em rebelião contra a autoridade de Moisés e Arão (Nm 16). A rebelião de Corá e o julgamento divino resultante são uma analogia conveniente ao desafio dos falsos mestres à autoridade da Igreja e à perigosa habilidade dos falsos mestres para desencaminhar os outros, bem como uma ilustração vívida do julgamento divino que aguarda os falsos mestres (Nm 16.31-33).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "caminho de Caim. Ver Gênesis 4.1-15; Hebreus 11.4; 1 João 3.12. De acordo com a tradição judaica, à qual Judas pode estar se referindo, Caim era o arquétipo de pecador e mestre de outras pessoas no pecado.",
+        "erro de Balaão. A prontidão de Balaão para, movido por “ganância”, abusar de seu dom profético é registrada em Neemias 22-24; 31.16. Ver nota em 2 Pedro 2.15.",
+        "revolta de Corá. Aliado a Datã e Abirão, Corá liderou 250 homens em rebelião contra a autoridade de Moisés e Arão (Nm 16). A rebelião de Corá e o julgamento divino resultante são uma analogia conveniente ao desafio dos falsos mestres à autoridade da Igreja e à perigosa habilidade dos falsos mestres para desencaminhar os outros, bem como uma ilustração vívida do julgamento divino que aguarda os falsos mestres (Nm 16.31-33)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "caminho de Caim.",
+          "texto": "Ver Gênesis 4.1-15; Hebreus 11.4; 1 João 3.12. De acordo com a tradição judaica, à qual Judas pode estar se referindo, Caim era o arquétipo de pecador e mestre de outras pessoas no pecado."
+        },
+        {
+          "titulo": "erro de Balaão.",
+          "texto": "A prontidão de Balaão para, movido por “ganância”, abusar de seu dom profético é registrada em Neemias 22-24; 31.16. Ver nota em 2 Pedro 2.15."
+        },
+        {
+          "titulo": "revolta de Corá.",
+          "texto": "Aliado a Datã e Abirão, Corá liderou 250 homens em rebelião contra a autoridade de Moisés e Arão (Nm 16). A rebelião de Corá e o julgamento divino resultante são uma analogia conveniente ao desafio dos falsos mestres à autoridade da Igreja e à perigosa habilidade dos falsos mestres para desencaminhar os outros, bem como uma ilustração vívida do julgamento divino que aguarda os falsos mestres (Nm 16.31-33)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0011",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2292,
+        "rotulo_original_ocr": "12 rochas submersas. A palavragregatraduzida",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "rochas submersas. A palavra grega traduzida por “deformidades” significa, em geral, “rochas” ou “rochas submersas”, que representam um perigo para os navios. Se Judas está fazendo um jogo de palavras, é para significar que os falsos mestres são perigosas “rochas submersas” naquilo que parece ser, temporariamente, águas calmas no meio da Igreja.\n\nfestas de fraternidade. Ver nota em 2 Pedro 2.13; cf. 1 Coríntios 11.20-34. Isso pode ser uma referência à Ceia do Senhor ou à refeição associada à observância da ordenança.\n\nbanqueteando-se juntos sem qualquer recato. Os falsos mestres podem ter feito das festas de fraternidade uma ocasião para imoralidade flagrante. Mesmo sem isso, a presença deles nas refeições teria sido uma preocupação para Judas. Como o ensino acontecia nas festas de fraternidade (At 20.7, 11), havia oportunidade para os falsos mestres promoverem suas ideias.\n\nnuvens sem água. Metáfora a uma forma de hipocrisia que falha em produzir o que promete (cf. 2Pe 2.17, nota).\n\nárvores... duplamente mortas, desarraigadas. Como árvores que não produzem fruto no tempo da colheita, as vidas desses falsos mestres são estéreis e caem sob o julgamento de Deus (Mt 7.16-20; Lc 13.6-9).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "rochas submersas. A palavra grega traduzida por “deformidades” significa, em geral, “rochas” ou “rochas submersas”, que representam um perigo para os navios. Se Judas está fazendo um jogo de palavras, é para significar que os falsos mestres são perigosas “rochas submersas” naquilo que parece ser, temporariamente, águas calmas no meio da Igreja.",
+        "festas de fraternidade. Ver nota em 2 Pedro 2.13; cf. 1 Coríntios 11.20-34. Isso pode ser uma referência à Ceia do Senhor ou à refeição associada à observância da ordenança.",
+        "banqueteando-se juntos sem qualquer recato. Os falsos mestres podem ter feito das festas de fraternidade uma ocasião para imoralidade flagrante. Mesmo sem isso, a presença deles nas refeições teria sido uma preocupação para Judas. Como o ensino acontecia nas festas de fraternidade (At 20.7, 11), havia oportunidade para os falsos mestres promoverem suas ideias.",
+        "nuvens sem água. Metáfora a uma forma de hipocrisia que falha em produzir o que promete (cf. 2Pe 2.17, nota).",
+        "árvores... duplamente mortas, desarraigadas. Como árvores que não produzem fruto no tempo da colheita, as vidas desses falsos mestres são estéreis e caem sob o julgamento de Deus (Mt 7.16-20; Lc 13.6-9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "rochas submersas.",
+          "texto": "A palavra grega traduzida por “deformidades” significa, em geral, “rochas” ou “rochas submersas”, que representam um perigo para os navios. Se Judas está fazendo um jogo de palavras, é para significar que os falsos mestres são perigosas “rochas submersas” naquilo que parece ser, temporariamente, águas calmas no meio da Igreja."
+        },
+        {
+          "titulo": "festas de fraternidade.",
+          "texto": "Ver nota em 2 Pedro 2.13; cf. 1 Coríntios 11.20-34. Isso pode ser uma referência à Ceia do Senhor ou à refeição associada à observância da ordenança."
+        },
+        {
+          "titulo": "banqueteando-se juntos sem qualquer recato.",
+          "texto": "Os falsos mestres podem ter feito das festas de fraternidade uma ocasião para imoralidade flagrante. Mesmo sem isso, a presença deles nas refeições teria sido uma preocupação para Judas. Como o ensino acontecia nas festas de fraternidade (At 20.7, 11), havia oportunidade para os falsos mestres promoverem suas ideias."
+        },
+        {
+          "titulo": "nuvens sem água.",
+          "texto": "Metáfora a uma forma de hipocrisia que falha em produzir o que promete (cf. 2Pe 2.17, nota)."
+        },
+        {
+          "titulo": "árvores... duplamente mortas, desarraigadas.",
+          "texto": "Como árvores que não produzem fruto no tempo da colheita, as vidas desses falsos mestres são estéreis e caem sob o julgamento de Deus (Mt 7.16-20; Lc 13.6-9)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0012",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2292,
+        "rotulo_original_ocr": "13 estrelas errantes. Estrelas cadentes, come-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "estrelas errantes. Estrelas cadentes, cometas ou, muito provavelmente, planetas. Ou o ensino dos oponentes tem vida curta (como a luz de uma estrela cadente), ou é indigno e inútil (como quando um corpo celestial imprevisível é usado para a navegação).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "estrelas errantes. Estrelas cadentes, cometas ou, muito provavelmente, planetas. Ou o ensino dos oponentes tem vida curta (como a luz de uma estrela cadente), ou é indigno e inútil (como quando um corpo celestial imprevisível é usado para a navegação)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estrelas errantes.",
+          "texto": "Estrelas cadentes, cometas ou, muito provavelmente, planetas. Ou o ensino dos oponentes tem vida curta (como a luz de uma estrela cadente), ou é indigno e inútil (como quando um corpo celestial imprevisível é usado para a navegação)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0013",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2292,
+        "rotulo_original_ocr": "14 profetizou. De acordo com o uso que Judas",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "profetizou. De acordo com o uso que Judas faz de 1 Enoque, essa afirmação é uma fala histórica que foi preservada na tradição judaica e registrada depois em 1 Enoque. Alternativamente, tanto 1 Enoque como Judas podem estar se referindo a uma antiga tradição oral comum.\n\nA citação de 1 Enoque, em concordância com muitas profecias do Antigo Testamento (e.g., Dn 7.9, 10; Zc 14.3, 5), ensina que Deus virá com suas hostes celestiais para julgar os ímpios; e Judas está certo em aplicar essa ideia bíblica à sua situação específica.\n\nEnoque, o sétimo depois de Adão. O Enoque de Gênesis 5.24 é o sétimo depois de Adão, se Adão for contado como o primeiro. Nos vv. 14 e 15, parece que Judas cita quase ao pé da letra uma obra apócrifa intitulada Livro de Enoque ou 1 Enoque, que data do período intertestamentário em sua forma extensa. Ao fazer isso, Judas não está sugerindo que 1 Enoque seja inspirado por Deus ou que esse livro tenha sido escrito pelo próprio Enoque (Gn 5.24). A fonte que ele usa era familiar aos seus leitores e seria útil para confirmar seu tema de julgamento divino que virá sobre os ímpios (ver Introdução: Assuntos Especiais).\n\nsantas miríades. Talvez uma referência às hostes angelicais que acompanharão o retorno do Senhor (Zc 14.5; Mt 25.31).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "profetizou. De acordo com o uso que Judas faz de 1 Enoque, essa afirmação é uma fala histórica que foi preservada na tradição judaica e registrada depois em 1 Enoque. Alternativamente, tanto 1 Enoque como Judas podem estar se referindo a uma antiga tradição oral comum.",
+        "A citação de 1 Enoque, em concordância com muitas profecias do Antigo Testamento (e.g., Dn 7.9, 10; Zc 14.3, 5), ensina que Deus virá com suas hostes celestiais para julgar os ímpios; e Judas está certo em aplicar essa ideia bíblica à sua situação específica.",
+        "Enoque, o sétimo depois de Adão. O Enoque de Gênesis 5.24 é o sétimo depois de Adão, se Adão for contado como o primeiro. Nos vv. 14 e 15, parece que Judas cita quase ao pé da letra uma obra apócrifa intitulada Livro de Enoque ou 1 Enoque, que data do período intertestamentário em sua forma extensa. Ao fazer isso, Judas não está sugerindo que 1 Enoque seja inspirado por Deus ou que esse livro tenha sido escrito pelo próprio Enoque (Gn 5.24). A fonte que ele usa era familiar aos seus leitores e seria útil para confirmar seu tema de julgamento divino que virá sobre os ímpios (ver Introdução: Assuntos Especiais).",
+        "santas miríades. Talvez uma referência às hostes angelicais que acompanharão o retorno do Senhor (Zc 14.5; Mt 25.31)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "profetizou.",
+          "texto": "De acordo com o uso que Judas faz de 1 Enoque, essa afirmação é uma fala histórica que foi preservada na tradição judaica e registrada depois em 1 Enoque. Alternativamente, tanto 1 Enoque como Judas podem estar se referindo a uma antiga tradição oral comum."
+        },
+        {
+          "titulo": "",
+          "texto": "A citação de 1 Enoque, em concordância com muitas profecias do Antigo Testamento (e.g., Dn 7.9, 10; Zc 14.3, 5), ensina que Deus virá com suas hostes celestiais para julgar os ímpios; e Judas está certo em aplicar essa ideia bíblica à sua situação específica."
+        },
+        {
+          "titulo": "Enoque, o sétimo depois de Adão.",
+          "texto": "O Enoque de Gênesis 5.24 é o sétimo depois de Adão, se Adão for contado como o primeiro. Nos vv. 14 e 15, parece que Judas cita quase ao pé da letra uma obra apócrifa intitulada Livro de Enoque ou 1 Enoque, que data do período intertestamentário em sua forma extensa. Ao fazer isso, Judas não está sugerindo que 1 Enoque seja inspirado por Deus ou que esse livro tenha sido escrito pelo próprio Enoque (Gn 5.24). A fonte que ele usa era familiar aos seus leitores e seria útil para confirmar seu tema de julgamento divino que virá sobre os ímpios (ver Introdução: Assuntos Especiais)."
+        },
+        {
+          "titulo": "santas miríades.",
+          "texto": "Talvez uma referência às hostes angelicais que acompanharão o retorno do Senhor (Zc 14.5; Mt 25.31)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0014",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "15 impios... impias... impiamente... im-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "ímpios... ímpias... impiamente... ímpios. A repetição desse vocábulo é importante e serve para enfatizar a perversidade daqueles que serão julgados pelo Senhor; a mesma palavra grega é usada nos vv. 14 e 18. A rebelião por parte dos falsos mestres é, antes e acima de tudo, contra Deus e sua autoridade. E eles serão certa e merecidamente julgados por Deus, se não se arrependerem (v. 4, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ímpios... ímpias... impiamente... ímpios. A repetição desse vocábulo é importante e serve para enfatizar a perversidade daqueles que serão julgados pelo Senhor; a mesma palavra grega é usada nos vv. 14 e 18. A rebelião por parte dos falsos mestres é, antes e acima de tudo, contra Deus e sua autoridade. E eles serão certa e merecidamente julgados por Deus, se não se arrependerem (v. 4, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ímpios... ímpias... impiamente... ímpios.",
+          "texto": "A repetição desse vocábulo é importante e serve para enfatizar a perversidade daqueles que serão julgados pelo Senhor; a mesma palavra grega é usada nos vv. 14 e 18. A rebelião por parte dos falsos mestres é, antes e acima de tudo, contra Deus e sua autoridade. E eles serão certa e merecidamente julgados por Deus, se não se arrependerem (v. 4, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0015",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "16 murmuradores... descontentes. A seme-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "murmuradores... descontentes. À semelhança de Israel no deserto (v. 5; 1Co 10.10), os falsos mestres resistem à vontade de Deus, talvez por murmurarem das restrições da lei quanto ao seu comportamento.\n\nsua boca vive propalando grandes arrogâncias. Essas podem ter sido afirmações no sentido de possuírem experiências visionárias (v. 8), liberdade da lei (vv. 4, 8) ou a posse do Espírito Santo (vv. 18, 19).\n\naduladores dos outros, por motivos interesseiros. Eles mostram parcialidade em relação aos membros ricos da Igreja (cf. Tg 2.1-4) e talvez adaptem seu ensino para agradar os influentes em sua audiência.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "murmuradores... descontentes. À semelhança de Israel no deserto (v. 5; 1Co 10.10), os falsos mestres resistem à vontade de Deus, talvez por murmurarem das restrições da lei quanto ao seu comportamento.",
+        "sua boca vive propalando grandes arrogâncias. Essas podem ter sido afirmações no sentido de possuírem experiências visionárias (v. 8), liberdade da lei (vv. 4, 8) ou a posse do Espírito Santo (vv. 18, 19).",
+        "aduladores dos outros, por motivos interesseiros. Eles mostram parcialidade em relação aos membros ricos da Igreja (cf. Tg 2.1-4) e talvez adaptem seu ensino para agradar os influentes em sua audiência."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "murmuradores... descontentes.",
+          "texto": "À semelhança de Israel no deserto (v. 5; 1Co 10.10), os falsos mestres resistem à vontade de Deus, talvez por murmurarem das restrições da lei quanto ao seu comportamento."
+        },
+        {
+          "titulo": "sua boca vive propalando grandes arrogâncias.",
+          "texto": "Essas podem ter sido afirmações no sentido de possuírem experiências visionárias (v. 8), liberdade da lei (vv. 4, 8) ou a posse do Espírito Santo (vv. 18, 19)."
+        },
+        {
+          "titulo": "aduladores dos outros, por motivos interesseiros.",
+          "texto": "Eles mostram parcialidade em relação aos membros ricos da Igreja (cf. Tg 2.1-4) e talvez adaptem seu ensino para agradar os influentes em sua audiência."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0016",
+      "referencia": "1.18",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "18 ultimo tempo. A encarnagao de Cristo inau-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "último tempo. A encarnação de Cristo inaugurou os “últimos dias” (At 2.17; Hb 1.2) ou os “últimos tempos”. Ver nota em 1 Pedro 1.20.\n\nescarnecedores. Eles zombam especialmente da lei moral de Deus e da certeza da punição divina sobre os desobedientes (Sl 1.1; 35.16; Pv 14.9; 2Pe 3.3, 4). Paulo disse a Timóteo que não ignorasse o aumento do egocentrismo, da autossatisfação e da hipocrisia das pessoas ou o surgimento de falsos mestres quando os “últimos dias” avançassem (2Tm 3.1-9).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Pe",
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "último tempo. A encarnação de Cristo inaugurou os “últimos dias” (At 2.17; Hb 1.2) ou os “últimos tempos”. Ver nota em 1 Pedro 1.20.",
+        "escarnecedores. Eles zombam especialmente da lei moral de Deus e da certeza da punição divina sobre os desobedientes (Sl 1.1; 35.16; Pv 14.9; 2Pe 3.3, 4). Paulo disse a Timóteo que não ignorasse o aumento do egocentrismo, da autossatisfação e da hipocrisia das pessoas ou o surgimento de falsos mestres quando os “últimos dias” avançassem (2Tm 3.1-9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "último tempo.",
+          "texto": "A encarnação de Cristo inaugurou os “últimos dias” (At 2.17; Hb 1.2) ou os “últimos tempos”. Ver nota em 1 Pedro 1.20."
+        },
+        {
+          "titulo": "escarnecedores.",
+          "texto": "Eles zombam especialmente da lei moral de Deus e da certeza da punição divina sobre os desobedientes (Sl 1.1; 35.16; Pv 14.9; 2Pe 3.3, 4). Paulo disse a Timóteo que não ignorasse o aumento do egocentrismo, da autossatisfação e da hipocrisia das pessoas ou o surgimento de falsos mestres quando os “últimos dias” avançassem (2Tm 3.1-9)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0017",
+      "referencia": "1.19",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "1.19",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "19 promovem divisoes. A divisao na Igreja",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "promovem divisões. A divisão na Igreja foi o resultado inevitável da “arrogância” dos falsos mestres (v. 16) e de sua afirmação, contra a liderança da Igreja e os cristãos comuns, de possuírem o Espírito. Os falsos mestres podiam estar classificando pessoas, como fizeram os gnósticos depois, em “espirituais” (eles mesmos) e “naturais” (cristãos comuns).\n\nsensuais, que não têm o Espírito. Contra as afirmações de seus oponentes, Judas argumenta que os falsos mestres são aqueles cujas vidas estão em escravidão e serviço ao pecado (v. 10). Eles não são verdadeiros crentes, embora professem ser.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "promovem divisões. A divisão na Igreja foi o resultado inevitável da “arrogância” dos falsos mestres (v. 16) e de sua afirmação, contra a liderança da Igreja e os cristãos comuns, de possuírem o Espírito. Os falsos mestres podiam estar classificando pessoas, como fizeram os gnósticos depois, em “espirituais” (eles mesmos) e “naturais” (cristãos comuns).",
+        "sensuais, que não têm o Espírito. Contra as afirmações de seus oponentes, Judas argumenta que os falsos mestres são aqueles cujas vidas estão em escravidão e serviço ao pecado (v. 10). Eles não são verdadeiros crentes, embora professem ser."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "promovem divisões.",
+          "texto": "A divisão na Igreja foi o resultado inevitável da “arrogância” dos falsos mestres (v. 16) e de sua afirmação, contra a liderança da Igreja e os cristãos comuns, de possuírem o Espírito. Os falsos mestres podiam estar classificando pessoas, como fizeram os gnósticos depois, em “espirituais” (eles mesmos) e “naturais” (cristãos comuns)."
+        },
+        {
+          "titulo": "sensuais, que não têm o Espírito.",
+          "texto": "Contra as afirmações de seus oponentes, Judas argumenta que os falsos mestres são aqueles cujas vidas estão em escravidão e serviço ao pecado (v. 10). Eles não são verdadeiros crentes, embora professem ser."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0018",
+      "referencia": "1.20-23",
+      "capitulo": 1,
+      "versiculos": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "1.20-23",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "20-23 Agora Judas se volta da denuncia dos falsos",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "Agora Judas se volta da denúncia dos falsos mestres para a exortação positiva de seus leitores. Batalhar pela fé, quando ela está sob ataque, significa mais do que opor-se aos falsos mestres com palavras. Envolve uma vida fiel ao evangelho. A forma trinitária da exortação de Judas deve ser notada (“Espírito Santo... Deus... Senhor Jesus Cristo”).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Agora Judas se volta da denúncia dos falsos mestres para a exortação positiva de seus leitores. Batalhar pela fé, quando ela está sob ataque, significa mais do que opor-se aos falsos mestres com palavras. Envolve uma vida fiel ao evangelho. A forma trinitária da exortação de Judas deve ser notada (“Espírito Santo... Deus... Senhor Jesus Cristo”)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Agora Judas se volta da denúncia dos falsos mestres para a exortação positiva de seus leitores. Batalhar pela fé, quando ela está sob ataque, significa mais do que opor-se aos falsos mestres com palavras. Envolve uma vida fiel ao evangelho. A forma trinitária da exortação de Judas deve ser notada (“Espírito Santo... Deus... Senhor Jesus Cristo”)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0019",
+      "referencia": "1.20",
+      "capitulo": 1,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "1.20",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "20 edificando... fe santissima. Judas, a se-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "edificando... fé santíssima. Judas, à semelhança de Pedro (1Pe 2.5) e Paulo (1Co 3.16, 17), compara a Igreja a um edifício. Como no v. 3, “fé”, aqui, refere-se à mensagem fundamental dos apóstolos e profetas (Ef 2.20-22).\n\norando no Espírito Santo. Em contraste com os falsos mestres, as orações dos leitores de Judas são controladas pelo Espírito, como, de fato, toda a sua vida deveria ser (Gl 5.16-18; Ef 6.18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "edificando... fé santíssima. Judas, à semelhança de Pedro (1Pe 2.5) e Paulo (1Co 3.16, 17), compara a Igreja a um edifício. Como no v. 3, “fé”, aqui, refere-se à mensagem fundamental dos apóstolos e profetas (Ef 2.20-22).",
+        "orando no Espírito Santo. Em contraste com os falsos mestres, as orações dos leitores de Judas são controladas pelo Espírito, como, de fato, toda a sua vida deveria ser (Gl 5.16-18; Ef 6.18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "edificando... fé santíssima.",
+          "texto": "Judas, à semelhança de Pedro (1Pe 2.5) e Paulo (1Co 3.16, 17), compara a Igreja a um edifício. Como no v. 3, “fé”, aqui, refere-se à mensagem fundamental dos apóstolos e profetas (Ef 2.20-22)."
+        },
+        {
+          "titulo": "orando no Espírito Santo.",
+          "texto": "Em contraste com os falsos mestres, as orações dos leitores de Judas são controladas pelo Espírito, como, de fato, toda a sua vida deveria ser (Gl 5.16-18; Ef 6.18)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0020",
+      "referencia": "1.21",
+      "capitulo": 1,
+      "versiculos": [
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "1.21",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "21 guardai-vos no amor de Deus. Judas es-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "guardai-vos no amor de Deus. Judas escreve para aqueles que Deus chamou, ama e guarda “em Jesus Cristo” (v. 1). E assegura os crentes de que Deus é poderoso para guardá-los “de tropeços” e apresentá-los “imaculados” no último dia (v. 24, nota). Mas a preservação dos santos realizada por Deus não minimiza a responsabilidade dos crentes de perseverar na fé e apoiar a perseverança uns dos outros. Um dos principais meios como Cristo salva “totalmente” os crentes (Hb 7.25) é a exortação e o encorajamento incessantes de uns para com os outros na fé (Hb 3.12; 12.12-17). Os cristãos têm de guardar uns aos outros no amor de Deus por meio do encorajamento compassivo dos que estão em dúvida (v. 22) e do resgate dos desobedientes do fogo destrutivo do pecado (v. 23). Por se guardarem no amor de Deus, os seguidores de Cristo genuínos estão em contraste com os anjos que não “guardaram” sua posição de autoridade original em submissão a Deus e, por isso, estão guardados “em algemas” à espera do juízo (v. 6) e em contraste com os intrusos corruptos da Igreja, para quem “tem sido guardada” a negritude das trevas, para a eternidade (v. 13).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 24
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "guardai-vos no amor de Deus. Judas escreve para aqueles que Deus chamou, ama e guarda “em Jesus Cristo” (v. 1). E assegura os crentes de que Deus é poderoso para guardá-los “de tropeços” e apresentá-los “imaculados” no último dia (v. 24, nota). Mas a preservação dos santos realizada por Deus não minimiza a responsabilidade dos crentes de perseverar na fé e apoiar a perseverança uns dos outros. Um dos principais meios como Cristo salva “totalmente” os crentes (Hb 7.25) é a exortação e o encorajamento incessantes de uns para com os outros na fé (Hb 3.12; 12.12-17). Os cristãos têm de guardar uns aos outros no amor de Deus por meio do encorajamento compassivo dos que estão em dúvida (v. 22) e do resgate dos desobedientes do fogo destrutivo do pecado (v. 23). Por se guardarem no amor de Deus, os seguidores de Cristo genuínos estão em contraste com os anjos que não “guardaram” sua posição de autoridade original em submissão a Deus e, por isso, estão guardados “em algemas” à espera do juízo (v. 6) e em contraste com os intrusos corruptos da Igreja, para quem “tem sido guardada” a negritude das trevas, para a eternidade (v. 13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "guardai-vos no amor de Deus.",
+          "texto": "Judas escreve para aqueles que Deus chamou, ama e guarda “em Jesus Cristo” (v. 1). E assegura os crentes de que Deus é poderoso para guardá-los “de tropeços” e apresentá-los “imaculados” no último dia (v. 24, nota). Mas a preservação dos santos realizada por Deus não minimiza a responsabilidade dos crentes de perseverar na fé e apoiar a perseverança uns dos outros. Um dos principais meios como Cristo salva “totalmente” os crentes (Hb 7.25) é a exortação e o encorajamento incessantes de uns para com os outros na fé (Hb 3.12; 12.12-17). Os cristãos têm de guardar uns aos outros no amor de Deus por meio do encorajamento compassivo dos que estão em dúvida (v. 22) e do resgate dos desobedientes do fogo destrutivo do pecado (v. 23). Por se guardarem no amor de Deus, os seguidores de Cristo genuínos estão em contraste com os anjos que não “guardaram” sua posição de autoridade original em submissão a Deus e, por isso, estão guardados “em algemas” à espera do juízo (v. 6) e em contraste com os intrusos corruptos da Igreja, para quem “tem sido guardada” a negritude das trevas, para a eternidade (v. 13)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0021",
+      "referencia": "1.22,23",
+      "capitulo": 1,
+      "versiculos": [
+        22,
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "1.22,23",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "22, 23 0 texto grego exato desses versiculos e",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "O texto grego exato desses versículos é controverso, sendo difícil afirmar se dois ou três grupos de pecadores estão em vista. Não importando qual seja a solução textual, Judas reconhece claramente que estratégias pastorais distintas devem ser empregadas com pessoas distintas. Alguns podem beneficiar-se de aconselhamento cordial (Gl 6.1); outros, contudo, exigirão confronto ou algum tipo de arrebatamento “do fogo”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O texto grego exato desses versículos é controverso, sendo difícil afirmar se dois ou três grupos de pecadores estão em vista. Não importando qual seja a solução textual, Judas reconhece claramente que estratégias pastorais distintas devem ser empregadas com pessoas distintas. Alguns podem beneficiar-se de aconselhamento cordial (Gl 6.1); outros, contudo, exigirão confronto ou algum tipo de arrebatamento “do fogo”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O texto grego exato desses versículos é controverso, sendo difícil afirmar se dois ou três grupos de pecadores estão em vista. Não importando qual seja a solução textual, Judas reconhece claramente que estratégias pastorais distintas devem ser empregadas com pessoas distintas. Alguns podem beneficiar-se de aconselhamento cordial (Gl 6.1); outros, contudo, exigirão confronto ou algum tipo de arrebatamento “do fogo”."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0022",
+      "referencia": "1.23",
+      "capitulo": 1,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "1.23",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "23 compassivos em temor. Cientes de sua",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "compassivos em temor. Cientes de sua própria vulnerabilidade à tentação, os crentes precisam alcançar aqueles que estão em padrões de pecado, com humildade e compaixão, cuidando para não serem também tentados (1Co 5.6-11; 15.32-34; Gl 6.1).\n\nroupa contaminada pela carne. Uma vívida metáfora da influência contaminadora dos falsos mestres, essa expressão ressalta o cuidado que os leitores de Judas deveriam ter no contato com os falsos mestres e com os que estavam sob a influência deles (1Co 5.11; 2Jo 10, 11). Sobre a metáfora, ver Isaías 64.6; Zacarias 3.1-5; Mateus 22.12; Apocalipse 3.4, 5, 18; 19.8.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "compassivos em temor. Cientes de sua própria vulnerabilidade à tentação, os crentes precisam alcançar aqueles que estão em padrões de pecado, com humildade e compaixão, cuidando para não serem também tentados (1Co 5.6-11; 15.32-34; Gl 6.1).",
+        "roupa contaminada pela carne. Uma vívida metáfora da influência contaminadora dos falsos mestres, essa expressão ressalta o cuidado que os leitores de Judas deveriam ter no contato com os falsos mestres e com os que estavam sob a influência deles (1Co 5.11; 2Jo 10, 11). Sobre a metáfora, ver Isaías 64.6; Zacarias 3.1-5; Mateus 22.12; Apocalipse 3.4, 5, 18; 19.8."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "compassivos em temor.",
+          "texto": "Cientes de sua própria vulnerabilidade à tentação, os crentes precisam alcançar aqueles que estão em padrões de pecado, com humildade e compaixão, cuidando para não serem também tentados (1Co 5.6-11; 15.32-34; Gl 6.1)."
+        },
+        {
+          "titulo": "roupa contaminada pela carne.",
+          "texto": "Uma vívida metáfora da influência contaminadora dos falsos mestres, essa expressão ressalta o cuidado que os leitores de Judas deveriam ter no contato com os falsos mestres e com os que estavam sob a influência deles (1Co 5.11; 2Jo 10, 11). Sobre a metáfora, ver Isaías 64.6; Zacarias 3.1-5; Mateus 22.12; Apocalipse 3.4, 5, 18; 19.8."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0023",
+      "referencia": "1.24,25",
+      "capitulo": 1,
+      "versiculos": [
+        24,
+        25
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 24
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 25
+        }
+      ],
+      "titulo": "1.24,25",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "24, 25 A semelhanga de Romanos 16.25-27, a con-",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "À semelhança de Romanos 16.25-27, a conclusão de Judas é uma doxologia que expressa confiança no poder de Deus para preservar seu povo até o fim e reconhece a eterna grandeza de Deus em sua “glória, majestade, império e soberania”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "À semelhança de Romanos 16.25-27, a conclusão de Judas é uma doxologia que expressa confiança no poder de Deus para preservar seu povo até o fim e reconhece a eterna grandeza de Deus em sua “glória, majestade, império e soberania”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "À semelhança de Romanos 16.25-27, a conclusão de Judas é uma doxologia que expressa confiança no poder de Deus para preservar seu povo até o fim e reconhece a eterna grandeza de Deus em sua “glória, majestade, império e soberania”."
+        }
+      ]
+    },
+    {
+      "id": "fr-jd-0024",
+      "referencia": "1.24",
+      "capitulo": 1,
+      "versiculos": [
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "1.24",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "138 - Judas (Jd).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2293,
+        "rotulo_original_ocr": "24 Ora, aquele que e poderoso para vos",
+        "metodo": "cotejo visual das três páginas do PDF enviado"
+      },
+      "texto": "Ora, àquele que é poderoso para vos guardar. Aqui “guardar” poderia ser traduzido como “proteger” (v. 21, nota), com a conotação de proteção militar. Ninguém pode arrancar as ovelhas de Jesus de sua mão (Jo 10.28, 29; cf. 17.12). Assim como a herança dos crentes está “reservada” nos céus a eles, também eles são “guardados” (outro verbo grego) na terra, pela fé, até a revelação final de sua salvação plena (1Pe 1.4, 5). Todos aqueles que Deus justifica, ele também os glorifica (Rm 8.28-30).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 21
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Ora, àquele que é poderoso para vos guardar. Aqui “guardar” poderia ser traduzido como “proteger” (v. 21, nota), com a conotação de proteção militar. Ninguém pode arrancar as ovelhas de Jesus de sua mão (Jo 10.28, 29; cf. 17.12). Assim como a herança dos crentes está “reservada” nos céus a eles, também eles são “guardados” (outro verbo grego) na terra, pela fé, até a revelação final de sua salvação plena (1Pe 1.4, 5). Todos aqueles que Deus justifica, ele também os glorifica (Rm 8.28-30)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ora, àquele que é poderoso para vos guardar.",
+          "texto": "Aqui “guardar” poderia ser traduzido como “proteger” (v. 21, nota), com a conotação de proteção militar. Ninguém pode arrancar as ovelhas de Jesus de sua mão (Jo 10.28, 29; cf. 17.12). Assim como a herança dos crentes está “reservada” nos céus a eles, também eles são “guardados” (outro verbo grego) na terra, pela fé, até a revelação final de sua salvação plena (1Pe 1.4, 5). Todos aqueles que Deus justifica, ele também os glorifica (Rm 8.28-30)."
+        }
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

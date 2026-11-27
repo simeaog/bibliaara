@@ -1,0 +1,3041 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Na",
+  "titulo": "Naum",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "073 - Naum (Na) (1).pdf",
+    "paginas_pdf": [
+      1,
+      6
+    ],
+    "observacao": "Cotejo visual de seis páginas. Segunda leitura e teste funcional pendentes.",
+    "drive_url": "https://drive.google.com/file/d/13P9wNRxzWW1GjpXN_snGFdxZubq-VvXg/view"
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-na-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.1 Titulo do livro. Ver Introdugao: Titulo e Autor;",
+        "texto_ocr_pre_normalizacao": "Titulo do livro. Ver Introdugao: Titulo e Autor; Data e Circunstancias. Sentenga... visao. 0 termo \"sentenga\" foca mais no conteudo deumaprofecia de julgamento solene (He 1.1,nota), enquanto \"visao\" se relaciona ao processo pelo qual Deus se comunica com a percepgaointerior do profeta. Ninive.Nos diasde Naum,Ninive eraacapital do Imperio Assirio e estava situada na margem orientaldorio Tigre,em sua confluencecom orio Khosr. Ninive e descrita como uma \"grande cidade” em Jonas1.2;3.2-4; 4.11. Aqui,representaa Assiria como urn todo etransmiteaideiade forgas malignas organizadascontra o povode Deus.",
+        "correcoes_literal_reversiveis": {
+          "Introdugao": 1,
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Título do livro. Ver Introdução: Título e Autor; Data e Circunstâncias.\n\nSentença... visão. O termo “sentença” foca mais no conteúdo de uma profecia de julgamento solene (Hc 1.1, nota), enquanto “visão” se relaciona ao processo pelo qual Deus se comunica com a percepção interior do profeta.\n\nNínive. Nos dias de Naum, Nínive era a capital do Império Assírio e estava situada na margem oriental do rio Tigre, em sua confluência com o rio Khosr. Nínive é descrita como uma “grande cidade” em Jonas 1.2; 3.2–4; 4.11. Aqui, representa a Assíria como um todo e transmite a ideia de forças malignas organizadas contra o povo de Deus.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Hc",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Título do livro. Ver Introdução: Título e Autor; Data e Circunstâncias."
+        },
+        {
+          "titulo": "Sentença... visão.",
+          "texto": "O termo “sentença” foca mais no conteúdo de uma profecia de julgamento solene (Hc 1.1, nota), enquanto “visão” se relaciona ao processo pelo qual Deus se comunica com a percepção interior do profeta."
+        },
+        {
+          "titulo": "Nínive.",
+          "texto": "Nos dias de Naum, Nínive era a capital do Império Assírio e estava situada na margem oriental do rio Tigre, em sua confluência com o rio Khosr. Nínive é descrita como uma “grande cidade” em Jonas 1.2; 3.2–4; 4.11. Aqui, representa a Assíria como um todo e transmite a ideia de forças malignas organizadas contra o povo de Deus."
+        }
+      ],
+      "paragrafos": [
+        "Título do livro. Ver Introdução: Título e Autor; Data e Circunstâncias.",
+        "Sentença... visão. O termo “sentença” foca mais no conteúdo de uma profecia de julgamento solene (Hc 1.1, nota), enquanto “visão” se relaciona ao processo pelo qual Deus se comunica com a percepção interior do profeta.",
+        "Nínive. Nos dias de Naum, Nínive era a capital do Império Assírio e estava situada na margem oriental do rio Tigre, em sua confluência com o rio Khosr. Nínive é descrita como uma “grande cidade” em Jonas 1.2; 3.2–4; 4.11. Aqui, representa a Assíria como um todo e transmite a ideia de forças malignas organizadas contra o povo de Deus."
+      ]
+    },
+    {
+      "id": "fr-na-0002",
+      "referencia": "1.2-14",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.2-14",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.2-14 0 hino introdutorio (vv. 2-8), que, em",
+        "texto_ocr_pre_normalizacao": "0 hino introdutorio (vv. 2-8), que, em hebraico, forma urn poema acrostico incomplete, descreve, de forma eloquente, o Senhor como o Juiz de todos, com poder para realizar sua vontade.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O hino introdutório (vv. 2–8), que, em hebraico, forma um poema acróstico incompleto, descreve, de forma eloquente, o Senhor como o Juiz de todos, com poder para realizar sua vontade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O hino introdutório (vv. 2–8), que, em hebraico, forma um poema acróstico incompleto, descreve, de forma eloquente, o Senhor como o Juiz de todos, com poder para realizar sua vontade."
+        }
+      ],
+      "paragrafos": [
+        "O hino introdutório (vv. 2–8), que, em hebraico, forma um poema acróstico incompleto, descreve, de forma eloquente, o Senhor como o Juiz de todos, com poder para realizar sua vontade."
+      ]
+    },
+    {
+      "id": "fr-na-0003",
+      "referencia": "1.2,3",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.2,3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.2, 3 0 carater do Senhor forma a chave para o",
+        "texto_ocr_pre_normalizacao": "0 carater do Senhor forma a chave para o que se segue. A repetigao de \"o SENHOR enfatiza queadescrigao diz respeito ao Deus da alianga.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O caráter do Senhor forma a chave para o que se segue. A repetição de “o SENHOR” enfatiza que a descrição diz respeito ao Deus da aliança.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O caráter do Senhor forma a chave para o que se segue. A repetição de “o SENHOR” enfatiza que a descrição diz respeito ao Deus da aliança."
+        }
+      ],
+      "paragrafos": [
+        "O caráter do Senhor forma a chave para o que se segue. A repetição de “o SENHOR” enfatiza que a descrição diz respeito ao Deus da aliança."
+      ]
+    },
+    {
+      "id": "fr-na-0004",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.2 zeloso. Esse atributo se refere a reagao vi-",
+        "texto_ocr_pre_normalizacao": "zeloso. Esse atributo se refere a reagao vigorosa de Deus contra qualquer violagao de sua santidade ouqualquer tentativade ter suagloria. Seu zelo exige lealdade total e se revela como ira contra a rejeigao a ele ou ao seusenhorio. vingador... vingador... toma vinganga. Fiel ao seu carater, o Juiz universal nao deixa impune pecado algum e aplica o justo merecimento dosimpios (Dt 32.35). A repetigao tripla da palavra hebraica que significa \"vinganga\" enfatiza fortemente umaretribuigaoapropriadae inescapavel. adversarios...inimigos. Aquelesque se opoem aoreinosoberanode Deussobretodaa terra.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "zeloso. Esse atributo se refere à reação vigorosa de Deus contra qualquer violação de sua santidade ou qualquer tentativa de ter sua glória. Seu zelo exige lealdade total e se revela como ira contra a rejeição a ele ou ao seu senhorio.\n\nvingador... vingador... toma vingança. Fiel ao seu caráter, o Juiz universal não deixa impune pecado algum e aplica o justo merecimento dos ímpios (Dt 32.35). A repetição tripla da palavra hebraica que significa “vingança” enfatiza fortemente uma retribuição apropriada e inescapável.\n\nadversários... inimigos. Aqueles que se opõem ao reino soberano de Deus sobre toda a terra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "zeloso.",
+          "texto": "Esse atributo se refere à reação vigorosa de Deus contra qualquer violação de sua santidade ou qualquer tentativa de ter sua glória. Seu zelo exige lealdade total e se revela como ira contra a rejeição a ele ou ao seu senhorio."
+        },
+        {
+          "titulo": "vingador... vingador... toma vingança.",
+          "texto": "Fiel ao seu caráter, o Juiz universal não deixa impune pecado algum e aplica o justo merecimento dos ímpios (Dt 32.35). A repetição tripla da palavra hebraica que significa “vingança” enfatiza fortemente uma retribuição apropriada e inescapável."
+        },
+        {
+          "titulo": "adversários... inimigos.",
+          "texto": "Aqueles que se opõem ao reino soberano de Deus sobre toda a terra."
+        }
+      ],
+      "paragrafos": [
+        "zeloso. Esse atributo se refere à reação vigorosa de Deus contra qualquer violação de sua santidade ou qualquer tentativa de ter sua glória. Seu zelo exige lealdade total e se revela como ira contra a rejeição a ele ou ao seu senhorio.",
+        "vingador... vingador... toma vingança. Fiel ao seu caráter, o Juiz universal não deixa impune pecado algum e aplica o justo merecimento dos ímpios (Dt 32.35). A repetição tripla da palavra hebraica que significa “vingança” enfatiza fortemente uma retribuição apropriada e inescapável.",
+        "adversários... inimigos. Aqueles que se opõem ao reino soberano de Deus sobre toda a terra."
+      ]
+    },
+    {
+      "id": "fr-na-0005",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.3 tardio em irar-se. Uma confissao bem",
+        "texto_ocr_pre_normalizacao": "tardio em irar-se. Uma confissao bem conhecida sobre a paciencia de Deus para com os pecadores (Ex 34.6; Jn 4.2). grande em poder... jamais inocenta. A paciencia de Deus nao significa que ele seja fraco ou que tolere omal(Gn18.25;Ex 34.7).",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "tardio em irar-se. Uma confissão bem conhecida sobre a paciência de Deus para com os pecadores (Êx 34.6; Jn 4.2).\n\ngrande em poder... jamais inocenta. A paciência de Deus não significa que ele seja fraco ou que tolere o mal (Gn 18.25; Êx 34.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "tardio em irar-se.",
+          "texto": "Uma confissão bem conhecida sobre a paciência de Deus para com os pecadores (Êx 34.6; Jn 4.2)."
+        },
+        {
+          "titulo": "grande em poder... jamais inocenta.",
+          "texto": "A paciência de Deus não significa que ele seja fraco ou que tolere o mal (Gn 18.25; Êx 34.7)."
+        }
+      ],
+      "paragrafos": [
+        "tardio em irar-se. Uma confissão bem conhecida sobre a paciência de Deus para com os pecadores (Êx 34.6; Jn 4.2).",
+        "grande em poder... jamais inocenta. A paciência de Deus não significa que ele seja fraco ou que tolere o mal (Gn 18.25; Êx 34.7)."
+      ]
+    },
+    {
+      "id": "fr-na-0006",
+      "referencia": "1.3-6",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.3-6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.3-6 0 profeta oferece uma descrigao poetica do",
+        "texto_ocr_pre_normalizacao": "0 profeta oferece uma descrigao poetica do poder do Senhor manifestado em seu controle da natureza em ocasioes de intervengao a favor deseu povo (Ex 14.21, 22;S118.7-15;Mt 8.26).0israelita piedosoreconheceaobradoSenhor nanatureza.Masa natureza nao e confundida com Deus, nem adorada como Deus;eo palcodarevelagaode Deus.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O profeta oferece uma descrição poética do poder do Senhor manifestado em seu controle da natureza em ocasiões de intervenção a favor de seu povo (Êx 14.21, 22; Sl 18.7–15; Mt 8.26). O israelita piedoso reconhece a obra do Senhor na natureza. Mas a natureza não é confundida com Deus, nem adorada como Deus; é o palco da revelação de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O profeta oferece uma descrição poética do poder do Senhor manifestado em seu controle da natureza em ocasiões de intervenção a favor de seu povo (Êx 14.21, 22; Sl 18.7–15; Mt 8.26). O israelita piedoso reconhece a obra do Senhor na natureza. Mas a natureza não é confundida com Deus, nem adorada como Deus; é o palco da revelação de Deus."
+        }
+      ],
+      "paragrafos": [
+        "O profeta oferece uma descrição poética do poder do Senhor manifestado em seu controle da natureza em ocasiões de intervenção a favor de seu povo (Êx 14.21, 22; Sl 18.7–15; Mt 8.26). O israelita piedoso reconhece a obra do Senhor na natureza. Mas a natureza não é confundida com Deus, nem adorada como Deus; é o palco da revelação de Deus."
+      ]
+    },
+    {
+      "id": "fr-na-0007",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.4 Ele repreende. Essas palavras retratam vi-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ele repreende. Essas palavras retratam vividamente o poder de Deus em sujeitar as forças da natureza, como ocorreu na travessia do mar Vermelho (Êx 14).\n\nmar... rios. Termos aqui empregados como correlativos poéticos (Is 50.2; Sl 74.12–15). Os pastos férteis de Basã, a nordeste de Judá, as vinhas do Carmelo, a noroeste, e as florestas do Líbano, ao norte, todos murcham quando o vento quente do deserto, enviado pelo Senhor, sopra sobre eles (Is 33.9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ele repreende.",
+          "texto": "Essas palavras retratam vividamente o poder de Deus em sujeitar as forças da natureza, como ocorreu na travessia do mar Vermelho (Êx 14)."
+        },
+        {
+          "titulo": "mar... rios.",
+          "texto": "Termos aqui empregados como correlativos poéticos (Is 50.2; Sl 74.12–15). Os pastos férteis de Basã, a nordeste de Judá, as vinhas do Carmelo, a noroeste, e as florestas do Líbano, ao norte, todos murcham quando o vento quente do deserto, enviado pelo Senhor, sopra sobre eles (Is 33.9)."
+        }
+      ],
+      "paragrafos": [
+        "Ele repreende. Essas palavras retratam vividamente o poder de Deus em sujeitar as forças da natureza, como ocorreu na travessia do mar Vermelho (Êx 14).",
+        "mar... rios. Termos aqui empregados como correlativos poéticos (Is 50.2; Sl 74.12–15). Os pastos férteis de Basã, a nordeste de Judá, as vinhas do Carmelo, a noroeste, e as florestas do Líbano, ao norte, todos murcham quando o vento quente do deserto, enviado pelo Senhor, sopra sobre eles (Is 33.9)."
+      ]
+    },
+    {
+      "id": "fr-na-0008",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.5 0 descontentamento diante da aproximagao",
+        "texto_ocr_pre_normalizacao": "0 descontentamento diante da aproximagao do Senhor enche a terra e suas criaturas de terror. Todaa criagao parece ameagada quando ate mesmo as coisas que parecempermanentes (\"os montes...a terra”) tremem e desaparecem.",
+        "correcoes_literal_reversiveis": {
+          "criagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O descontentamento diante da aproximação do Senhor enche a terra e suas criaturas de terror. Toda a criação parece ameaçada quando até mesmo as coisas que parecem permanentes (“os montes... a terra”) tremem e desaparecem.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O descontentamento diante da aproximação do Senhor enche a terra e suas criaturas de terror. Toda a criação parece ameaçada quando até mesmo as coisas que parecem permanentes (“os montes... a terra”) tremem e desaparecem."
+        }
+      ],
+      "paragrafos": [
+        "O descontentamento diante da aproximação do Senhor enche a terra e suas criaturas de terror. Toda a criação parece ameaçada quando até mesmo as coisas que parecem permanentes (“os montes... a terra”) tremem e desaparecem."
+      ]
+    },
+    {
+      "id": "fr-na-0009",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.6 As perguntas retoricas enfatizamairresistibili-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "As perguntas retóricas enfatizam a irresistibilidade do furor de Deus. A ira divina é comparada ao fogo (Dt 4.24; Sl 11.6; Hb 12.29).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "As perguntas retóricas enfatizam a irresistibilidade do furor de Deus. A ira divina é comparada ao fogo (Dt 4.24; Sl 11.6; Hb 12.29)."
+        }
+      ],
+      "paragrafos": [
+        "As perguntas retóricas enfatizam a irresistibilidade do furor de Deus. A ira divina é comparada ao fogo (Dt 4.24; Sl 11.6; Hb 12.29)."
+      ]
+    },
+    {
+      "id": "fr-na-0010",
+      "referencia": "1.7-11",
+      "capitulo": 1,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.7-11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.7-11Enquanto o assunto dos vv. 4-6 diz respeito",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Enquanto o assunto dos vv. 4–6 diz respeito à natureza, o foco agora se volta para Deus e seus inimigos (vv. 2, 3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Enquanto o assunto dos vv. 4–6 diz respeito à natureza, o foco agora se volta para Deus e seus inimigos (vv. 2, 3)."
+        }
+      ],
+      "paragrafos": [
+        "Enquanto o assunto dos vv. 4–6 diz respeito à natureza, o foco agora se volta para Deus e seus inimigos (vv. 2, 3)."
+      ]
+    },
+    {
+      "id": "fr-na-0011",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.7 bom A palavra denota a benevolencia do Se-",
+        "texto_ocr_pre_normalizacao": "bom A palavra denota a benevolencia do Senhor como a fonte de todo verdadeiro bem-estar e prosperidade humana, revelando-se especialmente uma confissao de suas bengaos e de sua bondade abundante e pactual (SI 73.1). 0 povo do Senhor experimenta seu poder magmfico como amor santo. Quando precisam de ajuda,ele e uma fortalezaimpenetravel(SI 46).",
+        "correcoes_literal_reversiveis": {
+          "bengaos": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "bom. A palavra denota a benevolência do Senhor como a fonte de todo verdadeiro bem-estar e prosperidade humana, revelando-se especialmente uma confissão de suas bênçãos e de sua bondade abundante e pactual (Sl 73.1). O povo do Senhor experimenta seu poder magnífico como amor santo. Quando precisam de ajuda, ele é uma fortaleza impenetrável (Sl 46).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "bom.",
+          "texto": "A palavra denota a benevolência do Senhor como a fonte de todo verdadeiro bem-estar e prosperidade humana, revelando-se especialmente uma confissão de suas bênçãos e de sua bondade abundante e pactual (Sl 73.1). O povo do Senhor experimenta seu poder magnífico como amor santo. Quando precisam de ajuda, ele é uma fortaleza impenetrável (Sl 46)."
+        }
+      ],
+      "paragrafos": [
+        "bom. A palavra denota a benevolência do Senhor como a fonte de todo verdadeiro bem-estar e prosperidade humana, revelando-se especialmente uma confissão de suas bênçãos e de sua bondade abundante e pactual (Sl 73.1). O povo do Senhor experimenta seu poder magnífico como amor santo. Quando precisam de ajuda, ele é uma fortaleza impenetrável (Sl 46)."
+      ]
+    },
+    {
+      "id": "fr-na-0012",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 1590,
+        "rotulo_original_ocr": "1.8 inundagao... trevas.Figurasimpressionan-",
+        "texto_ocr_pre_normalizacao": "inundagao... trevas.Figurasimpressionantes de julgamento severo e amplo. A metafora de inundagao e usada em Isaias 8.6 sobre urnexercito invasor, masaquipodeantecipar, realmente, o que contribui parao colapso de Ninive (2.6). lugar desta cidade. Um trocadilho, porque isso tambem pode ser ouvido como \"o seu lugar\", sugerindo, mais provavelmente, Nmive — que, na sequencia,serevelade formamaisplena.",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "inundação... trevas. Figuras impressionantes de julgamento severo e amplo. A metáfora de inundação é usada em Isaías 8.6 sobre um exército invasor, mas aqui pode antecipar, realmente, o que contribui para o colapso de Nínive (2.6).\n\nlugar desta cidade. Um trocadilho, porque isso também pode ser ouvido como “o seu lugar”, sugerindo, mais provavelmente, Nínive — que, na sequência, se revela de forma mais plena.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "inundação... trevas.",
+          "texto": "Figuras impressionantes de julgamento severo e amplo. A metáfora de inundação é usada em Isaías 8.6 sobre um exército invasor, mas aqui pode antecipar, realmente, o que contribui para o colapso de Nínive (2.6)."
+        },
+        {
+          "titulo": "lugar desta cidade.",
+          "texto": "Um trocadilho, porque isso também pode ser ouvido como “o seu lugar”, sugerindo, mais provavelmente, Nínive — que, na sequência, se revela de forma mais plena."
+        }
+      ],
+      "paragrafos": [
+        "inundação... trevas. Figuras impressionantes de julgamento severo e amplo. A metáfora de inundação é usada em Isaías 8.6 sobre um exército invasor, mas aqui pode antecipar, realmente, o que contribui para o colapso de Nínive (2.6).",
+        "lugar desta cidade. Um trocadilho, porque isso também pode ser ouvido como “o seu lugar”, sugerindo, mais provavelmente, Nínive — que, na sequência, se revela de forma mais plena."
+      ]
+    },
+    {
+      "id": "fr-na-0013",
+      "referencia": "1.9-14",
+      "capitulo": 1,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.9-14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.9-14 A queda dos fmpios,representados por Nf-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A queda dos ímpios, representados por Nínive, culminará no consolo do povo de Deus, Judá.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A queda dos ímpios, representados por Nínive, culminará no consolo do povo de Deus, Judá."
+        }
+      ],
+      "paragrafos": [
+        "A queda dos ímpios, representados por Nínive, culminará no consolo do povo de Deus, Judá."
+      ]
+    },
+    {
+      "id": "fr-na-0014",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.9 pensais. Todas as estrategias dos assirios",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pensais. Todas as estratégias dos assírios serão inúteis. Sua luta e seus planos são contra o Senhor, que decidiu por sua destruição, realizando-a de uma vez por todas (Sl 2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "pensais.",
+          "texto": "Todas as estratégias dos assírios serão inúteis. Sua luta e seus planos são contra o Senhor, que decidiu por sua destruição, realizando-a de uma vez por todas (Sl 2)."
+        }
+      ],
+      "paragrafos": [
+        "pensais. Todas as estratégias dos assírios serão inúteis. Sua luta e seus planos são contra o Senhor, que decidiu por sua destruição, realizando-a de uma vez por todas (Sl 2)."
+      ]
+    },
+    {
+      "id": "fr-na-0015",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.11maquinaomal.Talvez umareferendaa As-",
+        "texto_ocr_pre_normalizacao": "maquinaomal.Talvez umareferendaa Assurbanfpal (ver Introdugao:Data e Circunstancias) ou, mais provavelmente, a Senaqueribe, o mais poderoso agressor assirio contra Juda (2Rs 18.13- 18). \"De ti\" e uma forma feminina que se refere a cidade deNinive vil.Apalavrahebraicasugere algo demoniaco.",
+        "correcoes_literal_reversiveis": {
+          "Introdugao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "maquina o mal. Talvez uma referência a Assurbanípal (ver Introdução: Data e Circunstâncias) ou, mais provavelmente, a Senaqueribe, o mais poderoso agressor assírio contra Judá (2Rs 18.13–18). “De ti” é uma forma feminina que se refere à cidade de Nínive.\n\nvil. A palavra hebraica sugere algo demoníaco.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "maquina o mal.",
+          "texto": "Talvez uma referência a Assurbanípal (ver Introdução: Data e Circunstâncias) ou, mais provavelmente, a Senaqueribe, o mais poderoso agressor assírio contra Judá (2Rs 18.13–18). “De ti” é uma forma feminina que se refere à cidade de Nínive."
+        },
+        {
+          "titulo": "vil.",
+          "texto": "A palavra hebraica sugere algo demoníaco."
+        }
+      ],
+      "paragrafos": [
+        "maquina o mal. Talvez uma referência a Assurbanípal (ver Introdução: Data e Circunstâncias) ou, mais provavelmente, a Senaqueribe, o mais poderoso agressor assírio contra Judá (2Rs 18.13–18). “De ti” é uma forma feminina que se refere à cidade de Nínive.",
+        "vil. A palavra hebraica sugere algo demoníaco."
+      ]
+    },
+    {
+      "id": "fr-na-0016",
+      "referencia": "1.12-14",
+      "capitulo": 1,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.12-14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.12-14 Uma mensagem consoladora da parte de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Uma mensagem consoladora da parte de Deus assegura que o fim da humilhação de seu povo virá com a queda da Assíria.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Uma mensagem consoladora da parte de Deus assegura que o fim da humilhação de seu povo virá com a queda da Assíria."
+        }
+      ],
+      "paragrafos": [
+        "Uma mensagem consoladora da parte de Deus assegura que o fim da humilhação de seu povo virá com a queda da Assíria."
+      ]
+    },
+    {
+      "id": "fr-na-0017",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.12 Assim diz o SENHOR. Uma formula de",
+        "texto_ocr_pre_normalizacao": "Assim diz o SENHOR. Uma formula de mensageiro profetico bem conhecida.0 pronome pessoal “Eles\" (subentendido no texto) refere-se aosassirios,enquanto \"te\" se refere aJuda.",
+        "correcoes_literal_reversiveis": {
+          "profetico": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Assim diz o SENHOR. Uma fórmula de mensageiro profético bem conhecida. O pronome pessoal “Eles” (subentendido no texto) refere-se aos assírios, enquanto “te” se refere a Judá.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Assim diz o SENHOR.",
+          "texto": "Uma fórmula de mensageiro profético bem conhecida. O pronome pessoal “Eles” (subentendido no texto) refere-se aos assírios, enquanto “te” se refere a Judá."
+        }
+      ],
+      "paragrafos": [
+        "Assim diz o SENHOR. Uma fórmula de mensageiro profético bem conhecida. O pronome pessoal “Eles” (subentendido no texto) refere-se aos assírios, enquanto “te” se refere a Judá."
+      ]
+    },
+    {
+      "id": "fr-na-0018",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.13 quebrarei o jugo deles e romperei os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "quebrarei o jugo deles e romperei os teus laços. Figuras poéticas de emancipação (Jr 2.20; Sl 2.3). Deus quebrará o poder do opressor assírio.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "quebrarei o jugo deles e romperei os teus laços.",
+          "texto": "Figuras poéticas de emancipação (Jr 2.20; Sl 2.3). Deus quebrará o poder do opressor assírio."
+        }
+      ],
+      "paragrafos": [
+        "quebrarei o jugo deles e romperei os teus laços. Figuras poéticas de emancipação (Jr 2.20; Sl 2.3). Deus quebrará o poder do opressor assírio."
+      ]
+    },
+    {
+      "id": "fr-na-0019",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.14 ordem. A palavra enfatiza autoridade e",
+        "texto_ocr_pre_normalizacao": "ordem. A palavra enfatiza autoridade e certeza. \"Ti\" refere-se, possivelmente,ao imperador assirio,cujo destino reflete o destino da nagao comoumtodo. teu nome. A exclusao do nome de alguem da memoria reflete formulas de maldigao comuns no Oriente Proximo. A perda completa de poder e prestfgio aguarda os assirios. casa dos teus deuses.0 templo e outros objetos de confianga e orgulho da Assfria tambem serao destrufdos. sepulcro. A palavra indica a destruigao final de Ninive,de seu rei e de seupovo em 612 a.C.",
+        "correcoes_literal_reversiveis": {
+          "nagao": 1,
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "ordem. A palavra enfatiza autoridade e certeza. “Ti” refere-se, possivelmente, ao imperador assírio, cujo destino reflete o destino da nação como um todo.\n\nteu nome. A exclusão do nome de alguém da memória reflete fórmulas de maldição comuns no Oriente Próximo. A perda completa de poder e prestígio aguarda os assírios.\n\ncasa dos teus deuses. O templo e outros objetos de confiança e orgulho da Assíria também serão destruídos.\n\nsepulcro. A palavra indica a destruição final de Nínive, de seu rei e de seu povo em 612 a.C.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "ordem.",
+          "texto": "A palavra enfatiza autoridade e certeza. “Ti” refere-se, possivelmente, ao imperador assírio, cujo destino reflete o destino da nação como um todo."
+        },
+        {
+          "titulo": "teu nome.",
+          "texto": "A exclusão do nome de alguém da memória reflete fórmulas de maldição comuns no Oriente Próximo. A perda completa de poder e prestígio aguarda os assírios."
+        },
+        {
+          "titulo": "casa dos teus deuses.",
+          "texto": "O templo e outros objetos de confiança e orgulho da Assíria também serão destruídos."
+        },
+        {
+          "titulo": "sepulcro.",
+          "texto": "A palavra indica a destruição final de Nínive, de seu rei e de seu povo em 612 a.C."
+        }
+      ],
+      "paragrafos": [
+        "ordem. A palavra enfatiza autoridade e certeza. “Ti” refere-se, possivelmente, ao imperador assírio, cujo destino reflete o destino da nação como um todo.",
+        "teu nome. A exclusão do nome de alguém da memória reflete fórmulas de maldição comuns no Oriente Próximo. A perda completa de poder e prestígio aguarda os assírios.",
+        "casa dos teus deuses. O templo e outros objetos de confiança e orgulho da Assíria também serão destruídos.",
+        "sepulcro. A palavra indica a destruição final de Nínive, de seu rei e de seu povo em 612 a.C."
+      ]
+    },
+    {
+      "id": "fr-na-0020",
+      "referencia": "1.15-2.13",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.15-2.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.15-2.13 Essa segao esta escrita no tempo",
+        "texto_ocr_pre_normalizacao": "Essa segao esta escrita no tempo presente profetico. Eventos ainda futuros sao descritos como se ja fossem presentes,enquanto eventos ainda mais remotos no futuro sao descritos como ocorrendo simultaneamente aqueles que acontecem muito antes. Essaprofecia vfvida de julgamento e uma \"visao\" poetica (1.1;cf.Nm 12.6-8), e nao um relato historico exato e detalhado dos eventos que ocorrem depois, em 612 a.C.",
+        "correcoes_literal_reversiveis": {
+          "profetico": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa seção está escrita no tempo presente profético. Eventos ainda futuros são descritos como se já fossem presentes, enquanto eventos ainda mais remotos no futuro são descritos como ocorrendo simultaneamente àqueles que acontecem muito antes. Essa profecia vívida de julgamento é uma “visão” poética (1.1; cf. Nm 12.6–8), e não um relato histórico exato e detalhado dos eventos que ocorrem depois, em 612 a.C.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa seção está escrita no tempo presente profético. Eventos ainda futuros são descritos como se já fossem presentes, enquanto eventos ainda mais remotos no futuro são descritos como ocorrendo simultaneamente àqueles que acontecem muito antes. Essa profecia vívida de julgamento é uma “visão” poética (1.1; cf. Nm 12.6–8), e não um relato histórico exato e detalhado dos eventos que ocorrem depois, em 612 a.C."
+        }
+      ],
+      "paragrafos": [
+        "Essa seção está escrita no tempo presente profético. Eventos ainda futuros são descritos como se já fossem presentes, enquanto eventos ainda mais remotos no futuro são descritos como ocorrendo simultaneamente àqueles que acontecem muito antes. Essa profecia vívida de julgamento é uma “visão” poética (1.1; cf. Nm 12.6–8), e não um relato histórico exato e detalhado dos eventos que ocorrem depois, em 612 a.C."
+      ]
+    },
+    {
+      "id": "fr-na-0021",
+      "referencia": "1.15-2.2",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.15-2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1591,
+        "rotulo_original_ocr": "1.15-2.2 Ver Isafas 52.7.Aaproximagaode um arau-",
+        "texto_ocr_pre_normalizacao": "Ver Isafas 52.7.Aaproximagaode um arauto de \"boas-novas\" cujos pes andam pelos \"montes\" de Juda, iniciara um novo perfodo de servigo prazerosoao Senhor. As boas-novas sao resumidas napalavra expressiva \"paz\" (do hebraico shalom), que significa nao somente o fim das hostilidades, mastambem o retornoas condigoes de vidaabundantes e normais, e ao bem-estar em geral. Essa passagem e a de Isafas 53.1 sao empregadas pelo apostolo em Romanos10.15,16. cumpre... votos. Perfodos de crise nacional ou de opressao estrangeira tornavam diffcil, se nao impossfvel, a celebragao das festas importantes no templo,na epoca da antiga alianga.Os \"votos\" feitos no perfodo anterior de afligao devem ser cumpridosagora(SI116.14,17-19).",
+        "correcoes_literal_reversiveis": {
+          "nao": 2,
+          "alianga": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ver Isaías 52.7. A aproximação de um arauto de “boas-novas”, cujos pés andam pelos “montes” de Judá, iniciará um novo período de serviço prazeroso ao Senhor. As boas-novas são resumidas na palavra expressiva “paz” (do hebraico shalom), que significa não somente o fim das hostilidades, mas também o retorno às condições de vida abundantes e normais, e ao bem-estar em geral. Essa passagem e a de Isaías 53.1 são empregadas pelo apóstolo em Romanos 10.15, 16.\n\ncumpre... votos. Períodos de crise nacional ou de opressão estrangeira tornavam difícil, se não impossível, a celebração das festas importantes no templo, na época da antiga aliança. Os “votos” feitos no período anterior de aflição devem ser cumpridos agora (Sl 116.14, 17–19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Ver Isaías 52.7. A aproximação de um arauto de “boas-novas”, cujos pés andam pelos “montes” de Judá, iniciará um novo período de serviço prazeroso ao Senhor. As boas-novas são resumidas na palavra expressiva “paz” (do hebraico shalom), que significa não somente o fim das hostilidades, mas também o retorno às condições de vida abundantes e normais, e ao bem-estar em geral. Essa passagem e a de Isaías 53.1 são empregadas pelo apóstolo em Romanos 10.15, 16."
+        },
+        {
+          "titulo": "cumpre... votos.",
+          "texto": "Períodos de crise nacional ou de opressão estrangeira tornavam difícil, se não impossível, a celebração das festas importantes no templo, na época da antiga aliança. Os “votos” feitos no período anterior de aflição devem ser cumpridos agora (Sl 116.14, 17–19)."
+        }
+      ],
+      "paragrafos": [
+        "Ver Isaías 52.7. A aproximação de um arauto de “boas-novas”, cujos pés andam pelos “montes” de Judá, iniciará um novo período de serviço prazeroso ao Senhor. As boas-novas são resumidas na palavra expressiva “paz” (do hebraico shalom), que significa não somente o fim das hostilidades, mas também o retorno às condições de vida abundantes e normais, e ao bem-estar em geral. Essa passagem e a de Isaías 53.1 são empregadas pelo apóstolo em Romanos 10.15, 16.",
+        "cumpre... votos. Períodos de crise nacional ou de opressão estrangeira tornavam difícil, se não impossível, a celebração das festas importantes no templo, na época da antiga aliança. Os “votos” feitos no período anterior de aflição devem ser cumpridos agora (Sl 116.14, 17–19)."
+      ]
+    },
+    {
+      "id": "fr-na-0022",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.1 Em acentuado contraste com o chamado de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Em acentuado contraste com o chamado de Judá para celebrar, Naum reinicia seu discurso para Nínive com a exortação irônica de que a cidade deve preparar-se para um ataque.\n\ndestruidor. Os assírios, que destruíram muitas nações, inclusive Israel, ao espalhá-los pela face da terra, experimentarão destino semelhante. Em agosto de 612 a.C., as forças combinadas de medos e babilônios destruíram Nínive e, logo depois, o Império Assírio ruiu.\n\nsobe. Naum fala como alguém cuja “visão” (1.1) lhe permite ser testemunha ocular do ataque em Nínive.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Em acentuado contraste com o chamado de Judá para celebrar, Naum reinicia seu discurso para Nínive com a exortação irônica de que a cidade deve preparar-se para um ataque."
+        },
+        {
+          "titulo": "destruidor.",
+          "texto": "Os assírios, que destruíram muitas nações, inclusive Israel, ao espalhá-los pela face da terra, experimentarão destino semelhante. Em agosto de 612 a.C., as forças combinadas de medos e babilônios destruíram Nínive e, logo depois, o Império Assírio ruiu."
+        },
+        {
+          "titulo": "sobe.",
+          "texto": "Naum fala como alguém cuja “visão” (1.1) lhe permite ser testemunha ocular do ataque em Nínive."
+        }
+      ],
+      "paragrafos": [
+        "Em acentuado contraste com o chamado de Judá para celebrar, Naum reinicia seu discurso para Nínive com a exortação irônica de que a cidade deve preparar-se para um ataque.",
+        "destruidor. Os assírios, que destruíram muitas nações, inclusive Israel, ao espalhá-los pela face da terra, experimentarão destino semelhante. Em agosto de 612 a.C., as forças combinadas de medos e babilônios destruíram Nínive e, logo depois, o Império Assírio ruiu.",
+        "sobe. Naum fala como alguém cuja “visão” (1.1) lhe permite ser testemunha ocular do ataque em Nínive."
+      ]
+    },
+    {
+      "id": "fr-na-0023",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.2 gloria de Israel. Deus restaurara seu povo",
+        "texto_ocr_pre_normalizacao": "gloria de Israel. Deus restaurara seu povo oprimido a felicidade comunicada pelo nome‘Israel\". Jaco recebeu esse novo nome como um sinal de sua maturidade espiritual e de sua aceitagao espontanea em relagao ao destino que Deus planejoupara eledesdeo inicio (Gn 32.27,28).",
+        "correcoes_literal_reversiveis": {
+          "relagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "glória de Israel. Deus restaurará seu povo oprimido à felicidade comunicada pelo nome “Israel”. Jacó recebeu esse novo nome como um sinal de sua maturidade espiritual e de sua aceitação espontânea em relação ao destino que Deus planejou para ele desde o início (Gn 32.27, 28).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "glória de Israel.",
+          "texto": "Deus restaurará seu povo oprimido à felicidade comunicada pelo nome “Israel”. Jacó recebeu esse novo nome como um sinal de sua maturidade espiritual e de sua aceitação espontânea em relação ao destino que Deus planejou para ele desde o início (Gn 32.27, 28)."
+        }
+      ],
+      "paragrafos": [
+        "glória de Israel. Deus restaurará seu povo oprimido à felicidade comunicada pelo nome “Israel”. Jacó recebeu esse novo nome como um sinal de sua maturidade espiritual e de sua aceitação espontânea em relação ao destino que Deus planejou para ele desde o início (Gn 32.27, 28)."
+      ]
+    },
+    {
+      "id": "fr-na-0024",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.3 seus herois. Provavelmente uma referen-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "seus heróis. Provavelmente uma referência ao exército do Senhor (v. 2). Os guerreiros e os carros dos atacantes cumprirão os propósitos do Senhor. Anteriormente, os próprios exércitos da Assíria haviam sido instrumentos de Deus para realizar seus propósitos de julgamento (Is 10.5–7).\n\nvermelhos... escarlata. Essas palavras enfatizam a aparência apavorante do exército que se aproxima, quer as cores se refiram às suas vestes, quer às manchas de sangue nelas. As cores vermelhas eram as preferidas pelo exército babilônico (Ez 23.14).\n\nvibram as lanças. O hebraico é difícil, mas comunica a impressão geral de anseio por guerra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "seus heróis.",
+          "texto": "Provavelmente uma referência ao exército do Senhor (v. 2). Os guerreiros e os carros dos atacantes cumprirão os propósitos do Senhor. Anteriormente, os próprios exércitos da Assíria haviam sido instrumentos de Deus para realizar seus propósitos de julgamento (Is 10.5–7)."
+        },
+        {
+          "titulo": "vermelhos... escarlata.",
+          "texto": "Essas palavras enfatizam a aparência apavorante do exército que se aproxima, quer as cores se refiram às suas vestes, quer às manchas de sangue nelas. As cores vermelhas eram as preferidas pelo exército babilônico (Ez 23.14)."
+        },
+        {
+          "titulo": "vibram as lanças.",
+          "texto": "O hebraico é difícil, mas comunica a impressão geral de anseio por guerra."
+        }
+      ],
+      "paragrafos": [
+        "seus heróis. Provavelmente uma referência ao exército do Senhor (v. 2). Os guerreiros e os carros dos atacantes cumprirão os propósitos do Senhor. Anteriormente, os próprios exércitos da Assíria haviam sido instrumentos de Deus para realizar seus propósitos de julgamento (Is 10.5–7).",
+        "vermelhos... escarlata. Essas palavras enfatizam a aparência apavorante do exército que se aproxima, quer as cores se refiram às suas vestes, quer às manchas de sangue nelas. As cores vermelhas eram as preferidas pelo exército babilônico (Ez 23.14).",
+        "vibram as lanças. O hebraico é difícil, mas comunica a impressão geral de anseio por guerra."
+      ]
+    },
+    {
+      "id": "fr-na-0025",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.4 Ninive e uma colmeiafrenetica desoldados.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Nínive é uma colmeia frenética de soldados.\n\nruas. Possivelmente campos abertos ou planícies fora da cidade; se isso é verdade, o versículo fala do exército que se aproxima e de seus carros de guerra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Nínive é uma colmeia frenética de soldados."
+        },
+        {
+          "titulo": "ruas.",
+          "texto": "Possivelmente campos abertos ou planícies fora da cidade; se isso é verdade, o versículo fala do exército que se aproxima e de seus carros de guerra."
+        }
+      ],
+      "paragrafos": [
+        "Nínive é uma colmeia frenética de soldados.",
+        "ruas. Possivelmente campos abertos ou planícies fora da cidade; se isso é verdade, o versículo fala do exército que se aproxima e de seus carros de guerra."
+      ]
+    },
+    {
+      "id": "fr-na-0026",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.5 Isso pode referir-se ao rei da Assiria e a seus",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Isso pode referir-se ao rei da Assíria e a seus nobres, especialmente os comandantes militares. Alternativamente, esse versículo pode descrever os atacantes e seu cerco agitado a Nínive. A palavra hebraica traduzida como “testudo inimigo” refere-se usualmente a uma estrutura móvel que protege os sitiadores de uma cidade, tecnicamente conhecida como “mantelete”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Isso pode referir-se ao rei da Assíria e a seus nobres, especialmente os comandantes militares. Alternativamente, esse versículo pode descrever os atacantes e seu cerco agitado a Nínive. A palavra hebraica traduzida como “testudo inimigo” refere-se usualmente a uma estrutura móvel que protege os sitiadores de uma cidade, tecnicamente conhecida como “mantelete”."
+        }
+      ],
+      "paragrafos": [
+        "Isso pode referir-se ao rei da Assíria e a seus nobres, especialmente os comandantes militares. Alternativamente, esse versículo pode descrever os atacantes e seu cerco agitado a Nínive. A palavra hebraica traduzida como “testudo inimigo” refere-se usualmente a uma estrutura móvel que protege os sitiadores de uma cidade, tecnicamente conhecida como “mantelete”."
+      ]
+    },
+    {
+      "id": "fr-na-0027",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.6 comportas dos rios. A cidade de Ninive",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "comportas dos rios. A cidade de Nínive ficava à margem do rio Tigre, e um rio menor fluía pela cidade. Relatos antigos conflitantes atribuem a queda de Nínive a uma inundação, quando o inimigo redirecionou os diques e as comportas do sistema de água. Entretanto, a descrição de Naum é manifestamente poética. A palavra “comportas” poderia referir-se simplesmente às cinco portas abertas (3.13) na direção do rio Tigre, com seus tributários e canais.\n\npalácio. A sede da organização política e militar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "comportas dos rios.",
+          "texto": "A cidade de Nínive ficava à margem do rio Tigre, e um rio menor fluía pela cidade. Relatos antigos conflitantes atribuem a queda de Nínive a uma inundação, quando o inimigo redirecionou os diques e as comportas do sistema de água. Entretanto, a descrição de Naum é manifestamente poética. A palavra “comportas” poderia referir-se simplesmente às cinco portas abertas (3.13) na direção do rio Tigre, com seus tributários e canais."
+        },
+        {
+          "titulo": "palácio.",
+          "texto": "A sede da organização política e militar."
+        }
+      ],
+      "paragrafos": [
+        "comportas dos rios. A cidade de Nínive ficava à margem do rio Tigre, e um rio menor fluía pela cidade. Relatos antigos conflitantes atribuem a queda de Nínive a uma inundação, quando o inimigo redirecionou os diques e as comportas do sistema de água. Entretanto, a descrição de Naum é manifestamente poética. A palavra “comportas” poderia referir-se simplesmente às cinco portas abertas (3.13) na direção do rio Tigre, com seus tributários e canais.",
+        "palácio. A sede da organização política e militar."
+      ]
+    },
+    {
+      "id": "fr-na-0028",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.7 cidade-rainha. Ninive e personificada",
+        "texto_ocr_pre_normalizacao": "cidade-rainha. Ninive e personificada como uma mulher, uma rainha que vai para o exilio. Suas \"servas\", os habitantes da cidade, lamentam o destino de sua senhora. Alternativamente, isso pode referir-se a deusa Ishtar, cuja imagem e tomada como despojo,enquanto as mogas que serviam em seu templo choram sua perda.",
+        "correcoes_literal_reversiveis": {
+          "exilio": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "cidade-rainha. Nínive é personificada como uma mulher, uma rainha que vai para o exílio. Suas “servas”, os habitantes da cidade, lamentam o destino de sua senhora. Alternativamente, isso pode referir-se à deusa Ishtar, cuja imagem é tomada como despojo, enquanto as moças que serviam em seu templo choram sua perda.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "cidade-rainha.",
+          "texto": "Nínive é personificada como uma mulher, uma rainha que vai para o exílio. Suas “servas”, os habitantes da cidade, lamentam o destino de sua senhora. Alternativamente, isso pode referir-se à deusa Ishtar, cuja imagem é tomada como despojo, enquanto as moças que serviam em seu templo choram sua perda."
+        }
+      ],
+      "paragrafos": [
+        "cidade-rainha. Nínive é personificada como uma mulher, uma rainha que vai para o exílio. Suas “servas”, os habitantes da cidade, lamentam o destino de sua senhora. Alternativamente, isso pode referir-se à deusa Ishtar, cuja imagem é tomada como despojo, enquanto as moças que serviam em seu templo choram sua perda."
+      ]
+    },
+    {
+      "id": "fr-na-0029",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1592,
+        "rotulo_original_ocr": "2.8 agude. Com frequencia, essa imagem ad-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "açude. Com frequência, essa imagem admirável é entendida como retratando toda a população e toda a prosperidade de Nínive. Agora, a cidade é drenada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "açude.",
+          "texto": "Com frequência, essa imagem admirável é entendida como retratando toda a população e toda a prosperidade de Nínive. Agora, a cidade é drenada."
+        }
+      ],
+      "paragrafos": [
+        "açude. Com frequência, essa imagem admirável é entendida como retratando toda a população e toda a prosperidade de Nínive. Agora, a cidade é drenada."
+      ]
+    },
+    {
+      "id": "fr-na-0030",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "2.9 Saqueai a prata, saqueai o ouro. Os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Saqueai a prata, saqueai o ouro. Os anais do reis assírios fazem muitas referências a despojos sendo tomados das cidades conquistadas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Saqueai a prata, saqueai o ouro.",
+          "texto": "Os anais do reis assírios fazem muitas referências a despojos sendo tomados das cidades conquistadas."
+        }
+      ],
+      "paragrafos": [
+        "Saqueai a prata, saqueai o ouro. Os anais do reis assírios fazem muitas referências a despojos sendo tomados das cidades conquistadas."
+      ]
+    },
+    {
+      "id": "fr-na-0031",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "2.10 coragao se derrete... rosto... empa-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "coração se derrete... rosto... empalidece. A devastação impiedosa produz terror e paralisia entre os antes poderosos ninivitas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "coração se derrete... rosto... empalidece.",
+          "texto": "A devastação impiedosa produz terror e paralisia entre os antes poderosos ninivitas."
+        }
+      ],
+      "paragrafos": [
+        "coração se derrete... rosto... empalidece. A devastação impiedosa produz terror e paralisia entre os antes poderosos ninivitas."
+      ]
+    },
+    {
+      "id": "fr-na-0032",
+      "referencia": "2.11-13",
+      "capitulo": 2,
+      "versiculos": [
+        11,
+        12,
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.11-13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "2.11-13 Essa segao conclusiva e uma cangao de",
+        "texto_ocr_pre_normalizacao": "Essa segao conclusiva e uma cangao de motejo em que a imagem impressionante de urn bando de leoes que enfrenta destruigao e empregada para descrever a reversao imediata da sorte deNinive.Deus e o autor dahumilhagao e do desaparecimento de Ninive.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essa seção conclusiva é uma canção de motejo em que a imagem impressionante de um bando de leões que enfrenta destruição é empregada para descrever a reversão imediata da sorte de Nínive. Deus é o autor da humilhação e do desaparecimento de Nínive.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa seção conclusiva é uma canção de motejo em que a imagem impressionante de um bando de leões que enfrenta destruição é empregada para descrever a reversão imediata da sorte de Nínive. Deus é o autor da humilhação e do desaparecimento de Nínive."
+        }
+      ],
+      "paragrafos": [
+        "Essa seção conclusiva é uma canção de motejo em que a imagem impressionante de um bando de leões que enfrenta destruição é empregada para descrever a reversão imediata da sorte de Nínive. Deus é o autor da humilhação e do desaparecimento de Nínive."
+      ]
+    },
+    {
+      "id": "fr-na-0033",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "2.11 Onde. Essa pergunta retorica enfatiza",
+        "texto_ocr_pre_normalizacao": "Onde. Essa pergunta retorica enfatiza como essa famosa cidade sera reduzida ao esquecimento. o covil dos leoes. Uma figura apropriada para Ninive como o lar dos agressivos e crueis assfrios, especialmente porque textos assfrios existentes apresentam muitas vezes o rei como urn leao.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Onde. Essa pergunta retórica enfatiza como essa famosa cidade será reduzida ao esquecimento.\n\no covil dos leões. Uma figura apropriada para Nínive como o lar dos agressivos e cruéis assírios, especialmente porque textos assírios existentes apresentam muitas vezes o rei como um leão.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Onde.",
+          "texto": "Essa pergunta retórica enfatiza como essa famosa cidade será reduzida ao esquecimento."
+        },
+        {
+          "titulo": "o covil dos leões.",
+          "texto": "Uma figura apropriada para Nínive como o lar dos agressivos e cruéis assírios, especialmente porque textos assírios existentes apresentam muitas vezes o rei como um leão."
+        }
+      ],
+      "paragrafos": [
+        "Onde. Essa pergunta retórica enfatiza como essa famosa cidade será reduzida ao esquecimento.",
+        "o covil dos leões. Uma figura apropriada para Nínive como o lar dos agressivos e cruéis assírios, especialmente porque textos assírios existentes apresentam muitas vezes o rei como um leão."
+      ]
+    },
+    {
+      "id": "fr-na-0034",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "2.13 0 segredo real da queda final e completa de",
+        "texto_ocr_pre_normalizacao": "0 segredo real da queda final e completa de Ninive e revelado.0confronto com o Deus pactual e todo-poderoso de Israel e fatal para o Imperio Assfrio. estou contra ti. 0 oposto das boas-novas da salvagao-\"Eu sereicontigo\"(Ex 3.12;Js1.5;Is 43.2,5). embaixadores. As vozes dos emissariosassfrios ditando termos e exigindo tributo serao permanentementesilenciadas da facedaterra.",
+        "correcoes_literal_reversiveis": {
+          "salvagao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O segredo real da queda final e completa de Nínive é revelado. O confronto com o Deus pactual e todo-poderoso de Israel é fatal para o Império Assírio.\n\nestou contra ti. O oposto das boas-novas da salvação — “Eu serei contigo” (Êx 3.12; Js 1.5; Is 43.2, 5).\n\nembaixadores. As vozes dos emissários assírios ditando termos e exigindo tributo serão permanentemente silenciadas da face da terra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O segredo real da queda final e completa de Nínive é revelado. O confronto com o Deus pactual e todo-poderoso de Israel é fatal para o Império Assírio."
+        },
+        {
+          "titulo": "estou contra ti.",
+          "texto": "O oposto das boas-novas da salvação — “Eu serei contigo” (Êx 3.12; Js 1.5; Is 43.2, 5)."
+        },
+        {
+          "titulo": "embaixadores.",
+          "texto": "As vozes dos emissários assírios ditando termos e exigindo tributo serão permanentemente silenciadas da face da terra."
+        }
+      ],
+      "paragrafos": [
+        "O segredo real da queda final e completa de Nínive é revelado. O confronto com o Deus pactual e todo-poderoso de Israel é fatal para o Império Assírio.",
+        "estou contra ti. O oposto das boas-novas da salvação — “Eu serei contigo” (Êx 3.12; Js 1.5; Is 43.2, 5).",
+        "embaixadores. As vozes dos emissários assírios ditando termos e exigindo tributo serão permanentemente silenciadas da face da terra."
+      ]
+    },
+    {
+      "id": "fr-na-0035",
+      "referencia": "3.1-19",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.1-19",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "3.1-19 A expressao de infortunio que abre este ca-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A expressão de infortúnio que abre este capítulo domina seu estado de espírito até o último versículo. Todas as suas várias partes contribuem para sua unidade literária e, juntas, enfatizam a queda irreversível de Nínive. O profeta não focaliza mais Israel e Judá, situando o destino de Nínive numa perspectiva universal.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A expressão de infortúnio que abre este capítulo domina seu estado de espírito até o último versículo. Todas as suas várias partes contribuem para sua unidade literária e, juntas, enfatizam a queda irreversível de Nínive. O profeta não focaliza mais Israel e Judá, situando o destino de Nínive numa perspectiva universal."
+        }
+      ],
+      "paragrafos": [
+        "A expressão de infortúnio que abre este capítulo domina seu estado de espírito até o último versículo. Todas as suas várias partes contribuem para sua unidade literária e, juntas, enfatizam a queda irreversível de Nínive. O profeta não focaliza mais Israel e Judá, situando o destino de Nínive numa perspectiva universal."
+      ]
+    },
+    {
+      "id": "fr-na-0036",
+      "referencia": "3.1-7",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.1-7",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "3.1-7 Essas cenas intensas de violencia, morte e",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Essas cenas intensas de violência, morte e destruição confirmam a ruína prevista da cidade. As acusações contra Nínive (vv. 1–4) e suas penalidades (vv. 5–7) são apresentadas em detalhes notáveis.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essas cenas intensas de violência, morte e destruição confirmam a ruína prevista da cidade. As acusações contra Nínive (vv. 1–4) e suas penalidades (vv. 5–7) são apresentadas em detalhes notáveis."
+        }
+      ],
+      "paragrafos": [
+        "Essas cenas intensas de violência, morte e destruição confirmam a ruína prevista da cidade. As acusações contra Nínive (vv. 1–4) e suas penalidades (vv. 5–7) são apresentadas em detalhes notáveis."
+      ]
+    },
+    {
+      "id": "fr-na-0037",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "3.1 cidade sanguinaria. A expressao enfatiza",
+        "texto_ocr_pre_normalizacao": "cidade sanguinaria. A expressao enfatiza a crueldade barbara da qual os assfrios se vangloriam em seus registrosoficiais. mentiras. A diplomacia enganosa caracteriza as relagoes internacionais deles (Is 36.16,17). roubo. Ver 2.12, 13. As negociagoes amigaveis servem como disfarce para urn comportamento ganancioso. Em sua cobiga insaciavel por mais, eles se moviam constantemente de uma vftima paraoutra.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "cidade sanguinária. A expressão enfatiza a crueldade bárbara da qual os assírios se vangloriam em seus registros oficiais.\n\nmentiras. A diplomacia enganosa caracteriza as relações internacionais deles (Is 36.16, 17).\n\nroubo. Ver 2.12, 13. As negociações amigáveis servem como disfarce para um comportamento ganancioso. Em sua cobiça insaciável por mais, eles se moviam constantemente de uma vítima para outra.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Na",
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "livro": "Na",
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "cidade sanguinária.",
+          "texto": "A expressão enfatiza a crueldade bárbara da qual os assírios se vangloriam em seus registros oficiais."
+        },
+        {
+          "titulo": "mentiras.",
+          "texto": "A diplomacia enganosa caracteriza as relações internacionais deles (Is 36.16, 17)."
+        },
+        {
+          "titulo": "roubo.",
+          "texto": "Ver 2.12, 13. As negociações amigáveis servem como disfarce para um comportamento ganancioso. Em sua cobiça insaciável por mais, eles se moviam constantemente de uma vítima para outra."
+        }
+      ],
+      "paragrafos": [
+        "cidade sanguinária. A expressão enfatiza a crueldade bárbara da qual os assírios se vangloriam em seus registros oficiais.",
+        "mentiras. A diplomacia enganosa caracteriza as relações internacionais deles (Is 36.16, 17).",
+        "roubo. Ver 2.12, 13. As negociações amigáveis servem como disfarce para um comportamento ganancioso. Em sua cobiça insaciável por mais, eles se moviam constantemente de uma vítima para outra."
+      ]
+    },
+    {
+      "id": "fr-na-0038",
+      "referencia": "3.2,3",
+      "capitulo": 3,
+      "versiculos": [
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.2,3",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1593,
+        "rotulo_original_ocr": "3.2, 3 Esses versfculos poeticos apresentam urn",
+        "texto_ocr_pre_normalizacao": "Esses versfculos poeticos apresentam urn dos retratos mais vfvidos de uma cena de batalha no Antigo Testamento. 0 ritmo staccato, a economia de palavras e os detalhes amedrontadores contribuem, juntos, para a imagem de agao que reduz populagoes inteiras auma “massa de cadaveres\" (v. 3). Ha opinioes divergentes sobre se isso descreve como a Assfria conquistou outras nagoes ou, mais provavelmente, sobre se as forgas inimigas atacariam Ninive com umaselvageria equiparadaasuapropriacondutaanterior.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1,
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Esses versículos poéticos apresentam um dos retratos mais vívidos de uma cena de batalha no Antigo Testamento. O ritmo staccato, a economia de palavras e os detalhes amedrontadores contribuem, juntos, para a imagem de ação que reduz populações inteiras a uma “massa de cadáveres” (v. 3). Há opiniões divergentes sobre se isso descreve como a Assíria conquistou outras nações ou, mais provavelmente, sobre se as forças inimigas atacariam Nínive com uma selvageria equiparada à sua própria conduta anterior.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos poéticos apresentam um dos retratos mais vívidos de uma cena de batalha no Antigo Testamento. O ritmo staccato, a economia de palavras e os detalhes amedrontadores contribuem, juntos, para a imagem de ação que reduz populações inteiras a uma “massa de cadáveres” (v. 3). Há opiniões divergentes sobre se isso descreve como a Assíria conquistou outras nações ou, mais provavelmente, sobre se as forças inimigas atacariam Nínive com uma selvageria equiparada à sua própria conduta anterior."
+        }
+      ],
+      "paragrafos": [
+        "Esses versículos poéticos apresentam um dos retratos mais vívidos de uma cena de batalha no Antigo Testamento. O ritmo staccato, a economia de palavras e os detalhes amedrontadores contribuem, juntos, para a imagem de ação que reduz populações inteiras a uma “massa de cadáveres” (v. 3). Há opiniões divergentes sobre se isso descreve como a Assíria conquistou outras nações ou, mais provavelmente, sobre se as forças inimigas atacariam Nínive com uma selvageria equiparada à sua própria conduta anterior."
+      ]
+    },
+    {
+      "id": "fr-na-0039",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.4 Com uma mudanga de imagem, Ninive e com-",
+        "texto_ocr_pre_normalizacao": "Com uma mudanga de imagem, Ninive e comparada a uma bela e encantadora \"meretriz\", em cujo favor \"nagoes\" e \"pessoas\" sao sacrificadas. 0 culto dos deuses, a guerra e o comercio estao intimamente entrelagados. A sedugao pelo poder e a pompa de Ninive envolvem apostasia da verdadeira religiaoe sujeigao as suas \"feitigarias” uma palavra que provavelmente indicaa totalidade da religiao paga(ls 47.12,13)",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Com uma mudança de imagem, Nínive é comparada a uma bela e encantadora “meretriz”, em cujo favor “nações” e “pessoas” são sacrificadas. O culto dos deuses, a guerra e o comércio estão intimamente entrelaçados. A sedução pelo poder e a pompa de Nínive envolvem apostasia da verdadeira religião e sujeição às suas “feitiçarias”, uma palavra que provavelmente indica a totalidade da religião pagã (Is 47.12, 13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Com uma mudança de imagem, Nínive é comparada a uma bela e encantadora “meretriz”, em cujo favor “nações” e “pessoas” são sacrificadas. O culto dos deuses, a guerra e o comércio estão intimamente entrelaçados. A sedução pelo poder e a pompa de Nínive envolvem apostasia da verdadeira religião e sujeição às suas “feitiçarias”, uma palavra que provavelmente indica a totalidade da religião pagã (Is 47.12, 13)."
+        }
+      ],
+      "paragrafos": [
+        "Com uma mudança de imagem, Nínive é comparada a uma bela e encantadora “meretriz”, em cujo favor “nações” e “pessoas” são sacrificadas. O culto dos deuses, a guerra e o comércio estão intimamente entrelaçados. A sedução pelo poder e a pompa de Nínive envolvem apostasia da verdadeira religião e sujeição às suas “feitiçarias”, uma palavra que provavelmente indica a totalidade da religião pagã (Is 47.12, 13)."
+      ]
+    },
+    {
+      "id": "fr-na-0040",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.5 A retribuigao pelo Juiz universal e inevitavel.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A retribuição pelo Juiz universal é inevitável. Ver 2.13.\n\nlevantarei as abas de tua saia. A forma de humilhação pública por meio da qual as meretrizes eram punidas nessa época (Jr 13.22; Os 2.3).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Na",
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A retribuição pelo Juiz universal é inevitável. Ver 2.13."
+        },
+        {
+          "titulo": "levantarei as abas de tua saia.",
+          "texto": "A forma de humilhação pública por meio da qual as meretrizes eram punidas nessa época (Jr 13.22; Os 2.3)."
+        }
+      ],
+      "paragrafos": [
+        "A retribuição pelo Juiz universal é inevitável. Ver 2.13.",
+        "levantarei as abas de tua saia. A forma de humilhação pública por meio da qual as meretrizes eram punidas nessa época (Jr 13.22; Os 2.3)."
+      ]
+    },
+    {
+      "id": "fr-na-0041",
+      "referencia": "3.6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.6",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.6 A imagem de meretriz e mantida. Ela sera tor-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A imagem de meretriz é mantida. Ela será tornada objeto de escárnio e exemplo para impedir outros de fazerem o mesmo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A imagem de meretriz é mantida. Ela será tornada objeto de escárnio e exemplo para impedir outros de fazerem o mesmo."
+        }
+      ],
+      "paragrafos": [
+        "A imagem de meretriz é mantida. Ela será tornada objeto de escárnio e exemplo para impedir outros de fazerem o mesmo."
+      ]
+    },
+    {
+      "id": "fr-na-0042",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.7 Ninive esta destruida. A visao e tao",
+        "texto_ocr_pre_normalizacao": "Ninive esta destruida. A visao e tao terrivel que as pessoas fugirao dela com horror. A desgraga sera tao horrivel e tao verdadeiramente merecida que ninguem sera achado paralamentar ouconsolar as nagoes pelaqueda de Ninive. Quern tera compaixao dela. A pergunta retoricaespera a resposta \"ninguem\" e enfatizaque ate mesmo aqueles que apoiaram relutantemente Ninive nao terao pesar diante de suaqueda",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1,
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Nínive está destruída. A visão é tão terrível que as pessoas fugirão dela com horror. A desgraça será tão horrível e tão verdadeiramente merecida que ninguém será achado para lamentar ou consolar as nações pela queda de Nínive.\n\nQuem terá compaixão dela. A pergunta retórica espera a resposta “ninguém” e enfatiza que até mesmo aqueles que apoiaram relutantemente Nínive não terão pesar diante de sua queda.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Nínive está destruída.",
+          "texto": "A visão é tão terrível que as pessoas fugirão dela com horror. A desgraça será tão horrível e tão verdadeiramente merecida que ninguém será achado para lamentar ou consolar as nações pela queda de Nínive."
+        },
+        {
+          "titulo": "Quem terá compaixão dela.",
+          "texto": "A pergunta retórica espera a resposta “ninguém” e enfatiza que até mesmo aqueles que apoiaram relutantemente Nínive não terão pesar diante de sua queda."
+        }
+      ],
+      "paragrafos": [
+        "Nínive está destruída. A visão é tão terrível que as pessoas fugirão dela com horror. A desgraça será tão horrível e tão verdadeiramente merecida que ninguém será achado para lamentar ou consolar as nações pela queda de Nínive.",
+        "Quem terá compaixão dela. A pergunta retórica espera a resposta “ninguém” e enfatiza que até mesmo aqueles que apoiaram relutantemente Nínive não terão pesar diante de sua queda."
+      ]
+    },
+    {
+      "id": "fr-na-0043",
+      "referencia": "3.8-11",
+      "capitulo": 3,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.8-11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.8-11 A queda de No-Amom(Tebas) foi urn even-",
+        "texto_ocr_pre_normalizacao": "A queda de No-Amom(Tebas) foi urn eventobem conhecido quemarcouoauge daexpansao assiria. Se ate mesmo uma cidade como essa pode ser conquistada, e urn ato de presungao de Ninive julgar-seinvencivel",
+        "correcoes_literal_reversiveis": {
+          "urn": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A queda de Nô-Amom (Tebas) foi um evento bem conhecido que marcou o auge da expansão assíria. Se até mesmo uma cidade como essa pôde ser conquistada, é um ato de presunção de Nínive julgar-se invencível.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A queda de Nô-Amom (Tebas) foi um evento bem conhecido que marcou o auge da expansão assíria. Se até mesmo uma cidade como essa pôde ser conquistada, é um ato de presunção de Nínive julgar-se invencível."
+        }
+      ],
+      "paragrafos": [
+        "A queda de Nô-Amom (Tebas) foi um evento bem conhecido que marcou o auge da expansão assíria. Se até mesmo uma cidade como essa pôde ser conquistada, é um ato de presunção de Nínive julgar-se invencível."
+      ]
+    },
+    {
+      "id": "fr-na-0044",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.8 No-Amom.0 nome grego paraNo-Amom e",
+        "texto_ocr_pre_normalizacao": "No-Amom.0 nome grego paraNo-Amom e Tebas, a cidade do deus egipcio Amom. Essaantiga e imponente metropole do Alto Egito caiu para os assirios em 663 a.C. Localizada no vale do Nilo, a uns 64Squilometros deMentis,Tebas pode ter tido fossos e canais como defesas Ha provavelmente urn elemento figurativo na enfase de Naum sobre o mar. Na Escritura, rios ou mares frequentemente sao simbolos de forga que somente Deus pode veneer (Ex 15; SI114.3-5;Is 23.3, 4, Mt 8.27). Alternativamente,\"mar\" pode ser urn uso hebraico que se refere a qualquer corpo enorme de agua interior, comooNilo, que ficavaperto de Tebas(Is 19 5).",
+        "correcoes_literal_reversiveis": {
+          "urn": 2
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Nô-Amom. O nome grego para Nô-Amom é Tebas, a cidade do deus egípcio Amom. Essa antiga e imponente metrópole do Alto Egito caiu para os assírios em 663 a.C. Localizada no vale do Nilo, a uns 645 quilômetros de Mênfis, Tebas pode ter tido fossos e canais como defesas. Há provavelmente um elemento figurativo na ênfase de Naum sobre o mar. Na Escritura, rios ou mares frequentemente são símbolos de força que somente Deus pode vencer (Êx 15; Sl 114.3–5; Is 23.3, 4; Mt 8.27). Alternativamente, “mar” pode ser um uso hebraico que se refere a qualquer corpo enorme de água interior, como o Nilo, que ficava perto de Tebas (Is 19.5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Nô-Amom.",
+          "texto": "O nome grego para Nô-Amom é Tebas, a cidade do deus egípcio Amom. Essa antiga e imponente metrópole do Alto Egito caiu para os assírios em 663 a.C. Localizada no vale do Nilo, a uns 645 quilômetros de Mênfis, Tebas pode ter tido fossos e canais como defesas. Há provavelmente um elemento figurativo na ênfase de Naum sobre o mar. Na Escritura, rios ou mares frequentemente são símbolos de força que somente Deus pode vencer (Êx 15; Sl 114.3–5; Is 23.3, 4; Mt 8.27). Alternativamente, “mar” pode ser um uso hebraico que se refere a qualquer corpo enorme de água interior, como o Nilo, que ficava perto de Tebas (Is 19.5)."
+        }
+      ],
+      "paragrafos": [
+        "Nô-Amom. O nome grego para Nô-Amom é Tebas, a cidade do deus egípcio Amom. Essa antiga e imponente metrópole do Alto Egito caiu para os assírios em 663 a.C. Localizada no vale do Nilo, a uns 645 quilômetros de Mênfis, Tebas pode ter tido fossos e canais como defesas. Há provavelmente um elemento figurativo na ênfase de Naum sobre o mar. Na Escritura, rios ou mares frequentemente são símbolos de força que somente Deus pode vencer (Êx 15; Sl 114.3–5; Is 23.3, 4; Mt 8.27). Alternativamente, “mar” pode ser um uso hebraico que se refere a qualquer corpo enorme de água interior, como o Nilo, que ficava perto de Tebas (Is 19.5)."
+      ]
+    },
+    {
+      "id": "fr-na-0045",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.9 Etiopia. A regiao ao sul do Egito.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Etiópia. A região ao sul do Egito.\n\nEgito. A terra ao norte de Tebas. Ainda que os amplos recursos do Egito estivessem disponíveis para defendê-la, foram insuficientes para evitar o desastre.\n\nPute. Tradicionalmente identificada com a Líbia, a oeste, embora algumas pessoas sugiram uma localidade africana na região da atual Somália.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Etiópia.",
+          "texto": "A região ao sul do Egito."
+        },
+        {
+          "titulo": "Egito.",
+          "texto": "A terra ao norte de Tebas. Ainda que os amplos recursos do Egito estivessem disponíveis para defendê-la, foram insuficientes para evitar o desastre."
+        },
+        {
+          "titulo": "Pute.",
+          "texto": "Tradicionalmente identificada com a Líbia, a oeste, embora algumas pessoas sugiram uma localidade africana na região da atual Somália."
+        }
+      ],
+      "paragrafos": [
+        "Etiópia. A região ao sul do Egito.",
+        "Egito. A terra ao norte de Tebas. Ainda que os amplos recursos do Egito estivessem disponíveis para defendê-la, foram insuficientes para evitar o desastre.",
+        "Pute. Tradicionalmente identificada com a Líbia, a oeste, embora algumas pessoas sugiram uma localidade africana na região da atual Somália."
+      ]
+    },
+    {
+      "id": "fr-na-0046",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.10 seus filhos foram despedagados. Es-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "seus filhos foram despedaçados. Essas práticas brutais eram realizadas para impedir futuras revoltas entre os povos subjugados (cf. 2Rs 8.12; Sl 137.9; Is 13.16; Os 10.14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "seus filhos foram despedaçados.",
+          "texto": "Essas práticas brutais eram realizadas para impedir futuras revoltas entre os povos subjugados (cf. 2Rs 8.12; Sl 137.9; Is 13.16; Os 10.14)."
+        }
+      ],
+      "paragrafos": [
+        "seus filhos foram despedaçados. Essas práticas brutais eram realizadas para impedir futuras revoltas entre os povos subjugados (cf. 2Rs 8.12; Sl 137.9; Is 13.16; Os 10.14)."
+      ]
+    },
+    {
+      "id": "fr-na-0047",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.11 embriagada. Aparentemente, uma refe-",
+        "texto_ocr_pre_normalizacao": "embriagada. Aparentemente, uma referenda figurada ao calice da ira do Senhor, do qual todos que o desafiam sao forgados a beber (Is 51.17-23; Lm 4.21). Ninive tenta, em sua afligao, esconder-se e achar refugio, mas somente o Senhor e refugio nos tempos de afligao (1.7). Comparados a ele, ate mesmo os mais poderosos sao fracos e vulneraveis (vv.12-17). te esconderas.Isso tambem poderia ser traduzido como \"seras ocultada\" Apos a destruigao de Ninive, em 612 a.C., o local permaneceu abandonado ate que escavagoes arqueologicas tiveram inicio,em meados do seculo XIX d.C.",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "embriagada. Aparentemente, uma referência figurada ao cálice da ira do Senhor, do qual todos que o desafiam são forçados a beber (Is 51.17–23; Lm 4.21). Nínive tenta, em sua aflição, esconder-se e achar refúgio, mas somente o Senhor é refúgio nos tempos de aflição (1.7). Comparados a ele, até mesmo os mais poderosos são fracos e vulneráveis (vv. 12–17).\n\nte esconderás. Isso também poderia ser traduzido como “serás ocultada”. Após a destruição de Nínive, em 612 a.C., o local permaneceu abandonado até que escavações arqueológicas tiveram início, em meados do século XIX d.C.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "embriagada.",
+          "texto": "Aparentemente, uma referência figurada ao cálice da ira do Senhor, do qual todos que o desafiam são forçados a beber (Is 51.17–23; Lm 4.21). Nínive tenta, em sua aflição, esconder-se e achar refúgio, mas somente o Senhor é refúgio nos tempos de aflição (1.7). Comparados a ele, até mesmo os mais poderosos são fracos e vulneráveis (vv. 12–17)."
+        },
+        {
+          "titulo": "te esconderás.",
+          "texto": "Isso também poderia ser traduzido como “serás ocultada”. Após a destruição de Nínive, em 612 a.C., o local permaneceu abandonado até que escavações arqueológicas tiveram início, em meados do século XIX d.C."
+        }
+      ],
+      "paragrafos": [
+        "embriagada. Aparentemente, uma referência figurada ao cálice da ira do Senhor, do qual todos que o desafiam são forçados a beber (Is 51.17–23; Lm 4.21). Nínive tenta, em sua aflição, esconder-se e achar refúgio, mas somente o Senhor é refúgio nos tempos de aflição (1.7). Comparados a ele, até mesmo os mais poderosos são fracos e vulneráveis (vv. 12–17).",
+        "te esconderás. Isso também poderia ser traduzido como “serás ocultada”. Após a destruição de Nínive, em 612 a.C., o local permaneceu abandonado até que escavações arqueológicas tiveram início, em meados do século XIX d.C."
+      ]
+    },
+    {
+      "id": "fr-na-0048",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1594,
+        "rotulo_original_ocr": "3.12 figueiras.Essafigurade linguagem enfatiza",
+        "texto_ocr_pre_normalizacao": "figueiras.Essafigurade linguagem enfatiza que as fortalezas, normalmente inexpugnaveis, agora nao apenas sao desejaveis, como tambem de facil ocupagao.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "tambem": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "figueiras. Essa figura de linguagem enfatiza que as fortalezas, normalmente inexpugnáveis, agora não apenas são desejáveis, como também de fácil ocupação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "figueiras.",
+          "texto": "Essa figura de linguagem enfatiza que as fortalezas, normalmente inexpugnáveis, agora não apenas são desejáveis, como também de fácil ocupação."
+        }
+      ],
+      "paragrafos": [
+        "figueiras. Essa figura de linguagem enfatiza que as fortalezas, normalmente inexpugnáveis, agora não apenas são desejáveis, como também de fácil ocupação."
+      ]
+    },
+    {
+      "id": "fr-na-0049",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.13 Em face do exercito que se aproxima, todas",
+        "texto_ocr_pre_normalizacao": "Em face do exercito que se aproxima, todas as tropas assirias sao como mulheres (ou seja,nao treinadas para a guerra). Todos os obstaculos que visam retardar o avango doinimigo, como portas e ferrolhos,foram removidos.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Em face do exército que se aproxima, todas as tropas assírias são como mulheres (ou seja, não treinadas para a guerra). Todos os obstáculos que visam retardar o avanço do inimigo, como portas e ferrolhos, foram removidos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Em face do exército que se aproxima, todas as tropas assírias são como mulheres (ou seja, não treinadas para a guerra). Todos os obstáculos que visam retardar o avanço do inimigo, como portas e ferrolhos, foram removidos."
+        }
+      ],
+      "paragrafos": [
+        "Em face do exército que se aproxima, todas as tropas assírias são como mulheres (ou seja, não treinadas para a guerra). Todos os obstáculos que visam retardar o avanço do inimigo, como portas e ferrolhos, foram removidos."
+      ]
+    },
+    {
+      "id": "fr-na-0050",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.14 Alguns esforgos freneticos precisam ser feitos",
+        "texto_ocr_pre_normalizacao": "Alguns esforgos freneticos precisam ser feitos para fortificar “as fortalezas\" e deixar Nrnive preparada para urn longo periodo de cerco. Os imperatives sao ironicos; os versiculos 14-17 refletem o sentimento de uma cangao demotejo sarcastico.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Alguns esforços frenéticos precisam ser feitos para fortificar “as fortalezas” e deixar Nínive preparada para um longo período de cerco. Os imperativos são irônicos; os versículos 14–17 refletem o sentimento de uma canção de motejo sarcástico.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Alguns esforços frenéticos precisam ser feitos para fortificar “as fortalezas” e deixar Nínive preparada para um longo período de cerco. Os imperativos são irônicos; os versículos 14–17 refletem o sentimento de uma canção de motejo sarcástico."
+        }
+      ],
+      "paragrafos": [
+        "Alguns esforços frenéticos precisam ser feitos para fortificar “as fortalezas” e deixar Nínive preparada para um longo período de cerco. Os imperativos são irônicos; os versículos 14–17 refletem o sentimento de uma canção de motejo sarcástico."
+      ]
+    },
+    {
+      "id": "fr-na-0051",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.15 Ate mesmo os esforgos mais tenazes para",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Até mesmo os esforços mais tenazes para evitar a invasão provam-se inúteis. A cidade e seu povo sucumbirão ao fogo e à espada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Até mesmo os esforços mais tenazes para evitar a invasão provam-se inúteis. A cidade e seu povo sucumbirão ao fogo e à espada."
+        }
+      ],
+      "paragrafos": [
+        "Até mesmo os esforços mais tenazes para evitar a invasão provam-se inúteis. A cidade e seu povo sucumbirão ao fogo e à espada."
+      ]
+    },
+    {
+      "id": "fr-na-0052",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.16 negociantes.0 comercio e os negocios in-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "negociantes. O comércio e os negócios internacionais da Assíria levaram pessoas e riqueza a Nínive na época bíblica. Sob a pressão que vinha de fora, o interesse pessoal desses negociantes tornou-se claro. Ajuntando-se como gafanhotos, eles pegam o que podem e desaparecem.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "negociantes.",
+          "texto": "O comércio e os negócios internacionais da Assíria levaram pessoas e riqueza a Nínive na época bíblica. Sob a pressão que vinha de fora, o interesse pessoal desses negociantes tornou-se claro. Ajuntando-se como gafanhotos, eles pegam o que podem e desaparecem."
+        }
+      ],
+      "paragrafos": [
+        "negociantes. O comércio e os negócios internacionais da Assíria levaram pessoas e riqueza a Nínive na época bíblica. Sob a pressão que vinha de fora, o interesse pessoal desses negociantes tornou-se claro. Ajuntando-se como gafanhotos, eles pegam o que podem e desaparecem."
+      ]
+    },
+    {
+      "id": "fr-na-0053",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.17 principes... chefes. Essas duas palavras",
+        "texto_ocr_pre_normalizacao": "principes... chefes. Essas duas palavras sao raras no hebraico e podem ser tomadas por emprestimo dos assirios Provavelmente representam oficiais importantes no governo do vasto imperio. Quando as coisas comegam a ficar perigosas,eles fogem. Riqueza, poder e organizagao acabam drasticamente quando as nagoes caem. subindo o sol. A chegada do juizo do Senhor dispersara seus inimigos tao radicalmente quanto o calor do dia se levanta e dispersa osgafanhotos dormentes (ct SI 8411, Ml 4.1-3).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "príncipes... chefes. Essas duas palavras são raras no hebraico e podem ser tomadas por empréstimo dos assírios. Provavelmente representam oficiais importantes no governo do vasto império. Quando as coisas começam a ficar perigosas, eles fogem. Riqueza, poder e organização acabam drasticamente quando as nações caem.\n\nsubindo o sol. A chegada do juízo do Senhor dispersará seus inimigos tão radicalmente quanto o calor do dia se levanta e dispersa os gafanhotos dormentes (cf. Sl 84.11; Ml 4.1–3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "príncipes... chefes.",
+          "texto": "Essas duas palavras são raras no hebraico e podem ser tomadas por empréstimo dos assírios. Provavelmente representam oficiais importantes no governo do vasto império. Quando as coisas começam a ficar perigosas, eles fogem. Riqueza, poder e organização acabam drasticamente quando as nações caem."
+        },
+        {
+          "titulo": "subindo o sol.",
+          "texto": "A chegada do juízo do Senhor dispersará seus inimigos tão radicalmente quanto o calor do dia se levanta e dispersa os gafanhotos dormentes (cf. Sl 84.11; Ml 4.1–3)."
+        }
+      ],
+      "paragrafos": [
+        "príncipes... chefes. Essas duas palavras são raras no hebraico e podem ser tomadas por empréstimo dos assírios. Provavelmente representam oficiais importantes no governo do vasto império. Quando as coisas começam a ficar perigosas, eles fogem. Riqueza, poder e organização acabam drasticamente quando as nações caem.",
+        "subindo o sol. A chegada do juízo do Senhor dispersará seus inimigos tão radicalmente quanto o calor do dia se levanta e dispersa os gafanhotos dormentes (cf. Sl 84.11; Ml 4.1–3)."
+      ]
+    },
+    {
+      "id": "fr-na-0054",
+      "referencia": "3.18,19",
+      "capitulo": 3,
+      "versiculos": [
+        18,
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.18,19",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.18, 19 A consumagao do julgamento divino",
+        "texto_ocr_pre_normalizacao": "A consumagao do julgamento divino sobre o opressor cruel levara a urn regozijo universal. Esses versiculos sao reminiscences de lamentos funebres e cangoes de motejo da epoca.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A consumação do julgamento divino sobre o opressor cruel levará a um regozijo universal. Esses versículos são reminiscências de lamentos fúnebres e canções de motejo da época.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A consumação do julgamento divino sobre o opressor cruel levará a um regozijo universal. Esses versículos são reminiscências de lamentos fúnebres e canções de motejo da época."
+        }
+      ],
+      "paragrafos": [
+        "A consumação do julgamento divino sobre o opressor cruel levará a um regozijo universal. Esses versículos são reminiscências de lamentos fúnebres e canções de motejo da época."
+      ]
+    },
+    {
+      "id": "fr-na-0055",
+      "referencia": "3.18",
+      "capitulo": 3,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.18",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.18 pastores. Essa famosametafora de lideres",
+        "texto_ocr_pre_normalizacao": "pastores. Essa famosametafora de lideres indicaos governantes subordinados dorei assirio dormem... dormitam. Eufemismos impressionantes que sigmficam morte. teu povo... o ajunte. A imagem pastoril e estendida ao povo (ou talvez ao exercito) como urn rebanho de ovelhas. Na ausencia de pastores, o povo e espalhado (cf.IRS 22.17). 11 incuravel e da \"chaga\"",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pastores. Essa famosa metáfora de líderes indica os governantes subordinados do rei assírio.\n\ndormem... dormitam. Eufemismos impressionantes que significam morte.\n\nteu povo... o ajunte. A imagem pastoril é estendida ao povo (ou talvez ao exército) como um rebanho de ovelhas. Na ausência de pastores, o povo é espalhado (cf. 1Rs 22.17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "pastores.",
+          "texto": "Essa famosa metáfora de líderes indica os governantes subordinados do rei assírio."
+        },
+        {
+          "titulo": "dormem... dormitam.",
+          "texto": "Eufemismos impressionantes que significam morte."
+        },
+        {
+          "titulo": "teu povo... o ajunte.",
+          "texto": "A imagem pastoril é estendida ao povo (ou talvez ao exército) como um rebanho de ovelhas. Na ausência de pastores, o povo é espalhado (cf. 1Rs 22.17)."
+        }
+      ],
+      "paragrafos": [
+        "pastores. Essa famosa metáfora de líderes indica os governantes subordinados do rei assírio.",
+        "dormem... dormitam. Eufemismos impressionantes que significam morte.",
+        "teu povo... o ajunte. A imagem pastoril é estendida ao povo (ou talvez ao exército) como um rebanho de ovelhas. Na ausência de pastores, o povo é espalhado (cf. 1Rs 22.17)."
+      ]
+    },
+    {
+      "id": "fr-na-0056",
+      "referencia": "3.19",
+      "capitulo": 3,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.19",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "073 - Naum (Na) (1).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1595,
+        "rotulo_original_ocr": "3.19 A noticia da “ferida",
+        "texto_ocr_pre_normalizacao": "A noticia da “ferida fatal de Nimve e recebida com aplauso geral. 0 Deus de Israel, a quem pertence exdusivamen - te a vinganga (Dt 32.35; Rm 12.19), poe urn fim a impiedade continua que causou tanta injustiga e tanto sofrimento. A visao de Naum teve seu cumprimento inicial em 612 a.C., mas ainda aguarda realizagao final na segunda vinda de nosso Senhor Jesus Cristo.",
+        "correcoes_literal_reversiveis": {
+          "urn": 1
+        },
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A notícia da “ferida” incurável e da “chaga” fatal de Nínive é recebida com aplauso geral. O Deus de Israel, a quem pertence exclusivamente a vingança (Dt 32.35; Rm 12.19), põe um fim à impiedade contínua que causou tanta injustiça e tanto sofrimento. A visão de Naum teve seu cumprimento inicial em 612 a.C., mas ainda aguarda realização final na segunda vinda de nosso Senhor Jesus Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A notícia da “ferida” incurável e da “chaga” fatal de Nínive é recebida com aplauso geral. O Deus de Israel, a quem pertence exclusivamente a vingança (Dt 32.35; Rm 12.19), põe um fim à impiedade contínua que causou tanta injustiça e tanto sofrimento. A visão de Naum teve seu cumprimento inicial em 612 a.C., mas ainda aguarda realização final na segunda vinda de nosso Senhor Jesus Cristo."
+        }
+      ],
+      "paragrafos": [
+        "A notícia da “ferida” incurável e da “chaga” fatal de Nínive é recebida com aplauso geral. O Deus de Israel, a quem pertence exclusivamente a vingança (Dt 32.35; Rm 12.19), põe um fim à impiedade contínua que causou tanta injustiça e tanto sofrimento. A visão de Naum teve seu cumprimento inicial em 612 a.C., mas ainda aguarda realização final na segunda vinda de nosso Senhor Jesus Cristo."
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

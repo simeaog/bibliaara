@@ -1,0 +1,634 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "2Jo",
+  "titulo": "2 João",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "134 - 2 João (2Jo)(1).pdf",
+    "paginas_pdf": [
+      1,
+      2
+    ],
+    "observacao": "Páginas 2279–2280 cotejadas visualmente; teste funcional e segunda leitura editorial pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-2jo-0001",
+      "referencia": "1.1-3",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.1-3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2279,
+        "rotulo_original_ocr": "1-3 0 autor identifica a si mesmo apenas como \"0",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "O autor identifica a si mesmo apenas como “o presbítero” e o destinatário apenas como “a senhora eleita”. Essas palavras são apropriadas para designar um relacionamento de amor mútuo em que o autor tinha responsabilidade pastoral para com o destinatário. O interesse de João por ela depende da verdade que todos os cristãos compartilham, sendo também um exemplo do amor que une todos os cristãos. É igualmente possível que a “senhora eleita” se refira à igreja local para a qual João escreve, e “seus filhos”, aos membros da igreja (ver Introdução: Características e Temas Principais).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O autor identifica a si mesmo apenas como “o presbítero” e o destinatário apenas como “a senhora eleita”. Essas palavras são apropriadas para designar um relacionamento de amor mútuo em que o autor tinha responsabilidade pastoral para com o destinatário. O interesse de João por ela depende da verdade que todos os cristãos compartilham, sendo também um exemplo do amor que une todos os cristãos. É igualmente possível que a “senhora eleita” se refira à igreja local para a qual João escreve, e “seus filhos”, aos membros da igreja (ver Introdução: Características e Temas Principais)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O autor identifica a si mesmo apenas como “o presbítero” e o destinatário apenas como “a senhora eleita”. Essas palavras são apropriadas para designar um relacionamento de amor mútuo em que o autor tinha responsabilidade pastoral para com o destinatário. O interesse de João por ela depende da verdade que todos os cristãos compartilham, sendo também um exemplo do amor que une todos os cristãos. É igualmente possível que a “senhora eleita” se refira à igreja local para a qual João escreve, e “seus filhos”, aos membros da igreja (ver Introdução: Características e Temas Principais)."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0002",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2279,
+        "rotulo_original_ocr": "1 O presbítero. Não há nenhuma dificuldade em",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "O presbítero. Não há nenhuma dificuldade em que um apóstolo (João) se identifique como um presbítero, porque as responsabilidades de um apóstolo em relação a cada congregação individual incluíam as responsabilidades de um presbítero (1Pe 5.1-4).\n\nsenhora eleita. Alguns consideram essa expressão e a expressão similar no v. 13 uma metáfora para igreja, embora não seja conhecida em outras passagens da Escritura. No entanto, é verdade que uma igreja é referida como “aquela” em 1 Pedro 5.13, enquanto a Igreja em Corinto é comparada a Eva, de quem se afirma estar desposada com um único marido (2Co 11.2, 3). De modo semelhante, a Igreja universal é chamada de uma “esposa”, em Apocalipse 19.7; de uma “mulher”, em Apocalipse 12.1-6; e de uma “noiva adornada para o seu esposo”, em Apocalipse 21.2 (cf. Ap 21.9). No Antigo Testamento, a nação de Israel era vista como um noiva (Is 62.5). Esses exemplos oferecem precedente conceitual para a senhora eleita representar uma igreja. Em qualquer caso, quer a senhora em vista fosse uma igreja, quer fosse uma pessoa, ela é “eleita” por causa da escolha soberana e graciosa de Deus (Jo 10.15, 29; 15.16, 19; 17.6; Rm 9.1-29; 1Co 1.27-31).\n\na quem eu amo na verdade... conhecem a verdade. João diz, inicialmente, que ama a senhora (a igreja) e seus filhos (membros) na verdade. Depois, ele acrescenta os que conhecem “a verdade” — que certamente inclui a doutrina evangélica (permanecer na doutrina de Cristo, v. 9), mas também assume conotações mais pessoais no v. 2.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "Fonte impressa: “como um noiva”; mantido literalmente."
+      ],
+      "paragrafos": [
+        "O presbítero. Não há nenhuma dificuldade em que um apóstolo (João) se identifique como um presbítero, porque as responsabilidades de um apóstolo em relação a cada congregação individual incluíam as responsabilidades de um presbítero (1Pe 5.1-4).",
+        "senhora eleita. Alguns consideram essa expressão e a expressão similar no v. 13 uma metáfora para igreja, embora não seja conhecida em outras passagens da Escritura. No entanto, é verdade que uma igreja é referida como “aquela” em 1 Pedro 5.13, enquanto a Igreja em Corinto é comparada a Eva, de quem se afirma estar desposada com um único marido (2Co 11.2, 3). De modo semelhante, a Igreja universal é chamada de uma “esposa”, em Apocalipse 19.7; de uma “mulher”, em Apocalipse 12.1-6; e de uma “noiva adornada para o seu esposo”, em Apocalipse 21.2 (cf. Ap 21.9). No Antigo Testamento, a nação de Israel era vista como um noiva (Is 62.5). Esses exemplos oferecem precedente conceitual para a senhora eleita representar uma igreja. Em qualquer caso, quer a senhora em vista fosse uma igreja, quer fosse uma pessoa, ela é “eleita” por causa da escolha soberana e graciosa de Deus (Jo 10.15, 29; 15.16, 19; 17.6; Rm 9.1-29; 1Co 1.27-31).",
+        "a quem eu amo na verdade... conhecem a verdade. João diz, inicialmente, que ama a senhora (a igreja) e seus filhos (membros) na verdade. Depois, ele acrescenta os que conhecem “a verdade” — que certamente inclui a doutrina evangélica (permanecer na doutrina de Cristo, v. 9), mas também assume conotações mais pessoais no v. 2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "O presbítero.",
+          "texto": "Não há nenhuma dificuldade em que um apóstolo (João) se identifique como um presbítero, porque as responsabilidades de um apóstolo em relação a cada congregação individual incluíam as responsabilidades de um presbítero (1Pe 5.1-4)."
+        },
+        {
+          "titulo": "senhora eleita.",
+          "texto": "Alguns consideram essa expressão e a expressão similar no v. 13 uma metáfora para igreja, embora não seja conhecida em outras passagens da Escritura. No entanto, é verdade que uma igreja é referida como “aquela” em 1 Pedro 5.13, enquanto a Igreja em Corinto é comparada a Eva, de quem se afirma estar desposada com um único marido (2Co 11.2, 3). De modo semelhante, a Igreja universal é chamada de uma “esposa”, em Apocalipse 19.7; de uma “mulher”, em Apocalipse 12.1-6; e de uma “noiva adornada para o seu esposo”, em Apocalipse 21.2 (cf. Ap 21.9). No Antigo Testamento, a nação de Israel era vista como um noiva (Is 62.5). Esses exemplos oferecem precedente conceitual para a senhora eleita representar uma igreja. Em qualquer caso, quer a senhora em vista fosse uma igreja, quer fosse uma pessoa, ela é “eleita” por causa da escolha soberana e graciosa de Deus (Jo 10.15, 29; 15.16, 19; 17.6; Rm 9.1-29; 1Co 1.27-31)."
+        },
+        {
+          "titulo": "a quem eu amo na verdade... conhecem a verdade.",
+          "texto": "João diz, inicialmente, que ama a senhora (a igreja) e seus filhos (membros) na verdade. Depois, ele acrescenta os que conhecem “a verdade” — que certamente inclui a doutrina evangélica (permanecer na doutrina de Cristo, v. 9), mas também assume conotações mais pessoais no v. 2."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0003",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "2 verdade que permanece em nós e co-",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "verdade que permanece em nós e conosco estará para sempre. No evangelho de João, Jesus descreve a si mesmo como “a verdade” (Jo 14.6) e promete permanecer em e com aqueles que o seguem (15.5; 14.18, 23). Jesus também promete que o Espírito da verdade estará nos crentes e com os crentes “para sempre” (Jo 14.16, 17). Em 1 João 1.2, “vida eterna” é um nome de Cristo, que estava com o Pai e se tornou manifesto entre nós. Portanto, parece que “a verdade” aqui representa a presença constante do Filho de Deus com os crentes, por meio do Espírito.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "verdade que permanece em nós e conosco estará para sempre. No evangelho de João, Jesus descreve a si mesmo como “a verdade” (Jo 14.6) e promete permanecer em e com aqueles que o seguem (15.5; 14.18, 23). Jesus também promete que o Espírito da verdade estará nos crentes e com os crentes “para sempre” (Jo 14.16, 17). Em 1 João 1.2, “vida eterna” é um nome de Cristo, que estava com o Pai e se tornou manifesto entre nós. Portanto, parece que “a verdade” aqui representa a presença constante do Filho de Deus com os crentes, por meio do Espírito."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "verdade que permanece em nós e conosco estará para sempre.",
+          "texto": "No evangelho de João, Jesus descreve a si mesmo como “a verdade” (Jo 14.6) e promete permanecer em e com aqueles que o seguem (15.5; 14.18, 23). Jesus também promete que o Espírito da verdade estará nos crentes e com os crentes “para sempre” (Jo 14.16, 17). Em 1 João 1.2, “vida eterna” é um nome de Cristo, que estava com o Pai e se tornou manifesto entre nós. Portanto, parece que “a verdade” aqui representa a presença constante do Filho de Deus com os crentes, por meio do Espírito."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0004",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "3 a graça, a misericórdia e a paz. Assim como",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "a graça, a misericórdia e a paz. Assim como o apóstolo Paulo faz, João começa sua saudação com uma menção às ricas bênçãos cristãs de graça e paz (Gl 1.13, nota), mas acrescenta “misericórdia”. A fonte dessa graça, misericórdia e paz bendita não é outra senão Deus mesmo, que é verdade (Jo 14.6; 1Jo 5.6) e amor (1Jo 4.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "Fonte impressa: “Gl 1.13, nota”; mantido literalmente. Possível remissão editorial incorreta, sem criar novo link de nota manual."
+      ],
+      "paragrafos": [
+        "a graça, a misericórdia e a paz. Assim como o apóstolo Paulo faz, João começa sua saudação com uma menção às ricas bênçãos cristãs de graça e paz (Gl 1.13, nota), mas acrescenta “misericórdia”. A fonte dessa graça, misericórdia e paz bendita não é outra senão Deus mesmo, que é verdade (Jo 14.6; 1Jo 5.6) e amor (1Jo 4.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a graça, a misericórdia e a paz.",
+          "texto": "Assim como o apóstolo Paulo faz, João começa sua saudação com uma menção às ricas bênçãos cristãs de graça e paz (Gl 1.13, nota), mas acrescenta “misericórdia”. A fonte dessa graça, misericórdia e paz bendita não é outra senão Deus mesmo, que é verdade (Jo 14.6; 1Jo 5.6) e amor (1Jo 4.8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0005",
+      "referencia": "1.4-6",
+      "capitulo": 1,
+      "versiculos": [
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.4-6",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "4-6 0 presbítero e a senhora compartilham a ale-",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "O presbítero e a senhora compartilham a alegria de ver os membros da família dela permanecerem fiéis à verdade. A marca da fidelidade cristã é o amor mútuo, o mandamento essencial dado aos cristãos pelo próprio Jesus (Jo 13.34). Esse amor é definido por todos os mandamentos que Cristo deu aos seus seguidores.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O presbítero e a senhora compartilham a alegria de ver os membros da família dela permanecerem fiéis à verdade. A marca da fidelidade cristã é o amor mútuo, o mandamento essencial dado aos cristãos pelo próprio Jesus (Jo 13.34). Esse amor é definido por todos os mandamentos que Cristo deu aos seus seguidores."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O presbítero e a senhora compartilham a alegria de ver os membros da família dela permanecerem fiéis à verdade. A marca da fidelidade cristã é o amor mútuo, o mandamento essencial dado aos cristãos pelo próprio Jesus (Jo 13.34). Esse amor é definido por todos os mandamentos que Cristo deu aos seus seguidores."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0006",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "5 não... mandamento novo. Ver nota em",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "não... mandamento novo. Ver nota em 1 João 2.7-11.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não... mandamento novo. Ver nota em 1 João 2.7-11."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não... mandamento novo.",
+          "texto": "Ver nota em 1 João 2.7-11."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0007",
+      "referencia": "1.7-11",
+      "capitulo": 1,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.7-11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "7-11 Os falsos mestres estavam perturbando algu -",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "Os falsos mestres estavam perturbando algumas comunidades cristãs ao atacarem a verdade central do evangelho: que Cristo é o Ungido, o eterno Filho de Deus, que assumiu a natureza humana para realizar a salvação (1Jo 2.22; 4.2, 3). Rejeitar essa verdade significa rejeitar toda a esperança de reconciliação com Deus, enquanto recebê-la significa receber a Deus mesmo. João adverte a senhora e sua família (a igreja) de que a obra dos falsos mestres ameaça o progresso espiritual (v. 9, nota) e a esperança de recompensa eterna deles. Em face desses perigos, o único procedimento seguro é evitar todo envolvimento com os falsos mestres. Ver Introdução a 1 João: Teologia.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Jo",
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os falsos mestres estavam perturbando algumas comunidades cristãs ao atacarem a verdade central do evangelho: que Cristo é o Ungido, o eterno Filho de Deus, que assumiu a natureza humana para realizar a salvação (1Jo 2.22; 4.2, 3). Rejeitar essa verdade significa rejeitar toda a esperança de reconciliação com Deus, enquanto recebê-la significa receber a Deus mesmo. João adverte a senhora e sua família (a igreja) de que a obra dos falsos mestres ameaça o progresso espiritual (v. 9, nota) e a esperança de recompensa eterna deles. Em face desses perigos, o único procedimento seguro é evitar todo envolvimento com os falsos mestres. Ver Introdução a 1 João: Teologia."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os falsos mestres estavam perturbando algumas comunidades cristãs ao atacarem a verdade central do evangelho: que Cristo é o Ungido, o eterno Filho de Deus, que assumiu a natureza humana para realizar a salvação (1Jo 2.22; 4.2, 3). Rejeitar essa verdade significa rejeitar toda a esperança de reconciliação com Deus, enquanto recebê-la significa receber a Deus mesmo. João adverte a senhora e sua família (a igreja) de que a obra dos falsos mestres ameaça o progresso espiritual (v. 9, nota) e a esperança de recompensa eterna deles. Em face desses perigos, o único procedimento seguro é evitar todo envolvimento com os falsos mestres. Ver Introdução a 1 João: Teologia."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0008",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "7 saído pelo mundo fora. Ver nota em 1 João",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "saído pelo mundo fora. Ver nota em 1 João 2.19.\n\nnão confessam Jesus Cristo vindo em carne. Os enganadores eram docetistas, que negavam a realidade da natureza humana de Cristo (1Jo 4.2, nota). As palavras de João usadas na confissão do que os enganadores rejeitam — que poderia ser traduzida por “Jesus como o Cristo vindo em carne” — também refutam opiniões adocionistas sobre Cristo que traçam uma separação entre um Jesus humano e um Espírito divino (Cristo) que supostamente teria capacitado Jesus por algum tempo. Ver nota teológica “A Humanidade de Cristo”, na página anterior.\n\no anticristo. Ver nota em 1 João 2.18.",
+      "remissoes": [
+        "2jo-art-a-humanidade-de-cristo"
+      ],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "livro": "1Jo",
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "saído pelo mundo fora. Ver nota em 1 João 2.19.",
+        "não confessam Jesus Cristo vindo em carne. Os enganadores eram docetistas, que negavam a realidade da natureza humana de Cristo (1Jo 4.2, nota). As palavras de João usadas na confissão do que os enganadores rejeitam — que poderia ser traduzida por “Jesus como o Cristo vindo em carne” — também refutam opiniões adocionistas sobre Cristo que traçam uma separação entre um Jesus humano e um Espírito divino (Cristo) que supostamente teria capacitado Jesus por algum tempo. Ver nota teológica “A Humanidade de Cristo”, na página anterior.",
+        "o anticristo. Ver nota em 1 João 2.18."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "saído pelo mundo fora.",
+          "texto": "Ver nota em 1 João 2.19."
+        },
+        {
+          "titulo": "não confessam Jesus Cristo vindo em carne.",
+          "texto": "Os enganadores eram docetistas, que negavam a realidade da natureza humana de Cristo (1Jo 4.2, nota). As palavras de João usadas na confissão do que os enganadores rejeitam — que poderia ser traduzida por “Jesus como o Cristo vindo em carne” — também refutam opiniões adocionistas sobre Cristo que traçam uma separação entre um Jesus humano e um Espírito divino (Cristo) que supostamente teria capacitado Jesus por algum tempo. Ver nota teológica “A Humanidade de Cristo”, na página anterior."
+        },
+        {
+          "titulo": "o anticristo.",
+          "texto": "Ver nota em 1 João 2.18."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0008-r1",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "aquilo que temos realizado com esforço",
+        "metodo": "transcrição e comparação visual das páginas impressas",
+        "observacao": "Parágrafo impresso sem novo número; associado ao v. 8 pela expressão literal do texto bíblico."
+      },
+      "texto": "aquilo que temos realizado com esforço. O apóstolo labutou para instilar nos outros a fé em Jesus Cristo, que veio em carne, por meio de quem os crentes recebem um completo galardão, a vida eterna, pela graça de Deus. Embora alguns manuscritos digam “vocês realizaram”, os melhores manuscritos apontam que João está se referindo aos seus próprios labores e aos de outros apóstolos, como em 1 João 1.3, 4 (cf. Fp 2.16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "aquilo que temos realizado com esforço. O apóstolo labutou para instilar nos outros a fé em Jesus Cristo, que veio em carne, por meio de quem os crentes recebem um completo galardão, a vida eterna, pela graça de Deus. Embora alguns manuscritos digam “vocês realizaram”, os melhores manuscritos apontam que João está se referindo aos seus próprios labores e aos de outros apóstolos, como em 1 João 1.3, 4 (cf. Fp 2.16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aquilo que temos realizado com esforço.",
+          "texto": "O apóstolo labutou para instilar nos outros a fé em Jesus Cristo, que veio em carne, por meio de quem os crentes recebem um completo galardão, a vida eterna, pela graça de Deus. Embora alguns manuscritos digam “vocês realizaram”, os melhores manuscritos apontam que João está se referindo aos seus próprios labores e aos de outros apóstolos, como em 1 João 1.3, 4 (cf. Fp 2.16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0009",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "9 Todo aquele que ultrapassa a doutrina",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "Todo aquele que ultrapassa a doutrina de Cristo e nela não permanece. Isso se refere à falsa doutrina do Anticristo e a seus falsos mestres, que procuravam enganar. Ser progressista e avançado no pensamento teológico nem sempre é algo bom, como nesse caso. Há ironia aqui, pois uma busca inquietante que ultrapassa a verdade da encarnação leva a uma perda da fé que os apóstolos labutaram para instilar em outras pessoas e, portanto, à perda do “completo galardão”, o qual pertence aos crentes em Cristo (v. 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Todo aquele que ultrapassa a doutrina de Cristo e nela não permanece. Isso se refere à falsa doutrina do Anticristo e a seus falsos mestres, que procuravam enganar. Ser progressista e avançado no pensamento teológico nem sempre é algo bom, como nesse caso. Há ironia aqui, pois uma busca inquietante que ultrapassa a verdade da encarnação leva a uma perda da fé que os apóstolos labutaram para instilar em outras pessoas e, portanto, à perda do “completo galardão”, o qual pertence aos crentes em Cristo (v. 8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Todo aquele que ultrapassa a doutrina de Cristo e nela não permanece.",
+          "texto": "Isso se refere à falsa doutrina do Anticristo e a seus falsos mestres, que procuravam enganar. Ser progressista e avançado no pensamento teológico nem sempre é algo bom, como nesse caso. Há ironia aqui, pois uma busca inquietante que ultrapassa a verdade da encarnação leva a uma perda da fé que os apóstolos labutaram para instilar em outras pessoas e, portanto, à perda do “completo galardão”, o qual pertence aos crentes em Cristo (v. 8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0010",
+      "referencia": "1.10,11",
+      "capitulo": 1,
+      "versiculos": [
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.10,11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "10, 11 não o recebais em casa, nem lhe",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "não o recebais em casa, nem lhe deis as boas-vindas. Essa medida prudente contrasta acentuadamente com a exortação dada em 3 João 5-8, para que recebessem os crentes que proclamam a verdade. Ambas as epístolas contemplam a situação do século I, quando os mestres viajavam de cidade em cidade e, em relação a residência e alimentação, dependiam da hospitalidade dos membros das comunidades cristãs locais (cf. Lc 10.4-9; At 16.15). Essa hospitalidade significava endosso do ensino e do ministério de um mestre; por isso, os que ofereciam hospedagem precisavam usar discernimento teológico ao oferecer sua casa como “plataforma” para a instrução de um visitante (ver Introdução: Data e Circunstâncias). É provável que a proibição aqui tenha a ver com a noção de que a contínua e íntima comunhão eclesiástica com os falsos mestres pode infectar uma pessoa; ver, por exemplo, a afirmação de Paulo de que “um pouco de fermento leveda a massa toda” (1Co 5.6), no contexto de que uma pessoa imoral deve ser disciplinada pela igreja, e, se não se arrepender, deve ser excluída da comunhão, para que a imoralidade não se espalhe para os outros (cf. 1Co 5.1-13). Em consequência, João diz aqui que essa permanente comunhão íntima resulta em que a pessoa se torne “cúmplice” das obras más dos falsos mestres, enquanto Gaio e outros que recebiam e ajudavam os mestres itinerantes da verdade de Cristo se tornaram “cooperadores da verdade” (3Jo 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não o recebais em casa, nem lhe deis as boas-vindas. Essa medida prudente contrasta acentuadamente com a exortação dada em 3 João 5-8, para que recebessem os crentes que proclamam a verdade. Ambas as epístolas contemplam a situação do século I, quando os mestres viajavam de cidade em cidade e, em relação a residência e alimentação, dependiam da hospitalidade dos membros das comunidades cristãs locais (cf. Lc 10.4-9; At 16.15). Essa hospitalidade significava endosso do ensino e do ministério de um mestre; por isso, os que ofereciam hospedagem precisavam usar discernimento teológico ao oferecer sua casa como “plataforma” para a instrução de um visitante (ver Introdução: Data e Circunstâncias). É provável que a proibição aqui tenha a ver com a noção de que a contínua e íntima comunhão eclesiástica com os falsos mestres pode infectar uma pessoa; ver, por exemplo, a afirmação de Paulo de que “um pouco de fermento leveda a massa toda” (1Co 5.6), no contexto de que uma pessoa imoral deve ser disciplinada pela igreja, e, se não se arrepender, deve ser excluída da comunhão, para que a imoralidade não se espalhe para os outros (cf. 1Co 5.1-13). Em consequência, João diz aqui que essa permanente comunhão íntima resulta em que a pessoa se torne “cúmplice” das obras más dos falsos mestres, enquanto Gaio e outros que recebiam e ajudavam os mestres itinerantes da verdade de Cristo se tornaram “cooperadores da verdade” (3Jo 8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não o recebais em casa, nem lhe deis as boas-vindas.",
+          "texto": "Essa medida prudente contrasta acentuadamente com a exortação dada em 3 João 5-8, para que recebessem os crentes que proclamam a verdade. Ambas as epístolas contemplam a situação do século I, quando os mestres viajavam de cidade em cidade e, em relação a residência e alimentação, dependiam da hospitalidade dos membros das comunidades cristãs locais (cf. Lc 10.4-9; At 16.15). Essa hospitalidade significava endosso do ensino e do ministério de um mestre; por isso, os que ofereciam hospedagem precisavam usar discernimento teológico ao oferecer sua casa como “plataforma” para a instrução de um visitante (ver Introdução: Data e Circunstâncias). É provável que a proibição aqui tenha a ver com a noção de que a contínua e íntima comunhão eclesiástica com os falsos mestres pode infectar uma pessoa; ver, por exemplo, a afirmação de Paulo de que “um pouco de fermento leveda a massa toda” (1Co 5.6), no contexto de que uma pessoa imoral deve ser disciplinada pela igreja, e, se não se arrepender, deve ser excluída da comunhão, para que a imoralidade não se espalhe para os outros (cf. 1Co 5.1-13). Em consequência, João diz aqui que essa permanente comunhão íntima resulta em que a pessoa se torne “cúmplice” das obras más dos falsos mestres, enquanto Gaio e outros que recebiam e ajudavam os mestres itinerantes da verdade de Cristo se tornaram “cooperadores da verdade” (3Jo 8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-2jo-0011",
+      "referencia": "1.12,13",
+      "capitulo": 1,
+      "versiculos": [
+        12,
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.12,13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2280,
+        "rotulo_original_ocr": "12,13 Uma carta não é um substituto para a co-",
+        "metodo": "transcrição e comparação visual das páginas impressas"
+      },
+      "texto": "Uma carta não é um substituto para a comunhão pessoal. João espera compartilhar com seus leitores o encorajamento mútuo, que só pode acontecer com a presença pessoal. Ele termina enviando saudações de uma comunidade cristã para outra, uma prática comum nas cartas apostólicas e um lembrete de unidade cristã. A “irmã eleita” pode referir-se a outra igreja, e seus “filhos”, provavelmente aos membros dessa igreja. Ver nota no v. 1.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Jo",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Uma carta não é um substituto para a comunhão pessoal. João espera compartilhar com seus leitores o encorajamento mútuo, que só pode acontecer com a presença pessoal. Ele termina enviando saudações de uma comunidade cristã para outra, uma prática comum nas cartas apostólicas e um lembrete de unidade cristã. A “irmã eleita” pode referir-se a outra igreja, e seus “filhos”, provavelmente aos membros dessa igreja. Ver nota no v. 1."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Uma carta não é um substituto para a comunhão pessoal. João espera compartilhar com seus leitores o encorajamento mútuo, que só pode acontecer com a presença pessoal. Ele termina enviando saudações de uma comunidade cristã para outra, uma prática comum nas cartas apostólicas e um lembrete de unidade cristã. A “irmã eleita” pode referir-se a outra igreja, e seus “filhos”, provavelmente aos membros dessa igreja. Ver nota no v. 1."
+        }
+      ]
+    }
+  ],
+  "artigos": [
+    {
+      "id": "2jo-art-a-humanidade-de-cristo",
+      "titulo": "A Humanidade de Cristo",
+      "pagina_original": 1,
+      "paragrafos": [
+        "O fato de Deus, o Filho, ter assumido natureza humana autêntica é uma doutrina crucial do cristianismo histórico. O grande Concílio Ecumênico de Calcedônia, em 451 d.C., afirmou que Jesus é verdadeiramente homem e verdadeiramente Deus, e que as duas naturezas de Cristo são unidas de tal modo que não têm mistura, separação ou divisão, retendo cada natureza seus próprios atributos.",
+        "A verdadeira humanidade de Jesus tem sido atacada principalmente de duas maneiras. A Igreja primitiva teve de combater a heresia do docetismo. Essa heresia ensinava que Jesus não tinha um corpo físico real. Eles diziam que Jesus apenas “parecia” ter um corpo, mas, na realidade, era um tipo de ser fantasmagórico. Contra isso, João declarou veementemente que todos aqueles que negam que Jesus veio realmente em carne são do Anticristo.",
+        "A outra grande heresia que a Igreja rejeitou foi o monofisismo. Essa heresia argumentava que Jesus não tinha duas naturezas, mas apenas uma. Essa natureza única não era nem verdadeiramente divina, nem verdadeiramente humana; era uma mistura de ambas. Era chamada natureza “teantrópica”. A heresia monofisista envolve ou uma deificação da natureza humana ou uma natureza divina humanizada.",
+        "Formas sutis da heresia monofisista ameaçam a Igreja a cada geração. A tendência é permitir que a natureza humana seja tomada pela natureza divina de maneira que remova as limitações reais da humanidade de Jesus.",
+        "Devemos estabelecer distinção entre as duas naturezas de Jesus sem separá-las. Quando Jesus sentia fome, por exemplo, vemos isso como uma manifestação da natureza humana, não da divina. O que se diz sobre a natureza divina ou sobre a natureza humana pode ser afirmado da pessoa. Na cruz, por exemplo, Cristo, o Deus-homem, morreu. Isso, porém, não significa que Deus tenha morrido na cruz. Embora as duas naturezas tenham permanecido unidas depois da ascensão de Cristo, devemos ainda distinguir as naturezas no que diz respeito ao modo de sua presença conosco. No que diz respeito à natureza humana de Cristo, ele não está mais presente conosco. No entanto, em sua natureza divina, Cristo nunca está ausente de nós.",
+        "A humanidade de Cristo era como a nossa. Ele se tornou um homem “por nós”. Cristo entrou em nossa situação para agir como nosso Redentor. Ele se tornou nosso substituto, tomando sobre si mesmo nossos pecados, a fim de sofrer em nosso lugar. E se tornou nosso advogado, cumprindo a lei de Deus em nosso favor.",
+        "Na redenção, há uma mudança dupla. Nossos pecados são imputados a Jesus. E a justiça de Jesus é imputada a nós. Ele recebe o julgamento devido à nossa humanidade imperfeita, enquanto nós recebemos a bênção em virtude da perfeita humanidade dele. Em sua humanidade, Jesus tinha as mesmas limitações comuns a todos os seres humanos, exceto pelo fato de ele ser sem pecado. Em sua natureza humana, Jesus não era onisciente. Seu conhecimento, embora verdadeiro e exato, não era infinito. Havia coisas que ele não sabia, como, por exemplo, o dia de seu retorno à terra. É claro que, em sua natureza divina, ele era onisciente, e seu conhecimento, sem limite.",
+        "Como um ser humano, Jesus era restringido por tempo e espaço. À semelhança de todos os seres humanos, ele não podia estar em mais de um lugar ao mesmo tempo. Ele suou. Teve fome e chorou. Suportou dor. Ele era mortal e capaz de sofrer a morte. Em todos esses aspectos, Jesus era como nós."
+      ],
+      "origem": {
+        "pdf": "134 - 2 João (2Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "pagina_impressa": 2279,
+        "metodo": "cotejo visual das duas colunas, oito parágrafos"
+      },
+      "estado_editorial": "conferido_visualmente_revisao_v1"
+    }
+  ],
+  "remissoes": []
+}

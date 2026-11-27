@@ -1,0 +1,4142 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "2Tm",
+  "titulo": "2 Timóteo",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "118 - 2 Timóteo (2Tm).pdf",
+    "paginas_pdf": [
+      1,
+      6
+    ],
+    "observacao": "Cotejo visual das seis páginas de comentários e margens. Pendências no relatório."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-2tm-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.1 apostolo de Cristo Jesus. Alguem envia-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "apóstolo de Cristo Jesus. Alguém enviado como testemunha ocular do Cristo ressurreto e como seu representante oficial (2Co 1.1, nota).\n\npela vontade de Deus. Paulo identifica aquele que o comissionou, enfatizando que seu apostolado não se devia à designação humana ou a uma autodesignação (1Co 1.2; 2Co 1.1; Ef 1.1; Cl 1.1).\n\nde conformidade com a promessa da vida que está em Cristo Jesus. A função do apóstolo é proclamar a vida que se acha unicamente em Cristo Jesus (1Tm 1.16, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "apóstolo de Cristo Jesus. Alguém enviado como testemunha ocular do Cristo ressurreto e como seu representante oficial (2Co 1.1, nota).",
+        "pela vontade de Deus. Paulo identifica aquele que o comissionou, enfatizando que seu apostolado não se devia à designação humana ou a uma autodesignação (1Co 1.2; 2Co 1.1; Ef 1.1; Cl 1.1).",
+        "de conformidade com a promessa da vida que está em Cristo Jesus. A função do apóstolo é proclamar a vida que se acha unicamente em Cristo Jesus (1Tm 1.16, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "apóstolo de Cristo Jesus.",
+          "texto": "Alguém enviado como testemunha ocular do Cristo ressurreto e como seu representante oficial (2Co 1.1, nota)."
+        },
+        {
+          "titulo": "pela vontade de Deus.",
+          "texto": "Paulo identifica aquele que o comissionou, enfatizando que seu apostolado não se devia à designação humana ou a uma autodesignação (1Co 1.2; 2Co 1.1; Ef 1.1; Cl 1.1)."
+        },
+        {
+          "titulo": "de conformidade com a promessa da vida que está em Cristo Jesus.",
+          "texto": "A função do apóstolo é proclamar a vida que se acha unicamente em Cristo Jesus (1Tm 1.16, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.2 amado filho. Ver Introdugao a 1 Timoteo",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "amado filho. Ver Introdução a 1 Timóteo: Data e Circunstâncias; 1Co 4.17 (cf. nota em 1Tm 1.2).\n\ngraça... nosso Senhor. Ver nota em 1 Timóteo 1.2.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "amado filho. Ver Introdução a 1 Timóteo: Data e Circunstâncias; 1Co 4.17 (cf. nota em 1Tm 1.2).",
+        "graça... nosso Senhor. Ver nota em 1 Timóteo 1.2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "amado filho.",
+          "texto": "Ver Introdução a 1 Timóteo: Data e Circunstâncias; 1Co 4.17 (cf. nota em 1Tm 1.2)."
+        },
+        {
+          "titulo": "graça... nosso Senhor.",
+          "texto": "Ver nota em 1 Timóteo 1.2."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0003",
+      "referencia": "1.3-5",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.3-5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.3-5 Como na maioria das cartas (exceto Gl, lTm e",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Como na maioria das cartas (exceto Gl, 1Tm e Tt), após a saudação, Paulo inclui ação de graças a Deus pelos destinatários da carta. Aqui ele foca em seu relacionamento com Timóteo e em sua confiança na fé de Timóteo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Como na maioria das cartas (exceto Gl, 1Tm e Tt), após a saudação, Paulo inclui ação de graças a Deus pelos destinatários da carta. Aqui ele foca em seu relacionamento com Timóteo e em sua confiança na fé de Timóteo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Como na maioria das cartas (exceto Gl, 1Tm e Tt), após a saudação, Paulo inclui ação de graças a Deus pelos destinatários da carta. Aqui ele foca em seu relacionamento com Timóteo e em sua confiança na fé de Timóteo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.4 Lembrado das tuas lagrimas. Talvez as",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Lembrado das tuas lágrimas. Talvez as lágrimas que Timóteo derramou na última vez que Paulo o deixou.\n\nestou ansioso por ver-te. Paulo prenuncia seu pedido em 4.9, 21.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Lembrado das tuas lágrimas. Talvez as lágrimas que Timóteo derramou na última vez que Paulo o deixou.",
+        "estou ansioso por ver-te. Paulo prenuncia seu pedido em 4.9, 21."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Lembrado das tuas lágrimas.",
+          "texto": "Talvez as lágrimas que Timóteo derramou na última vez que Paulo o deixou."
+        },
+        {
+          "titulo": "estou ansioso por ver-te.",
+          "texto": "Paulo prenuncia seu pedido em 4.9, 21."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0005",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.5 Loide... Eunice. Essas mulheressao citadas",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Loide... Eunice. Essas mulheres são citadas pelo nome apenas aqui no Novo Testamento. Eram judias, diferentemente do pai de Timóteo, um grego, que parece não haver permitido a circuncisão de Timóteo quando este era criança (At 16.1-3). Apesar disso, Timóteo aprendera as Escrituras Sagradas “desde a infância” (3.15); e a semente da Palavra de Deus floresceu no coração de Timóteo quando Paulo levou a Listra as boas-novas de Jesus, o Messias. Ver Introdução a 1 Timóteo: Data e Circunstâncias.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Loide... Eunice. Essas mulheres são citadas pelo nome apenas aqui no Novo Testamento. Eram judias, diferentemente do pai de Timóteo, um grego, que parece não haver permitido a circuncisão de Timóteo quando este era criança (At 16.1-3). Apesar disso, Timóteo aprendera as Escrituras Sagradas “desde a infância” (3.15); e a semente da Palavra de Deus floresceu no coração de Timóteo quando Paulo levou a Listra as boas-novas de Jesus, o Messias. Ver Introdução a 1 Timóteo: Data e Circunstâncias."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Loide... Eunice.",
+          "texto": "Essas mulheres são citadas pelo nome apenas aqui no Novo Testamento. Eram judias, diferentemente do pai de Timóteo, um grego, que parece não haver permitido a circuncisão de Timóteo quando este era criança (At 16.1-3). Apesar disso, Timóteo aprendera as Escrituras Sagradas “desde a infância” (3.15); e a semente da Palavra de Deus floresceu no coração de Timóteo quando Paulo levou a Listra as boas-novas de Jesus, o Messias. Ver Introdução a 1 Timóteo: Data e Circunstâncias."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0006",
+      "referencia": "1.6-14",
+      "capitulo": 1,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.6-14",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.6-14 Paulo prossegue para o corpo da carta En-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo prossegue para o corpo da carta. Enquanto exorta Timóteo para a ousadia e a fidelidade, Paulo discute o evangelho e seu próprio papel em proclamá-lo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo prossegue para o corpo da carta. Enquanto exorta Timóteo para a ousadia e a fidelidade, Paulo discute o evangelho e seu próprio papel em proclamá-lo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo prossegue para o corpo da carta. Enquanto exorta Timóteo para a ousadia e a fidelidade, Paulo discute o evangelho e seu próprio papel em proclamá-lo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0007",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.6 reavives o dom de Deus. Essa expressao",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "reavives o dom de Deus. Essa expressão forte sugere que Timóteo estava se tornando menos vigoroso do que deveria no exercício do dom espiritual que recebera de Deus (1Tm 4.14).\n\nimposição das minhas mãos. Ver nota em 1Tm 1.18; 4.14; 5.22.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 18
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 4,
+          "versiculo": 14
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 5,
+          "versiculo": 22
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "reavives o dom de Deus. Essa expressão forte sugere que Timóteo estava se tornando menos vigoroso do que deveria no exercício do dom espiritual que recebera de Deus (1Tm 4.14).",
+        "imposição das minhas mãos. Ver nota em 1Tm 1.18; 4.14; 5.22."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "reavives o dom de Deus.",
+          "texto": "Essa expressão forte sugere que Timóteo estava se tornando menos vigoroso do que deveria no exercício do dom espiritual que recebera de Deus (1Tm 4.14)."
+        },
+        {
+          "titulo": "imposição das minhas mãos.",
+          "texto": "Ver nota em 1Tm 1.18; 4.14; 5.22."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0008",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.7 covardia. Esta expressao forte era necessaria,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "covardia. Esta expressão forte era necessária, por causa da timidez natural de Timóteo e da gravidade da situação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "covardia. Esta expressão forte era necessária, por causa da timidez natural de Timóteo e da gravidade da situação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "covardia.",
+          "texto": "Esta expressão forte era necessária, por causa da timidez natural de Timóteo e da gravidade da situação."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0009",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.8 seu encarcerado, que sou eu. Paulo esta",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "seu encarcerado, que sou eu. Paulo está na prisão em Roma (2.9; cf. Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "seu encarcerado, que sou eu. Paulo está na prisão em Roma (2.9; cf. Introdução: Data e Circunstâncias)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seu encarcerado, que sou eu.",
+          "texto": "Paulo está na prisão em Roma (2.9; cf. Introdução: Data e Circunstâncias)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0010",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.9 santa vocagao. 0 alvo da eleigao e do cha-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "santa vocação. O alvo da eleição e do chamado de Deus é a santificação de seu povo (Ef 1.4).\n\nnão... graça. Essa é uma maravilhosa afirmação de que a salvação é por meio da graça, não por mérito humano (Ef 2.8-9; ver Tt 3.4-6).\n\nsua própria determinação. O decreto e a obra de redenção de Deus baseiam-se tão somente em seu próprio propósito e beneplácito. Em outras passagens, esse propósito divino é identificado em relação à misericórdia (Tt 3.5) e ao amor (Ef 1.4, 5).\n\nantes dos tempos eternos. Uma afirmação de que o decreto divino de redenção por meio de Cristo é desde a eternidade (Ef 1.4; Tt 1.2; 1Pe 1.20; Ap 13.8). Dessa maneira, Paulo enfatiza esse ponto de que a nossa redenção é totalmente pela graça, e não, de maneira alguma, em resposta aos nossos esforços ou fundamentada neles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "santa vocação. O alvo da eleição e do chamado de Deus é a santificação de seu povo (Ef 1.4).",
+        "não... graça. Essa é uma maravilhosa afirmação de que a salvação é por meio da graça, não por mérito humano (Ef 2.8-9; ver Tt 3.4-6).",
+        "sua própria determinação. O decreto e a obra de redenção de Deus baseiam-se tão somente em seu próprio propósito e beneplácito. Em outras passagens, esse propósito divino é identificado em relação à misericórdia (Tt 3.5) e ao amor (Ef 1.4, 5).",
+        "antes dos tempos eternos. Uma afirmação de que o decreto divino de redenção por meio de Cristo é desde a eternidade (Ef 1.4; Tt 1.2; 1Pe 1.20; Ap 13.8). Dessa maneira, Paulo enfatiza esse ponto de que a nossa redenção é totalmente pela graça, e não, de maneira alguma, em resposta aos nossos esforços ou fundamentada neles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "santa vocação.",
+          "texto": "O alvo da eleição e do chamado de Deus é a santificação de seu povo (Ef 1.4)."
+        },
+        {
+          "titulo": "não... graça.",
+          "texto": "Essa é uma maravilhosa afirmação de que a salvação é por meio da graça, não por mérito humano (Ef 2.8-9; ver Tt 3.4-6)."
+        },
+        {
+          "titulo": "sua própria determinação.",
+          "texto": "O decreto e a obra de redenção de Deus baseiam-se tão somente em seu próprio propósito e beneplácito. Em outras passagens, esse propósito divino é identificado em relação à misericórdia (Tt 3.5) e ao amor (Ef 1.4, 5)."
+        },
+        {
+          "titulo": "antes dos tempos eternos.",
+          "texto": "Uma afirmação de que o decreto divino de redenção por meio de Cristo é desde a eternidade (Ef 1.4; Tt 1.2; 1Pe 1.20; Ap 13.8). Dessa maneira, Paulo enfatiza esse ponto de que a nossa redenção é totalmente pela graça, e não, de maneira alguma, em resposta aos nossos esforços ou fundamentada neles."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0011",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "1.10 o aparecimento. Em outras passagens,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "o aparecimento. Em outras passagens, Paulo aplica, de modo consistente, essa expressão à segunda vinda de Jesus, no final da história (4.1, 8; 1Tm 6.14; Tt 2.13), mas aqui ele se refere à encarnação de Jesus, em sua primeira vinda.\n\nnosso Salvador Cristo Jesus. Cristo é o Mediador da aliança de graça (Tt 1.4; 2.13; 3.6).\n\no qual não só destruiu a morte, como trouxe à luz a vida e a imortalidade. Ou seja, por meio de sua morte e ressurreição (Hb 2.14-15; Ap 1.18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o aparecimento. Em outras passagens, Paulo aplica, de modo consistente, essa expressão à segunda vinda de Jesus, no final da história (4.1, 8; 1Tm 6.14; Tt 2.13), mas aqui ele se refere à encarnação de Jesus, em sua primeira vinda.",
+        "nosso Salvador Cristo Jesus. Cristo é o Mediador da aliança de graça (Tt 1.4; 2.13; 3.6).",
+        "o qual não só destruiu a morte, como trouxe à luz a vida e a imortalidade. Ou seja, por meio de sua morte e ressurreição (Hb 2.14-15; Ap 1.18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o aparecimento.",
+          "texto": "Em outras passagens, Paulo aplica, de modo consistente, essa expressão à segunda vinda de Jesus, no final da história (4.1, 8; 1Tm 6.14; Tt 2.13), mas aqui ele se refere à encarnação de Jesus, em sua primeira vinda."
+        },
+        {
+          "titulo": "nosso Salvador Cristo Jesus.",
+          "texto": "Cristo é o Mediador da aliança de graça (Tt 1.4; 2.13; 3.6)."
+        },
+        {
+          "titulo": "o qual não só destruiu a morte, como trouxe à luz a vida e a imortalidade.",
+          "texto": "Ou seja, por meio de sua morte e ressurreição (Hb 2.14-15; Ap 1.18)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0072",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Subtítulo impresso sem rótulo numérico próprio, separado editorialmente conforme a expressão no texto bíblico.",
+        "id_anterior": "fr-2tm-0011"
+      },
+      "texto": "pregador, apóstolo e mestre. Ver 1 Timóteo 2.7.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pregador, apóstolo e mestre. Ver 1 Timóteo 2.7."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pregador, apóstolo e mestre.",
+          "texto": "Ver 1 Timóteo 2.7."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0073",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 2170,
+        "rotulo_original_ocr": "",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Subtítulo impresso sem rótulo numérico próprio, separado editorialmente conforme a expressão no texto bíblico.",
+        "id_anterior": "fr-2tm-0011"
+      },
+      "texto": "estou sofrendo. Paulo está na prisão (v. 8; 2.9). Todo o ministério de Paulo havia sido caracterizado por dor e sofrimento por causa de Cristo (At 9.16; 2Co 11.23-33).\n\nnão me envergonho. Havendo exortado Timóteo a não se envergonhar de falar de Cristo (v. 8), Paulo apresenta a si mesmo como um modelo de ousadia diante do sofrimento (2.8-10; 3.10, 11). O evangelho é loucura para um mundo que perece, mas os servos de Deus não devem envergonhar-se do evangelho, porque é a própria sabedoria de Deus (1Co 1.18-25; Rm 1.16-17). Paulo havia pedido oração às igrejas, para que não se envergonhasse de Cristo e de seu evangelho, e sim que o apresentasse com ousadia na corte mais elevada do império (Fp 1.19-20; Ef 6.19, 20). Agora, em sua segunda prisão em Roma, as orações ainda estão obtendo resposta.\n\no meu depósito. Essa expressão é uma referência ao evangelho, do qual Paulo era servo e despenseiro. Quando completa sua própria carreira, Paulo sabe que Deus guardará sua própria palavra de perdas ou distorções. Visto que Deus fará isso por meio de seus mensageiros, Paulo também encarrega Timóteo, usando a mesma expressão, de guardar “o bom depósito” (v. 14).\n\naquele Dia. O dia de julgamento (v. 18; 4.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "estou sofrendo. Paulo está na prisão (v. 8; 2.9). Todo o ministério de Paulo havia sido caracterizado por dor e sofrimento por causa de Cristo (At 9.16; 2Co 11.23-33).",
+        "não me envergonho. Havendo exortado Timóteo a não se envergonhar de falar de Cristo (v. 8), Paulo apresenta a si mesmo como um modelo de ousadia diante do sofrimento (2.8-10; 3.10, 11). O evangelho é loucura para um mundo que perece, mas os servos de Deus não devem envergonhar-se do evangelho, porque é a própria sabedoria de Deus (1Co 1.18-25; Rm 1.16-17). Paulo havia pedido oração às igrejas, para que não se envergonhasse de Cristo e de seu evangelho, e sim que o apresentasse com ousadia na corte mais elevada do império (Fp 1.19-20; Ef 6.19, 20). Agora, em sua segunda prisão em Roma, as orações ainda estão obtendo resposta.",
+        "o meu depósito. Essa expressão é uma referência ao evangelho, do qual Paulo era servo e despenseiro. Quando completa sua própria carreira, Paulo sabe que Deus guardará sua própria palavra de perdas ou distorções. Visto que Deus fará isso por meio de seus mensageiros, Paulo também encarrega Timóteo, usando a mesma expressão, de guardar “o bom depósito” (v. 14).",
+        "aquele Dia. O dia de julgamento (v. 18; 4.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estou sofrendo.",
+          "texto": "Paulo está na prisão (v. 8; 2.9). Todo o ministério de Paulo havia sido caracterizado por dor e sofrimento por causa de Cristo (At 9.16; 2Co 11.23-33)."
+        },
+        {
+          "titulo": "não me envergonho.",
+          "texto": "Havendo exortado Timóteo a não se envergonhar de falar de Cristo (v. 8), Paulo apresenta a si mesmo como um modelo de ousadia diante do sofrimento (2.8-10; 3.10, 11). O evangelho é loucura para um mundo que perece, mas os servos de Deus não devem envergonhar-se do evangelho, porque é a própria sabedoria de Deus (1Co 1.18-25; Rm 1.16-17). Paulo havia pedido oração às igrejas, para que não se envergonhasse de Cristo e de seu evangelho, e sim que o apresentasse com ousadia na corte mais elevada do império (Fp 1.19-20; Ef 6.19, 20). Agora, em sua segunda prisão em Roma, as orações ainda estão obtendo resposta."
+        },
+        {
+          "titulo": "o meu depósito.",
+          "texto": "Essa expressão é uma referência ao evangelho, do qual Paulo era servo e despenseiro. Quando completa sua própria carreira, Paulo sabe que Deus guardará sua própria palavra de perdas ou distorções. Visto que Deus fará isso por meio de seus mensageiros, Paulo também encarrega Timóteo, usando a mesma expressão, de guardar “o bom depósito” (v. 14)."
+        },
+        {
+          "titulo": "aquele Dia.",
+          "texto": "O dia de julgamento (v. 18; 4.8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0012",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "1.13 sas palavras. Este tema permeia todas as",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "sãs palavras. Este tema permeia todas as Epístolas Pastorais (1Tm 1.10, nota; 6.3; Tt 1.9; 2.1), embora somente aqui Paulo indique que essas palavras que transmitem saúde são arranjadas em um “padrão” — um sistema de verdades entrelaçadas e inter-relacionadas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sãs palavras. Este tema permeia todas as Epístolas Pastorais (1Tm 1.10, nota; 6.3; Tt 1.9; 2.1), embora somente aqui Paulo indique que essas palavras que transmitem saúde são arranjadas em um “padrão” — um sistema de verdades entrelaçadas e inter-relacionadas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sãs palavras.",
+          "texto": "Este tema permeia todas as Epístolas Pastorais (1Tm 1.10, nota; 6.3; Tt 1.9; 2.1), embora somente aqui Paulo indique que essas palavras que transmitem saúde são arranjadas em um “padrão” — um sistema de verdades entrelaçadas e inter-relacionadas."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0013",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "1.14 o bom deposito. Ver v. 12 e nota em1Timo-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "o bom depósito. Ver v. 12 e nota em 1 Timóteo 6.20.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o bom depósito. Ver v. 12 e nota em 1 Timóteo 6.20."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o bom depósito.",
+          "texto": "Ver v. 12 e nota em 1 Timóteo 6.20."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0014",
+      "referencia": "1.15-18",
+      "capitulo": 1,
+      "versiculos": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.15-18",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "1.15-18 A preocupagao de Paulo com que Timoteo",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "A preocupação de Paulo com que Timóteo fosse fiel o levou a apresentar exemplos específicos de infidelidade e de fidelidade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A preocupação de Paulo com que Timóteo fosse fiel o levou a apresentar exemplos específicos de infidelidade e de fidelidade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A preocupação de Paulo com que Timóteo fosse fiel o levou a apresentar exemplos específicos de infidelidade e de fidelidade."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0015",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "1.15 todos. Paulo esta escrevendo provavelmente",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "todos. Paulo está escrevendo provavelmente com exagero intencional, para ter certeza de que seus leitores verão a extensão da deslealdade. Ao mesmo tempo, expressa, posteriormente, sua tristeza, por estar quase sozinho, devido a uma combinação da deserção de Demas (Demas, 4.10; outros, 4.16) e do deslocamento de companheiros fiéis para outros lugares (Crescente, Tito e Tíquico — 4.10, 12).\n\nÁsia. Uma província romana na costa do mar Egeu, que hoje é parte da Turquia Ocidental. Éfeso, onde Timóteo estava servindo como representante de Paulo, era a principal cidade dessa província.\n\nFigelo e Hermógenes. Não mencionados em nenhuma outra parte do Novo Testamento. Paulo talvez os mencione por haver contado com o apoio deles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "todos. Paulo está escrevendo provavelmente com exagero intencional, para ter certeza de que seus leitores verão a extensão da deslealdade. Ao mesmo tempo, expressa, posteriormente, sua tristeza, por estar quase sozinho, devido a uma combinação da deserção de Demas (Demas, 4.10; outros, 4.16) e do deslocamento de companheiros fiéis para outros lugares (Crescente, Tito e Tíquico — 4.10, 12).",
+        "Ásia. Uma província romana na costa do mar Egeu, que hoje é parte da Turquia Ocidental. Éfeso, onde Timóteo estava servindo como representante de Paulo, era a principal cidade dessa província.",
+        "Figelo e Hermógenes. Não mencionados em nenhuma outra parte do Novo Testamento. Paulo talvez os mencione por haver contado com o apoio deles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "todos.",
+          "texto": "Paulo está escrevendo provavelmente com exagero intencional, para ter certeza de que seus leitores verão a extensão da deslealdade. Ao mesmo tempo, expressa, posteriormente, sua tristeza, por estar quase sozinho, devido a uma combinação da deserção de Demas (Demas, 4.10; outros, 4.16) e do deslocamento de companheiros fiéis para outros lugares (Crescente, Tito e Tíquico — 4.10, 12)."
+        },
+        {
+          "titulo": "Ásia.",
+          "texto": "Uma província romana na costa do mar Egeu, que hoje é parte da Turquia Ocidental. Éfeso, onde Timóteo estava servindo como representante de Paulo, era a principal cidade dessa província."
+        },
+        {
+          "titulo": "Figelo e Hermógenes.",
+          "texto": "Não mencionados em nenhuma outra parte do Novo Testamento. Paulo talvez os mencione por haver contado com o apoio deles."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0016",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "1.16 Onesiforo. Urn membro da igreja de Efeso",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Onesíforo. Um membro da igreja de Éfeso que se distinguia por sua lealdade a Paulo (v. 18; cf. 4.19). Sua solicitude diligente, ao chegar a Roma, para encontrar e servir a Paulo, sem vergonha alguma, apesar das cadeias do apóstolo, é um exemplo salutar para Timóteo, amado filho de Paulo (ver v. 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Onesíforo. Um membro da igreja de Éfeso que se distinguia por sua lealdade a Paulo (v. 18; cf. 4.19). Sua solicitude diligente, ao chegar a Roma, para encontrar e servir a Paulo, sem vergonha alguma, apesar das cadeias do apóstolo, é um exemplo salutar para Timóteo, amado filho de Paulo (ver v. 8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Onesíforo.",
+          "texto": "Um membro da igreja de Éfeso que se distinguia por sua lealdade a Paulo (v. 18; cf. 4.19). Sua solicitude diligente, ao chegar a Roma, para encontrar e servir a Paulo, sem vergonha alguma, apesar das cadeias do apóstolo, é um exemplo salutar para Timóteo, amado filho de Paulo (ver v. 8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0017",
+      "referencia": "1.17",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.17",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "1.17 tendo ele chegado a Roma. Onesiforo",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "tendo ele chegado a Roma. Onesíforo pode ter ido a Roma especificamente para ajudar Paulo, como Epafrodito fizera antes, em benefício da igreja filipense (Fp 2.25-30; 4.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tendo ele chegado a Roma. Onesíforo pode ter ido a Roma especificamente para ajudar Paulo, como Epafrodito fizera antes, em benefício da igreja filipense (Fp 2.25-30; 4.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tendo ele chegado a Roma.",
+          "texto": "Onesíforo pode ter ido a Roma especificamente para ajudar Paulo, como Epafrodito fizera antes, em benefício da igreja filipense (Fp 2.25-30; 4.8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0074",
+      "referencia": "1.18",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.18",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Subtítulo impresso sem rótulo numérico próprio, separado editorialmente conforme a expressão no texto bíblico.",
+        "id_anterior": "fr-2tm-0017"
+      },
+      "texto": "naquele Dia. O dia de julgamento (v. 12; 4.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "naquele Dia. O dia de julgamento (v. 12; 4.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "naquele Dia.",
+          "texto": "O dia de julgamento (v. 12; 4.8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0018",
+      "referencia": "2.1-13",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.1-13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.1-13 Paulo exorta, de novo, Timoteo a ser fiel, co-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo exorta, de novo, Timóteo a ser fiel, começando com três analogias da vida cotidiana que enfatizam dedicação sincera à obra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo exorta, de novo, Timóteo a ser fiel, começando com três analogias da vida cotidiana que enfatizam dedicação sincera à obra."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo exorta, de novo, Timóteo a ser fiel, começando com três analogias da vida cotidiana que enfatizam dedicação sincera à obra."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0019",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.1 filho meu. Ver nota em1.2.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "filho meu. Ver nota em 1.2.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "filho meu. Ver nota em 1.2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "filho meu.",
+          "texto": "Ver nota em 1.2."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0020",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.2 muitas testemunhas. Essaafirmagao pode",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "muitas testemunhas. Essa afirmação pode referir-se à ordenação de Timóteo por meio da imposição de mãos de Paulo e de um grupo de presbíteros (1.6; 1Tm 1.18; 4.14).\n\nhomens fiéis e também idôneos para instruir a outros. Talvez bispos (supervisores), ou seja, presbíteros (1Tm 3.1, nota; 5.17; cf. Tt 1.7, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "livro": "Tt",
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "muitas testemunhas. Essa afirmação pode referir-se à ordenação de Timóteo por meio da imposição de mãos de Paulo e de um grupo de presbíteros (1.6; 1Tm 1.18; 4.14).",
+        "homens fiéis e também idôneos para instruir a outros. Talvez bispos (supervisores), ou seja, presbíteros (1Tm 3.1, nota; 5.17; cf. Tt 1.7, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "muitas testemunhas.",
+          "texto": "Essa afirmação pode referir-se à ordenação de Timóteo por meio da imposição de mãos de Paulo e de um grupo de presbíteros (1.6; 1Tm 1.18; 4.14)."
+        },
+        {
+          "titulo": "homens fiéis e também idôneos para instruir a outros.",
+          "texto": "Talvez bispos (supervisores), ou seja, presbíteros (1Tm 3.1, nota; 5.17; cf. Tt 1.7, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0021",
+      "referencia": "2.3-7",
+      "capitulo": 2,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.3-7",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.3-7 Paulo traga uma analogia sobre o ministerio",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo traça uma analogia sobre o ministério de Timóteo para Cristo em três esferas de vocação: vida militar (vv. 3, 4), esportes (v. 5) e lavoura (v. 6). Depois, ele exorta Timóteo a meditar acerca das implicações dessas ilustrações (v. 7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo traça uma analogia sobre o ministério de Timóteo para Cristo em três esferas de vocação: vida militar (vv. 3, 4), esportes (v. 5) e lavoura (v. 6). Depois, ele exorta Timóteo a meditar acerca das implicações dessas ilustrações (v. 7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo traça uma analogia sobre o ministério de Timóteo para Cristo em três esferas de vocação: vida militar (vv. 3, 4), esportes (v. 5) e lavoura (v. 6). Depois, ele exorta Timóteo a meditar acerca das implicações dessas ilustrações (v. 7)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0022",
+      "referencia": "2.3,4",
+      "capitulo": 2,
+      "versiculos": [
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.3,4",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.3, 4 bom soldado de Cristo Jesus. Pronti-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "bom soldado de Cristo Jesus. Prontidão para sofrer, lealdade e compromisso íntegro em agradar o comandante são disposições exigidas dos soldados de Cristo. Quanto ao uso de outras metáforas militares de Paulo sobre a vida cristã, ver 4.7; Romanos 13.12, 14; 1 Coríntios 9.7; 2 Coríntios 6.7; 10.4; Efésios 6.10-20; Filipenses 1.27; 2.25; 4.3; 1 Timóteo 1.18; 6.12; Filemom 2.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "bom soldado de Cristo Jesus. Prontidão para sofrer, lealdade e compromisso íntegro em agradar o comandante são disposições exigidas dos soldados de Cristo. Quanto ao uso de outras metáforas militares de Paulo sobre a vida cristã, ver 4.7; Romanos 13.12, 14; 1 Coríntios 9.7; 2 Coríntios 6.7; 10.4; Efésios 6.10-20; Filipenses 1.27; 2.25; 4.3; 1 Timóteo 1.18; 6.12; Filemom 2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "bom soldado de Cristo Jesus.",
+          "texto": "Prontidão para sofrer, lealdade e compromisso íntegro em agradar o comandante são disposições exigidas dos soldados de Cristo. Quanto ao uso de outras metáforas militares de Paulo sobre a vida cristã, ver 4.7; Romanos 13.12, 14; 1 Coríntios 9.7; 2 Coríntios 6.7; 10.4; Efésios 6.10-20; Filipenses 1.27; 2.25; 4.3; 1 Timóteo 1.18; 6.12; Filemom 2."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0023",
+      "referencia": "2.5,6",
+      "capitulo": 2,
+      "versiculos": [
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.5,6",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.5, 6 coroado... frutos. Essas analogias de es-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "coroado... frutos. Essas analogias de esportes e agricultura acrescentam uma promessa de recompensa futura, que é a consumação de nossa salvação em nossa glorificação (vv. 10-12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "coroado... frutos. Essas analogias de esportes e agricultura acrescentam uma promessa de recompensa futura, que é a consumação de nossa salvação em nossa glorificação (vv. 10-12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "coroado... frutos.",
+          "texto": "Essas analogias de esportes e agricultura acrescentam uma promessa de recompensa futura, que é a consumação de nossa salvação em nossa glorificação (vv. 10-12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0075",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Subtítulo impresso sem rótulo numérico próprio, separado editorialmente conforme a expressão no texto bíblico.",
+        "id_anterior": "fr-2tm-0023"
+      },
+      "texto": "ressuscitado de entre os mortos. A ressurreição de Cristo está no centro da teologia de Paulo (Rm 4.25; Rm 6.4-10; 1Co 15.12-22). É a base para a esperança expressa nos vv. 11, 12.\n\ndescendente de Davi. Jesus cumpre a promessa de Deus de dar a um dos descendentes de Davi um reino eterno (2Sm 7.12-16; Mt 1.1; Mc 12.35; Lc 1.32, 33; Jo 7.42; At 2.30-36; 13.22, 23; Ap 5.5). Quanto à associação entre a ressurreição de Cristo e sua descendência de Davi, ver Romanos 1.3, 4.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ressuscitado de entre os mortos. A ressurreição de Cristo está no centro da teologia de Paulo (Rm 4.25; Rm 6.4-10; 1Co 15.12-22). É a base para a esperança expressa nos vv. 11, 12.",
+        "descendente de Davi. Jesus cumpre a promessa de Deus de dar a um dos descendentes de Davi um reino eterno (2Sm 7.12-16; Mt 1.1; Mc 12.35; Lc 1.32, 33; Jo 7.42; At 2.30-36; 13.22, 23; Ap 5.5). Quanto à associação entre a ressurreição de Cristo e sua descendência de Davi, ver Romanos 1.3, 4."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ressuscitado de entre os mortos.",
+          "texto": "A ressurreição de Cristo está no centro da teologia de Paulo (Rm 4.25; Rm 6.4-10; 1Co 15.12-22). É a base para a esperança expressa nos vv. 11, 12."
+        },
+        {
+          "titulo": "descendente de Davi.",
+          "texto": "Jesus cumpre a promessa de Deus de dar a um dos descendentes de Davi um reino eterno (2Sm 7.12-16; Mt 1.1; Mc 12.35; Lc 1.32, 33; Jo 7.42; At 2.30-36; 13.22, 23; Ap 5.5). Quanto à associação entre a ressurreição de Cristo e sua descendência de Davi, ver Romanos 1.3, 4."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0024",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.9 estou sofrendo. Ver nota em1.8.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "estou sofrendo. Ver nota em 1.8.\n\na palavra de Deus não está algemada. Em sua prisão anterior, Paulo viu suas cadeias como um avanço do evangelho de Cristo (Fp 1.12-14). Embora em prisão familiar, ele pregava a Palavra “sem impedimento algum” a todos os que o visitavam (At 28.31).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "estou sofrendo. Ver nota em 1.8.",
+        "a palavra de Deus não está algemada. Em sua prisão anterior, Paulo viu suas cadeias como um avanço do evangelho de Cristo (Fp 1.12-14). Embora em prisão familiar, ele pregava a Palavra “sem impedimento algum” a todos os que o visitavam (At 28.31)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estou sofrendo.",
+          "texto": "Ver nota em 1.8."
+        },
+        {
+          "titulo": "a palavra de Deus não está algemada.",
+          "texto": "Em sua prisão anterior, Paulo viu suas cadeias como um avanço do evangelho de Cristo (Fp 1.12-14). Embora em prisão familiar, ele pregava a Palavra “sem impedimento algum” a todos os que o visitavam (At 28.31)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0025",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.10 os eleitos. Aqueles que Deus escolheu desde",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "os eleitos. Aqueles que Deus escolheu desde antes da fundação do mundo para que sejam salvos (Tt 1.1).\n\na salvação que está em Cristo Jesus. A salvação que vem por meio da fé em Cristo (3.15). Ver nota teológica “Salvação”, na p. 2058.\n\neterna glória. Essa glória é a salvação final e completa dos eleitos, na nova ordem de Deus. Os santos terão seus corpos ressuscitados e a natureza humana transformada (1Co 15.42-49). Eles experimentarão totalmente o triunfo de Cristo sobre o pecado e a morte, e desfrutarão a plenitude de alegria em uma vida garantida pela morte, ressurreição e ascensão de Cristo (v. 11; Mt 13.43; 1Tm 1.16, nota; cf. Sl 16.11).",
+      "remissoes": [
+        "2tm-rem-2-10-art"
+      ],
+      "links_notas": [
+        {
+          "livro": "2Co",
+          "capitulo": 6,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "os eleitos. Aqueles que Deus escolheu desde antes da fundação do mundo para que sejam salvos (Tt 1.1).",
+        "a salvação que está em Cristo Jesus. A salvação que vem por meio da fé em Cristo (3.15). Ver nota teológica “Salvação”, na p. 2058.",
+        "eterna glória. Essa glória é a salvação final e completa dos eleitos, na nova ordem de Deus. Os santos terão seus corpos ressuscitados e a natureza humana transformada (1Co 15.42-49). Eles experimentarão totalmente o triunfo de Cristo sobre o pecado e a morte, e desfrutarão a plenitude de alegria em uma vida garantida pela morte, ressurreição e ascensão de Cristo (v. 11; Mt 13.43; 1Tm 1.16, nota; cf. Sl 16.11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os eleitos.",
+          "texto": "Aqueles que Deus escolheu desde antes da fundação do mundo para que sejam salvos (Tt 1.1)."
+        },
+        {
+          "titulo": "a salvação que está em Cristo Jesus.",
+          "texto": "A salvação que vem por meio da fé em Cristo (3.15). Ver nota teológica “Salvação”, na p. 2058."
+        },
+        {
+          "titulo": "eterna glória.",
+          "texto": "Essa glória é a salvação final e completa dos eleitos, na nova ordem de Deus. Os santos terão seus corpos ressuscitados e a natureza humana transformada (1Co 15.42-49). Eles experimentarão totalmente o triunfo de Cristo sobre o pecado e a morte, e desfrutarão a plenitude de alegria em uma vida garantida pela morte, ressurreição e ascensão de Cristo (v. 11; Mt 13.43; 1Tm 1.16, nota; cf. Sl 16.11)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0026",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.11 Fiel e esta palavra. Ver nota em 1 Timoteo",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Fiel é esta palavra. Ver nota em 1 Timóteo 1.15. O que se segue talvez seja parte de um antigo hino cristão.\n\nSe já morremos com ele. Uma referência à união do crente com Cristo, em sua morte na cruz (Rm 6.3-11).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Fiel é esta palavra. Ver nota em 1 Timóteo 1.15. O que se segue talvez seja parte de um antigo hino cristão.",
+        "Se já morremos com ele. Uma referência à união do crente com Cristo, em sua morte na cruz (Rm 6.3-11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Fiel é esta palavra.",
+          "texto": "Ver nota em 1 Timóteo 1.15. O que se segue talvez seja parte de um antigo hino cristão."
+        },
+        {
+          "titulo": "Se já morremos com ele.",
+          "texto": "Uma referência à união do crente com Cristo, em sua morte na cruz (Rm 6.3-11)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0027",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.12 se perseveramos. Refere-se a perseveran-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "se perseveramos. Refere-se à perseverança em meio a dificuldades (v. 10).\n\ntambém com ele reinaremos. A figura do Novo Testamento sobre a glória eterna que os crentes recebem por meio de Cristo (Mt 19.28; Rm 5.17; Ap 3.21; 5.10; 20.4, 6; 22.5).\n\nse o negamos, ele, por sua vez, nos negará. Uma advertência solene contra a apostasia, fundamentada nas palavras do próprio Jesus (Mt 10.33).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "se perseveramos. Refere-se à perseverança em meio a dificuldades (v. 10).",
+        "também com ele reinaremos. A figura do Novo Testamento sobre a glória eterna que os crentes recebem por meio de Cristo (Mt 19.28; Rm 5.17; Ap 3.21; 5.10; 20.4, 6; 22.5).",
+        "se o negamos, ele, por sua vez, nos negará. Uma advertência solene contra a apostasia, fundamentada nas palavras do próprio Jesus (Mt 10.33)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "se perseveramos.",
+          "texto": "Refere-se à perseverança em meio a dificuldades (v. 10)."
+        },
+        {
+          "titulo": "também com ele reinaremos.",
+          "texto": "A figura do Novo Testamento sobre a glória eterna que os crentes recebem por meio de Cristo (Mt 19.28; Rm 5.17; Ap 3.21; 5.10; 20.4, 6; 22.5)."
+        },
+        {
+          "titulo": "se o negamos, ele, por sua vez, nos negará.",
+          "texto": "Uma advertência solene contra a apostasia, fundamentada nas palavras do próprio Jesus (Mt 10.33)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0028",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.13 se somos infieis, ele permanece fiel.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "se somos infiéis, ele permanece fiel. Trata-se de uma afirmação maravilhosa da segurança de que, embora sejamos chamados a perseverar e ser fiéis, a salvação não depende, em última análise, de nossa fidelidade, mas da perfeita fidelidade de Cristo (v. 19).\n\nde maneira nenhuma pode negar-se a si mesmo. A esperança cristã está firmemente arraigada no caráter imutável de Deus (Nm 23.19) e em seu propósito imutável para seus eleitos (Hb 6.13-20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "se somos infiéis, ele permanece fiel. Trata-se de uma afirmação maravilhosa da segurança de que, embora sejamos chamados a perseverar e ser fiéis, a salvação não depende, em última análise, de nossa fidelidade, mas da perfeita fidelidade de Cristo (v. 19).",
+        "de maneira nenhuma pode negar-se a si mesmo. A esperança cristã está firmemente arraigada no caráter imutável de Deus (Nm 23.19) e em seu propósito imutável para seus eleitos (Hb 6.13-20)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "se somos infiéis, ele permanece fiel.",
+          "texto": "Trata-se de uma afirmação maravilhosa da segurança de que, embora sejamos chamados a perseverar e ser fiéis, a salvação não depende, em última análise, de nossa fidelidade, mas da perfeita fidelidade de Cristo (v. 19)."
+        },
+        {
+          "titulo": "de maneira nenhuma pode negar-se a si mesmo.",
+          "texto": "A esperança cristã está firmemente arraigada no caráter imutável de Deus (Nm 23.19) e em seu propósito imutável para seus eleitos (Hb 6.13-20)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0076",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Subtítulo impresso sem rótulo numérico próprio, separado editorialmente conforme a expressão no texto bíblico.",
+        "id_anterior": "fr-2tm-0028"
+      },
+      "texto": "contendas de palavras. Uma das características dos falsos mestres (v. 23; 1Tm 1.4; 6.4; Tt 3.9). A falsa doutrina prejudica seus ouvintes; somente a sã doutrina pode salvá-los e restaurá-los.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "contendas de palavras. Uma das características dos falsos mestres (v. 23; 1Tm 1.4; 6.4; Tt 3.9). A falsa doutrina prejudica seus ouvintes; somente a sã doutrina pode salvá-los e restaurá-los."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "contendas de palavras.",
+          "texto": "Uma das características dos falsos mestres (v. 23; 1Tm 1.4; 6.4; Tt 3.9). A falsa doutrina prejudica seus ouvintes; somente a sã doutrina pode salvá-los e restaurá-los."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0029",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.15 a palavra da verdade. Todo o conselho de",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a palavra da verdade. Todo o conselho de Deus, com ênfase no evangelho (2.8, 9; 4.2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a palavra da verdade. Todo o conselho de Deus, com ênfase no evangelho (2.8, 9; 4.2)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a palavra da verdade.",
+          "texto": "Todo o conselho de Deus, com ênfase no evangelho (2.8, 9; 4.2)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0030",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.17 Himeneu. Mencionado tambem em 1 Timo -",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Himeneu. Mencionado também em 1 Timóteo 1.19-20 como alguém que naufragara em sua fé.\n\nFileto. Não mencionado em nenhum outro texto do Novo Testamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Himeneu. Mencionado também em 1 Timóteo 1.19-20 como alguém que naufragara em sua fé.",
+        "Fileto. Não mencionado em nenhum outro texto do Novo Testamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Himeneu.",
+          "texto": "Mencionado também em 1 Timóteo 1.19-20 como alguém que naufragara em sua fé."
+        },
+        {
+          "titulo": "Fileto.",
+          "texto": "Não mencionado em nenhum outro texto do Novo Testamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0031",
+      "referencia": "2.18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2.18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.18 a ressurreigao ja se realizou. Essa falsa",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a ressurreição já se realizou. Essa falsa crença negava a futura ressurreição do corpo dos cristãos e afirmava, em vez disso, que uma ressurreição espiritual, por ocasião da conversão, era a ressurreição do cristão. Assim, essa falsa crença resultava em ênfase exagerada na experiência presente (1Co 15.12-14). Além disso, negar uma ressurreição final do corpo é negar que haverá reversão final do pecado de Adão, que não somente introduziu a morte espiritual, mas também a morte física. É, portanto, negar a salvação final de toda a pessoa em uma nova Criação eterna. Em consequência, esse ensino é heresia.\n\nestão pervertendo a fé a alguns. As doutrinas dos falsos mestres são contrárias ao evangelho. Timóteo deve advertir a igreja sobre essas doutrinas (v. 14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a ressurreição já se realizou. Essa falsa crença negava a futura ressurreição do corpo dos cristãos e afirmava, em vez disso, que uma ressurreição espiritual, por ocasião da conversão, era a ressurreição do cristão. Assim, essa falsa crença resultava em ênfase exagerada na experiência presente (1Co 15.12-14). Além disso, negar uma ressurreição final do corpo é negar que haverá reversão final do pecado de Adão, que não somente introduziu a morte espiritual, mas também a morte física. É, portanto, negar a salvação final de toda a pessoa em uma nova Criação eterna. Em consequência, esse ensino é heresia.",
+        "estão pervertendo a fé a alguns. As doutrinas dos falsos mestres são contrárias ao evangelho. Timóteo deve advertir a igreja sobre essas doutrinas (v. 14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a ressurreição já se realizou.",
+          "texto": "Essa falsa crença negava a futura ressurreição do corpo dos cristãos e afirmava, em vez disso, que uma ressurreição espiritual, por ocasião da conversão, era a ressurreição do cristão. Assim, essa falsa crença resultava em ênfase exagerada na experiência presente (1Co 15.12-14). Além disso, negar uma ressurreição final do corpo é negar que haverá reversão final do pecado de Adão, que não somente introduziu a morte espiritual, mas também a morte física. É, portanto, negar a salvação final de toda a pessoa em uma nova Criação eterna. Em consequência, esse ensino é heresia."
+        },
+        {
+          "titulo": "estão pervertendo a fé a alguns.",
+          "texto": "As doutrinas dos falsos mestres são contrárias ao evangelho. Timóteo deve advertir a igreja sobre essas doutrinas (v. 14)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0032",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.19 o firme fundamento de Deus. Essa",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "o firme fundamento de Deus. Essa afirmação é uma referência aos eleitos de Deus (cf. 2.10; Tt 1.1).\n\npermanece. Em contraste com aqueles que se desviam (v. 18).\n\nselo. Uma expressão de propriedade e segurança.\n\nO Senhor conhece os que lhe pertencem. Uma citação de Números 16.5 (de acordo com a Septuaginta). No contexto do Antigo Testamento, Corá e outros rebeldes insistiram em que tinham o direito de exigir acesso à presença de Deus, mas o Senhor reafirmou seu direito soberano de escolher Arão como seu sumo sacerdote, para ministrar no Santo dos Santos. Gravado no povo de Deus, está o decreto eterno de eleição (v. 11), que garante a segurança do corpo de Cristo (Jo 10.29).\n\nAparte-se... Talvez igualmente gravado na filiação do povo de Deus esteja o chamado divino à santidade (v. 21), incluindo a rejeição da falsa doutrina. Paulo pode estar parafraseando, do mesmo contexto do Antigo Testamento, a ordem de Deus para que os israelitas se mantivessem distantes de Corá e de seus companheiros (Nm 16.26). De acordo com a alusão de Números 16.26, a ideia é que os falsos mestres estão sendo exortados a se apartar de seu falso ensino (talvez em harmonia com e desenvolvido em 2.25, 26).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o firme fundamento de Deus. Essa afirmação é uma referência aos eleitos de Deus (cf. 2.10; Tt 1.1).",
+        "permanece. Em contraste com aqueles que se desviam (v. 18).",
+        "selo. Uma expressão de propriedade e segurança.",
+        "O Senhor conhece os que lhe pertencem. Uma citação de Números 16.5 (de acordo com a Septuaginta). No contexto do Antigo Testamento, Corá e outros rebeldes insistiram em que tinham o direito de exigir acesso à presença de Deus, mas o Senhor reafirmou seu direito soberano de escolher Arão como seu sumo sacerdote, para ministrar no Santo dos Santos. Gravado no povo de Deus, está o decreto eterno de eleição (v. 11), que garante a segurança do corpo de Cristo (Jo 10.29).",
+        "Aparte-se... Talvez igualmente gravado na filiação do povo de Deus esteja o chamado divino à santidade (v. 21), incluindo a rejeição da falsa doutrina. Paulo pode estar parafraseando, do mesmo contexto do Antigo Testamento, a ordem de Deus para que os israelitas se mantivessem distantes de Corá e de seus companheiros (Nm 16.26). De acordo com a alusão de Números 16.26, a ideia é que os falsos mestres estão sendo exortados a se apartar de seu falso ensino (talvez em harmonia com e desenvolvido em 2.25, 26)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o firme fundamento de Deus.",
+          "texto": "Essa afirmação é uma referência aos eleitos de Deus (cf. 2.10; Tt 1.1)."
+        },
+        {
+          "titulo": "permanece.",
+          "texto": "Em contraste com aqueles que se desviam (v. 18)."
+        },
+        {
+          "titulo": "selo.",
+          "texto": "Uma expressão de propriedade e segurança."
+        },
+        {
+          "titulo": "O Senhor conhece os que lhe pertencem.",
+          "texto": "Uma citação de Números 16.5 (de acordo com a Septuaginta). No contexto do Antigo Testamento, Corá e outros rebeldes insistiram em que tinham o direito de exigir acesso à presença de Deus, mas o Senhor reafirmou seu direito soberano de escolher Arão como seu sumo sacerdote, para ministrar no Santo dos Santos. Gravado no povo de Deus, está o decreto eterno de eleição (v. 11), que garante a segurança do corpo de Cristo (Jo 10.29)."
+        },
+        {
+          "titulo": "Aparte-se...",
+          "texto": "Talvez igualmente gravado na filiação do povo de Deus esteja o chamado divino à santidade (v. 21), incluindo a rejeição da falsa doutrina. Paulo pode estar parafraseando, do mesmo contexto do Antigo Testamento, a ordem de Deus para que os israelitas se mantivessem distantes de Corá e de seus companheiros (Nm 16.26). De acordo com a alusão de Números 16.26, a ideia é que os falsos mestres estão sendo exortados a se apartar de seu falso ensino (talvez em harmonia com e desenvolvido em 2.25, 26)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0033",
+      "referencia": "2.20,21",
+      "capitulo": 2,
+      "versiculos": [
+        20,
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "2.20,21",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.20, 21 Esses versiculos proveem um exemplo da",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Esses versículos proveem um exemplo da vida cotidiana sobre a importância da santidade — ser separado para um dever honroso (santo).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Esses versículos proveem um exemplo da vida cotidiana sobre a importância da santidade — ser separado para um dever honroso (santo)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos proveem um exemplo da vida cotidiana sobre a importância da santidade — ser separado para um dever honroso (santo)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0034",
+      "referencia": "2.23",
+      "capitulo": 2,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "2.23",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.23 questoes... contendas. Ver nota em 2.14;",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "questões... contendas. Ver nota em 2.14; 1 Timóteo 1.3, 4, 6-7.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "questões... contendas. Ver nota em 2.14; 1 Timóteo 1.3, 4, 6-7."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "questões... contendas.",
+          "texto": "Ver nota em 2.14; 1 Timóteo 1.3, 4, 6-7."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0035",
+      "referencia": "2.24",
+      "capitulo": 2,
+      "versiculos": [
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "2.24",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.24 o servo do Senhor. Esse titulo evoca a",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "o servo do Senhor. Esse título evoca a imagem do servo do Senhor em Isaías, que trata com brandura a cana quebrada e a torcida que fumega (Is 42.1-3, aplicado a Jesus em Mt 12.15-21). Ver também Mateus 11.28-30. A paciência e a bondade de Jesus em resposta aos oponentes obstinados projetam o padrão para aqueles que ensinam a sua Igreja.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o servo do Senhor. Esse título evoca a imagem do servo do Senhor em Isaías, que trata com brandura a cana quebrada e a torcida que fumega (Is 42.1-3, aplicado a Jesus em Mt 12.15-21). Ver também Mateus 11.28-30. A paciência e a bondade de Jesus em resposta aos oponentes obstinados projetam o padrão para aqueles que ensinam a sua Igreja."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o servo do Senhor.",
+          "texto": "Esse título evoca a imagem do servo do Senhor em Isaías, que trata com brandura a cana quebrada e a torcida que fumega (Is 42.1-3, aplicado a Jesus em Mt 12.15-21). Ver também Mateus 11.28-30. A paciência e a bondade de Jesus em resposta aos oponentes obstinados projetam o padrão para aqueles que ensinam a sua Igreja."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0036",
+      "referencia": "2.25,26",
+      "capitulo": 2,
+      "versiculos": [
+        25,
+        26
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 26
+        }
+      ],
+      "titulo": "2.25,26",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3,
+          4
+        ],
+        "pagina_impressa": 2172,
+        "rotulo_original_ocr": "2.25, 26 0 cristao nunca deve supor que pessoas",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "O cristão nunca deve supor que pessoas enredadas pelos falsos mestres do Diabo estejam irrevogavelmente perdidas. O evangelho deve ser proclamado a todos. Observe o interesse de Paulo na maneira como Timóteo deve enfrentar seus oponentes: com bondade, paciência, mansidão e outros frutos do Espírito (cf. Gl 5.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O cristão nunca deve supor que pessoas enredadas pelos falsos mestres do Diabo estejam irrevogavelmente perdidas. O evangelho deve ser proclamado a todos. Observe o interesse de Paulo na maneira como Timóteo deve enfrentar seus oponentes: com bondade, paciência, mansidão e outros frutos do Espírito (cf. Gl 5.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O cristão nunca deve supor que pessoas enredadas pelos falsos mestres do Diabo estejam irrevogavelmente perdidas. O evangelho deve ser proclamado a todos. Observe o interesse de Paulo na maneira como Timóteo deve enfrentar seus oponentes: com bondade, paciência, mansidão e outros frutos do Espírito (cf. Gl 5.22)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0037",
+      "referencia": "3.1-9",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.1-9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.1-9 Paulo continua no tema da falsa doutrina ao",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo continua no tema da falsa doutrina ao se voltar a um ataque contra os falsos mestres, notando o impacto deles na igreja em Éfeso, mas concluindo com a afirmação de que, ao final, não serão bem-sucedidos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo continua no tema da falsa doutrina ao se voltar a um ataque contra os falsos mestres, notando o impacto deles na igreja em Éfeso, mas concluindo com a afirmação de que, ao final, não serão bem-sucedidos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo continua no tema da falsa doutrina ao se voltar a um ataque contra os falsos mestres, notando o impacto deles na igreja em Éfeso, mas concluindo com a afirmação de que, ao final, não serão bem-sucedidos."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0038",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.1 os ultimos dias. A era inaugurada pelo pri-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "os últimos dias. A era inaugurada pelo primeiro advento de Cristo e completada por seu segundo advento (1Tm 4.1, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "os últimos dias. A era inaugurada pelo primeiro advento de Cristo e completada por seu segundo advento (1Tm 4.1, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os últimos dias.",
+          "texto": "A era inaugurada pelo primeiro advento de Cristo e completada por seu segundo advento (1Tm 4.1, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0039",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.5 tendo forma de piedade, negando-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "tendo forma de piedade, negando-lhe... o poder. O que torna os falsos mestres tão perigosos é que eles parecem ser cristãos (Mt 7.15, 21-23).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tendo forma de piedade, negando-lhe... o poder. O que torna os falsos mestres tão perigosos é que eles parecem ser cristãos (Mt 7.15, 21-23)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tendo forma de piedade, negando-lhe... o poder.",
+          "texto": "O que torna os falsos mestres tão perigosos é que eles parecem ser cristãos (Mt 7.15, 21-23)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0040",
+      "referencia": "3.6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.6",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.6 mulherinhas. 0 foco de Paulo aqui nao e",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "mulherinhas. O foco de Paulo aqui não é que todas as mulheres fossem dessa maneira, mas que algumas haviam sido especialmente vulneráveis ao engano. Os falsos mestres em Éfeso foram especialmente bem-sucedidos em enganar mulheres (1Tm 2.14; 5.13-15).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "mulherinhas. O foco de Paulo aqui não é que todas as mulheres fossem dessa maneira, mas que algumas haviam sido especialmente vulneráveis ao engano. Os falsos mestres em Éfeso foram especialmente bem-sucedidos em enganar mulheres (1Tm 2.14; 5.13-15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mulherinhas.",
+          "texto": "O foco de Paulo aqui não é que todas as mulheres fossem dessa maneira, mas que algumas haviam sido especialmente vulneráveis ao engano. Os falsos mestres em Éfeso foram especialmente bem-sucedidos em enganar mulheres (1Tm 2.14; 5.13-15)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0041",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.8 Janes e Jambres. De acordo com a tradigao",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Janes e Jambres. De acordo com a tradição judaica, esses eram os nomes de dois mágicos egípcios que se opuseram a Moisés diante de Faraó (Êx 7, 8). A inclusão desses nomes por Paulo em sua segunda carta a Timóteo indica que essa tradição judaica reflete uma história real.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Janes e Jambres. De acordo com a tradição judaica, esses eram os nomes de dois mágicos egípcios que se opuseram a Moisés diante de Faraó (Êx 7, 8). A inclusão desses nomes por Paulo em sua segunda carta a Timóteo indica que essa tradição judaica reflete uma história real."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Janes e Jambres.",
+          "texto": "De acordo com a tradição judaica, esses eram os nomes de dois mágicos egípcios que se opuseram a Moisés diante de Faraó (Êx 7, 8). A inclusão desses nomes por Paulo em sua segunda carta a Timóteo indica que essa tradição judaica reflete uma história real."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0042",
+      "referencia": "3.10-17",
+      "capitulo": 3,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.10-17",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.10-17 Com o problema dos falsos mestres to-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Com o problema dos falsos mestres totalmente em foco, Paulo se volta outra vez para exortar Timóteo à fidelidade: primeiro em relação ao exemplo que Paulo mesmo deu (e, de modo implícito, aos exemplos da avó e da mãe de Timóteo) e, depois, em relação à confiança e à obediência para com a Escritura.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Com o problema dos falsos mestres totalmente em foco, Paulo se volta outra vez para exortar Timóteo à fidelidade: primeiro em relação ao exemplo que Paulo mesmo deu (e, de modo implícito, aos exemplos da avó e da mãe de Timóteo) e, depois, em relação à confiança e à obediência para com a Escritura."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Com o problema dos falsos mestres totalmente em foco, Paulo se volta outra vez para exortar Timóteo à fidelidade: primeiro em relação ao exemplo que Paulo mesmo deu (e, de modo implícito, aos exemplos da avó e da mãe de Timóteo) e, depois, em relação à confiança e à obediência para com a Escritura."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0043",
+      "referencia": "3.10,11",
+      "capitulo": 3,
+      "versiculos": [
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.10,11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.10,11 Uma vez mais, Paulo apela a sua propria vida,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Uma vez mais, Paulo apela à sua própria vida, tanto em sua fidelidade como em seus sofrimentos, como um exemplo para Timóteo (1.11-13; 2.8-10).\n\nAntioquia, Icônio e Listra. Três cidades na província romana da Galácia, nas quais Paulo pregou o evangelho em sua primeira viagem missionária (At 13.14-14.20). Mesmo diante de uma oposição substancial, Paulo foi bem-sucedido em estabelecer uma igreja em cada cidade (At 14.21-23). Paulo menciona essas cidades, incluindo Listra, o lar de Timóteo, a fim de apelar às raízes da fé de Timóteo (vv. 14-15; 1.5). Visto que a maturidade de Timóteo era evidente para a igreja quando Paulo e Silas chegaram a Listra na segunda viagem de Paulo (At 16.2), parece que Timóteo, sua mãe, Eunice, e sua avó, Loide, haviam chegado à fé em Jesus, o Messias, como resultado da primeira viagem (1.5).\n\nme livrou o Senhor. Paulo foi apedrejado e dado como morto em Listra, mas Deus o reviveu (At 14.19). Ver 4.18 e nota.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 4,
+          "versiculo": 18
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Uma vez mais, Paulo apela à sua própria vida, tanto em sua fidelidade como em seus sofrimentos, como um exemplo para Timóteo (1.11-13; 2.8-10).",
+        "Antioquia, Icônio e Listra. Três cidades na província romana da Galácia, nas quais Paulo pregou o evangelho em sua primeira viagem missionária (At 13.14-14.20). Mesmo diante de uma oposição substancial, Paulo foi bem-sucedido em estabelecer uma igreja em cada cidade (At 14.21-23). Paulo menciona essas cidades, incluindo Listra, o lar de Timóteo, a fim de apelar às raízes da fé de Timóteo (vv. 14-15; 1.5). Visto que a maturidade de Timóteo era evidente para a igreja quando Paulo e Silas chegaram a Listra na segunda viagem de Paulo (At 16.2), parece que Timóteo, sua mãe, Eunice, e sua avó, Loide, haviam chegado à fé em Jesus, o Messias, como resultado da primeira viagem (1.5).",
+        "me livrou o Senhor. Paulo foi apedrejado e dado como morto em Listra, mas Deus o reviveu (At 14.19). Ver 4.18 e nota."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Uma vez mais, Paulo apela à sua própria vida, tanto em sua fidelidade como em seus sofrimentos, como um exemplo para Timóteo (1.11-13; 2.8-10)."
+        },
+        {
+          "titulo": "Antioquia, Icônio e Listra.",
+          "texto": "Três cidades na província romana da Galácia, nas quais Paulo pregou o evangelho em sua primeira viagem missionária (At 13.14-14.20). Mesmo diante de uma oposição substancial, Paulo foi bem-sucedido em estabelecer uma igreja em cada cidade (At 14.21-23). Paulo menciona essas cidades, incluindo Listra, o lar de Timóteo, a fim de apelar às raízes da fé de Timóteo (vv. 14-15; 1.5). Visto que a maturidade de Timóteo era evidente para a igreja quando Paulo e Silas chegaram a Listra na segunda viagem de Paulo (At 16.2), parece que Timóteo, sua mãe, Eunice, e sua avó, Loide, haviam chegado à fé em Jesus, o Messias, como resultado da primeira viagem (1.5)."
+        },
+        {
+          "titulo": "me livrou o Senhor.",
+          "texto": "Paulo foi apedrejado e dado como morto em Listra, mas Deus o reviveu (At 14.19). Ver 4.18 e nota."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0044",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.12 todos quantos querem viver pie-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "todos quantos querem viver piedosamente... serão perseguidos. O Novo Testamento ensina que os cristãos devem esperar perseguição e não devem ficar surpresos quando essa perseguição vier, enquanto procuram seguir a piedade (Mt 10.17, 18; Jo 15.20; 1Pe 4.12; 5.9). Essa era a mensagem frequente dos apóstolos quando encorajavam os novos crentes convertidos nas igrejas recém-plantadas (At 14.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "todos quantos querem viver piedosamente... serão perseguidos. O Novo Testamento ensina que os cristãos devem esperar perseguição e não devem ficar surpresos quando essa perseguição vier, enquanto procuram seguir a piedade (Mt 10.17, 18; Jo 15.20; 1Pe 4.12; 5.9). Essa era a mensagem frequente dos apóstolos quando encorajavam os novos crentes convertidos nas igrejas recém-plantadas (At 14.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "todos quantos querem viver piedosamente... serão perseguidos.",
+          "texto": "O Novo Testamento ensina que os cristãos devem esperar perseguição e não devem ficar surpresos quando essa perseguição vier, enquanto procuram seguir a piedade (Mt 10.17, 18; Jo 15.20; 1Pe 4.12; 5.9). Essa era a mensagem frequente dos apóstolos quando encorajavam os novos crentes convertidos nas igrejas recém-plantadas (At 14.22)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0045",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.14 de quern o aprendeste. Uma referenda a",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "de quem o aprendeste. Uma referência à mãe e à avó de Timóteo (1.5), bem como ao próprio Paulo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "de quem o aprendeste. Uma referência à mãe e à avó de Timóteo (1.5), bem como ao próprio Paulo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "de quem o aprendeste.",
+          "texto": "Uma referência à mãe e à avó de Timóteo (1.5), bem como ao próprio Paulo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0046",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.15 desde a infancia. De acordo com o costu-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "desde a infância. De acordo com o costume, os pais judeus deviam começar a instruir um filho na lei quando a criança completava cinco anos.\n\nsabes as sagradas letras. Os falsos mestres haviam interpretado mal o Antigo Testamento (1Tm 1.7; Tt 3.9). Timóteo precisava lembrar a instrução correta que recebera de sua mãe e de sua avó. As “sagradas letras” aqui são os livros do Antigo Testamento. O Novo Testamento ainda não existia como uma coleção completa. De fato, alguns dos livros do Novo Testamento ainda não haviam sido escritos.\n\nsalvação... em Cristo Jesus. O Antigo Testamento, corretamente interpretado, leva uma pessoa a entender o papel central de Jesus Cristo no plano geral de Deus para a sua Criação (Lc 24.25-27, 44-49; Jo 5.45-47). Esse fato confirma tanto o erro como o perigo do manuseio errado do Antigo Testamento pelos falsos mestres.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "desde a infância. De acordo com o costume, os pais judeus deviam começar a instruir um filho na lei quando a criança completava cinco anos.",
+        "sabes as sagradas letras. Os falsos mestres haviam interpretado mal o Antigo Testamento (1Tm 1.7; Tt 3.9). Timóteo precisava lembrar a instrução correta que recebera de sua mãe e de sua avó. As “sagradas letras” aqui são os livros do Antigo Testamento. O Novo Testamento ainda não existia como uma coleção completa. De fato, alguns dos livros do Novo Testamento ainda não haviam sido escritos.",
+        "salvação... em Cristo Jesus. O Antigo Testamento, corretamente interpretado, leva uma pessoa a entender o papel central de Jesus Cristo no plano geral de Deus para a sua Criação (Lc 24.25-27, 44-49; Jo 5.45-47). Esse fato confirma tanto o erro como o perigo do manuseio errado do Antigo Testamento pelos falsos mestres."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "desde a infância.",
+          "texto": "De acordo com o costume, os pais judeus deviam começar a instruir um filho na lei quando a criança completava cinco anos."
+        },
+        {
+          "titulo": "sabes as sagradas letras.",
+          "texto": "Os falsos mestres haviam interpretado mal o Antigo Testamento (1Tm 1.7; Tt 3.9). Timóteo precisava lembrar a instrução correta que recebera de sua mãe e de sua avó. As “sagradas letras” aqui são os livros do Antigo Testamento. O Novo Testamento ainda não existia como uma coleção completa. De fato, alguns dos livros do Novo Testamento ainda não haviam sido escritos."
+        },
+        {
+          "titulo": "salvação... em Cristo Jesus.",
+          "texto": "O Antigo Testamento, corretamente interpretado, leva uma pessoa a entender o papel central de Jesus Cristo no plano geral de Deus para a sua Criação (Lc 24.25-27, 44-49; Jo 5.45-47). Esse fato confirma tanto o erro como o perigo do manuseio errado do Antigo Testamento pelos falsos mestres."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0047",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2173,
+        "rotulo_original_ocr": "3.16 Toda a Escritura. 0 Antigo Testamento (v.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Toda a Escritura. O Antigo Testamento (v. 15, nota).\n\ninspirada por Deus. Trata-se de uma das expressões mais importantes no Novo Testamento sobre a doutrina da inspiração divina das Escrituras. A Bíblia foi inspirada pelo Espírito de Deus (2Pe 1.21). Deus é a fonte e o autor final da Escritura. Embora redigida por autores humanos, a Escritura tem toda a importância da autoridade de Deus. A Bíblia, do começo ao fim e em suas próprias palavras, é a inerrante Palavra de Deus.\n\nO grande teólogo reformado americano B. B. Warfield, que ensinou no Princeton Theological Seminary de 1887 a 1921, demonstrou que a palavra grega traduzida como “inspirada” (theopneustos) refere-se a toda a Escritura, e não somente a porções dela. Em outras palavras, a inteireza do cânon da Escritura — até mesmo as próprias palavras individuais — foi dada por Deus e, portanto, é totalmente verdadeira. A Bíblia não afirma nenhum erro, sendo também a única fonte infalível de doutrina cristã.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Toda a Escritura. O Antigo Testamento (v. 15, nota).",
+        "inspirada por Deus. Trata-se de uma das expressões mais importantes no Novo Testamento sobre a doutrina da inspiração divina das Escrituras. A Bíblia foi inspirada pelo Espírito de Deus (2Pe 1.21). Deus é a fonte e o autor final da Escritura. Embora redigida por autores humanos, a Escritura tem toda a importância da autoridade de Deus. A Bíblia, do começo ao fim e em suas próprias palavras, é a inerrante Palavra de Deus.",
+        "O grande teólogo reformado americano B. B. Warfield, que ensinou no Princeton Theological Seminary de 1887 a 1921, demonstrou que a palavra grega traduzida como “inspirada” (theopneustos) refere-se a toda a Escritura, e não somente a porções dela. Em outras palavras, a inteireza do cânon da Escritura — até mesmo as próprias palavras individuais — foi dada por Deus e, portanto, é totalmente verdadeira. A Bíblia não afirma nenhum erro, sendo também a única fonte infalível de doutrina cristã."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Toda a Escritura.",
+          "texto": "O Antigo Testamento (v. 15, nota)."
+        },
+        {
+          "titulo": "inspirada por Deus.",
+          "texto": "Trata-se de uma das expressões mais importantes no Novo Testamento sobre a doutrina da inspiração divina das Escrituras. A Bíblia foi inspirada pelo Espírito de Deus (2Pe 1.21). Deus é a fonte e o autor final da Escritura. Embora redigida por autores humanos, a Escritura tem toda a importância da autoridade de Deus. A Bíblia, do começo ao fim e em suas próprias palavras, é a inerrante Palavra de Deus."
+        },
+        {
+          "titulo": "",
+          "texto": "O grande teólogo reformado americano B. B. Warfield, que ensinou no Princeton Theological Seminary de 1887 a 1921, demonstrou que a palavra grega traduzida como “inspirada” (theopneustos) refere-se a toda a Escritura, e não somente a porções dela. Em outras palavras, a inteireza do cânon da Escritura — até mesmo as próprias palavras individuais — foi dada por Deus e, portanto, é totalmente verdadeira. A Bíblia não afirma nenhum erro, sendo também a única fonte infalível de doutrina cristã."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0048",
+      "referencia": "4.1-5",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "4.1-5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.1-5 Paulo leva a condusao o apelo a Timoteo ini-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo leva à conclusão o apelo a Timóteo iniciado em 1.6.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo leva à conclusão o apelo a Timóteo iniciado em 1.6."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo leva à conclusão o apelo a Timóteo iniciado em 1.6."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0049",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.1 perante Deus. Paulo mencionatestemunhas",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "perante Deus. Paulo menciona testemunhas para imprimir em Timóteo a suprema seriedade do encargo, assim como, em outras passagens, ele invoca a Deus como testemunha para enfatizar a veracidade de suas afirmações (Rm 1.9; 9.1; 2Co 1.23; Fp 1.8; 1Ts 2.5).\n\nCristo Jesus, que há de julgar. Quanto a Cristo como juiz de todos, ver v. 8; Mateus 25.31-46; João 5.22, 27; Atos 10.42.\n\nsua manifestação. A segunda vinda de Cristo (cf. v. 8; 1Tm 6.14; Tt 2.13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "perante Deus. Paulo menciona testemunhas para imprimir em Timóteo a suprema seriedade do encargo, assim como, em outras passagens, ele invoca a Deus como testemunha para enfatizar a veracidade de suas afirmações (Rm 1.9; 9.1; 2Co 1.23; Fp 1.8; 1Ts 2.5).",
+        "Cristo Jesus, que há de julgar. Quanto a Cristo como juiz de todos, ver v. 8; Mateus 25.31-46; João 5.22, 27; Atos 10.42.",
+        "sua manifestação. A segunda vinda de Cristo (cf. v. 8; 1Tm 6.14; Tt 2.13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "perante Deus.",
+          "texto": "Paulo menciona testemunhas para imprimir em Timóteo a suprema seriedade do encargo, assim como, em outras passagens, ele invoca a Deus como testemunha para enfatizar a veracidade de suas afirmações (Rm 1.9; 9.1; 2Co 1.23; Fp 1.8; 1Ts 2.5)."
+        },
+        {
+          "titulo": "Cristo Jesus, que há de julgar.",
+          "texto": "Quanto a Cristo como juiz de todos, ver v. 8; Mateus 25.31-46; João 5.22, 27; Atos 10.42."
+        },
+        {
+          "titulo": "sua manifestação.",
+          "texto": "A segunda vinda de Cristo (cf. v. 8; 1Tm 6.14; Tt 2.13)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0050",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.2 a palavra. Toda a Palavra de Deus, com enfase",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a palavra. Toda a Palavra de Deus, com ênfase no evangelho (cf. 2.15).\n\nquer seja oportuno, quer não. Em cada situação, boa ou má, a Palavra de Deus deve ser proclamada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a palavra. Toda a Palavra de Deus, com ênfase no evangelho (cf. 2.15).",
+        "quer seja oportuno, quer não. Em cada situação, boa ou má, a Palavra de Deus deve ser proclamada."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a palavra.",
+          "texto": "Toda a Palavra de Deus, com ênfase no evangelho (cf. 2.15)."
+        },
+        {
+          "titulo": "quer seja oportuno, quer não.",
+          "texto": "Em cada situação, boa ou má, a Palavra de Deus deve ser proclamada."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0051",
+      "referencia": "4.3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4.3",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.3 sa doutrina. Ver nota em 1.13.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "sã doutrina. Ver nota em 1.13.\n\ncercar-se-ão. Provavelmente uma referência a alguns associados à igreja.\n\ncoceira nos ouvidos. Algumas pessoas têm fascínio incessante por tudo, exceto pela verdade. Elas procuram e atraem os falsos mestres para si mesmas.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sã doutrina. Ver nota em 1.13.",
+        "cercar-se-ão. Provavelmente uma referência a alguns associados à igreja.",
+        "coceira nos ouvidos. Algumas pessoas têm fascínio incessante por tudo, exceto pela verdade. Elas procuram e atraem os falsos mestres para si mesmas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sã doutrina.",
+          "texto": "Ver nota em 1.13."
+        },
+        {
+          "titulo": "cercar-se-ão.",
+          "texto": "Provavelmente uma referência a alguns associados à igreja."
+        },
+        {
+          "titulo": "coceira nos ouvidos.",
+          "texto": "Algumas pessoas têm fascínio incessante por tudo, exceto pela verdade. Elas procuram e atraem os falsos mestres para si mesmas."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0052",
+      "referencia": "4.4",
+      "capitulo": 4,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "4.4",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.4 fabulas. Ver nota em 1 Timoteo 1.4",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "fábulas. Ver nota em 1 Timóteo 1.4.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "fábulas. Ver nota em 1 Timóteo 1.4."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fábulas.",
+          "texto": "Ver nota em 1 Timóteo 1.4."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0053",
+      "referencia": "4.5",
+      "capitulo": 4,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "4.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.5 Fxortagao final a fidelidade, mesmo que outros",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Exortação final à fidelidade, mesmo que outros estejam retrocedendo.\n\no trabalho de um evangelista. Alguém que anuncia as boas-novas (o evangelho) especialmente para os ainda não convertidos. Em Efésios 4.11, os evangelistas estão listados ao lado dos apóstolos, profetas, pastores e mestres como aqueles que apresentam a Palavra de Deus. Filipe, que, inicialmente, foi ordenado para cuidar das necessidades materiais das viúvas, depois foi enviado para proclamar o evangelho aos samaritanos, a um etíope e às cidades do litoral, por isso, ele também é chamado evangelista (At 21.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Exortação final à fidelidade, mesmo que outros estejam retrocedendo.",
+        "o trabalho de um evangelista. Alguém que anuncia as boas-novas (o evangelho) especialmente para os ainda não convertidos. Em Efésios 4.11, os evangelistas estão listados ao lado dos apóstolos, profetas, pastores e mestres como aqueles que apresentam a Palavra de Deus. Filipe, que, inicialmente, foi ordenado para cuidar das necessidades materiais das viúvas, depois foi enviado para proclamar o evangelho aos samaritanos, a um etíope e às cidades do litoral, por isso, ele também é chamado evangelista (At 21.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Exortação final à fidelidade, mesmo que outros estejam retrocedendo."
+        },
+        {
+          "titulo": "o trabalho de um evangelista.",
+          "texto": "Alguém que anuncia as boas-novas (o evangelho) especialmente para os ainda não convertidos. Em Efésios 4.11, os evangelistas estão listados ao lado dos apóstolos, profetas, pastores e mestres como aqueles que apresentam a Palavra de Deus. Filipe, que, inicialmente, foi ordenado para cuidar das necessidades materiais das viúvas, depois foi enviado para proclamar o evangelho aos samaritanos, a um etíope e às cidades do litoral, por isso, ele também é chamado evangelista (At 21.8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0054",
+      "referencia": "4.6-8",
+      "capitulo": 4,
+      "versiculos": [
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "4.6-8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.6-8 A morte iminente de Paulo prove a ra/ao para",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "A morte iminente de Paulo provê a razão para seu extenso apelo a Timóteo (Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A morte iminente de Paulo provê a razão para seu extenso apelo a Timóteo (Introdução: Data e Circunstâncias)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A morte iminente de Paulo provê a razão para seu extenso apelo a Timóteo (Introdução: Data e Circunstâncias)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0055",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.6 ja. Paulo aceita a inevitabilidade de sua mor-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "já. Paulo aceita a inevitabilidade de sua morte, ainda que venha a acontecer somente meses depois. Seu sentimento de conclusão da obra, em seu segundo aprisionamento, difere notavelmente de sua expectativa de libertação para ir adiante com seu ministério quando escreveu Filipenses (Fp 1.24-26; 2.24).\n\noferecido por libação. Essa metáfora da morte (cf. 2.17) é extraída da linguagem do sistema de sacrifícios do Antigo Testamento. Uma libação de vinho era derramada no santuário como oferta a Deus (Nm 15.5, 7, 10; 28.7). Paulo entende sua morte iminente como uma oferta para Cristo.\n\nminha partida. Outra metáfora para representar a morte (Fp 1.23). Paulo se apegou firmemente à esperança e à certeza de um destino além do sepulcro (v. 18; cf. Fp 2.21-23).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "já. Paulo aceita a inevitabilidade de sua morte, ainda que venha a acontecer somente meses depois. Seu sentimento de conclusão da obra, em seu segundo aprisionamento, difere notavelmente de sua expectativa de libertação para ir adiante com seu ministério quando escreveu Filipenses (Fp 1.24-26; 2.24).",
+        "oferecido por libação. Essa metáfora da morte (cf. 2.17) é extraída da linguagem do sistema de sacrifícios do Antigo Testamento. Uma libação de vinho era derramada no santuário como oferta a Deus (Nm 15.5, 7, 10; 28.7). Paulo entende sua morte iminente como uma oferta para Cristo.",
+        "minha partida. Outra metáfora para representar a morte (Fp 1.23). Paulo se apegou firmemente à esperança e à certeza de um destino além do sepulcro (v. 18; cf. Fp 2.21-23)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "já.",
+          "texto": "Paulo aceita a inevitabilidade de sua morte, ainda que venha a acontecer somente meses depois. Seu sentimento de conclusão da obra, em seu segundo aprisionamento, difere notavelmente de sua expectativa de libertação para ir adiante com seu ministério quando escreveu Filipenses (Fp 1.24-26; 2.24)."
+        },
+        {
+          "titulo": "oferecido por libação.",
+          "texto": "Essa metáfora da morte (cf. 2.17) é extraída da linguagem do sistema de sacrifícios do Antigo Testamento. Uma libação de vinho era derramada no santuário como oferta a Deus (Nm 15.5, 7, 10; 28.7). Paulo entende sua morte iminente como uma oferta para Cristo."
+        },
+        {
+          "titulo": "minha partida.",
+          "texto": "Outra metáfora para representar a morte (Fp 1.23). Paulo se apegou firmemente à esperança e à certeza de um destino além do sepulcro (v. 18; cf. Fp 2.21-23)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0056",
+      "referencia": "4.7",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "4.7",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.7 Com essas tres metaforas, Paulo quer simbo -",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Com essas três metáforas, Paulo quer simbolizar o fim de seu ministério. Sua preocupação não é que tivesse sido um sucesso, mas, em vez disso, que tivesse sido fiel ao seu Senhor. Com metáforas semelhantes, Paulo havia exortado Timóteo a ser fiel (1Tm 6.12; 2Tm 2.4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Com essas três metáforas, Paulo quer simbolizar o fim de seu ministério. Sua preocupação não é que tivesse sido um sucesso, mas, em vez disso, que tivesse sido fiel ao seu Senhor. Com metáforas semelhantes, Paulo havia exortado Timóteo a ser fiel (1Tm 6.12; 2Tm 2.4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Com essas três metáforas, Paulo quer simbolizar o fim de seu ministério. Sua preocupação não é que tivesse sido um sucesso, mas, em vez disso, que tivesse sido fiel ao seu Senhor. Com metáforas semelhantes, Paulo havia exortado Timóteo a ser fiel (1Tm 6.12; 2Tm 2.4)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0057",
+      "referencia": "4.8",
+      "capitulo": 4,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "4.8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.8 a coroa da justiga. Talvez a coroa dada",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a coroa da justiça. Talvez a coroa dada pela vida fiel daquele que recebeu a justiça de Cristo pela fé (Rm 3.22). Mais provavelmente, essa é a coroa que consiste da justiça perfeita — a vida eterna que é dada ao crente no clímax do processo de santificação (2.10; Tg 1.12; 1Pe 5.4; Ap 2.10).\n\nreto juiz. Cristo em seu papel como o Juiz divino que leva à consumação a obra que começou com seus eleitos.\n\nnaquele Dia. O dia de julgamento (1.12, 18).\n\nsua vinda. A segunda vinda de Cristo (v. 1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a coroa da justiça. Talvez a coroa dada pela vida fiel daquele que recebeu a justiça de Cristo pela fé (Rm 3.22). Mais provavelmente, essa é a coroa que consiste da justiça perfeita — a vida eterna que é dada ao crente no clímax do processo de santificação (2.10; Tg 1.12; 1Pe 5.4; Ap 2.10).",
+        "reto juiz. Cristo em seu papel como o Juiz divino que leva à consumação a obra que começou com seus eleitos.",
+        "naquele Dia. O dia de julgamento (1.12, 18).",
+        "sua vinda. A segunda vinda de Cristo (v. 1)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a coroa da justiça.",
+          "texto": "Talvez a coroa dada pela vida fiel daquele que recebeu a justiça de Cristo pela fé (Rm 3.22). Mais provavelmente, essa é a coroa que consiste da justiça perfeita — a vida eterna que é dada ao crente no clímax do processo de santificação (2.10; Tg 1.12; 1Pe 5.4; Ap 2.10)."
+        },
+        {
+          "titulo": "reto juiz.",
+          "texto": "Cristo em seu papel como o Juiz divino que leva à consumação a obra que começou com seus eleitos."
+        },
+        {
+          "titulo": "naquele Dia.",
+          "texto": "O dia de julgamento (1.12, 18)."
+        },
+        {
+          "titulo": "sua vinda.",
+          "texto": "A segunda vinda de Cristo (v. 1)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0058",
+      "referencia": "4.9-18",
+      "capitulo": 4,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "4.9-18",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.9-18 Agora. Paulo se volta a principal razao para",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Agora, Paulo se volta à principal razão para escrever a carta: ele quer ver Timóteo pela última vez. Paulo dá a Timóteo várias instruções concernentes à sua viagem para Roma, informando-o de sua situação atual e concluindo com uma profunda expressão de confiança em seu Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Agora, Paulo se volta à principal razão para escrever a carta: ele quer ver Timóteo pela última vez. Paulo dá a Timóteo várias instruções concernentes à sua viagem para Roma, informando-o de sua situação atual e concluindo com uma profunda expressão de confiança em seu Senhor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Agora, Paulo se volta à principal razão para escrever a carta: ele quer ver Timóteo pela última vez. Paulo dá a Timóteo várias instruções concernentes à sua viagem para Roma, informando-o de sua situação atual e concluindo com uma profunda expressão de confiança em seu Senhor."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0059",
+      "referencia": "4.9",
+      "capitulo": 4,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "4.9",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.9 Procura vir ter comigo. Em 14, Paulo ja",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Procura vir ter comigo. Em 1.4, Paulo já insinuara seu desejo de ver Timóteo.\n\nDepressa. Ver nota em v. 21.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 4,
+          "versiculo": 21
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Procura vir ter comigo. Em 1.4, Paulo já insinuara seu desejo de ver Timóteo.",
+        "Depressa. Ver nota em v. 21."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Procura vir ter comigo.",
+          "texto": "Em 1.4, Paulo já insinuara seu desejo de ver Timóteo."
+        },
+        {
+          "titulo": "Depressa.",
+          "texto": "Ver nota em v. 21."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0060",
+      "referencia": "4.10",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "4.10",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.10 Demas. Um cooperador que esteve com",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Demas. Um cooperador que esteve com Paulo durante sua primeira prisão em Roma (Cl 4.14; Fm 24).\n\nTessalônica. Uma cidade na província romana da Macedônia, onde Paulo estabeleceu uma igreja em sua segunda viagem missionária (At 17.1-10).\n\nCrescente. Não mencionado em nenhuma outra parte do Novo Testamento. Parece que era outro colaborador de Paulo.\n\nGalácia. Ou a província romana que Paulo visitou em sua primeira viagem missionária (3.11, nota), ou uma região na Ásia Menor que Paulo visitou em sua segunda viagem missionária (At 16.6).\n\nTito. Outro cooperador de Paulo. Ver Introdução a Tito: Data e Circunstâncias.\n\nDalmácia. Outro nome para a província romana de Ilírico, a província mais ocidental alcançada por Paulo em suas três primeiras viagens missionárias (Rm 15.19).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Demas. Um cooperador que esteve com Paulo durante sua primeira prisão em Roma (Cl 4.14; Fm 24).",
+        "Tessalônica. Uma cidade na província romana da Macedônia, onde Paulo estabeleceu uma igreja em sua segunda viagem missionária (At 17.1-10).",
+        "Crescente. Não mencionado em nenhuma outra parte do Novo Testamento. Parece que era outro colaborador de Paulo.",
+        "Galácia. Ou a província romana que Paulo visitou em sua primeira viagem missionária (3.11, nota), ou uma região na Ásia Menor que Paulo visitou em sua segunda viagem missionária (At 16.6).",
+        "Tito. Outro cooperador de Paulo. Ver Introdução a Tito: Data e Circunstâncias.",
+        "Dalmácia. Outro nome para a província romana de Ilírico, a província mais ocidental alcançada por Paulo em suas três primeiras viagens missionárias (Rm 15.19)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Demas.",
+          "texto": "Um cooperador que esteve com Paulo durante sua primeira prisão em Roma (Cl 4.14; Fm 24)."
+        },
+        {
+          "titulo": "Tessalônica.",
+          "texto": "Uma cidade na província romana da Macedônia, onde Paulo estabeleceu uma igreja em sua segunda viagem missionária (At 17.1-10)."
+        },
+        {
+          "titulo": "Crescente.",
+          "texto": "Não mencionado em nenhuma outra parte do Novo Testamento. Parece que era outro colaborador de Paulo."
+        },
+        {
+          "titulo": "Galácia.",
+          "texto": "Ou a província romana que Paulo visitou em sua primeira viagem missionária (3.11, nota), ou uma região na Ásia Menor que Paulo visitou em sua segunda viagem missionária (At 16.6)."
+        },
+        {
+          "titulo": "Tito.",
+          "texto": "Outro cooperador de Paulo. Ver Introdução a Tito: Data e Circunstâncias."
+        },
+        {
+          "titulo": "Dalmácia.",
+          "texto": "Outro nome para a província romana de Ilírico, a província mais ocidental alcançada por Paulo em suas três primeiras viagens missionárias (Rm 15.19)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0061",
+      "referencia": "4.11",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.11 Lucas. 0 \"medico amado\", mencionado em",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Lucas. O “médico amado”, mencionado em Colossenses 4.14, que viajou com Paulo por boa parte de suas segunda e terceira viagens missionárias (Introdução a Lucas: Autor).\n\nToma contigo Marcos e traze-o. Um lindo exemplo de perdão e restauração cristã. A deserção de João Marcos em relação a Paulo e Barnabé, durante a primeira viagem missionária deles (At 13.13), causara o rompimento da parceria entre Paulo e Barnabé (At 17.37-39). Posteriormente, Marcos reconquistou o favor de Paulo (Cl 4.10; Fm 24). Agora, no fim de sua vida, Paulo quer vê-lo, “pois me é útil para o ministério”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "referencia_impressa_inexistente_At_17.37-39_preservada"
+      ],
+      "paragrafos": [
+        "Lucas. O “médico amado”, mencionado em Colossenses 4.14, que viajou com Paulo por boa parte de suas segunda e terceira viagens missionárias (Introdução a Lucas: Autor).",
+        "Toma contigo Marcos e traze-o. Um lindo exemplo de perdão e restauração cristã. A deserção de João Marcos em relação a Paulo e Barnabé, durante a primeira viagem missionária deles (At 13.13), causara o rompimento da parceria entre Paulo e Barnabé (At 17.37-39). Posteriormente, Marcos reconquistou o favor de Paulo (Cl 4.10; Fm 24). Agora, no fim de sua vida, Paulo quer vê-lo, “pois me é útil para o ministério”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Lucas.",
+          "texto": "O “médico amado”, mencionado em Colossenses 4.14, que viajou com Paulo por boa parte de suas segunda e terceira viagens missionárias (Introdução a Lucas: Autor)."
+        },
+        {
+          "titulo": "Toma contigo Marcos e traze-o.",
+          "texto": "Um lindo exemplo de perdão e restauração cristã. A deserção de João Marcos em relação a Paulo e Barnabé, durante a primeira viagem missionária deles (At 13.13), causara o rompimento da parceria entre Paulo e Barnabé (At 17.37-39). Posteriormente, Marcos reconquistou o favor de Paulo (Cl 4.10; Fm 24). Agora, no fim de sua vida, Paulo quer vê-lo, “pois me é útil para o ministério”."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0062",
+      "referencia": "4.12",
+      "capitulo": 4,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "4.12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2174,
+        "rotulo_original_ocr": "4.12 Tiquico. 0 cooperador de Paulo, mencionado",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Tíquico. O cooperador de Paulo, mencionado em Atos 20.4 e Tito 3.12, que levou as epístolas de Paulo às igrejas em Éfeso e Colossos, durante o primeiro aprisionamento de Paulo em Roma (Ef 6.21; Cl 4.7).\n\naté Éfeso. Tíquico deveria levar essa carta a Timóteo e servir como seu substituto.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tíquico. O cooperador de Paulo, mencionado em Atos 20.4 e Tito 3.12, que levou as epístolas de Paulo às igrejas em Éfeso e Colossos, durante o primeiro aprisionamento de Paulo em Roma (Ef 6.21; Cl 4.7).",
+        "até Éfeso. Tíquico deveria levar essa carta a Timóteo e servir como seu substituto."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tíquico.",
+          "texto": "O cooperador de Paulo, mencionado em Atos 20.4 e Tito 3.12, que levou as epístolas de Paulo às igrejas em Éfeso e Colossos, durante o primeiro aprisionamento de Paulo em Roma (Ef 6.21; Cl 4.7)."
+        },
+        {
+          "titulo": "até Éfeso.",
+          "texto": "Tíquico deveria levar essa carta a Timóteo e servir como seu substituto."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0063",
+      "referencia": "4.13",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "4.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.13 capa. Uma densa veste de la usada para pro-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "capa. Uma densa veste de lã usada para proteção contra frio e umidade. Paulo está antecipando a chegada do inverno (v. 21).\n\nTrôade. Um porto que ligava a província romana da Ásia à Macedônia, através do mar Egeu (At 16.7, nota). Paulo viajara por Trôade em suas segunda e terceira viagens missionárias (At 16.8, 11; 20.5, 6). Não é claro quando Paulo esteve em Trôade nessa sua quarta e última viagem. Esse pode ter sido o lugar em que Paulo foi preso e de onde foi transportado para Roma.\n\nCarpo. Não mencionado em nenhuma outra passagem do Novo Testamento.\n\nlivros. Provavelmente material para escrever às igrejas e/ou cópias de escritos de Paulo que ele já tinha enviado a seus cooperadores e às igrejas sob seus cuidados.\n\npergaminhos. O pergaminho era um material de escrita feito de peles de animais, especialmente ovelhas e bodes. É muito mais durável do que o papiro. Talvez Paulo estivesse solicitando partes do Antigo Testamento.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "At",
+          "capitulo": 16,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "capa. Uma densa veste de lã usada para proteção contra frio e umidade. Paulo está antecipando a chegada do inverno (v. 21).",
+        "Trôade. Um porto que ligava a província romana da Ásia à Macedônia, através do mar Egeu (At 16.7, nota). Paulo viajara por Trôade em suas segunda e terceira viagens missionárias (At 16.8, 11; 20.5, 6). Não é claro quando Paulo esteve em Trôade nessa sua quarta e última viagem. Esse pode ter sido o lugar em que Paulo foi preso e de onde foi transportado para Roma.",
+        "Carpo. Não mencionado em nenhuma outra passagem do Novo Testamento.",
+        "livros. Provavelmente material para escrever às igrejas e/ou cópias de escritos de Paulo que ele já tinha enviado a seus cooperadores e às igrejas sob seus cuidados.",
+        "pergaminhos. O pergaminho era um material de escrita feito de peles de animais, especialmente ovelhas e bodes. É muito mais durável do que o papiro. Talvez Paulo estivesse solicitando partes do Antigo Testamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "capa.",
+          "texto": "Uma densa veste de lã usada para proteção contra frio e umidade. Paulo está antecipando a chegada do inverno (v. 21)."
+        },
+        {
+          "titulo": "Trôade.",
+          "texto": "Um porto que ligava a província romana da Ásia à Macedônia, através do mar Egeu (At 16.7, nota). Paulo viajara por Trôade em suas segunda e terceira viagens missionárias (At 16.8, 11; 20.5, 6). Não é claro quando Paulo esteve em Trôade nessa sua quarta e última viagem. Esse pode ter sido o lugar em que Paulo foi preso e de onde foi transportado para Roma."
+        },
+        {
+          "titulo": "Carpo.",
+          "texto": "Não mencionado em nenhuma outra passagem do Novo Testamento."
+        },
+        {
+          "titulo": "livros.",
+          "texto": "Provavelmente material para escrever às igrejas e/ou cópias de escritos de Paulo que ele já tinha enviado a seus cooperadores e às igrejas sob seus cuidados."
+        },
+        {
+          "titulo": "pergaminhos.",
+          "texto": "O pergaminho era um material de escrita feito de peles de animais, especialmente ovelhas e bodes. É muito mais durável do que o papiro. Talvez Paulo estivesse solicitando partes do Antigo Testamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0064",
+      "referencia": "4.14",
+      "capitulo": 4,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "4.14",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.14 Alexandre, o latoeiro. Ver nota em 1 Ti-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Alexandre, o latoeiro. Ver nota em 1 Timóteo 1.20.\n\ncausou-me muitos males. Esse incidente não é mencionado em nenhuma outra passagem do Novo Testamento.\n\no Senhor lhe dará a paga segundo as suas obras. Ou seja, no dia do julgamento final (Mt 16.27; Rm 2.6; Ap 22.12).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Alexandre, o latoeiro. Ver nota em 1 Timóteo 1.20.",
+        "causou-me muitos males. Esse incidente não é mencionado em nenhuma outra passagem do Novo Testamento.",
+        "o Senhor lhe dará a paga segundo as suas obras. Ou seja, no dia do julgamento final (Mt 16.27; Rm 2.6; Ap 22.12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Alexandre, o latoeiro.",
+          "texto": "Ver nota em 1 Timóteo 1.20."
+        },
+        {
+          "titulo": "causou-me muitos males.",
+          "texto": "Esse incidente não é mencionado em nenhuma outra passagem do Novo Testamento."
+        },
+        {
+          "titulo": "o Senhor lhe dará a paga segundo as suas obras.",
+          "texto": "Ou seja, no dia do julgamento final (Mt 16.27; Rm 2.6; Ap 22.12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0065",
+      "referencia": "4.16",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "4.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.16 primeira defesa. Uma audiencia preliminar",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "primeira defesa. Uma audiência preliminar antes do julgamento concreto, que Paulo aguardava (Introdução: Data e Circunstâncias).\n\nQue isto não lhes seja posto em conta. Uma expressão de perdão em face da morte que lembra Cristo (Lc 23.34) e Estêvão (At 7.60), cuja morte Paulo testemunhou e aprovou em seus anos de incredulidade (At 7.58; 8.1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "primeira defesa. Uma audiência preliminar antes do julgamento concreto, que Paulo aguardava (Introdução: Data e Circunstâncias).",
+        "Que isto não lhes seja posto em conta. Uma expressão de perdão em face da morte que lembra Cristo (Lc 23.34) e Estêvão (At 7.60), cuja morte Paulo testemunhou e aprovou em seus anos de incredulidade (At 7.58; 8.1)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "primeira defesa.",
+          "texto": "Uma audiência preliminar antes do julgamento concreto, que Paulo aguardava (Introdução: Data e Circunstâncias)."
+        },
+        {
+          "titulo": "Que isto não lhes seja posto em conta.",
+          "texto": "Uma expressão de perdão em face da morte que lembra Cristo (Lc 23.34) e Estêvão (At 7.60), cuja morte Paulo testemunhou e aprovou em seus anos de incredulidade (At 7.58; 8.1)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0066",
+      "referencia": "4.17",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.17",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.17 Mas o Senhor me assistiu. Ha muito tem-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Mas o Senhor me assistiu. Há muito tempo, Paulo aprendera que sempre poderia depender daquele que o comissionara (2Co 12.9; Fp 4.11, 13).\n\na pregação fosse plenamente cumprida. Refere-se, provavelmente, à proclamação do evangelho feita por Paulo em sua audiência preliminar.\n\ne todos os gentios a ouvissem. Paulo tinha pregado num fórum público, no centro do Império Romano.\n\nlibertado da boca do leão. Metáfora referente a escapar por pouco da morte, talvez aludindo ao livramento de Daniel dos leões verdadeiros (Dn 6). A primeira audiência de Paulo resultou em adiamento temporário. Ver nota em 1 Coríntios 15.32.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Co",
+          "capitulo": 15,
+          "versiculo": 32
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Mas o Senhor me assistiu. Há muito tempo, Paulo aprendera que sempre poderia depender daquele que o comissionara (2Co 12.9; Fp 4.11, 13).",
+        "a pregação fosse plenamente cumprida. Refere-se, provavelmente, à proclamação do evangelho feita por Paulo em sua audiência preliminar.",
+        "e todos os gentios a ouvissem. Paulo tinha pregado num fórum público, no centro do Império Romano.",
+        "libertado da boca do leão. Metáfora referente a escapar por pouco da morte, talvez aludindo ao livramento de Daniel dos leões verdadeiros (Dn 6). A primeira audiência de Paulo resultou em adiamento temporário. Ver nota em 1 Coríntios 15.32."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Mas o Senhor me assistiu.",
+          "texto": "Há muito tempo, Paulo aprendera que sempre poderia depender daquele que o comissionara (2Co 12.9; Fp 4.11, 13)."
+        },
+        {
+          "titulo": "a pregação fosse plenamente cumprida.",
+          "texto": "Refere-se, provavelmente, à proclamação do evangelho feita por Paulo em sua audiência preliminar."
+        },
+        {
+          "titulo": "e todos os gentios a ouvissem.",
+          "texto": "Paulo tinha pregado num fórum público, no centro do Império Romano."
+        },
+        {
+          "titulo": "libertado da boca do leão.",
+          "texto": "Metáfora referente a escapar por pouco da morte, talvez aludindo ao livramento de Daniel dos leões verdadeiros (Dn 6). A primeira audiência de Paulo resultou em adiamento temporário. Ver nota em 1 Coríntios 15.32."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0067",
+      "referencia": "4.18",
+      "capitulo": 4,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "4.18",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.18 me livrara tambem de toda obra ma-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "me livrará também de toda obra maligna. Paulo não crê que Cristo o impedirá de sua morte física (v. 6), mas está expressando sua plena confiança em Cristo (2.13) como aquele que tenciona vencer o mal para sua glória e para o bem de seus servos.\n\nme levará salvo para o seu reino celestial. Essa é a esperança final de todos que creem em Cristo. A morte, em vez de privar Paulo do reino de Cristo, é o próprio meio de sua entrada na plenitude das bênçãos do reino espiritual de Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "me livrará também de toda obra maligna. Paulo não crê que Cristo o impedirá de sua morte física (v. 6), mas está expressando sua plena confiança em Cristo (2.13) como aquele que tenciona vencer o mal para sua glória e para o bem de seus servos.",
+        "me levará salvo para o seu reino celestial. Essa é a esperança final de todos que creem em Cristo. A morte, em vez de privar Paulo do reino de Cristo, é o próprio meio de sua entrada na plenitude das bênçãos do reino espiritual de Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "me livrará também de toda obra maligna.",
+          "texto": "Paulo não crê que Cristo o impedirá de sua morte física (v. 6), mas está expressando sua plena confiança em Cristo (2.13) como aquele que tenciona vencer o mal para sua glória e para o bem de seus servos."
+        },
+        {
+          "titulo": "me levará salvo para o seu reino celestial.",
+          "texto": "Essa é a esperança final de todos que creem em Cristo. A morte, em vez de privar Paulo do reino de Cristo, é o próprio meio de sua entrada na plenitude das bênçãos do reino espiritual de Cristo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0068",
+      "referencia": "4.19-21",
+      "capitulo": 4,
+      "versiculos": [
+        19,
+        20,
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "4.19-21",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.19-21 De acordo com seu costume, Paulo termina",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "De acordo com seu costume, Paulo termina a carta com saudações pessoais e uma bênção.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "De acordo com seu costume, Paulo termina a carta com saudações pessoais e uma bênção."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "De acordo com seu costume, Paulo termina a carta com saudações pessoais e uma bênção."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0077",
+      "referencia": "4.19",
+      "capitulo": 4,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "4.19",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Subtítulo impresso sem rótulo numérico próprio, separado editorialmente conforme a expressão no texto bíblico.",
+        "id_anterior": "fr-2tm-0068"
+      },
+      "texto": "Prisca e Áquila. “Prisca” é uma forma abreviada de “Priscila”, como vemos escrito em Atos e em outras cartas de Paulo. Ela e seu marido, Áquila, eram amigos de Paulo desde o tempo de sua primeira visita a Corinto, em sua segunda viagem missionária. Eles eram judeus e, como Paulo, fazedores de tendas (At 18.2, 3). Haviam chegado a Corinto procedentes de Roma. Posteriormente, eles acompanharam Paulo até Éfeso (At 18.18-19) e hospedaram uma igreja em sua casa por vários anos, antes de voltarem para Roma (Rm 16.3, 4; 1Co 16.19). Parece que agora haviam retornado a Éfeso, onde Timóteo estava (1Tm 1.3).\n\na casa de Onesíforo. Ver nota em 1.16. Essa saudação indica que Timóteo ainda estava em Éfeso (1.18).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Tm",
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Prisca e Áquila. “Prisca” é uma forma abreviada de “Priscila”, como vemos escrito em Atos e em outras cartas de Paulo. Ela e seu marido, Áquila, eram amigos de Paulo desde o tempo de sua primeira visita a Corinto, em sua segunda viagem missionária. Eles eram judeus e, como Paulo, fazedores de tendas (At 18.2, 3). Haviam chegado a Corinto procedentes de Roma. Posteriormente, eles acompanharam Paulo até Éfeso (At 18.18-19) e hospedaram uma igreja em sua casa por vários anos, antes de voltarem para Roma (Rm 16.3, 4; 1Co 16.19). Parece que agora haviam retornado a Éfeso, onde Timóteo estava (1Tm 1.3).",
+        "a casa de Onesíforo. Ver nota em 1.16. Essa saudação indica que Timóteo ainda estava em Éfeso (1.18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Prisca e Áquila.",
+          "texto": "“Prisca” é uma forma abreviada de “Priscila”, como vemos escrito em Atos e em outras cartas de Paulo. Ela e seu marido, Áquila, eram amigos de Paulo desde o tempo de sua primeira visita a Corinto, em sua segunda viagem missionária. Eles eram judeus e, como Paulo, fazedores de tendas (At 18.2, 3). Haviam chegado a Corinto procedentes de Roma. Posteriormente, eles acompanharam Paulo até Éfeso (At 18.18-19) e hospedaram uma igreja em sua casa por vários anos, antes de voltarem para Roma (Rm 16.3, 4; 1Co 16.19). Parece que agora haviam retornado a Éfeso, onde Timóteo estava (1Tm 1.3)."
+        },
+        {
+          "titulo": "a casa de Onesíforo.",
+          "texto": "Ver nota em 1.16. Essa saudação indica que Timóteo ainda estava em Éfeso (1.18)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0069",
+      "referencia": "4.20",
+      "capitulo": 4,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "4.20",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.20 Erasto. Provavelmente o mesmo tesoureiro",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Erasto. Provavelmente o mesmo tesoureiro de Corinto mencionado em Romanos 16.23.\n\nCorinto. A capital da província romana de Acaia. Foi visitada por Paulo em suas segunda e terceira viagens missionárias. Corinto estava a oitenta quilômetros a oeste de Atenas.\n\nTrófimo. Um membro da igreja em Éfeso que acompanhou Paulo a Jerusalém no final de sua terceira viagem missionária (At 20.4; 21.29).\n\nMileto. Um porto ao sul de Éfeso, que Paulo visitou no final de sua terceira viagem missionária (At 20.15, 17). Não está claro quando Paulo visitou Mileto em sua quarta e última viagem.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Erasto. Provavelmente o mesmo tesoureiro de Corinto mencionado em Romanos 16.23.",
+        "Corinto. A capital da província romana de Acaia. Foi visitada por Paulo em suas segunda e terceira viagens missionárias. Corinto estava a oitenta quilômetros a oeste de Atenas.",
+        "Trófimo. Um membro da igreja em Éfeso que acompanhou Paulo a Jerusalém no final de sua terceira viagem missionária (At 20.4; 21.29).",
+        "Mileto. Um porto ao sul de Éfeso, que Paulo visitou no final de sua terceira viagem missionária (At 20.15, 17). Não está claro quando Paulo visitou Mileto em sua quarta e última viagem."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Erasto.",
+          "texto": "Provavelmente o mesmo tesoureiro de Corinto mencionado em Romanos 16.23."
+        },
+        {
+          "titulo": "Corinto.",
+          "texto": "A capital da província romana de Acaia. Foi visitada por Paulo em suas segunda e terceira viagens missionárias. Corinto estava a oitenta quilômetros a oeste de Atenas."
+        },
+        {
+          "titulo": "Trófimo.",
+          "texto": "Um membro da igreja em Éfeso que acompanhou Paulo a Jerusalém no final de sua terceira viagem missionária (At 20.4; 21.29)."
+        },
+        {
+          "titulo": "Mileto.",
+          "texto": "Um porto ao sul de Éfeso, que Paulo visitou no final de sua terceira viagem missionária (At 20.15, 17). Não está claro quando Paulo visitou Mileto em sua quarta e última viagem."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0070",
+      "referencia": "4.21",
+      "capitulo": 4,
+      "versiculos": [
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "4.21",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.21 antes do inverno. 0 dima de inverno impe-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "antes do inverno. O clima de inverno impedia uma viagem de navio (ver At 27.9-12; 28.11). Paulo talvez tenha sentido que, se Timóteo esperasse demais, não chegaria antes da sua execução (v. 9). Em qualquer caso, ele precisava de sua capa para o inverno.\n\nÊubulo... Prudente, Lino, Cláudia. Esses eram cristãos de Roma, embora nenhum deles seja mencionado em outras partes do Novo Testamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "antes do inverno. O clima de inverno impedia uma viagem de navio (ver At 27.9-12; 28.11). Paulo talvez tenha sentido que, se Timóteo esperasse demais, não chegaria antes da sua execução (v. 9). Em qualquer caso, ele precisava de sua capa para o inverno.",
+        "Êubulo... Prudente, Lino, Cláudia. Esses eram cristãos de Roma, embora nenhum deles seja mencionado em outras partes do Novo Testamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "antes do inverno.",
+          "texto": "O clima de inverno impedia uma viagem de navio (ver At 27.9-12; 28.11). Paulo talvez tenha sentido que, se Timóteo esperasse demais, não chegaria antes da sua execução (v. 9). Em qualquer caso, ele precisava de sua capa para o inverno."
+        },
+        {
+          "titulo": "Êubulo... Prudente, Lino, Cláudia.",
+          "texto": "Esses eram cristãos de Roma, embora nenhum deles seja mencionado em outras partes do Novo Testamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2tm-0071",
+      "referencia": "4.22",
+      "capitulo": 4,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "4.22",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2175,
+        "rotulo_original_ocr": "4.22 A gra a seja convosco. Talvez Paulo ten-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "A graça seja convosco. Talvez Paulo tencionasse que a carta fosse lida para toda a igreja (1Tm 6.21, nota; Tt 3.15).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 6,
+          "versiculo": 21
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A graça seja convosco. Talvez Paulo tencionasse que a carta fosse lida para toda a igreja (1Tm 6.21, nota; Tt 3.15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "A graça seja convosco.",
+          "texto": "Talvez Paulo tencionasse que a carta fosse lida para toda a igreja (1Tm 6.21, nota; Tt 3.15)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    }
+  ],
+  "artigos": [],
+  "remissoes": [
+    {
+      "id": "2tm-rem-2-10-art",
+      "status": "resolvida_indice_global",
+      "titulo": "Salvação",
+      "citado_em": "fr-2tm-0025",
+      "origem": {
+        "pdf": "118 - 2 Timóteo (2Tm).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2171,
+        "rotulo_original_ocr": "2.10 os eleitos. Aqueles que Deus escolheu desde",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "evidencia": "Ver nota teológica “Salvação”, na p. 2058.",
+      "artigo_id": "2co-art-salvacao",
+      "livro_artigo": "2Co",
+      "arquivo_artigo": "dados/notas/fe-reformada/2Co.json",
+      "pagina_impressa_artigo": 2058,
+      "observacao": "Remissão impressa conferida; abertura direta entre livros pendente no leitor V19."
+    }
+  ]
+}

@@ -1,0 +1,3251 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "1Jo",
+  "titulo": "1 João",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "132 - 1 João (1Jo).pdf",
+    "paginas_pdf": [
+      1,
+      8
+    ],
+    "observacao": "Cotejo visual dos comentários, artigo Antinomianismo e margens das oito páginas. Ver relatórios de pendências."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-1jo-0001",
+      "referencia": "1.1-4",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.1-4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.1- 4 0 evento central da historia e o advento",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "O evento central da história é o advento da vida eterna em Jesus Cristo. João é uma das testemunhas escolhidas que viram, ouviram e apalparam o Filho de Deus, que existira desde a eternidade e cuja comunhão eterna com o Pai é agora estendida àqueles que creem somente no Filho para sua salvação. Essa extensão acontece por meio da proclamação apostólica, incluindo a própria escrita de 1 João.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O evento central da história é o advento da vida eterna em Jesus Cristo. João é uma das testemunhas escolhidas que viram, ouviram e apalparam o Filho de Deus, que existira desde a eternidade e cuja comunhão eterna com o Pai é agora estendida àqueles que creem somente no Filho para sua salvação. Essa extensão acontece por meio da proclamação apostólica, incluindo a própria escrita de 1 João."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O evento central da história é o advento da vida eterna em Jesus Cristo. João é uma das testemunhas escolhidas que viram, ouviram e apalparam o Filho de Deus, que existira desde a eternidade e cuja comunhão eterna com o Pai é agora estendida àqueles que creem somente no Filho para sua salvação. Essa extensão acontece por meio da proclamação apostólica, incluindo a própria escrita de 1 João."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0002",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.1 o principio. Esse versiculo ecoa Joao 1.1, que,",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "o princípio. Esse versículo ecoa João 1.1, que, por sua vez, ecoa Gênesis 1.1. Os dois versículos do Novo Testamento ressaltam a encarnação como um evento tão significativo quanto a criação.\n\ntemos ouvido... visto... contemplamos... apalparam. Esses verbos defendem vividamente a realidade da natureza humana de Cristo, em contrário à ideia de que o Cristo divino apenas parecia estar na carne e de que não havia assumido realmente nossa humanidade (essa é a especulação docética, a qual, depois, é explicitamente rejeitada — 2.22; 4.2, 3 — cf. Introdução: Data e Circunstâncias).\n\nVerbo da vida. O assunto da proclamação de João é Jesus, o Verbo encarnado (Jo 1.1-14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o princípio. Esse versículo ecoa João 1.1, que, por sua vez, ecoa Gênesis 1.1. Os dois versículos do Novo Testamento ressaltam a encarnação como um evento tão significativo quanto a criação.",
+        "temos ouvido... visto... contemplamos... apalparam. Esses verbos defendem vividamente a realidade da natureza humana de Cristo, em contrário à ideia de que o Cristo divino apenas parecia estar na carne e de que não havia assumido realmente nossa humanidade (essa é a especulação docética, a qual, depois, é explicitamente rejeitada — 2.22; 4.2, 3 — cf. Introdução: Data e Circunstâncias).",
+        "Verbo da vida. O assunto da proclamação de João é Jesus, o Verbo encarnado (Jo 1.1-14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o princípio.",
+          "texto": "Esse versículo ecoa João 1.1, que, por sua vez, ecoa Gênesis 1.1. Os dois versículos do Novo Testamento ressaltam a encarnação como um evento tão significativo quanto a criação."
+        },
+        {
+          "titulo": "temos ouvido... visto... contemplamos... apalparam.",
+          "texto": "Esses verbos defendem vividamente a realidade da natureza humana de Cristo, em contrário à ideia de que o Cristo divino apenas parecia estar na carne e de que não havia assumido realmente nossa humanidade (essa é a especulação docética, a qual, depois, é explicitamente rejeitada — 2.22; 4.2, 3 — cf. Introdução: Data e Circunstâncias)."
+        },
+        {
+          "titulo": "Verbo da vida.",
+          "texto": "O assunto da proclamação de João é Jesus, o Verbo encarnado (Jo 1.1-14)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0003",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.4 0 ponto principal dos vv. 1-4 e que Joao esta",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "O ponto principal dos vv. 1-4 é que João está escrevendo a fim de que “a nossa [o círculo dos apóstolos] alegria seja completa”. Ou seja, João quer ter a “alegria” de saber que os leitores terão verdadeira comunhão com ele e com seu círculo e, em última instância, com Deus e com Cristo (1.3), na autêntica mensagem do evangelho.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O ponto principal dos vv. 1-4 é que João está escrevendo a fim de que “a nossa [o círculo dos apóstolos] alegria seja completa”. Ou seja, João quer ter a “alegria” de saber que os leitores terão verdadeira comunhão com ele e com seu círculo e, em última instância, com Deus e com Cristo (1.3), na autêntica mensagem do evangelho."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O ponto principal dos vv. 1-4 é que João está escrevendo a fim de que “a nossa [o círculo dos apóstolos] alegria seja completa”. Ou seja, João quer ter a “alegria” de saber que os leitores terão verdadeira comunhão com ele e com seu círculo e, em última instância, com Deus e com Cristo (1.3), na autêntica mensagem do evangelho."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0004",
+      "referencia": "1.5-10",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.5-10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.5-10 A semelhanga do Evangelho de Joao, esta",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "À semelhança do Evangelho de João, esta epístola começa com um contraste entre luz e trevas. No evangelho, o Cristo encarnado é a luz que continua a brilhar nas trevas do mundo, o qual tenta excluí-lo. Os crentes deparam com uma escolha: ou andar “na luz”, vindo a Cristo somente com fé e abrindo seu coração para ele em confissão de pecado, ou andar “nas trevas”, negando que são pecadores. O contraste entre luz e trevas está associado, indissoluvelmente, a um contraste entre aqueles que praticam “a verdade” e concordam com Deus e aqueles que fazem de Deus “mentiroso”. O fato de que crentes pecam é uma realidade inescapável; o remédio para o pecado — confissão e purificação pelo sangue de Jesus — é o dom contínuo e irrevogável de Deus para os crentes. Porque a morte de Jesus pagou totalmente a penalidade do pecado e porque Deus demonstrou que Jesus é seu verdadeiro Filho, ressuscitando-o dos mortos, ele outorga perdão e purificação, por uma questão de fidelidade e justiça. Deus não se recusará a perdoar aqueles que creem nele, pois é fiel à promessa de perdoar seu povo, e não se recusará a perdoar os que creem nele, porque seria injusto fazer com que os pecadores arrependidos pagassem a penalidade do pecado, quando Cristo já fez isso em favor deles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "À semelhança do Evangelho de João, esta epístola começa com um contraste entre luz e trevas. No evangelho, o Cristo encarnado é a luz que continua a brilhar nas trevas do mundo, o qual tenta excluí-lo. Os crentes deparam com uma escolha: ou andar “na luz”, vindo a Cristo somente com fé e abrindo seu coração para ele em confissão de pecado, ou andar “nas trevas”, negando que são pecadores. O contraste entre luz e trevas está associado, indissoluvelmente, a um contraste entre aqueles que praticam “a verdade” e concordam com Deus e aqueles que fazem de Deus “mentiroso”. O fato de que crentes pecam é uma realidade inescapável; o remédio para o pecado — confissão e purificação pelo sangue de Jesus — é o dom contínuo e irrevogável de Deus para os crentes. Porque a morte de Jesus pagou totalmente a penalidade do pecado e porque Deus demonstrou que Jesus é seu verdadeiro Filho, ressuscitando-o dos mortos, ele outorga perdão e purificação, por uma questão de fidelidade e justiça. Deus não se recusará a perdoar aqueles que creem nele, pois é fiel à promessa de perdoar seu povo, e não se recusará a perdoar os que creem nele, porque seria injusto fazer com que os pecadores arrependidos pagassem a penalidade do pecado, quando Cristo já fez isso em favor deles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "À semelhança do Evangelho de João, esta epístola começa com um contraste entre luz e trevas. No evangelho, o Cristo encarnado é a luz que continua a brilhar nas trevas do mundo, o qual tenta excluí-lo. Os crentes deparam com uma escolha: ou andar “na luz”, vindo a Cristo somente com fé e abrindo seu coração para ele em confissão de pecado, ou andar “nas trevas”, negando que são pecadores. O contraste entre luz e trevas está associado, indissoluvelmente, a um contraste entre aqueles que praticam “a verdade” e concordam com Deus e aqueles que fazem de Deus “mentiroso”. O fato de que crentes pecam é uma realidade inescapável; o remédio para o pecado — confissão e purificação pelo sangue de Jesus — é o dom contínuo e irrevogável de Deus para os crentes. Porque a morte de Jesus pagou totalmente a penalidade do pecado e porque Deus demonstrou que Jesus é seu verdadeiro Filho, ressuscitando-o dos mortos, ele outorga perdão e purificação, por uma questão de fidelidade e justiça. Deus não se recusará a perdoar aqueles que creem nele, pois é fiel à promessa de perdoar seu povo, e não se recusará a perdoar os que creem nele, porque seria injusto fazer com que os pecadores arrependidos pagassem a penalidade do pecado, quando Cristo já fez isso em favor deles."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0005",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.5 Deus e luz. Essa descrigao de Deus enfatiza",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "Deus é luz. Essa descrição de Deus enfatiza seus atributos de pureza moral e de onisciência, reforçando a ênfase de João em nossa necessidade de confessarmos o pecado. A atividade reveladora de Deus talvez esteja em mente também.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus é luz. Essa descrição de Deus enfatiza seus atributos de pureza moral e de onisciência, reforçando a ênfase de João em nossa necessidade de confessarmos o pecado. A atividade reveladora de Deus talvez esteja em mente também."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus é luz.",
+          "texto": "Essa descrição de Deus enfatiza seus atributos de pureza moral e de onisciência, reforçando a ênfase de João em nossa necessidade de confessarmos o pecado. A atividade reveladora de Deus talvez esteja em mente também."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0006",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.7 o sangue de Jesus, seu Filho. Como He -",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "o sangue de Jesus, seu Filho. Como Hebreus 9.22 indica, “sem derramamento de sangue, não há remissão”. O derramamento do sangue de Cristo foi um sacrifício vicário espontâneo de valor infinito para os eleitos. Pagou totalmente a penalidade do pecado (Hb 9.27, 28). Aqueles que verdadeiramente andam “na luz” (que receberam a luz da verdadeira revelação de Deus sobre Cristo e sua obra) são os que se beneficiam do sacrifício de Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o sangue de Jesus, seu Filho. Como Hebreus 9.22 indica, “sem derramamento de sangue, não há remissão”. O derramamento do sangue de Cristo foi um sacrifício vicário espontâneo de valor infinito para os eleitos. Pagou totalmente a penalidade do pecado (Hb 9.27, 28). Aqueles que verdadeiramente andam “na luz” (que receberam a luz da verdadeira revelação de Deus sobre Cristo e sua obra) são os que se beneficiam do sacrifício de Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o sangue de Jesus, seu Filho.",
+          "texto": "Como Hebreus 9.22 indica, “sem derramamento de sangue, não há remissão”. O derramamento do sangue de Cristo foi um sacrifício vicário espontâneo de valor infinito para os eleitos. Pagou totalmente a penalidade do pecado (Hb 9.27, 28). Aqueles que verdadeiramente andam “na luz” (que receberam a luz da verdadeira revelação de Deus sobre Cristo e sua obra) são os que se beneficiam do sacrifício de Cristo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0007",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.9 Se confessarmos os nossos pecados. 0",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "Se confessarmos os nossos pecados. O perdão de Deus é dado assim que admitimos nossa necessidade dele, não com base em quaisquer atos que tenhamos praticado para merecê-lo, mas tão somente por causa de sua graça. O dom gratuito do perdão traz consigo a purificação da injustiça. Deus nos aceita como justos porque nos imputa a justiça de Cristo. Ou seja, a própria justiça de Cristo — seu perfeito cumprimento de todas as exigências do Senhor — é lançada em nossa conta quando descansamos somente em Jesus para a salvação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Se confessarmos os nossos pecados. O perdão de Deus é dado assim que admitimos nossa necessidade dele, não com base em quaisquer atos que tenhamos praticado para merecê-lo, mas tão somente por causa de sua graça. O dom gratuito do perdão traz consigo a purificação da injustiça. Deus nos aceita como justos porque nos imputa a justiça de Cristo. Ou seja, a própria justiça de Cristo — seu perfeito cumprimento de todas as exigências do Senhor — é lançada em nossa conta quando descansamos somente em Jesus para a salvação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Se confessarmos os nossos pecados.",
+          "texto": "O perdão de Deus é dado assim que admitimos nossa necessidade dele, não com base em quaisquer atos que tenhamos praticado para merecê-lo, mas tão somente por causa de sua graça. O dom gratuito do perdão traz consigo a purificação da injustiça. Deus nos aceita como justos porque nos imputa a justiça de Cristo. Ou seja, a própria justiça de Cristo — seu perfeito cumprimento de todas as exigências do Senhor — é lançada em nossa conta quando descansamos somente em Jesus para a salvação."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0008",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 2268,
+        "rotulo_original_ocr": "1.10 Se dissermos que nao temos come-",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "Se dissermos que não temos cometido pecado. Talvez o “pecado para morte”, mencionado em 5.16, seja uma recusa obstinada em aceitar o diagnóstico de Deus sobre a nossa necessidade e em aceitar seu oferecimento de perdão, uma recusa que pode ser evidenciada ou pela rejeição total de Cristo ou pela prática de apostasia final da profissão de fé. Aqui, atos pecaminosos estão em mente, enquanto em 1.8 uma condição de pecado é o foco. Atos pecaminosos brotam da condição pecaminosa que herdamos de Adão (cf. Rm 5.12-21). Embora Cristo tenha pago a penalidade do pecado por seu povo, perdoando-o e tornando-o parte de uma nova criação, capacitando-o a crescer em piedade, eles nunca se tornam perfeitamente justos nesta vida. Em consequência, eles continuam a lutar contra seu estado de queda até que sejam totalmente santificados no fim do tempo. É verdade que Cristo pagou pelos pecados anteriores e posteriores à conversão deles, e isso significa que a justa penalidade de Deus foi satisfeita. Entretanto, negar que uma pessoa continua a sentir os efeitos de seu estado de queda e ainda quebra a lei de Deus é enganoso e sugere, falsamente, que não há necessidade da morte sacrificial de Cristo pelos pecados cometidos depois da conversão.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Se dissermos que não temos cometido pecado. Talvez o “pecado para morte”, mencionado em 5.16, seja uma recusa obstinada em aceitar o diagnóstico de Deus sobre a nossa necessidade e em aceitar seu oferecimento de perdão, uma recusa que pode ser evidenciada ou pela rejeição total de Cristo ou pela prática de apostasia final da profissão de fé. Aqui, atos pecaminosos estão em mente, enquanto em 1.8 uma condição de pecado é o foco. Atos pecaminosos brotam da condição pecaminosa que herdamos de Adão (cf. Rm 5.12-21). Embora Cristo tenha pago a penalidade do pecado por seu povo, perdoando-o e tornando-o parte de uma nova criação, capacitando-o a crescer em piedade, eles nunca se tornam perfeitamente justos nesta vida. Em consequência, eles continuam a lutar contra seu estado de queda até que sejam totalmente santificados no fim do tempo. É verdade que Cristo pagou pelos pecados anteriores e posteriores à conversão deles, e isso significa que a justa penalidade de Deus foi satisfeita. Entretanto, negar que uma pessoa continua a sentir os efeitos de seu estado de queda e ainda quebra a lei de Deus é enganoso e sugere, falsamente, que não há necessidade da morte sacrificial de Cristo pelos pecados cometidos depois da conversão."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Se dissermos que não temos cometido pecado.",
+          "texto": "Talvez o “pecado para morte”, mencionado em 5.16, seja uma recusa obstinada em aceitar o diagnóstico de Deus sobre a nossa necessidade e em aceitar seu oferecimento de perdão, uma recusa que pode ser evidenciada ou pela rejeição total de Cristo ou pela prática de apostasia final da profissão de fé. Aqui, atos pecaminosos estão em mente, enquanto em 1.8 uma condição de pecado é o foco. Atos pecaminosos brotam da condição pecaminosa que herdamos de Adão (cf. Rm 5.12-21). Embora Cristo tenha pago a penalidade do pecado por seu povo, perdoando-o e tornando-o parte de uma nova criação, capacitando-o a crescer em piedade, eles nunca se tornam perfeitamente justos nesta vida. Em consequência, eles continuam a lutar contra seu estado de queda até que sejam totalmente santificados no fim do tempo. É verdade que Cristo pagou pelos pecados anteriores e posteriores à conversão deles, e isso significa que a justa penalidade de Deus foi satisfeita. Entretanto, negar que uma pessoa continua a sentir os efeitos de seu estado de queda e ainda quebra a lei de Deus é enganoso e sugere, falsamente, que não há necessidade da morte sacrificial de Cristo pelos pecados cometidos depois da conversão."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0067",
+      "referencia": "2.1-6",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.1-6",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.1-6 (recuperado da imagem)",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "O perdão não remove a obrigação moral de obedecermos aos mandamentos de Deus. Alguns leitores podem tomar a promessa de 1.9 como licença para pecar, mas João deixa claro que isso seria abuso e má aplicação da promessa (v. 1). “Jesus Cristo, o Justo” é apresentado como sacrifício, advogado e exemplo. Sua expiação é eficaz para os eleitos de Israel e para os eleitos em todo o mundo gentio.\n\nNa Bíblia, “conhecer” alguém inclui comunhão e amor íntimos. Conhecer a Cristo significa guardar “os seus mandamentos”. Esse conhecimento de Cristo é chamado amor de Deus “aperfeiçoado” (v. 5), não porque nos torne pessoalmente impecáveis, mas porque é estabelecido irrevogavelmente naqueles que vivem por ele. Quem presume ter recebido o perdão de Deus, mas rejeita o dom de amor obediente, como se fosse desnecessário, é um “mentiroso”. Em vez de receber “Jesus Cristo, o Justo” como Salvador, essa pessoa fabrica um falso Cristo, um salvador que é indiferente à justiça.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O perdão não remove a obrigação moral de obedecermos aos mandamentos de Deus. Alguns leitores podem tomar a promessa de 1.9 como licença para pecar, mas João deixa claro que isso seria abuso e má aplicação da promessa (v. 1). “Jesus Cristo, o Justo” é apresentado como sacrifício, advogado e exemplo. Sua expiação é eficaz para os eleitos de Israel e para os eleitos em todo o mundo gentio.",
+        "Na Bíblia, “conhecer” alguém inclui comunhão e amor íntimos. Conhecer a Cristo significa guardar “os seus mandamentos”. Esse conhecimento de Cristo é chamado amor de Deus “aperfeiçoado” (v. 5), não porque nos torne pessoalmente impecáveis, mas porque é estabelecido irrevogavelmente naqueles que vivem por ele. Quem presume ter recebido o perdão de Deus, mas rejeita o dom de amor obediente, como se fosse desnecessário, é um “mentiroso”. Em vez de receber “Jesus Cristo, o Justo” como Salvador, essa pessoa fabrica um falso Cristo, um salvador que é indiferente à justiça."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O perdão não remove a obrigação moral de obedecermos aos mandamentos de Deus. Alguns leitores podem tomar a promessa de 1.9 como licença para pecar, mas João deixa claro que isso seria abuso e má aplicação da promessa (v. 1). “Jesus Cristo, o Justo” é apresentado como sacrifício, advogado e exemplo. Sua expiação é eficaz para os eleitos de Israel e para os eleitos em todo o mundo gentio."
+        },
+        {
+          "titulo": "",
+          "texto": "Na Bíblia, “conhecer” alguém inclui comunhão e amor íntimos. Conhecer a Cristo significa guardar “os seus mandamentos”. Esse conhecimento de Cristo é chamado amor de Deus “aperfeiçoado” (v. 5), não porque nos torne pessoalmente impecáveis, mas porque é estabelecido irrevogavelmente naqueles que vivem por ele. Quem presume ter recebido o perdão de Deus, mas rejeita o dom de amor obediente, como se fosse desnecessário, é um “mentiroso”. Em vez de receber “Jesus Cristo, o Justo” como Salvador, essa pessoa fabrica um falso Cristo, um salvador que é indiferente à justiça."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0009",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.1 para que nao pequeis. Joao quer que seus",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "para que não pequeis. João quer que seus leitores respondam à misericórdia de Deus com uma vida de obediência. Não se trata de uma expectativa de que nesta vida eles sejam impecavelmente “perfeitos” (à luz de 1.8-10), mas de uma exortação para que progridam em piedade ao andarem na luz (cf. 1.6, 7; 2.8-11). Trata-se de uma expressão de interesse por aqueles entre os quais ele servira (2Jo 4-6; 3Jo 3, 4). A Primeira Epístola de João não oferece detalhes explícitos sobre os pecados de seus leitores originais ou de seus oponentes heréticos (ao contrário, por exemplo, de 1Co).\n\nAdvogado. Do grego paraklētos, referindo-se a um “ajudador”, como um advogado numa questão judicial. Embora a palavra seja comum na literatura não bíblica, não se encontra em nenhuma outra passagem do Novo Testamento, além do Evangelho de João, onde é usada a respeito do Espírito Santo (Jo 14.16, 26; 15.26; 16.7). No evangelho de João, Jesus diz que enviará “outro [ênfase acrescentada] Consolador” (Jo 14.16, 26; 15.26; 16.7). Nessa ótica, é evidente que Jesus mesmo é o primeiro Advogado ou Ajudador — o assunto que está sendo desenvolvido aqui.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "para que não pequeis. João quer que seus leitores respondam à misericórdia de Deus com uma vida de obediência. Não se trata de uma expectativa de que nesta vida eles sejam impecavelmente “perfeitos” (à luz de 1.8-10), mas de uma exortação para que progridam em piedade ao andarem na luz (cf. 1.6, 7; 2.8-11). Trata-se de uma expressão de interesse por aqueles entre os quais ele servira (2Jo 4-6; 3Jo 3, 4). A Primeira Epístola de João não oferece detalhes explícitos sobre os pecados de seus leitores originais ou de seus oponentes heréticos (ao contrário, por exemplo, de 1Co).",
+        "Advogado. Do grego paraklētos, referindo-se a um “ajudador”, como um advogado numa questão judicial. Embora a palavra seja comum na literatura não bíblica, não se encontra em nenhuma outra passagem do Novo Testamento, além do Evangelho de João, onde é usada a respeito do Espírito Santo (Jo 14.16, 26; 15.26; 16.7). No evangelho de João, Jesus diz que enviará “outro [ênfase acrescentada] Consolador” (Jo 14.16, 26; 15.26; 16.7). Nessa ótica, é evidente que Jesus mesmo é o primeiro Advogado ou Ajudador — o assunto que está sendo desenvolvido aqui."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "para que não pequeis.",
+          "texto": "João quer que seus leitores respondam à misericórdia de Deus com uma vida de obediência. Não se trata de uma expectativa de que nesta vida eles sejam impecavelmente “perfeitos” (à luz de 1.8-10), mas de uma exortação para que progridam em piedade ao andarem na luz (cf. 1.6, 7; 2.8-11). Trata-se de uma expressão de interesse por aqueles entre os quais ele servira (2Jo 4-6; 3Jo 3, 4). A Primeira Epístola de João não oferece detalhes explícitos sobre os pecados de seus leitores originais ou de seus oponentes heréticos (ao contrário, por exemplo, de 1Co)."
+        },
+        {
+          "titulo": "Advogado.",
+          "texto": "Do grego paraklētos, referindo-se a um “ajudador”, como um advogado numa questão judicial. Embora a palavra seja comum na literatura não bíblica, não se encontra em nenhuma outra passagem do Novo Testamento, além do Evangelho de João, onde é usada a respeito do Espírito Santo (Jo 14.16, 26; 15.26; 16.7). No evangelho de João, Jesus diz que enviará “outro [ênfase acrescentada] Consolador” (Jo 14.16, 26; 15.26; 16.7). Nessa ótica, é evidente que Jesus mesmo é o primeiro Advogado ou Ajudador — o assunto que está sendo desenvolvido aqui."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0010",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.2 propiciagao. Urn sacrificio oferecido a Deus",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "propiciação. Um sacrifício oferecido a Deus que tencionava remover a inimizade entre Deus e o adorador, trazida pelo pecado. Somente Cristo pode ser uma propiciação eficaz (cf. Rm 3.21-26).\n\ndo mundo. O sacrifício de Cristo não apenas é suficiente para João e sua comunidade imediata, como também é válido, em qualquer lugar do mundo, para aqueles que creem. É um sacrifício que não exige acréscimo ou complemento. Este versículo não significa que o Senhor tencionasse que a expiação pagasse pelos pecados de todas as pessoas, sem exceção. Em vez disso, afirma que há apenas um sacrifício disponível a qualquer pecador, ou seja, o sacrifício de Cristo. Esse sacrifício é eficaz para todos os que crerem, mas os únicos que crerão são os eleitos por Deus para a salvação desde a fundação do mundo, e Jesus fez expiação somente por seu povo eleito (Jo 10.11; Ef 1.3-6). Ver nota teológica “Expiação Definida”, na p. 1875.",
+      "remissoes": [
+        "1jo-rem-0010-1875"
+      ],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "propiciação. Um sacrifício oferecido a Deus que tencionava remover a inimizade entre Deus e o adorador, trazida pelo pecado. Somente Cristo pode ser uma propiciação eficaz (cf. Rm 3.21-26).",
+        "do mundo. O sacrifício de Cristo não apenas é suficiente para João e sua comunidade imediata, como também é válido, em qualquer lugar do mundo, para aqueles que creem. É um sacrifício que não exige acréscimo ou complemento. Este versículo não significa que o Senhor tencionasse que a expiação pagasse pelos pecados de todas as pessoas, sem exceção. Em vez disso, afirma que há apenas um sacrifício disponível a qualquer pecador, ou seja, o sacrifício de Cristo. Esse sacrifício é eficaz para todos os que crerem, mas os únicos que crerão são os eleitos por Deus para a salvação desde a fundação do mundo, e Jesus fez expiação somente por seu povo eleito (Jo 10.11; Ef 1.3-6). Ver nota teológica “Expiação Definida”, na p. 1875."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "propiciação.",
+          "texto": "Um sacrifício oferecido a Deus que tencionava remover a inimizade entre Deus e o adorador, trazida pelo pecado. Somente Cristo pode ser uma propiciação eficaz (cf. Rm 3.21-26)."
+        },
+        {
+          "titulo": "do mundo.",
+          "texto": "O sacrifício de Cristo não apenas é suficiente para João e sua comunidade imediata, como também é válido, em qualquer lugar do mundo, para aqueles que creem. É um sacrifício que não exige acréscimo ou complemento. Este versículo não significa que o Senhor tencionasse que a expiação pagasse pelos pecados de todas as pessoas, sem exceção. Em vez disso, afirma que há apenas um sacrifício disponível a qualquer pecador, ou seja, o sacrifício de Cristo. Esse sacrifício é eficaz para todos os que crerem, mas os únicos que crerão são os eleitos por Deus para a salvação desde a fundação do mundo, e Jesus fez expiação somente por seu povo eleito (Jo 10.11; Ef 1.3-6). Ver nota teológica “Expiação Definida”, na p. 1875."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0011",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.6 andar assim como ele andou. Joao",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "andar assim como ele andou. João presume que seus leitores têm o mesmo tipo de conhecimento sobre a vida de Jesus e sugere que esse conhecimento se encontra no evangelho. Eles devem aplicar esse conhecimento à sua vida.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "andar assim como ele andou. João presume que seus leitores têm o mesmo tipo de conhecimento sobre a vida de Jesus e sugere que esse conhecimento se encontra no evangelho. Eles devem aplicar esse conhecimento à sua vida."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "andar assim como ele andou.",
+          "texto": "João presume que seus leitores têm o mesmo tipo de conhecimento sobre a vida de Jesus e sugere que esse conhecimento se encontra no evangelho. Eles devem aplicar esse conhecimento à sua vida."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0068",
+      "referencia": "2.7-11",
+      "capitulo": 2,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.7-11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.7-11 (recuperado da imagem)",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "O mandamento de Deus é tanto “antigo” como “novo”. É antigo porque data do alvorecer da era cristã; os crentes têm esse mandamento “desde o princípio”, quando Jesus Cristo começou a ensinar. É novo porque é continuamente reaplicado em novos atos de amor, com sua fonte nele e seus resultados “em vós”. O amor pertence à esfera da luz, em oposição à esfera das trevas, na qual o ódio ainda tem domínio. João fala do amor ao “irmão”, que foi um mandamento dado por Jesus aos seus discípulos antes de sua morte. João traça acentuado contraste entre a comunidade cristã regida pelo amor e o ódio que domina o mundo (Jo 15.18, 19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O mandamento de Deus é tanto “antigo” como “novo”. É antigo porque data do alvorecer da era cristã; os crentes têm esse mandamento “desde o princípio”, quando Jesus Cristo começou a ensinar. É novo porque é continuamente reaplicado em novos atos de amor, com sua fonte nele e seus resultados “em vós”. O amor pertence à esfera da luz, em oposição à esfera das trevas, na qual o ódio ainda tem domínio. João fala do amor ao “irmão”, que foi um mandamento dado por Jesus aos seus discípulos antes de sua morte. João traça acentuado contraste entre a comunidade cristã regida pelo amor e o ódio que domina o mundo (Jo 15.18, 19)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O mandamento de Deus é tanto “antigo” como “novo”. É antigo porque data do alvorecer da era cristã; os crentes têm esse mandamento “desde o princípio”, quando Jesus Cristo começou a ensinar. É novo porque é continuamente reaplicado em novos atos de amor, com sua fonte nele e seus resultados “em vós”. O amor pertence à esfera da luz, em oposição à esfera das trevas, na qual o ódio ainda tem domínio. João fala do amor ao “irmão”, que foi um mandamento dado por Jesus aos seus discípulos antes de sua morte. João traça acentuado contraste entre a comunidade cristã regida pelo amor e o ódio que domina o mundo (Jo 15.18, 19)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0012",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.7 o principio. Embora Joao use essa palavra as",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "o princípio. Embora João use essa palavra às vezes para se referir ao começo de todas as coisas (vv. 13, 14; 1.1), aqui alude ao início do movimento cristão na vida e no ensino de Jesus (v. 24; 3.11). Como o versículo seguinte mostra, a vinda de Jesus foi o momento crucial que introduziu uma nova época, o alvorecer de um novo dia.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o princípio. Embora João use essa palavra às vezes para se referir ao começo de todas as coisas (vv. 13, 14; 1.1), aqui alude ao início do movimento cristão na vida e no ensino de Jesus (v. 24; 3.11). Como o versículo seguinte mostra, a vinda de Jesus foi o momento crucial que introduziu uma nova época, o alvorecer de um novo dia."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o princípio.",
+          "texto": "Embora João use essa palavra às vezes para se referir ao começo de todas as coisas (vv. 13, 14; 1.1), aqui alude ao início do movimento cristão na vida e no ensino de Jesus (v. 24; 3.11). Como o versículo seguinte mostra, a vinda de Jesus foi o momento crucial que introduziu uma nova época, o alvorecer de um novo dia."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0013",
+      "referencia": "2.12-14",
+      "capitulo": 2,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.12-14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.12-14 Os tres grupos aos quais Joao se dirige nes-",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "texto": "Os três grupos aos quais João se dirige nestes versículos podem ser um único grupo, os receptores da carta, caracterizados de maneiras distintas. Existem várias maneiras de entender os nomes desses três grupos, mas a seguinte parece ser a melhor. Eles são “filhinhos” porque, com o perdão dos pecados, foram bem recebidos na família de Deus, seu Pai. Eles são “pais” porque seu conhecimento de Deus, em Jesus Cristo, os qualifica a transmitir esse conhecimento a outras gerações. São chamados “jovens” porque sua rejeição categórica ao Maligno é uma vitória como a de Jesus, que foi um jovem que triunfou sobre Satanás no deserto (Mt 4.1-11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os três grupos aos quais João se dirige nestes versículos podem ser um único grupo, os receptores da carta, caracterizados de maneiras distintas. Existem várias maneiras de entender os nomes desses três grupos, mas a seguinte parece ser a melhor. Eles são “filhinhos” porque, com o perdão dos pecados, foram bem recebidos na família de Deus, seu Pai. Eles são “pais” porque seu conhecimento de Deus, em Jesus Cristo, os qualifica a transmitir esse conhecimento a outras gerações. São chamados “jovens” porque sua rejeição categórica ao Maligno é uma vitória como a de Jesus, que foi um jovem que triunfou sobre Satanás no deserto (Mt 4.1-11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os três grupos aos quais João se dirige nestes versículos podem ser um único grupo, os receptores da carta, caracterizados de maneiras distintas. Existem várias maneiras de entender os nomes desses três grupos, mas a seguinte parece ser a melhor. Eles são “filhinhos” porque, com o perdão dos pecados, foram bem recebidos na família de Deus, seu Pai. Eles são “pais” porque seu conhecimento de Deus, em Jesus Cristo, os qualifica a transmitir esse conhecimento a outras gerações. São chamados “jovens” porque sua rejeição categórica ao Maligno é uma vitória como a de Jesus, que foi um jovem que triunfou sobre Satanás no deserto (Mt 4.1-11)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1jo-0014",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.12 por causa do seu nome. 0 poder do nome",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "por causa do seu nome. O poder do nome de Jesus é central na proclamação cristã primitiva (At 2.38; 3.6; 4.12). João 17.11-12 indica que Deus outorgou seu próprio nome a Jesus para proteger seus discípulos e guardá-los em segurança. O nome de Deus seria desonrado caso seu perdão falhasse.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "por causa do seu nome. O poder do nome de Jesus é central na proclamação cristã primitiva (At 2.38; 3.6; 4.12). João 17.11-12 indica que Deus outorgou seu próprio nome a Jesus para proteger seus discípulos e guardá-los em segurança. O nome de Deus seria desonrado caso seu perdão falhasse."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "por causa do seu nome.",
+          "texto": "O poder do nome de Jesus é central na proclamação cristã primitiva (At 2.38; 3.6; 4.12). João 17.11-12 indica que Deus outorgou seu próprio nome a Jesus para proteger seus discípulos e guardá-los em segurança. O nome de Deus seria desonrado caso seu perdão falhasse."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0015",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.13 tendes vencido o Maligno. 0 tema da",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "tendes vencido o Maligno. O tema da superação é retomado em 5.4-5, em que a vitória é sobre “o mundo” que se opõe a Deus. A vitória que João descreve consiste em resistir à tentação e manter-se fiel à Palavra de Deus. Ela contrasta com a derrota da raça humana na Queda (Gn 3). Para João, a vitória na batalha contra a tentação já foi ganha, porque a nossa união com Deus, em Cristo, não pode ser quebrada (Jo 10.27-30).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tendes vencido o Maligno. O tema da superação é retomado em 5.4-5, em que a vitória é sobre “o mundo” que se opõe a Deus. A vitória que João descreve consiste em resistir à tentação e manter-se fiel à Palavra de Deus. Ela contrasta com a derrota da raça humana na Queda (Gn 3). Para João, a vitória na batalha contra a tentação já foi ganha, porque a nossa união com Deus, em Cristo, não pode ser quebrada (Jo 10.27-30)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tendes vencido o Maligno.",
+          "texto": "O tema da superação é retomado em 5.4-5, em que a vitória é sobre “o mundo” que se opõe a Deus. A vitória que João descreve consiste em resistir à tentação e manter-se fiel à Palavra de Deus. Ela contrasta com a derrota da raça humana na Queda (Gn 3). Para João, a vitória na batalha contra a tentação já foi ganha, porque a nossa união com Deus, em Cristo, não pode ser quebrada (Jo 10.27-30)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0016",
+      "referencia": "2.15-17",
+      "capitulo": 2,
+      "versiculos": [
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.15-17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.15-17 A admoestagao moral para nao amar o",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "A admoestação moral para não amar o mundo é também um conselho prático aplicável, pois já está claro que o mundo passa (v. 17). Como no Evangelho de João, o “mundo” é o sistema de rebelião e orgulho que procura substituir Deus e seu domínio. É esse sistema, e não a própria ordem criada, que “não procede do Pai” e que já foi marcado para julgamento e destruição (Jo 12.31). Aqueles que não são do mundo recebem de Jesus a revelação do Pai (Jo 17.14) e mostram, por meio de sua resposta a essa revelação, que foram escolhidos para a salvação e a vida eterna.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A admoestação moral para não amar o mundo é também um conselho prático aplicável, pois já está claro que o mundo passa (v. 17). Como no Evangelho de João, o “mundo” é o sistema de rebelião e orgulho que procura substituir Deus e seu domínio. É esse sistema, e não a própria ordem criada, que “não procede do Pai” e que já foi marcado para julgamento e destruição (Jo 12.31). Aqueles que não são do mundo recebem de Jesus a revelação do Pai (Jo 17.14) e mostram, por meio de sua resposta a essa revelação, que foram escolhidos para a salvação e a vida eterna."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A admoestação moral para não amar o mundo é também um conselho prático aplicável, pois já está claro que o mundo passa (v. 17). Como no Evangelho de João, o “mundo” é o sistema de rebelião e orgulho que procura substituir Deus e seu domínio. É esse sistema, e não a própria ordem criada, que “não procede do Pai” e que já foi marcado para julgamento e destruição (Jo 12.31). Aqueles que não são do mundo recebem de Jesus a revelação do Pai (Jo 17.14) e mostram, por meio de sua resposta a essa revelação, que foram escolhidos para a salvação e a vida eterna."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0017",
+      "referencia": "2.16",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.16",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.16 a concupiscencia... a soberba. Aque-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "a concupiscência... a soberba. Aqueles que amam este mundo (v. 15) veem apenas o presente, querem ser satisfeitos e honrados agora (Lc 6.24-26). Em contraste, aqueles que amam o Pai têm uma perspectiva de eternidade e esperam pela recompensa de Deus (Lc 6.20-23).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a concupiscência... a soberba. Aqueles que amam este mundo (v. 15) veem apenas o presente, querem ser satisfeitos e honrados agora (Lc 6.24-26). Em contraste, aqueles que amam o Pai têm uma perspectiva de eternidade e esperam pela recompensa de Deus (Lc 6.20-23)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a concupiscência... a soberba.",
+          "texto": "Aqueles que amam este mundo (v. 15) veem apenas o presente, querem ser satisfeitos e honrados agora (Lc 6.24-26). Em contraste, aqueles que amam o Pai têm uma perspectiva de eternidade e esperam pela recompensa de Deus (Lc 6.20-23)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0018",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.17 faz a vontade de Deus permanece",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "faz a vontade de Deus permanece eternamente. João não está ensinando que nossa obediência merece a vida eterna. Somente a obediência de Jesus pôde satisfazer as exigências de Deus. Os crentes recebem a vida eterna como um dom (5.11), e o dom de amor os transforma para que façam a vontade de Deus com gratidão (3.16). O fato de que o “mundo passa” e de que o crente “permanece eternamente” reflete a ideia de que os últimos dias já chegaram, mas ainda não foram levados à sua consumação. No tempo do próprio fim, o velho mundo passará. Falando espiritualmente, esse passar já começou para o velho mundo, porque Cristo destruiu o poder do pecado; e esse passar será completado pela recriação física da terra — um novo mundo está vindo (cf. Ap 21). Também, ao mesmo tempo, o povo de Deus desfrutará a consumação da vida eterna. Isso já começou para o povo de Deus em sua ressurreição espiritual, pela obra de regeneração feita pelo Espírito Santo, e será consumado na ressurreição final de seus corpos físicos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "faz a vontade de Deus permanece eternamente. João não está ensinando que nossa obediência merece a vida eterna. Somente a obediência de Jesus pôde satisfazer as exigências de Deus. Os crentes recebem a vida eterna como um dom (5.11), e o dom de amor os transforma para que façam a vontade de Deus com gratidão (3.16). O fato de que o “mundo passa” e de que o crente “permanece eternamente” reflete a ideia de que os últimos dias já chegaram, mas ainda não foram levados à sua consumação. No tempo do próprio fim, o velho mundo passará. Falando espiritualmente, esse passar já começou para o velho mundo, porque Cristo destruiu o poder do pecado; e esse passar será completado pela recriação física da terra — um novo mundo está vindo (cf. Ap 21). Também, ao mesmo tempo, o povo de Deus desfrutará a consumação da vida eterna. Isso já começou para o povo de Deus em sua ressurreição espiritual, pela obra de regeneração feita pelo Espírito Santo, e será consumado na ressurreição final de seus corpos físicos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "faz a vontade de Deus permanece eternamente.",
+          "texto": "João não está ensinando que nossa obediência merece a vida eterna. Somente a obediência de Jesus pôde satisfazer as exigências de Deus. Os crentes recebem a vida eterna como um dom (5.11), e o dom de amor os transforma para que façam a vontade de Deus com gratidão (3.16). O fato de que o “mundo passa” e de que o crente “permanece eternamente” reflete a ideia de que os últimos dias já chegaram, mas ainda não foram levados à sua consumação. No tempo do próprio fim, o velho mundo passará. Falando espiritualmente, esse passar já começou para o velho mundo, porque Cristo destruiu o poder do pecado; e esse passar será completado pela recriação física da terra — um novo mundo está vindo (cf. Ap 21). Também, ao mesmo tempo, o povo de Deus desfrutará a consumação da vida eterna. Isso já começou para o povo de Deus em sua ressurreição espiritual, pela obra de regeneração feita pelo Espírito Santo, e será consumado na ressurreição final de seus corpos físicos."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0019",
+      "referencia": "2.18-28",
+      "capitulo": 2,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 26
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        }
+      ],
+      "titulo": "2.18-28",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.18-28 A \"ultima hora\" tern des-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "A “última hora” tem estado presente desde o tempo em que Jesus pronunciou juízo sobre este mundo, em sua vida, morte e ressurreição. Essa última hora caracteriza-se por uma intensificação dramática de oposição a Deus que terminará com o julgamento final. A predição sobre o “anticristo” (ou anticristos, pois o espírito do anticristo se manifesta de muitas maneiras e em muitas pessoas — v. 18) é não somente do Antigo Testamento, mas também do próprio Jesus (Mt 24.5, 24). Essa predição começou a ser cumprida na era do Novo Testamento com aqueles que negavam o Pai e o Filho (v. 22) e deixaram a Igreja a fim de propagar sua falsa doutrina (v. 19). A negação deles quanto ao Filho era uma rejeição ao Pai, que o enviou (2.23; Jo 15.23). Em contraste com os anticristos, os crentes têm uma unção do Espírito Santo (vv. 20, 27), que lhes abre o coração e a mente para que conheçam e creiam na verdade salvadora. O próprio Espírito Santo é o melhor dos mestres. Ele permanecerá sempre com os crentes e os protegerá dos enganos que, sem a presença do Espírito, os afastariam de Cristo. O Espírito permanece onde a mensagem do evangelho é recebida; e, onde ele permanece, o Pai e o Filho também estão presentes (v. 24).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A “última hora” tem estado presente desde o tempo em que Jesus pronunciou juízo sobre este mundo, em sua vida, morte e ressurreição. Essa última hora caracteriza-se por uma intensificação dramática de oposição a Deus que terminará com o julgamento final. A predição sobre o “anticristo” (ou anticristos, pois o espírito do anticristo se manifesta de muitas maneiras e em muitas pessoas — v. 18) é não somente do Antigo Testamento, mas também do próprio Jesus (Mt 24.5, 24). Essa predição começou a ser cumprida na era do Novo Testamento com aqueles que negavam o Pai e o Filho (v. 22) e deixaram a Igreja a fim de propagar sua falsa doutrina (v. 19). A negação deles quanto ao Filho era uma rejeição ao Pai, que o enviou (2.23; Jo 15.23). Em contraste com os anticristos, os crentes têm uma unção do Espírito Santo (vv. 20, 27), que lhes abre o coração e a mente para que conheçam e creiam na verdade salvadora. O próprio Espírito Santo é o melhor dos mestres. Ele permanecerá sempre com os crentes e os protegerá dos enganos que, sem a presença do Espírito, os afastariam de Cristo. O Espírito permanece onde a mensagem do evangelho é recebida; e, onde ele permanece, o Pai e o Filho também estão presentes (v. 24)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A “última hora” tem estado presente desde o tempo em que Jesus pronunciou juízo sobre este mundo, em sua vida, morte e ressurreição. Essa última hora caracteriza-se por uma intensificação dramática de oposição a Deus que terminará com o julgamento final. A predição sobre o “anticristo” (ou anticristos, pois o espírito do anticristo se manifesta de muitas maneiras e em muitas pessoas — v. 18) é não somente do Antigo Testamento, mas também do próprio Jesus (Mt 24.5, 24). Essa predição começou a ser cumprida na era do Novo Testamento com aqueles que negavam o Pai e o Filho (v. 22) e deixaram a Igreja a fim de propagar sua falsa doutrina (v. 19). A negação deles quanto ao Filho era uma rejeição ao Pai, que o enviou (2.23; Jo 15.23). Em contraste com os anticristos, os crentes têm uma unção do Espírito Santo (vv. 20, 27), que lhes abre o coração e a mente para que conheçam e creiam na verdade salvadora. O próprio Espírito Santo é o melhor dos mestres. Ele permanecerá sempre com os crentes e os protegerá dos enganos que, sem a presença do Espírito, os afastariam de Cristo. O Espírito permanece onde a mensagem do evangelho é recebida; e, onde ele permanece, o Pai e o Filho também estão presentes (v. 24)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0020",
+      "referencia": "2.18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2.18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.18 e a ultima hora. Joao nao satisfara ao",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "é a última hora. João não satisfará ao desejo de sabermos “tempos ou épocas que o Pai reservou pela sua exclusiva autoridade” (At 1.7). Ele caracteriza todo o período entre a primeira e a segunda vinda de Cristo como “a última hora”, sem identificar uma data específica para a consumação (cf. At 2.17; 1Co 10.11). Não importa quanto tempo essa “hora” possa estender-se em relação a tempo de calendário, continua a ser verdade que “o tempo está próximo” (Ap 1.3; cf. Ap 1.1; 22.20) para que todas as promessas de Deus se cumpram. À luz dessa perspectiva — a perspectiva da eternidade —, ela é sempre iminente. A “última hora” vem do uso repetido da palavra “hora” com a linguagem de fim dos tempos em Daniel 8, 11 e 12, passagens em que há uma profecia de que o oponente do povo de Deus dos últimos tempos virá com seus falsos mestres e desencaminhará muitos na comunidade da aliança.\n\nvem o anticristo... muitos anticristos têm surgido. Isso é entendido comumente como uma predição distinta de muitos anticristos que surgiram no decorrer da história, seguidos por um último Anticristo no fim dos tempos (cf. 2Ts 2.3-10; Ap 13.11-18). João está incluindo os falsos mestres que perturbavam a Igreja na categoria de anticristos (v. 22; 4.3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "é a última hora. João não satisfará ao desejo de sabermos “tempos ou épocas que o Pai reservou pela sua exclusiva autoridade” (At 1.7). Ele caracteriza todo o período entre a primeira e a segunda vinda de Cristo como “a última hora”, sem identificar uma data específica para a consumação (cf. At 2.17; 1Co 10.11). Não importa quanto tempo essa “hora” possa estender-se em relação a tempo de calendário, continua a ser verdade que “o tempo está próximo” (Ap 1.3; cf. Ap 1.1; 22.20) para que todas as promessas de Deus se cumpram. À luz dessa perspectiva — a perspectiva da eternidade —, ela é sempre iminente. A “última hora” vem do uso repetido da palavra “hora” com a linguagem de fim dos tempos em Daniel 8, 11 e 12, passagens em que há uma profecia de que o oponente do povo de Deus dos últimos tempos virá com seus falsos mestres e desencaminhará muitos na comunidade da aliança.",
+        "vem o anticristo... muitos anticristos têm surgido. Isso é entendido comumente como uma predição distinta de muitos anticristos que surgiram no decorrer da história, seguidos por um último Anticristo no fim dos tempos (cf. 2Ts 2.3-10; Ap 13.11-18). João está incluindo os falsos mestres que perturbavam a Igreja na categoria de anticristos (v. 22; 4.3)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "é a última hora.",
+          "texto": "João não satisfará ao desejo de sabermos “tempos ou épocas que o Pai reservou pela sua exclusiva autoridade” (At 1.7). Ele caracteriza todo o período entre a primeira e a segunda vinda de Cristo como “a última hora”, sem identificar uma data específica para a consumação (cf. At 2.17; 1Co 10.11). Não importa quanto tempo essa “hora” possa estender-se em relação a tempo de calendário, continua a ser verdade que “o tempo está próximo” (Ap 1.3; cf. Ap 1.1; 22.20) para que todas as promessas de Deus se cumpram. À luz dessa perspectiva — a perspectiva da eternidade —, ela é sempre iminente. A “última hora” vem do uso repetido da palavra “hora” com a linguagem de fim dos tempos em Daniel 8, 11 e 12, passagens em que há uma profecia de que o oponente do povo de Deus dos últimos tempos virá com seus falsos mestres e desencaminhará muitos na comunidade da aliança."
+        },
+        {
+          "titulo": "vem o anticristo... muitos anticristos têm surgido.",
+          "texto": "Isso é entendido comumente como uma predição distinta de muitos anticristos que surgiram no decorrer da história, seguidos por um último Anticristo no fim dos tempos (cf. 2Ts 2.3-10; Ap 13.11-18). João está incluindo os falsos mestres que perturbavam a Igreja na categoria de anticristos (v. 22; 4.3)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0021",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3,
+          4
+        ],
+        "pagina_impressa": 2270,
+        "rotulo_original_ocr": "2.19 sairam de nosso meio. Paulo tambem ad -",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "saíram de nosso meio. Paulo também advertiu contra os falsos mestres que surgiriam entre os crentes (At 20.29-31). Como no caso de Simeão, o mago (At 8.9-24), ser membro visível de uma Igreja não garante a salvação. A apatia interior e a hostilidade para com o evangelho podem ser mascaradas por uma conformidade exterior com os padrões da Igreja e uma profissão de fé verbal. Os falsos mestres revelaram sua hostilidade não apenas por saírem, mas também pela maneira como saíram. Como saíram para se opor ao evangelho, a saída deles foi uma renúncia à Igreja e à mensagem do evangelho, semelhante à saída de Judas da presença de Cristo durante a Última Ceia (Jo 13.30).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "saíram de nosso meio. Paulo também advertiu contra os falsos mestres que surgiriam entre os crentes (At 20.29-31). Como no caso de Simeão, o mago (At 8.9-24), ser membro visível de uma Igreja não garante a salvação. A apatia interior e a hostilidade para com o evangelho podem ser mascaradas por uma conformidade exterior com os padrões da Igreja e uma profissão de fé verbal. Os falsos mestres revelaram sua hostilidade não apenas por saírem, mas também pela maneira como saíram. Como saíram para se opor ao evangelho, a saída deles foi uma renúncia à Igreja e à mensagem do evangelho, semelhante à saída de Judas da presença de Cristo durante a Última Ceia (Jo 13.30)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "saíram de nosso meio.",
+          "texto": "Paulo também advertiu contra os falsos mestres que surgiriam entre os crentes (At 20.29-31). Como no caso de Simeão, o mago (At 8.9-24), ser membro visível de uma Igreja não garante a salvação. A apatia interior e a hostilidade para com o evangelho podem ser mascaradas por uma conformidade exterior com os padrões da Igreja e uma profissão de fé verbal. Os falsos mestres revelaram sua hostilidade não apenas por saírem, mas também pela maneira como saíram. Como saíram para se opor ao evangelho, a saída deles foi uma renúncia à Igreja e à mensagem do evangelho, semelhante à saída de Judas da presença de Cristo durante a Última Ceia (Jo 13.30)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0022",
+      "referencia": "2.20",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.20",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.20 possuis ungao que vem do Santo.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "possuís unção que vem do Santo. “Cristo” significa “Ungido”, referindo-se ao ofício singular de Jesus como o Salvador enviado por Deus. Deus ungiu Jesus diretamente com o Espírito Santo, para ser Profeta, Sacerdote e Rei absoluto (At 10.38; Hb 1.1-9). Os crentes têm responsabilidades proféticas, sacerdotais e reais, e são ungidos com o Espírito Santo (2Co 1.21, 22) para esses deveres (1Co 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "possuís unção que vem do Santo. “Cristo” significa “Ungido”, referindo-se ao ofício singular de Jesus como o Salvador enviado por Deus. Deus ungiu Jesus diretamente com o Espírito Santo, para ser Profeta, Sacerdote e Rei absoluto (At 10.38; Hb 1.1-9). Os crentes têm responsabilidades proféticas, sacerdotais e reais, e são ungidos com o Espírito Santo (2Co 1.21, 22) para esses deveres (1Co 12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "possuís unção que vem do Santo.",
+          "texto": "“Cristo” significa “Ungido”, referindo-se ao ofício singular de Jesus como o Salvador enviado por Deus. Deus ungiu Jesus diretamente com o Espírito Santo, para ser Profeta, Sacerdote e Rei absoluto (At 10.38; Hb 1.1-9). Os crentes têm responsabilidades proféticas, sacerdotais e reais, e são ungidos com o Espírito Santo (2Co 1.21, 22) para esses deveres (1Co 12)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0023",
+      "referencia": "2.22",
+      "capitulo": 2,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "2.22",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.22 nega que Jesus e o Cristo. Separar Cristo,",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "nega que Jesus é o Cristo. Separar Cristo, o Salvador, de Jesus, o homem, essa era a característica peculiar do docetismo, a heresia que dizia que Cristo apenas parecia ser humano, mas nunca realmente assumiu a nossa carne (ver Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "nega que Jesus é o Cristo. Separar Cristo, o Salvador, de Jesus, o homem, essa era a característica peculiar do docetismo, a heresia que dizia que Cristo apenas parecia ser humano, mas nunca realmente assumiu a nossa carne (ver Introdução: Data e Circunstâncias)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "nega que Jesus é o Cristo.",
+          "texto": "Separar Cristo, o Salvador, de Jesus, o homem, essa era a característica peculiar do docetismo, a heresia que dizia que Cristo apenas parecia ser humano, mas nunca realmente assumiu a nossa carne (ver Introdução: Data e Circunstâncias)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0024",
+      "referencia": "2.25",
+      "capitulo": 2,
+      "versiculos": [
+        25
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        }
+      ],
+      "titulo": "2.25",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.25 a vida eterna. Trata-se do dom supremo",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "a vida eterna. Trata-se do dom supremo de Deus, mediado por Jesus Cristo (Jo 5.24-27) e dado gratuitamente aos redimidos, pela fé em Cristo (5.11, 13; Jo 3.16). Essa é a vida de ressurreição, que começa espiritualmente nessa época e será consumada pela ressurreição física na era vindoura. Ver Introdução: Teologia em 1 João.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a vida eterna. Trata-se do dom supremo de Deus, mediado por Jesus Cristo (Jo 5.24-27) e dado gratuitamente aos redimidos, pela fé em Cristo (5.11, 13; Jo 3.16). Essa é a vida de ressurreição, que começa espiritualmente nessa época e será consumada pela ressurreição física na era vindoura. Ver Introdução: Teologia em 1 João."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a vida eterna.",
+          "texto": "Trata-se do dom supremo de Deus, mediado por Jesus Cristo (Jo 5.24-27) e dado gratuitamente aos redimidos, pela fé em Cristo (5.11, 13; Jo 3.16). Essa é a vida de ressurreição, que começa espiritualmente nessa época e será consumada pela ressurreição física na era vindoura. Ver Introdução: Teologia em 1 João."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0025",
+      "referencia": "2.27",
+      "capitulo": 2,
+      "versiculos": [
+        27
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        }
+      ],
+      "titulo": "2.27",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.27 nao tendes necessidade de que al-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "não tendes necessidade de que alguém vos ensine. Os crentes têm uma iluminação de Deus por meio do ministério do Espírito Santo, que acompanha a Palavra e os guarda na verdade do evangelho (ver nota teológica “A Iluminação do Espírito”, na p. 2018). Não é uma contradição que os crentes ouçam repetidamente outros crentes, em especial quando oferecem admoestação e instrução. Eles também têm o Espírito, e a confusão gerada por falsas doutrinas é um perigo real (Mt 24.24). A Igreja precisa de mestres verdadeiramente guiados pelo Espírito de Deus, mas esse texto adverte contra a falsa doutrina que nega o evangelho. Portanto, os leitores de João não precisavam de “alguém” (qualquer falso mestre) que ensinasse a eles (2.27), porque o Espírito assegurava-lhes a verdade do evangelho. O fato de que mestres capacitados pelo Espírito são dados por Deus à Igreja é evidente em passagens como Efésios 4.11 e na atitude de João estar ensinando os leitores por meio da própria escrita dessa carta. Ver Introdução: Teologia em 1 João.",
+      "remissoes": [
+        "1jo-rem-0025-2018"
+      ],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não tendes necessidade de que alguém vos ensine. Os crentes têm uma iluminação de Deus por meio do ministério do Espírito Santo, que acompanha a Palavra e os guarda na verdade do evangelho (ver nota teológica “A Iluminação do Espírito”, na p. 2018). Não é uma contradição que os crentes ouçam repetidamente outros crentes, em especial quando oferecem admoestação e instrução. Eles também têm o Espírito, e a confusão gerada por falsas doutrinas é um perigo real (Mt 24.24). A Igreja precisa de mestres verdadeiramente guiados pelo Espírito de Deus, mas esse texto adverte contra a falsa doutrina que nega o evangelho. Portanto, os leitores de João não precisavam de “alguém” (qualquer falso mestre) que ensinasse a eles (2.27), porque o Espírito assegurava-lhes a verdade do evangelho. O fato de que mestres capacitados pelo Espírito são dados por Deus à Igreja é evidente em passagens como Efésios 4.11 e na atitude de João estar ensinando os leitores por meio da própria escrita dessa carta. Ver Introdução: Teologia em 1 João."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não tendes necessidade de que alguém vos ensine.",
+          "texto": "Os crentes têm uma iluminação de Deus por meio do ministério do Espírito Santo, que acompanha a Palavra e os guarda na verdade do evangelho (ver nota teológica “A Iluminação do Espírito”, na p. 2018). Não é uma contradição que os crentes ouçam repetidamente outros crentes, em especial quando oferecem admoestação e instrução. Eles também têm o Espírito, e a confusão gerada por falsas doutrinas é um perigo real (Mt 24.24). A Igreja precisa de mestres verdadeiramente guiados pelo Espírito de Deus, mas esse texto adverte contra a falsa doutrina que nega o evangelho. Portanto, os leitores de João não precisavam de “alguém” (qualquer falso mestre) que ensinasse a eles (2.27), porque o Espírito assegurava-lhes a verdade do evangelho. O fato de que mestres capacitados pelo Espírito são dados por Deus à Igreja é evidente em passagens como Efésios 4.11 e na atitude de João estar ensinando os leitores por meio da própria escrita dessa carta. Ver Introdução: Teologia em 1 João."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0026",
+      "referencia": "2.28",
+      "capitulo": 2,
+      "versiculos": [
+        28
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        }
+      ],
+      "titulo": "2.28",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.28 na sua vinda. Joao se refere ao retorno",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "na sua vinda. João se refere ao retorno final e visível de Cristo no fim do tempo. Naquele tempo, Cristo virá como o Juiz, mas aqueles que “permanecem nele”, por continuarem crendo na mensagem do evangelho (v. 24), não precisam temer condenação (Jo 3.17, 18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "na sua vinda. João se refere ao retorno final e visível de Cristo no fim do tempo. Naquele tempo, Cristo virá como o Juiz, mas aqueles que “permanecem nele”, por continuarem crendo na mensagem do evangelho (v. 24), não precisam temer condenação (Jo 3.17, 18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "na sua vinda.",
+          "texto": "João se refere ao retorno final e visível de Cristo no fim do tempo. Naquele tempo, Cristo virá como o Juiz, mas aqueles que “permanecem nele”, por continuarem crendo na mensagem do evangelho (v. 24), não precisam temer condenação (Jo 3.17, 18)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0027",
+      "referencia": "2.29-3.3",
+      "capitulo": 2,
+      "versiculos": [
+        29
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 29
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.29-3.3",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.29-3.3 Sendo ensinados pelo Espirito, os crentes",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Sendo ensinados pelo Espírito, os crentes conhecem todo um sistema de verdade e vida que permanece desconhecido para os que estão no mundo. Essencial a isso é sabermos que, embora não reconhecidos como tal no tempo presente, podemos estar certos de que somos “filhos de Deus” e “nascidos dele”. A revelação pública dessa verdade espera até a revelação pública de Deus mesmo, “quando ele se manifestar” na segunda vinda. Os verdadeiros filhos de Deus terão a semelhança da família, tanto agora — quando nossa esperança dá à nossa vida uma pureza focalizada na semelhança de Cristo — como no final — quando “seremos semelhantes a ele”. Somente então, nosso conhecimento dele será completo, porém agora mesmo nosso conhecimento de que “ele é justo” traz à nossa própria vida crescimento em justiça.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Sendo ensinados pelo Espírito, os crentes conhecem todo um sistema de verdade e vida que permanece desconhecido para os que estão no mundo. Essencial a isso é sabermos que, embora não reconhecidos como tal no tempo presente, podemos estar certos de que somos “filhos de Deus” e “nascidos dele”. A revelação pública dessa verdade espera até a revelação pública de Deus mesmo, “quando ele se manifestar” na segunda vinda. Os verdadeiros filhos de Deus terão a semelhança da família, tanto agora — quando nossa esperança dá à nossa vida uma pureza focalizada na semelhança de Cristo — como no final — quando “seremos semelhantes a ele”. Somente então, nosso conhecimento dele será completo, porém agora mesmo nosso conhecimento de que “ele é justo” traz à nossa própria vida crescimento em justiça."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Sendo ensinados pelo Espírito, os crentes conhecem todo um sistema de verdade e vida que permanece desconhecido para os que estão no mundo. Essencial a isso é sabermos que, embora não reconhecidos como tal no tempo presente, podemos estar certos de que somos “filhos de Deus” e “nascidos dele”. A revelação pública dessa verdade espera até a revelação pública de Deus mesmo, “quando ele se manifestar” na segunda vinda. Os verdadeiros filhos de Deus terão a semelhança da família, tanto agora — quando nossa esperança dá à nossa vida uma pureza focalizada na semelhança de Cristo — como no final — quando “seremos semelhantes a ele”. Somente então, nosso conhecimento dele será completo, porém agora mesmo nosso conhecimento de que “ele é justo” traz à nossa própria vida crescimento em justiça."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0028",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "3.3 esta esperanga. A promessa do apareci -",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "esta esperança. A promessa do aparecimento de Cristo enche o crente, não de apreensão, mas de confiança (1Ts 5.4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "esta esperança. A promessa do aparecimento de Cristo enche o crente, não de apreensão, mas de confiança (1Ts 5.4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "esta esperança.",
+          "texto": "A promessa do aparecimento de Cristo enche o crente, não de apreensão, mas de confiança (1Ts 5.4)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0029",
+      "referencia": "3.4-10",
+      "capitulo": 3,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.4-10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "3.4-10 0 contraste basico entre luz e trevas, entre",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "O contraste básico entre luz e trevas, entre filhos de Deus e do mundo, agora é explicado como um contraste entre aqueles que pecam e aqueles que não pecam. Jesus era sem pecado; além disso, ele veio para remover o pecado (v. 5; Jo 1.29). O novo nascimento coloca uma pessoa irrevogavelmente em oposição ao pecado, e, como a semente da nova vida “permanece” nessa pessoa (v. 9; cf. Jo 10.28, 29), a derrota final da corrupção e da morte é inevitável para ela (cf. Rm 6.8, 9). Esse é um dos sentidos em que ninguém que está em Cristo “vive pecando”; porque essa derrota final é certa, o pecado não define a existência do crente, ainda que, até a sua glorificação, ele tenha de lidar com o pecado. João aborda esse aspecto absoluto de ser nascido de novo e falar de acordo com isso. Ele não está negando que o pecado e a morte tenham influência até o fim (1Co 15.26; Ap 20.14). João diz claramente que, nesta vida, ninguém pode ser sem pecado (1.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O contraste básico entre luz e trevas, entre filhos de Deus e do mundo, agora é explicado como um contraste entre aqueles que pecam e aqueles que não pecam. Jesus era sem pecado; além disso, ele veio para remover o pecado (v. 5; Jo 1.29). O novo nascimento coloca uma pessoa irrevogavelmente em oposição ao pecado, e, como a semente da nova vida “permanece” nessa pessoa (v. 9; cf. Jo 10.28, 29), a derrota final da corrupção e da morte é inevitável para ela (cf. Rm 6.8, 9). Esse é um dos sentidos em que ninguém que está em Cristo “vive pecando”; porque essa derrota final é certa, o pecado não define a existência do crente, ainda que, até a sua glorificação, ele tenha de lidar com o pecado. João aborda esse aspecto absoluto de ser nascido de novo e falar de acordo com isso. Ele não está negando que o pecado e a morte tenham influência até o fim (1Co 15.26; Ap 20.14). João diz claramente que, nesta vida, ninguém pode ser sem pecado (1.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O contraste básico entre luz e trevas, entre filhos de Deus e do mundo, agora é explicado como um contraste entre aqueles que pecam e aqueles que não pecam. Jesus era sem pecado; além disso, ele veio para remover o pecado (v. 5; Jo 1.29). O novo nascimento coloca uma pessoa irrevogavelmente em oposição ao pecado, e, como a semente da nova vida “permanece” nessa pessoa (v. 9; cf. Jo 10.28, 29), a derrota final da corrupção e da morte é inevitável para ela (cf. Rm 6.8, 9). Esse é um dos sentidos em que ninguém que está em Cristo “vive pecando”; porque essa derrota final é certa, o pecado não define a existência do crente, ainda que, até a sua glorificação, ele tenha de lidar com o pecado. João aborda esse aspecto absoluto de ser nascido de novo e falar de acordo com isso. Ele não está negando que o pecado e a morte tenham influência até o fim (1Co 15.26; Ap 20.14). João diz claramente que, nesta vida, ninguém pode ser sem pecado (1.8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0030",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "3.4 transgressao da lei. Embora o Antigo Tes-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "transgressão da lei. Embora o Antigo Testamento não seja explicitamente citado em 1 João, sua autoridade é pressuposta. Especificamente, a lei moral, resumida na lei do amor, ainda é a norma para o povo de Deus (Rm 13.8-10; cf. 19.18). “Transgressão da lei” é desobediência a essa lei.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "transgressão da lei. Embora o Antigo Testamento não seja explicitamente citado em 1 João, sua autoridade é pressuposta. Especificamente, a lei moral, resumida na lei do amor, ainda é a norma para o povo de Deus (Rm 13.8-10; cf. 19.18). “Transgressão da lei” é desobediência a essa lei."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "transgressão da lei.",
+          "texto": "Embora o Antigo Testamento não seja explicitamente citado em 1 João, sua autoridade é pressuposta. Especificamente, a lei moral, resumida na lei do amor, ainda é a norma para o povo de Deus (Rm 13.8-10; cf. 19.18). “Transgressão da lei” é desobediência a essa lei."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0031",
+      "referencia": "3.6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.6",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4,
+          5
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "3.6 nao vive pecando; todo aquele que",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "não vive pecando; todo aquele que vive pecando. Aqui, o tempo presente do grego sugere um comportamento que é característico ou habitual, ou seja, pecado persistente e impenitente. Dessa maneira, João reconhece, mas não desculpa, a possibilidade de haver pecado ocasional na vida do crente. Outra possibilidade é que João tenha em mente o pecado específico de apostasia dos últimos dias, mencionado em 2.19 (cf. também 5.16-18). Se isso é verdade, João quer dizer que o verdadeiro crente não abandonará totalmente sua fé. Ver Introdução: Assuntos Especiais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não vive pecando; todo aquele que vive pecando. Aqui, o tempo presente do grego sugere um comportamento que é característico ou habitual, ou seja, pecado persistente e impenitente. Dessa maneira, João reconhece, mas não desculpa, a possibilidade de haver pecado ocasional na vida do crente. Outra possibilidade é que João tenha em mente o pecado específico de apostasia dos últimos dias, mencionado em 2.19 (cf. também 5.16-18). Se isso é verdade, João quer dizer que o verdadeiro crente não abandonará totalmente sua fé. Ver Introdução: Assuntos Especiais."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não vive pecando; todo aquele que vive pecando.",
+          "texto": "Aqui, o tempo presente do grego sugere um comportamento que é característico ou habitual, ou seja, pecado persistente e impenitente. Dessa maneira, João reconhece, mas não desculpa, a possibilidade de haver pecado ocasional na vida do crente. Outra possibilidade é que João tenha em mente o pecado específico de apostasia dos últimos dias, mencionado em 2.19 (cf. também 5.16-18). Se isso é verdade, João quer dizer que o verdadeiro crente não abandonará totalmente sua fé. Ver Introdução: Assuntos Especiais."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0032",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2272,
+        "rotulo_original_ocr": "3.7 pratica a justiga. Ver nota teologica \"Anti-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "pratica a justiça. Ver nota teológica “Antinomianismo”, nesta página.",
+      "remissoes": [
+        "1jo-art-antinomianismo"
+      ],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pratica a justiça. Ver nota teológica “Antinomianismo”, nesta página."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pratica a justiça.",
+          "texto": "Ver nota teológica “Antinomianismo”, nesta página."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0033",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2272,
+        "rotulo_original_ocr": "3.8 destruir as obras do diabo. A oposi -",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "destruir as obras do diabo. A oposição entre Cristo e Satanás foi predita bem cedo, em Gênesis 3.15. Satanás usou a lei justa de Deus como instrumento para manter os pecadores cativos ao temor da morte e da condenação. Por aceitar em sua própria pessoa a penalidade devida a pecadores sob a lei, Cristo tornou o plano de Satanás ineficaz para o crente (Hb 2.14, 15).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "destruir as obras do diabo. A oposição entre Cristo e Satanás foi predita bem cedo, em Gênesis 3.15. Satanás usou a lei justa de Deus como instrumento para manter os pecadores cativos ao temor da morte e da condenação. Por aceitar em sua própria pessoa a penalidade devida a pecadores sob a lei, Cristo tornou o plano de Satanás ineficaz para o crente (Hb 2.14, 15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "destruir as obras do diabo.",
+          "texto": "A oposição entre Cristo e Satanás foi predita bem cedo, em Gênesis 3.15. Satanás usou a lei justa de Deus como instrumento para manter os pecadores cativos ao temor da morte e da condenação. Por aceitar em sua própria pessoa a penalidade devida a pecadores sob a lei, Cristo tornou o plano de Satanás ineficaz para o crente (Hb 2.14, 15)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0034",
+      "referencia": "3.11-15",
+      "capitulo": 3,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.11-15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.11-15 A historia do mundo e uma historia de odio,",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "A história do mundo é uma história de ódio, que remete ao conflito arquetípico entre Caim e Abel. João estabelece a fonte do ódio de Caim na diferença radical entre seus motivos e os de Abel (Jo 3.19; 8.37), uma diferença que sempre existirá entre o mundo e o povo de Deus (v. 13). A comunhão de crentes deve estar livre de animosidade, porque “passamos da morte para a vida” (v. 14). Mas, se a animosidade invade a comunhão, ela o faz tão somente por rejeição da “mensagem que ouvistes desde o princípio” (v. 11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A história do mundo é uma história de ódio, que remete ao conflito arquetípico entre Caim e Abel. João estabelece a fonte do ódio de Caim na diferença radical entre seus motivos e os de Abel (Jo 3.19; 8.37), uma diferença que sempre existirá entre o mundo e o povo de Deus (v. 13). A comunhão de crentes deve estar livre de animosidade, porque “passamos da morte para a vida” (v. 14). Mas, se a animosidade invade a comunhão, ela o faz tão somente por rejeição da “mensagem que ouvistes desde o princípio” (v. 11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A história do mundo é uma história de ódio, que remete ao conflito arquetípico entre Caim e Abel. João estabelece a fonte do ódio de Caim na diferença radical entre seus motivos e os de Abel (Jo 3.19; 8.37), uma diferença que sempre existirá entre o mundo e o povo de Deus (v. 13). A comunhão de crentes deve estar livre de animosidade, porque “passamos da morte para a vida” (v. 14). Mas, se a animosidade invade a comunhão, ela o faz tão somente por rejeição da “mensagem que ouvistes desde o princípio” (v. 11)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0035",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.11 amemos uns aos outros. 0 mandamento",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "amemos uns aos outros. O mandamento de Cristo, fundamentado em seu próprio dom de amor (v. 16; Jo 13.34, 35).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "amemos uns aos outros. O mandamento de Cristo, fundamentado em seu próprio dom de amor (v. 16; Jo 13.34, 35)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "amemos uns aos outros.",
+          "texto": "O mandamento de Cristo, fundamentado em seu próprio dom de amor (v. 16; Jo 13.34, 35)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0036",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.12 Genesis 4:5 explica que Caim sentiu inveja de",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Gênesis 4:5 explica que Caim sentiu inveja de Abel porque a oferta de Abel foi aceita por Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Gênesis 4:5 explica que Caim sentiu inveja de Abel porque a oferta de Abel foi aceita por Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Gênesis 4:5 explica que Caim sentiu inveja de Abel porque a oferta de Abel foi aceita por Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0037",
+      "referencia": "3.16-24",
+      "capitulo": 3,
+      "versiculos": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "3.16-24",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.16-24 0 amor mutuo na comunhao de crentes",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "O amor mútuo na comunhão de crentes é evidência da nova vida. Está baseado no amor de Jesus Cristo, que “deu sua vida por nós”. Ao nos medirmos por esse exemplo, nosso coração “nos acusa” (v. 20), e nossa confiança só pode ser restaurada por alguém maior do que nosso coração: Deus mesmo. Deus, que “conhece todas as coisas”, provou seu amor aos pecadores pelo dom de seu próprio Filho (4.10; Rm 5.8). A confiança fundamentada nessa realidade é acompanhada da segurança de que nossas obras são também aceitas por Deus (v. 22), não como meritórias do céu, mas como o fruto da graça de Deus. E, quando a culpa é tratada, ficamos livres para orar sem impedimento (v. 22). Oração confiante é a marca genuína dos filhos de Deus (Jo 15.7; Rm 8.15, 16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O amor mútuo na comunhão de crentes é evidência da nova vida. Está baseado no amor de Jesus Cristo, que “deu sua vida por nós”. Ao nos medirmos por esse exemplo, nosso coração “nos acusa” (v. 20), e nossa confiança só pode ser restaurada por alguém maior do que nosso coração: Deus mesmo. Deus, que “conhece todas as coisas”, provou seu amor aos pecadores pelo dom de seu próprio Filho (4.10; Rm 5.8). A confiança fundamentada nessa realidade é acompanhada da segurança de que nossas obras são também aceitas por Deus (v. 22), não como meritórias do céu, mas como o fruto da graça de Deus. E, quando a culpa é tratada, ficamos livres para orar sem impedimento (v. 22). Oração confiante é a marca genuína dos filhos de Deus (Jo 15.7; Rm 8.15, 16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O amor mútuo na comunhão de crentes é evidência da nova vida. Está baseado no amor de Jesus Cristo, que “deu sua vida por nós”. Ao nos medirmos por esse exemplo, nosso coração “nos acusa” (v. 20), e nossa confiança só pode ser restaurada por alguém maior do que nosso coração: Deus mesmo. Deus, que “conhece todas as coisas”, provou seu amor aos pecadores pelo dom de seu próprio Filho (4.10; Rm 5.8). A confiança fundamentada nessa realidade é acompanhada da segurança de que nossas obras são também aceitas por Deus (v. 22), não como meritórias do céu, mas como o fruto da graça de Deus. E, quando a culpa é tratada, ficamos livres para orar sem impedimento (v. 22). Oração confiante é a marca genuína dos filhos de Deus (Jo 15.7; Rm 8.15, 16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0038",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.16 deu a sua vida. Cristo aceitou a morte do-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "deu a sua vida. Cristo aceitou a morte dolorosa na cruz para que os crentes fossem salvos da punição eterna (Jo 10.11). O amor mútuo dos cristãos pode não exigir uma decisão tão custosa como esta, mas tem de haver alguma decisão e ação. João menciona a ajuda material como exemplo (v. 17; Tg 1.27).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "deu a sua vida. Cristo aceitou a morte dolorosa na cruz para que os crentes fossem salvos da punição eterna (Jo 10.11). O amor mútuo dos cristãos pode não exigir uma decisão tão custosa como esta, mas tem de haver alguma decisão e ação. João menciona a ajuda material como exemplo (v. 17; Tg 1.27)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "deu a sua vida.",
+          "texto": "Cristo aceitou a morte dolorosa na cruz para que os crentes fossem salvos da punição eterna (Jo 10.11). O amor mútuo dos cristãos pode não exigir uma decisão tão custosa como esta, mas tem de haver alguma decisão e ação. João menciona a ajuda material como exemplo (v. 17; Tg 1.27)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0039",
+      "referencia": "3.20",
+      "capitulo": 3,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "3.20",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.20 Deus e maior do que o nosso coragao.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Deus é maior do que o nosso coração. A Palavra de Deus, que inocenta o crente, deve prevalecer sobre a palavra de nosso coração, que nos condena.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus é maior do que o nosso coração. A Palavra de Deus, que inocenta o crente, deve prevalecer sobre a palavra de nosso coração, que nos condena."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus é maior do que o nosso coração.",
+          "texto": "A Palavra de Deus, que inocenta o crente, deve prevalecer sobre a palavra de nosso coração, que nos condena."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0040",
+      "referencia": "3.22",
+      "capitulo": 3,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "3.22",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.22 aquilo que pedimos. Jesus expressou",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "aquilo que pedimos. Jesus expressou essa confiança no Pai (Jo 11.41, 42) e encorajou seus discípulos a terem confiança semelhante (Jo 14.13, 14). Essa confiança depende da consciência de que nossos desejos estejam em harmonia com os de Deus — ou seja, podemos ter confiança de que o Senhor nos dará o que pedirmos somente quando pedirmos de acordo com a sua vontade (5.14, 15).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "aquilo que pedimos. Jesus expressou essa confiança no Pai (Jo 11.41, 42) e encorajou seus discípulos a terem confiança semelhante (Jo 14.13, 14). Essa confiança depende da consciência de que nossos desejos estejam em harmonia com os de Deus — ou seja, podemos ter confiança de que o Senhor nos dará o que pedirmos somente quando pedirmos de acordo com a sua vontade (5.14, 15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aquilo que pedimos.",
+          "texto": "Jesus expressou essa confiança no Pai (Jo 11.41, 42) e encorajou seus discípulos a terem confiança semelhante (Jo 14.13, 14). Essa confiança depende da consciência de que nossos desejos estejam em harmonia com os de Deus — ou seja, podemos ter confiança de que o Senhor nos dará o que pedirmos somente quando pedirmos de acordo com a sua vontade (5.14, 15)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0041",
+      "referencia": "3.23",
+      "capitulo": 3,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "3.23",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "3.23 seu mandamento e este. As duas partes",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "seu mandamento é este. As duas partes desse mandamento correspondem às duas partes dos Dez Mandamentos, lembrando-nos de que o relacionamento do cristão com Deus tem precedência sobre o relacionamento com seu próximo. A fé em Cristo se relaciona diretamente com Deus, e sua graça renovadora nos capacita a amarmos uns aos outros.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "seu mandamento é este. As duas partes desse mandamento correspondem às duas partes dos Dez Mandamentos, lembrando-nos de que o relacionamento do cristão com Deus tem precedência sobre o relacionamento com seu próximo. A fé em Cristo se relaciona diretamente com Deus, e sua graça renovadora nos capacita a amarmos uns aos outros."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seu mandamento é este.",
+          "texto": "As duas partes desse mandamento correspondem às duas partes dos Dez Mandamentos, lembrando-nos de que o relacionamento do cristão com Deus tem precedência sobre o relacionamento com seu próximo. A fé em Cristo se relaciona diretamente com Deus, e sua graça renovadora nos capacita a amarmos uns aos outros."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0042",
+      "referencia": "4.1-6",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.1-6",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "4.1-6 0 dom do Espirito Santo, dado por Deus, esta",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "O dom do Espírito Santo, dado por Deus, está em contraste com os muitos espíritos que impelem os falsos profetas no mundo a propagarem oposição a Cristo (2.18). Como Paulo fez em 1 Coríntios 12.3, João mostra como podemos distinguir o Espírito da verdade dos espíritos de erro: aqueles que reconhecem Jesus como o Messias são de Deus, enquanto aqueles que não reconhecem Jesus não são. Essa confissão é o maior divisor entre os que são “de Deus” e os que são do “mundo” (cf. 2.18-27).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O dom do Espírito Santo, dado por Deus, está em contraste com os muitos espíritos que impelem os falsos profetas no mundo a propagarem oposição a Cristo (2.18). Como Paulo fez em 1 Coríntios 12.3, João mostra como podemos distinguir o Espírito da verdade dos espíritos de erro: aqueles que reconhecem Jesus como o Messias são de Deus, enquanto aqueles que não reconhecem Jesus não são. Essa confissão é o maior divisor entre os que são “de Deus” e os que são do “mundo” (cf. 2.18-27)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O dom do Espírito Santo, dado por Deus, está em contraste com os muitos espíritos que impelem os falsos profetas no mundo a propagarem oposição a Cristo (2.18). Como Paulo fez em 1 Coríntios 12.3, João mostra como podemos distinguir o Espírito da verdade dos espíritos de erro: aqueles que reconhecem Jesus como o Messias são de Deus, enquanto aqueles que não reconhecem Jesus não são. Essa confissão é o maior divisor entre os que são “de Deus” e os que são do “mundo” (cf. 2.18-27)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0043",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "4.1 tem saido pelo mundo fora. Ver nota em",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "têm saído pelo mundo fora. Ver nota em 2.19.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "têm saído pelo mundo fora. Ver nota em 2.19."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "têm saído pelo mundo fora.",
+          "texto": "Ver nota em 2.19."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0044",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "4.2 Jesus Cristo veio em carne. Joao distin-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Jesus Cristo veio em carne. João distingue o evangelho do erro docético de que Jesus não era verdadeiramente humano (Introdução: Data e Circunstâncias). A humanidade de Cristo era essencial se ele tinha de morrer como um representante verdadeiramente humano em favor de pecadores humanos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Jesus Cristo veio em carne. João distingue o evangelho do erro docético de que Jesus não era verdadeiramente humano (Introdução: Data e Circunstâncias). A humanidade de Cristo era essencial se ele tinha de morrer como um representante verdadeiramente humano em favor de pecadores humanos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Jesus Cristo veio em carne.",
+          "texto": "João distingue o evangelho do erro docético de que Jesus não era verdadeiramente humano (Introdução: Data e Circunstâncias). A humanidade de Cristo era essencial se ele tinha de morrer como um representante verdadeiramente humano em favor de pecadores humanos."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0045",
+      "referencia": "4.3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4.3",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "4.3 o anticristo. Ver nota em 2.18",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "o anticristo. Ver nota em 2.18.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o anticristo. Ver nota em 2.18."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o anticristo.",
+          "texto": "Ver nota em 2.18."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0046",
+      "referencia": "4.4",
+      "capitulo": 4,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "4.4",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2273,
+        "rotulo_original_ocr": "4.4 aquele que esta no mundo. Em sua hos-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "aquele que está no mundo. Em sua hostilidade para com Deus, o mundo está permeado de propósitos do diabo, que tem cativado a raça humana por meio de tentação (5.19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "aquele que está no mundo. Em sua hostilidade para com Deus, o mundo está permeado de propósitos do diabo, que tem cativado a raça humana por meio de tentação (5.19)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aquele que está no mundo.",
+          "texto": "Em sua hostilidade para com Deus, o mundo está permeado de propósitos do diabo, que tem cativado a raça humana por meio de tentação (5.19)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0047",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.6 de Deus. 0 Espirito Santo une os crentes",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "de Deus. O Espírito Santo une os crentes.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "de Deus. O Espírito Santo une os crentes."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "de Deus.",
+          "texto": "O Espírito Santo une os crentes."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0048",
+      "referencia": "4.7-12",
+      "capitulo": 4,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "4.7-12",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.7-12 0 amor de Deus, o Pai, por \"seu Filho unige-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "O amor de Deus, o Pai, por “seu Filho unigênito” (v. 9) é a fonte do amor que une a comunhão de crentes em uma família. Por nos dar seu Filho, o Pai nos introduz no amor perfeito e na vida eterna que o Pai e o Filho sempre desfrutaram.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O amor de Deus, o Pai, por “seu Filho unigênito” (v. 9) é a fonte do amor que une a comunhão de crentes em uma família. Por nos dar seu Filho, o Pai nos introduz no amor perfeito e na vida eterna que o Pai e o Filho sempre desfrutaram."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O amor de Deus, o Pai, por “seu Filho unigênito” (v. 9) é a fonte do amor que une a comunhão de crentes em uma família. Por nos dar seu Filho, o Pai nos introduz no amor perfeito e na vida eterna que o Pai e o Filho sempre desfrutaram."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0049",
+      "referencia": "4.9",
+      "capitulo": 4,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "4.9",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.9 Filho unigenito. Essa expressao poderia",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Filho unigênito. Essa expressão poderia ser traduzida mais fielmente como “único Filho gerado”, o que significa que Jesus é Filho de Deus desde toda a eternidade, como a segunda pessoa da Trindade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Filho unigênito. Essa expressão poderia ser traduzida mais fielmente como “único Filho gerado”, o que significa que Jesus é Filho de Deus desde toda a eternidade, como a segunda pessoa da Trindade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Filho unigênito.",
+          "texto": "Essa expressão poderia ser traduzida mais fielmente como “único Filho gerado”, o que significa que Jesus é Filho de Deus desde toda a eternidade, como a segunda pessoa da Trindade."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0050",
+      "referencia": "4.10",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "4.10",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.10 propiciagao pelos nossos pecados.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "propiciação pelos nossos pecados. Ver nota em 2.2. Cristo removeu a ira justa de Deus e satisfez as exigências de sua justiça em nosso lugar. Jesus fez isso para satisfazer o amor de Deus por nós.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "propiciação pelos nossos pecados. Ver nota em 2.2. Cristo removeu a ira justa de Deus e satisfez as exigências de sua justiça em nosso lugar. Jesus fez isso para satisfazer o amor de Deus por nós."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "propiciação pelos nossos pecados.",
+          "texto": "Ver nota em 2.2. Cristo removeu a ira justa de Deus e satisfez as exigências de sua justiça em nosso lugar. Jesus fez isso para satisfazer o amor de Deus por nós."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0051",
+      "referencia": "4.14",
+      "capitulo": 4,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "4.14",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.14 Salvador do mundo. Ver nota em 2.2.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Salvador do mundo. Ver nota em 2.2.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Salvador do mundo. Ver nota em 2.2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Salvador do mundo.",
+          "texto": "Ver nota em 2.2."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0052",
+      "referencia": "4.16",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "4.16",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.16 Deus e amor. 0 amor de Deus e manifes-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Deus é amor. O amor de Deus é manifestado em sua fidelidade pactual e em sua busca incessante por pecadores, apesar da rebelião ou da indiferença deles (v. 8; Êx 34.5-7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus é amor. O amor de Deus é manifestado em sua fidelidade pactual e em sua busca incessante por pecadores, apesar da rebelião ou da indiferença deles (v. 8; Êx 34.5-7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus é amor.",
+          "texto": "O amor de Deus é manifestado em sua fidelidade pactual e em sua busca incessante por pecadores, apesar da rebelião ou da indiferença deles (v. 8; Êx 34.5-7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0053",
+      "referencia": "4.17",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.17",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.17 tambem nos somos. Embora nao da mes-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "também nós somos. Embora não da mesma forma que Cristo na plenitude de obediência, nós, os crentes, somos como ele em nossa orientação básica e permanecemos como ele, em contraste com o mundo em geral (Jo 17.16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "também nós somos. Embora não da mesma forma que Cristo na plenitude de obediência, nós, os crentes, somos como ele em nossa orientação básica e permanecemos como ele, em contraste com o mundo em geral (Jo 17.16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "também nós somos.",
+          "texto": "Embora não da mesma forma que Cristo na plenitude de obediência, nós, os crentes, somos como ele em nossa orientação básica e permanecemos como ele, em contraste com o mundo em geral (Jo 17.16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0054",
+      "referencia": "4.18",
+      "capitulo": 4,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "4.18",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "4.18 nao e aperfeigoado no amor. 0 amor de",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "não é aperfeiçoado no amor. O amor de Deus é perfeito em si mesmo e nos traz a promessa inabalável da perfeição final assim que o recebemos (vv. 12, 17; 2.5). Mas, como estamos sendo aperfeiçoados no amor de Cristo à medida que o tempo vai passando, reminiscências de temor podem coexistir temporariamente com o amor. O “perfeito amor” de Deus “lança fora o medo” progressivamente, e não de forma instantânea. A palavra “perfeito” talvez seja traduzida mais fielmente por “completo”, aqui e em toda esta epístola.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não é aperfeiçoado no amor. O amor de Deus é perfeito em si mesmo e nos traz a promessa inabalável da perfeição final assim que o recebemos (vv. 12, 17; 2.5). Mas, como estamos sendo aperfeiçoados no amor de Cristo à medida que o tempo vai passando, reminiscências de temor podem coexistir temporariamente com o amor. O “perfeito amor” de Deus “lança fora o medo” progressivamente, e não de forma instantânea. A palavra “perfeito” talvez seja traduzida mais fielmente por “completo”, aqui e em toda esta epístola."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não é aperfeiçoado no amor.",
+          "texto": "O amor de Deus é perfeito em si mesmo e nos traz a promessa inabalável da perfeição final assim que o recebemos (vv. 12, 17; 2.5). Mas, como estamos sendo aperfeiçoados no amor de Cristo à medida que o tempo vai passando, reminiscências de temor podem coexistir temporariamente com o amor. O “perfeito amor” de Deus “lança fora o medo” progressivamente, e não de forma instantânea. A palavra “perfeito” talvez seja traduzida mais fielmente por “completo”, aqui e em toda esta epístola."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0055",
+      "referencia": "5.1",
+      "capitulo": 5,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "5.1",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "5.1 Todo aquele que ere que Jesus e o Cris-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "Todo aquele que crê que Jesus é o Cristo é nascido de Deus. O tempo do verbo “é nascido” aponta para a condição permanente de viver num estado de nascido de novo. Isso provavelmente significa que o “crer” surge dessa condição. E parece corresponder a João 1.12, 13 (cf. Jo 3.3-8). De modo semelhante, 1Jo 3.9 diz que o cristão “não pode viver pecando, porque é nascido de Deus”. Isso significa que a “divina semente” permanece nele, para que sua natureza seja mudada e ele tenha inclinação permanente para a justiça (cf. 5.18). Ser nascido de Deus é também a base para João dizer que os verdadeiros cristãos venceram “o mundo” (5.4) e está ligado à proteção de Deus contra o “Maligno” (5.18, 19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Todo aquele que crê que Jesus é o Cristo é nascido de Deus. O tempo do verbo “é nascido” aponta para a condição permanente de viver num estado de nascido de novo. Isso provavelmente significa que o “crer” surge dessa condição. E parece corresponder a João 1.12, 13 (cf. Jo 3.3-8). De modo semelhante, 1Jo 3.9 diz que o cristão “não pode viver pecando, porque é nascido de Deus”. Isso significa que a “divina semente” permanece nele, para que sua natureza seja mudada e ele tenha inclinação permanente para a justiça (cf. 5.18). Ser nascido de Deus é também a base para João dizer que os verdadeiros cristãos venceram “o mundo” (5.4) e está ligado à proteção de Deus contra o “Maligno” (5.18, 19)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Todo aquele que crê que Jesus é o Cristo é nascido de Deus.",
+          "texto": "O tempo do verbo “é nascido” aponta para a condição permanente de viver num estado de nascido de novo. Isso provavelmente significa que o “crer” surge dessa condição. E parece corresponder a João 1.12, 13 (cf. Jo 3.3-8). De modo semelhante, 1Jo 3.9 diz que o cristão “não pode viver pecando, porque é nascido de Deus”. Isso significa que a “divina semente” permanece nele, para que sua natureza seja mudada e ele tenha inclinação permanente para a justiça (cf. 5.18). Ser nascido de Deus é também a base para João dizer que os verdadeiros cristãos venceram “o mundo” (5.4) e está ligado à proteção de Deus contra o “Maligno” (5.18, 19)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0056",
+      "referencia": "5.3",
+      "capitulo": 5,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "5.3",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "5.3 seus mandamentos nao sao penosos.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "seus mandamentos não são penosos. Porque os cristãos são nascidos de Deus e receberam novo poder, são capazes de guardar os mandamentos de Deus com alegria, pois têm a capacidade de guardar esses mandamentos, enquanto os incrédulos não a têm.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "seus mandamentos não são penosos. Porque os cristãos são nascidos de Deus e receberam novo poder, são capazes de guardar os mandamentos de Deus com alegria, pois têm a capacidade de guardar esses mandamentos, enquanto os incrédulos não a têm."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seus mandamentos não são penosos.",
+          "texto": "Porque os cristãos são nascidos de Deus e receberam novo poder, são capazes de guardar os mandamentos de Deus com alegria, pois têm a capacidade de guardar esses mandamentos, enquanto os incrédulos não a têm."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0057",
+      "referencia": "5.4",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "5.4",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "5.4 vence o mundo. Ver nota em 2.13.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "vence o mundo. Ver nota em 2.13.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "vence o mundo. Ver nota em 2.13."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vence o mundo.",
+          "texto": "Ver nota em 2.13."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0058",
+      "referencia": "5.6",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "5.6",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7,
+          8
+        ],
+        "pagina_impressa": 2274,
+        "rotulo_original_ocr": "5.6 por meio de agua e sangue. Alguns suge",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "por meio de água e sangue. Alguns sugerem que “água” se refere ao batismo de Jesus, e “sangue”, à crucificação. Isso é improvável, pois, em seu evangelho, João não relata diretamente o batismo de Jesus. Outros sugerem que “água e sangue” se referem às duas ordenanças, o batismo e a Ceia do Senhor. Isso também é improvável, porque João não relata a instituição das ordenanças em seu evangelho. A afirmação difícil do versículo reflete, provavelmente, João 19.34. No evangelho de João, o testemunho dado por Deus a respeito de Jesus, seu Filho, é um tema-chave. O sangue e a água que fluíram do lado de Jesus, depois de sua morte, atestaram a realidade de sua morte; a ferida confirmou posteriormente a realidade de sua ressurreição corporal (Jo 20.20; 25-27). Tanto a morte como a ressurreição eram negadas pelos docetistas, que recusavam a humanidade de Cristo (4.2). O Espírito “dá testemunho” da verdade da encarnação de Jesus como o Cristo divino.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "por meio de água e sangue. Alguns sugerem que “água” se refere ao batismo de Jesus, e “sangue”, à crucificação. Isso é improvável, pois, em seu evangelho, João não relata diretamente o batismo de Jesus. Outros sugerem que “água e sangue” se referem às duas ordenanças, o batismo e a Ceia do Senhor. Isso também é improvável, porque João não relata a instituição das ordenanças em seu evangelho. A afirmação difícil do versículo reflete, provavelmente, João 19.34. No evangelho de João, o testemunho dado por Deus a respeito de Jesus, seu Filho, é um tema-chave. O sangue e a água que fluíram do lado de Jesus, depois de sua morte, atestaram a realidade de sua morte; a ferida confirmou posteriormente a realidade de sua ressurreição corporal (Jo 20.20; 25-27). Tanto a morte como a ressurreição eram negadas pelos docetistas, que recusavam a humanidade de Cristo (4.2). O Espírito “dá testemunho” da verdade da encarnação de Jesus como o Cristo divino."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "por meio de água e sangue.",
+          "texto": "Alguns sugerem que “água” se refere ao batismo de Jesus, e “sangue”, à crucificação. Isso é improvável, pois, em seu evangelho, João não relata diretamente o batismo de Jesus. Outros sugerem que “água e sangue” se referem às duas ordenanças, o batismo e a Ceia do Senhor. Isso também é improvável, porque João não relata a instituição das ordenanças em seu evangelho. A afirmação difícil do versículo reflete, provavelmente, João 19.34. No evangelho de João, o testemunho dado por Deus a respeito de Jesus, seu Filho, é um tema-chave. O sangue e a água que fluíram do lado de Jesus, depois de sua morte, atestaram a realidade de sua morte; a ferida confirmou posteriormente a realidade de sua ressurreição corporal (Jo 20.20; 25-27). Tanto a morte como a ressurreição eram negadas pelos docetistas, que recusavam a humanidade de Cristo (4.2). O Espírito “dá testemunho” da verdade da encarnação de Jesus como o Cristo divino."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0059",
+      "referencia": "5.7",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "5.7",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.7 tres que dao testemunho. Ver nota teolo-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "três que dão testemunho. Ver nota teológica “A Triunidade de Deus”, na p. 1204.",
+      "remissoes": [
+        "1jo-rem-0059-1204"
+      ],
+      "links_notas": [
+        {
+          "livro": "Is",
+          "capitulo": 44,
+          "versiculo": 8
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "três que dão testemunho. Ver nota teológica “A Triunidade de Deus”, na p. 1204."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "três que dão testemunho.",
+          "texto": "Ver nota teológica “A Triunidade de Deus”, na p. 1204."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0060",
+      "referencia": "5.9",
+      "capitulo": 5,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "5.9",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.9 o testemunho de Deus e maior. Por ape-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "o testemunho de Deus é maior. Por apelar diretamente a Deus como testemunha, João, à semelhança de Jesus, anula toda disputa humana (Jo 5.31-39).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o testemunho de Deus é maior. Por apelar diretamente a Deus como testemunha, João, à semelhança de Jesus, anula toda disputa humana (Jo 5.31-39)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o testemunho de Deus é maior.",
+          "texto": "Por apelar diretamente a Deus como testemunha, João, à semelhança de Jesus, anula toda disputa humana (Jo 5.31-39)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0061",
+      "referencia": "5.11",
+      "capitulo": 5,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "5.11",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.11 a vida etema... no seu Filho. Esta e a ver-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "a vida eterna... no seu Filho. Esta é a verdade fundamental da mensagem cristã.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a vida eterna... no seu Filho. Esta é a verdade fundamental da mensagem cristã."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a vida eterna... no seu Filho.",
+          "texto": "Esta é a verdade fundamental da mensagem cristã."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0062",
+      "referencia": "5.13",
+      "capitulo": 5,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "5.13",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.13 0 Evangelho de Joao foi escrito para levar os",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "O Evangelho de João foi escrito para levar os leitores à fé em Jesus, a fim de que recebessem a vida eterna (Jo 20.31). Esta epístola foi escrita para assegurar àqueles que creram de que possuem realmente o dom inestimável.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O Evangelho de João foi escrito para levar os leitores à fé em Jesus, a fim de que recebessem a vida eterna (Jo 20.31). Esta epístola foi escrita para assegurar àqueles que creram de que possuem realmente o dom inestimável."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O Evangelho de João foi escrito para levar os leitores à fé em Jesus, a fim de que recebessem a vida eterna (Jo 20.31). Esta epístola foi escrita para assegurar àqueles que creram de que possuem realmente o dom inestimável."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0063",
+      "referencia": "5.16",
+      "capitulo": 5,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "5.16",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.16 pecam para morte. Alguns conectam esse",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "pecam para morte. Alguns conectam esse pecado ao pecado imperdoável mencionado em Mateus 12.31-32; Marcos 3.28-30; Lucas 12.8-10. Mais provavelmente, João está se referindo à recusa obstinada de aceitar a mensagem do evangelho (1.10, nota; Jo 8.24), que é o pecado de apostasia em seguir o ensino dos anticristos. Ver Introdução: Assuntos Especiais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pecam para morte. Alguns conectam esse pecado ao pecado imperdoável mencionado em Mateus 12.31-32; Marcos 3.28-30; Lucas 12.8-10. Mais provavelmente, João está se referindo à recusa obstinada de aceitar a mensagem do evangelho (1.10, nota; Jo 8.24), que é o pecado de apostasia em seguir o ensino dos anticristos. Ver Introdução: Assuntos Especiais."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pecam para morte.",
+          "texto": "Alguns conectam esse pecado ao pecado imperdoável mencionado em Mateus 12.31-32; Marcos 3.28-30; Lucas 12.8-10. Mais provavelmente, João está se referindo à recusa obstinada de aceitar a mensagem do evangelho (1.10, nota; Jo 8.24), que é o pecado de apostasia em seguir o ensino dos anticristos. Ver Introdução: Assuntos Especiais."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0064",
+      "referencia": "5.18",
+      "capitulo": 5,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "5.18",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.18 nao vive em pecado. Ver nota em 3.6.",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "não vive em pecado. Ver nota em 3.6.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não vive em pecado. Ver nota em 3.6."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não vive em pecado.",
+          "texto": "Ver nota em 3.6."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0065",
+      "referencia": "5.19",
+      "capitulo": 5,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "5.19",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.19 jaz no Maligno. Nmguem pode escapar da",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "jaz no Maligno. Ninguém pode escapar da rede de tentação, pecado e condenação do diabo sem a ajuda de Deus. Entretanto, igualmente, ninguém pode escapar de sua responsabilidade ao tentar culpar outro agente, inclusive o diabo, por sua condição (Gn 3.12-13). Paradoxalmente, a escravidão ao pecado é voluntária, ou seja, todas as pessoas escolhem, em Adão, escravizar a si mesmas ao pecado e continuam a escolher pecar sem serem coagidas (Rm 5.12-21; Tg 1.13-15). Somente o Filho de Deus pode desfazer essa escravidão e substituí-la por uma vida de perdão, gratidão e obediência (3.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "jaz no Maligno. Ninguém pode escapar da rede de tentação, pecado e condenação do diabo sem a ajuda de Deus. Entretanto, igualmente, ninguém pode escapar de sua responsabilidade ao tentar culpar outro agente, inclusive o diabo, por sua condição (Gn 3.12-13). Paradoxalmente, a escravidão ao pecado é voluntária, ou seja, todas as pessoas escolhem, em Adão, escravizar a si mesmas ao pecado e continuam a escolher pecar sem serem coagidas (Rm 5.12-21; Tg 1.13-15). Somente o Filho de Deus pode desfazer essa escravidão e substituí-la por uma vida de perdão, gratidão e obediência (3.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "jaz no Maligno.",
+          "texto": "Ninguém pode escapar da rede de tentação, pecado e condenação do diabo sem a ajuda de Deus. Entretanto, igualmente, ninguém pode escapar de sua responsabilidade ao tentar culpar outro agente, inclusive o diabo, por sua condição (Gn 3.12-13). Paradoxalmente, a escravidão ao pecado é voluntária, ou seja, todas as pessoas escolhem, em Adão, escravizar a si mesmas ao pecado e continuam a escolher pecar sem serem coagidas (Rm 5.12-21; Tg 1.13-15). Somente o Filho de Deus pode desfazer essa escravidão e substituí-la por uma vida de perdão, gratidão e obediência (3.8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-1jo-0066",
+      "referencia": "5.20",
+      "capitulo": 5,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "5.20",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.20 o verdadeiro. Estar em Deus, que e verda-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "texto": "o verdadeiro. Estar em Deus, que é verdadeiro, e estar em seu Filho, Jesus Cristo, andam inseparavelmente juntos. A gramática desse versículo é difícil, porém é mais razoável entender que “o verdadeiro Deus e a vida eterna” é Jesus Cristo. Entender a designação como se referindo ao Pai torna o versículo repetitivo. Além disso, a expressão “vida eterna” também é aplicada a Cristo em 1.2.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o verdadeiro. Estar em Deus, que é verdadeiro, e estar em seu Filho, Jesus Cristo, andam inseparavelmente juntos. A gramática desse versículo é difícil, porém é mais razoável entender que “o verdadeiro Deus e a vida eterna” é Jesus Cristo. Entender a designação como se referindo ao Pai torna o versículo repetitivo. Além disso, a expressão “vida eterna” também é aplicada a Cristo em 1.2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o verdadeiro.",
+          "texto": "Estar em Deus, que é verdadeiro, e estar em seu Filho, Jesus Cristo, andam inseparavelmente juntos. A gramática desse versículo é difícil, porém é mais razoável entender que “o verdadeiro Deus e a vida eterna” é Jesus Cristo. Entender a designação como se referindo ao Pai torna o versículo repetitivo. Além disso, a expressão “vida eterna” também é aplicada a Cristo em 1.2."
+        }
+      ]
+    }
+  ],
+  "artigos": [
+    {
+      "id": "1jo-art-antinomianismo",
+      "titulo": "Antinomianismo",
+      "pagina_original": 5,
+      "paragrafos": [
+        "Antinomianismo significa, literalmente, “contra a lei”. Nega ou minimiza a importância da lei de Deus na vida do crente. É o oposto de sua heresia gêmea, “legalismo”.",
+        "Os antinomianos adquirem seu desgosto pela lei de várias maneiras. Alguns creem que não estão mais obrigados a guardar a lei moral de Deus, porque Jesus os teria libertado da lei. Insistem em que a graça não somente nos liberta da maldição da lei de Deus, como também nos livra de qualquer obrigação de obedecermos a essa mesma lei de Deus. A graça se torna, então, uma licença para a desobediência.",
+        "O fato impressionante é que as pessoas que sustentam essa opinião desprezam o vigoroso ensinamento de Paulo contra ela. Paulo, mais do que qualquer outro escritor do Novo Testamento, enfatizou as diferenças entre lei e graça. Ele se gloriava na nova aliança. Apesar disso, foi o mais explícito na condenação do antinomianismo. Em Romanos 3.31, ele escreveu: “Anulamos, pois, a lei pela fé? Não, de maneira nenhuma! Antes, confirmamos a lei”.",
+        "Martinho Lutero, ao expressar a doutrina da justificação somente pela fé, foi acusado de antinomianismo. Mas ele também afirmou, como Tiago, que “a fé sem obras é morta”. Lutero contendeu com seu aluno João Agrícola sobre esse assunto. Agrícola negava que a lei tivesse qualquer propósito na vida do crente. Até negava que a lei servisse para preparar o pecador para a graça. Lutero respondeu a Agrícola com sua obra Contra os antinomianos, em 1539. Mais tarde, Agrícola se retratou de seus ensinos antinomianos, mas a questão permaneceu.",
+        "Teólogos luteranos subsequentes afirmaram o ponto de vista de Lutero sobre a lei. Na Fórmula de Concórdia [Livro de Concórdia] (1577), a última das declarações de fé clássicas dos luteranos, eles expressaram três usos da lei: (a) revelar o pecado; (2) estabelecer a decência geral na sociedade; (3) prover uma norma de vida para os regenerados pela fé em Cristo.",
+        "O erro primário do antinomianismo consiste em confundir a justificação com a santificação. Somos justificados somente pela fé, sem obras. No entanto, todos os crentes crescem em fé ao guardarem os santos mandamentos de Deus — não para ganharem o favor de Deus, mas motivados por gratidão amorosa pela graça que receberam por meio da obra de Cristo.",
+        "É um erro grave concluir que o Antigo Testamento seria uma aliança de lei, e o Novo Testamento, uma aliança de graça. O Antigo Testamento é um testemunho monumental da graça de Deus para com seu povo. De modo semelhante, o Novo Testamento está literalmente cheio de mandamentos. Não somos salvos pela lei, mas demonstramos nosso amor a Cristo por obedecermos aos seus mandamentos. “Se me amais”, disse Jesus, “guardareis os meus mandamentos” (Jo 14.15).",
+        "Ouvimos frequentemente a seguinte afirmação: “O cristianismo não é uma porção de ‘faça’ e ‘não faça’; não é uma lista de regras”. Há alguma verdade nessa dedução, visto que o cristianismo é muito mais do que uma lista de regras. É, em seu âmago, um relacionamento pessoal com o próprio Cristo. Mas o cristianismo, igualmente, não é nada menos que regras. O Novo Testamento inclui claramente alguns “faça” e “não faça”. O cristianismo não é uma religião que sanciona a ideia de que todos têm o direito de fazer o que é certo a seus próprios olhos. Pelo contrário, o cristianismo nunca dá a alguém o “direito” de fazer o que é errado."
+      ],
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 5,
+        "pagina_impressa": 2272,
+        "metodo": "cotejo visual das duas colunas da página 2272; itálicos pendentes"
+      },
+      "estado_editorial": "cotejo_visual_v1_artigo"
+    }
+  ],
+  "remissoes": [
+    {
+      "id": "1jo-rem-0010-1875",
+      "status": "resolvida_indice_global",
+      "titulo": "Expiação Definida",
+      "citado_em": "fr-1jo-0010",
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2269,
+        "rotulo_original_ocr": "2.2 propiciagao. Urn sacrificio oferecido a Deus",
+        "metodo": "cotejo visual das páginas 2268–2269; itálicos e versaletes pendentes"
+      },
+      "pagina_impressa_artigo": 1875,
+      "evidencia": "Remissão explícita impressa, p. 1875.",
+      "artigo_id": "jo-art-expiacao-definida",
+      "livro_artigo": "Jo",
+      "arquivo_artigo": "dados/notas/fe-reformada/Jo.json",
+      "observacao": "Abertura direta entre livros pendente no leitor V19."
+    },
+    {
+      "id": "1jo-rem-0025-2018",
+      "status": "resolvida_indice_global",
+      "titulo": "A Iluminação do Espírito Santo",
+      "citado_em": "fr-1jo-0025",
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2271,
+        "rotulo_original_ocr": "2.27 nao tendes necessidade de que al-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "pagina_impressa_artigo": 2018,
+      "evidencia": "Remissão explícita impressa, p. 2018.",
+      "artigo_id": "1co-art-a-iluminacao-do-espirito-santo",
+      "livro_artigo": "1Co",
+      "arquivo_artigo": "dados/notas/fe-reformada/1Co.json",
+      "observacao": "Abertura direta entre livros pendente no leitor V19."
+    },
+    {
+      "id": "1jo-rem-0059-1204",
+      "status": "resolvida_indice_global",
+      "titulo": "A Triunidade de Deus",
+      "citado_em": "fr-1jo-0059",
+      "origem": {
+        "pdf": "132 - 1 João (1Jo).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 2275,
+        "rotulo_original_ocr": "5.7 tres que dao testemunho. Ver nota teolo-",
+        "metodo": "cotejo visual da edição impressa; itálicos e versaletes pendentes"
+      },
+      "pagina_impressa_artigo": 1204,
+      "evidencia": "Remissão explícita impressa, p. 1204.",
+      "artigo_id": "is-art-a-triunidade-de-deus",
+      "livro_artigo": "Is",
+      "arquivo_artigo": "dados/notas/fe-reformada/Is.json",
+      "observacao": "Abertura direta entre livros pendente no leitor V19."
+    }
+  ]
+}

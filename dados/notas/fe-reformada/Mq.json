@@ -1,0 +1,4421 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Mq",
+  "titulo": "Miqueias",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "071 - Miqueias (Mq).pdf",
+    "paginas_pdf": [
+      1,
+      12
+    ],
+    "observacao": "Cotejo visual V1 dos capítulos 1–7, com parágrafos e títulos; itálicos/versaletes e segunda leitura independente pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-mq-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.1 em visao veio. A mensagem divina comuni-",
+        "texto_ocr_pre_normalizacao": "em visao veio. A mensagem divina comunicadaaMiqueiasassume a formadeuma revelagao sobrenatural dada a visao oua audigaointerior do profeta. Miqueias, morastita.0nome Miqueias e uma forma abreviada de Micayahu (\"Quern e seme- Ihante a Jave?\"). A cidade de Moresete localizava- -se perto de Gate,na Sefelado sudoeste de Juda.",
+        "correcoes_literal_reversiveis": {
+          "revelagao": 1
+        }
+      },
+      "texto": "em visão veio. A mensagem divina comunicada a Miqueias assume a forma de uma revelação sobrenatural dada à visão ou à audição interior do profeta.\n\nMiqueias, morastita. O nome Miqueias é uma forma abreviada de Micayahu (“Quem é semelhante a Javé?”). A cidade de Moresete localizava-se perto de Gate, na Sefelá do sudoeste de Judá.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "em visão veio. A mensagem divina comunicada a Miqueias assume a forma de uma revelação sobrenatural dada à visão ou à audição interior do profeta.",
+        "Miqueias, morastita. O nome Miqueias é uma forma abreviada de Micayahu (“Quem é semelhante a Javé?”). A cidade de Moresete localizava-se perto de Gate, na Sefelá do sudoeste de Judá."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "em visão veio.",
+          "texto": "A mensagem divina comunicada a Miqueias assume a forma de uma revelação sobrenatural dada à visão ou à audição interior do profeta."
+        },
+        {
+          "titulo": "Miqueias, morastita.",
+          "texto": "O nome Miqueias é uma forma abreviada de Micayahu (“Quem é semelhante a Javé?”). A cidade de Moresete localizava-se perto de Gate, na Sefelá do sudoeste de Judá."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0002",
+      "referencia": "1.2-7",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.2-7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.2-7 Essaprofeciacontem quatropartes:intimagao",
+        "texto_ocr_pre_normalizacao": "Essaprofeciacontem quatropartes:intimagao dasnagoes paravirem ajulgamento(v. 2);uma visao simbolica de Deus eliminando a criagao (vv. 3, 4); umaacusagaocontraas duas capitals (v. 5);easentengadivinaparaadestruigaodeSamaria(vv.6, 7).",
+        "correcoes_literal_reversiveis": {
+          "criagao": 1
+        }
+      },
+      "texto": "Essa profecia contém quatro partes: intimação das nações para virem a julgamento (v. 2); uma visão simbólica de Deus eliminando a criação (vv. 3, 4); uma acusação contra as duas capitais (v. 5); e a sentença divina para a destruição de Samaria (vv. 6, 7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa profecia contém quatro partes: intimação das nações para virem a julgamento (v. 2); uma visão simbólica de Deus eliminando a criação (vv. 3, 4); uma acusação contra as duas capitais (v. 5); e a sentença divina para a destruição de Samaria (vv. 6, 7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa profecia contém quatro partes: intimação das nações para virem a julgamento (v. 2); uma visão simbólica de Deus eliminando a criação (vv. 3, 4); uma acusação contra as duas capitais (v. 5); e a sentença divina para a destruição de Samaria (vv. 6, 7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0003",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.2 todos os povos... contra vos. 0 julga-"
+      },
+      "texto": "todos os povos... contra vós. O julgamento de Deus contra Samaria (vv. 6, 7) exemplifica e prefigura seu julgamento contra todos os povos que cometem idolatria e crimes sociais.\n\nseu santo templo. Ou seja, sua habitação celestial (Sl 11.4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "todos os povos... contra vós. O julgamento de Deus contra Samaria (vv. 6, 7) exemplifica e prefigura seu julgamento contra todos os povos que cometem idolatria e crimes sociais.",
+        "seu santo templo. Ou seja, sua habitação celestial (Sl 11.4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "todos os povos... contra vós.",
+          "texto": "O julgamento de Deus contra Samaria (vv. 6, 7) exemplifica e prefigura seu julgamento contra todos os povos que cometem idolatria e crimes sociais."
+        },
+        {
+          "titulo": "seu santo templo.",
+          "texto": "Ou seja, sua habitação celestial (Sl 11.4)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0004",
+      "referencia": "1.3-5",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.3-5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.3-5 Por tras damarcha do exercito assirio,opro-"
+      },
+      "texto": "Por trás da marcha do exército assírio, o profeta vê a mão de Deus (cf. Is 10.5, 6). A intensidade do julgamento divino contra Jerusalém e Samaria é vividamente retratada como uma destruição da própria ordem criada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Por trás da marcha do exército assírio, o profeta vê a mão de Deus (cf. Is 10.5, 6). A intensidade do julgamento divino contra Jerusalém e Samaria é vividamente retratada como uma destruição da própria ordem criada."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Por trás da marcha do exército assírio, o profeta vê a mão de Deus (cf. Is 10.5, 6). A intensidade do julgamento divino contra Jerusalém e Samaria é vividamente retratada como uma destruição da própria ordem criada."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0005",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.3 os altos. Quern controla os lugares altos de"
+      },
+      "texto": "os altos. Quem controla os lugares altos de Israel controla a terra. Isso provavelmente se refere a essas montanhas, e não aos santuários cananeus conhecidos como “altos”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "os altos. Quem controla os lugares altos de Israel controla a terra. Isso provavelmente se refere a essas montanhas, e não aos santuários cananeus conhecidos como “altos”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os altos.",
+          "texto": "Quem controla os lugares altos de Israel controla a terra. Isso provavelmente se refere a essas montanhas, e não aos santuários cananeus conhecidos como “altos”."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0006",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.4 fogo... se precipitam num abismo. Es-"
+      },
+      "texto": "fogo... se precipitam num abismo. Essas palavras associam a visão simbólica à destruição histórica de Samaria (vv. 6, 7), que se localizava numa colina (1Rs 16.24).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "fogo... se precipitam num abismo. Essas palavras associam a visão simbólica à destruição histórica de Samaria (vv. 6, 7), que se localizava numa colina (1Rs 16.24)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fogo... se precipitam num abismo.",
+          "texto": "Essas palavras associam a visão simbólica à destruição histórica de Samaria (vv. 6, 7), que se localizava numa colina (1Rs 16.24)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0007",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.5 Jaco... Israel. Com frequencia, os nomes",
+        "texto_ocr_pre_normalizacao": "Jaco... Israel. Com frequencia, os nomes \"Jaco\" e \"Israel” ocorrem juntos em Miqueias, referindo-se a todo o povo da alianga. As vezes, \"Jaco\" representa o povo como um todo (2.12; 3.1,8, 9). A segundaocorrenciade “Jaco\" nesse versiculo indica o reino do Norte,Israel (com sua capital,Samaria), comodistintodeJuda(com suacapital,Jerusalem). Nesse livro, \"Israel\" designa, geralmente, Juda como representando toda a nagao.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1,
+          "nagao": 1
+        }
+      },
+      "texto": "Jacó... Israel. Com frequência, os nomes “Jacó” e “Israel” ocorrem juntos em Miqueias, referindo-se a todo o povo da aliança. Às vezes, “Jacó” representa o povo como um todo (2.12; 3.1, 8, 9). A segunda ocorrência de “Jacó” nesse versículo indica o reino do Norte, Israel (com sua capital, Samaria), como distinto de Judá (com sua capital, Jerusalém). Nesse livro, “Israel” designa, geralmente, Judá como representando toda a nação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Jacó... Israel. Com frequência, os nomes “Jacó” e “Israel” ocorrem juntos em Miqueias, referindo-se a todo o povo da aliança. Às vezes, “Jacó” representa o povo como um todo (2.12; 3.1, 8, 9). A segunda ocorrência de “Jacó” nesse versículo indica o reino do Norte, Israel (com sua capital, Samaria), como distinto de Judá (com sua capital, Jerusalém). Nesse livro, “Israel” designa, geralmente, Judá como representando toda a nação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Jacó... Israel.",
+          "texto": "Com frequência, os nomes “Jacó” e “Israel” ocorrem juntos em Miqueias, referindo-se a todo o povo da aliança. Às vezes, “Jacó” representa o povo como um todo (2.12; 3.1, 8, 9). A segunda ocorrência de “Jacó” nesse versículo indica o reino do Norte, Israel (com sua capital, Samaria), como distinto de Judá (com sua capital, Jerusalém). Nesse livro, “Israel” designa, geralmente, Judá como representando toda a nação."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0008",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.7 os salarios.Religioesde fertilidade doantigo"
+      },
+      "texto": "os salários. Religiões de fertilidade do antigo Oriente Próximo envolviam prostituição cultual, uma atividade estritamente proibida a Israel (Dt 23.17). A riqueza que havia sido paga às prostitutas do templo e usada para fazer os ídolos será levada pelos assírios e usada da mesma maneira.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "os salários. Religiões de fertilidade do antigo Oriente Próximo envolviam prostituição cultual, uma atividade estritamente proibida a Israel (Dt 23.17). A riqueza que havia sido paga às prostitutas do templo e usada para fazer os ídolos será levada pelos assírios e usada da mesma maneira."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os salários.",
+          "texto": "Religiões de fertilidade do antigo Oriente Próximo envolviam prostituição cultual, uma atividade estritamente proibida a Israel (Dt 23.17). A riqueza que havia sido paga às prostitutas do templo e usada para fazer os ídolos será levada pelos assírios e usada da mesma maneira."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0009",
+      "referencia": "1.8-16",
+      "capitulo": 1,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.8-16",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.8-16 Esse lamento contem tres partes: a in-",
+        "texto_ocr_pre_normalizacao": "Esse lamento contem tres partes: a introdugao, que afirma a resolucao de Miqueias de lamentar o exi'lio de Juda(vv. 8,9); um corpo principal,comumaseriede trocadilhossobre os nomes das fortalezas deJuda,predizendoaquedaeo exilio de Juda (vv.10-15); e uma condusao,chamando a casa de Davi para se unir em ritos de lamento, porque iraparao exilio (v. 16).",
+        "correcoes_literal_reversiveis": {
+          "exilio": 2
+        }
+      },
+      "texto": "Esse lamento contém três partes: a introdução, que afirma a resolução de Miqueias de lamentar o exílio de Judá (vv. 8, 9); um corpo principal, com uma série de trocadilhos sobre os nomes das fortalezas de Judá, predizendo a queda e o exílio de Judá (vv. 10-15); e uma conclusão, chamando a casa de Davi para se unir em ritos de lamento, porque irá para o exílio (v. 16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Esse lamento contém três partes: a introdução, que afirma a resolução de Miqueias de lamentar o exílio de Judá (vv. 8, 9); um corpo principal, com uma série de trocadilhos sobre os nomes das fortalezas de Judá, predizendo a queda e o exílio de Judá (vv. 10-15); e uma conclusão, chamando a casa de Davi para se unir em ritos de lamento, porque irá para o exílio (v. 16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esse lamento contém três partes: a introdução, que afirma a resolução de Miqueias de lamentar o exílio de Judá (vv. 8, 9); um corpo principal, com uma série de trocadilhos sobre os nomes das fortalezas de Judá, predizendo a queda e o exílio de Judá (vv. 10-15); e uma conclusão, chamando a casa de Davi para se unir em ritos de lamento, porque irá para o exílio (v. 16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0010",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.8 lamento e uivo. A agao do profeta tanto",
+        "texto_ocr_pre_normalizacao": "lamento e uivo. A agao do profeta tanto prediz a tristeza vindoura do povo comorevelasua propria sensibilidade diante da tribulagaoiminente do povo. despojado e nu.Um ato simbolico que se refere aameagade cativeiro (Is 20.2-4).",
+        "correcoes_literal_reversiveis": {
+          "propria": 1
+        }
+      },
+      "texto": "lamento e uivo. A ação do profeta tanto prediz a tristeza vindoura do povo como revela sua própria sensibilidade diante da tribulação iminente do povo.\n\ndespojado e nu. Um ato simbólico que se refere à ameaça de cativeiro (Is 20.2-4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "lamento e uivo. A ação do profeta tanto prediz a tristeza vindoura do povo como revela sua própria sensibilidade diante da tribulação iminente do povo.",
+        "despojado e nu. Um ato simbólico que se refere à ameaça de cativeiro (Is 20.2-4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "lamento e uivo.",
+          "texto": "A ação do profeta tanto prediz a tristeza vindoura do povo como revela sua própria sensibilidade diante da tribulação iminente do povo."
+        },
+        {
+          "titulo": "despojado e nu.",
+          "texto": "Um ato simbólico que se refere à ameaça de cativeiro (Is 20.2-4)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0011",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1574,
+        "rotulo_original_ocr": "1.9 porta. 0 rei assirio Senaqueribe chegou as",
+        "texto_ocr_pre_normalizacao": "porta. 0 rei assirio Senaqueribe chegou as portas de Jerusalem, mas nao tomou a cidade (v. 12;ver Introdugao: Data e Circunstancias).",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "Introdugao": 1
+        }
+      },
+      "texto": "porta. O rei assírio Senaqueribe chegou às portas de Jerusalém, mas não tomou a cidade (v. 12; ver Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "porta. O rei assírio Senaqueribe chegou às portas de Jerusalém, mas não tomou a cidade (v. 12; ver Introdução: Data e Circunstâncias)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "porta.",
+          "texto": "O rei assírio Senaqueribe chegou às portas de Jerusalém, mas não tomou a cidade (v. 12; ver Introdução: Data e Circunstâncias)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0012",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.10 Nao o anuncieis em Gate. A lamentagao",
+        "texto_ocr_pre_normalizacao": "Nao o anuncieis em Gate. A lamentagao de Miqueias sobre a queda dacasa de Davi lembra o lamento de Davi sobre a queda de Saul em circunstancias semelhantes (2Sm 1.20). Nao se deve dar aGate (cidade dos filisteus) razao para se regozijar pela calamidade vindoura. \"Anunciar\" e \"Gate\" tern pronuncias semelhantesno hebraico e,nesse oraculo,existem varios desses trocadilhos sobre os nomes das cidades mencionadas. Estao localizadasnaSefela,pertodo lar deMiqueias. revolvei-vos no po. Uma expressao vivida de tristeza por uma derrota humilhante (Jr 6.26), incorporando urn trocadilho sobre Bete-Leafra (“Casa de Po\"),cuja localizagao e desconhecida.",
+        "correcoes_literal_reversiveis": {
+          "tern": 1,
+          "urn": 1
+        }
+      },
+      "texto": "Não o anuncieis em Gate. A lamentação de Miqueias sobre a queda da casa de Davi lembra o lamento de Davi sobre a queda de Saul em circunstâncias semelhantes (2Sm 1.20). Não se deve dar a Gate (cidade dos filisteus) razão para se regozijar pela calamidade vindoura.\n\n“Anunciar” e “Gate” têm pronúncias semelhantes no hebraico e, nesse oráculo, existem vários desses trocadilhos sobre os nomes das cidades mencionadas. Estão localizadas na Sefelá, perto do lar de Miqueias.\n\nrevolvei-vos no pó. Uma expressão vívida de tristeza por uma derrota humilhante (Jr 6.26), incorporando um trocadilho sobre Bete-Leafra (“Casa de Pó”), cuja localização é desconhecida.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Não o anuncieis em Gate. A lamentação de Miqueias sobre a queda da casa de Davi lembra o lamento de Davi sobre a queda de Saul em circunstâncias semelhantes (2Sm 1.20). Não se deve dar a Gate (cidade dos filisteus) razão para se regozijar pela calamidade vindoura.",
+        "“Anunciar” e “Gate” têm pronúncias semelhantes no hebraico e, nesse oráculo, existem vários desses trocadilhos sobre os nomes das cidades mencionadas. Estão localizadas na Sefelá, perto do lar de Miqueias.",
+        "revolvei-vos no pó. Uma expressão vívida de tristeza por uma derrota humilhante (Jr 6.26), incorporando um trocadilho sobre Bete-Leafra (“Casa de Pó”), cuja localização é desconhecida."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Não o anuncieis em Gate.",
+          "texto": "A lamentação de Miqueias sobre a queda da casa de Davi lembra o lamento de Davi sobre a queda de Saul em circunstâncias semelhantes (2Sm 1.20). Não se deve dar a Gate (cidade dos filisteus) razão para se regozijar pela calamidade vindoura."
+        },
+        {
+          "titulo": "",
+          "texto": "“Anunciar” e “Gate” têm pronúncias semelhantes no hebraico e, nesse oráculo, existem vários desses trocadilhos sobre os nomes das cidades mencionadas. Estão localizadas na Sefelá, perto do lar de Miqueias."
+        },
+        {
+          "titulo": "revolvei-vos no pó.",
+          "texto": "Uma expressão vívida de tristeza por uma derrota humilhante (Jr 6.26), incorporando um trocadilho sobre Bete-Leafra (“Casa de Pó”), cuja localização é desconhecida."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0013",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.11 Safir. Sua localizacao e desconhecida. 0",
+        "texto_ocr_pre_normalizacao": "Safir. Sua localizacao e desconhecida. 0 nome se parece com uma palavra que significa \"bonito\", formando urn trocadilho ironico sobre o destino de seus cidadaos levados ao exilio. Zaana...sair.Apesar deseu nome,que ecoa a palavrahebraica para \"sair\",essacidade seacovardara atrasdeseusmurosenao\"saira\" paraabatalha. Bete-Ezel.Literalmente, \"casaadjacente\" Apalavra hebraicaezel se assemelha aurn verbo que significa \"retrair\" ou\"reter\" Essacidade retera suaprotegaode Juda porque foianexadapeloconquistador",
+        "correcoes_literal_reversiveis": {
+          "urn": 1,
+          "exilio": 1
+        }
+      },
+      "texto": "Safir. Sua localização é desconhecida. O nome se parece com uma palavra que significa “bonito”, formando um trocadilho irônico sobre o destino de seus cidadãos levados ao exílio.\n\nZaanã... sair. Apesar de seu nome, que ecoa a palavra hebraica para “sair”, essa cidade se acovardará atrás de seus muros e não “sairá” para a batalha.\n\nBete-Ezel. Literalmente, “casa adjacente”. A palavra hebraica ezel se assemelha a um verbo que significa “retrair” ou “reter”. Essa cidade reterá sua proteção de Judá porque foi anexada pelo conquistador.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Safir. Sua localização é desconhecida. O nome se parece com uma palavra que significa “bonito”, formando um trocadilho irônico sobre o destino de seus cidadãos levados ao exílio.",
+        "Zaanã... sair. Apesar de seu nome, que ecoa a palavra hebraica para “sair”, essa cidade se acovardará atrás de seus muros e não “sairá” para a batalha.",
+        "Bete-Ezel. Literalmente, “casa adjacente”. A palavra hebraica ezel se assemelha a um verbo que significa “retrair” ou “reter”. Essa cidade reterá sua proteção de Judá porque foi anexada pelo conquistador."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Safir.",
+          "texto": "Sua localização é desconhecida. O nome se parece com uma palavra que significa “bonito”, formando um trocadilho irônico sobre o destino de seus cidadãos levados ao exílio."
+        },
+        {
+          "titulo": "Zaanã... sair.",
+          "texto": "Apesar de seu nome, que ecoa a palavra hebraica para “sair”, essa cidade se acovardará atrás de seus muros e não “sairá” para a batalha."
+        },
+        {
+          "titulo": "Bete-Ezel.",
+          "texto": "Literalmente, “casa adjacente”. A palavra hebraica ezel se assemelha a um verbo que significa “retrair” ou “reter”. Essa cidade reterá sua proteção de Judá porque foi anexada pelo conquistador."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0014",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.12 Marote. Ainda que anele pelo bem, essa ci-"
+      },
+      "texto": "Marote. Ainda que anele pelo bem, essa cidade, cujo nome se parece com “amargura”, experimentará a severidade da derrota.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Marote. Ainda que anele pelo bem, essa cidade, cujo nome se parece com “amargura”, experimentará a severidade da derrota."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Marote.",
+          "texto": "Ainda que anele pelo bem, essa cidade, cujo nome se parece com “amargura”, experimentará a severidade da derrota."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0015",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.13 corceis... carro... Laquis.Uma cidade-for-",
+        "texto_ocr_pre_normalizacao": "corceis... carro... Laquis.Uma cidade-fortaleza importante de Juda,localizada 42 quilometros a sudoeste de Jerusalem, Laquis abrigava urn contingente de carros. Aqui, a referenda aos ''corceis\" (a palavra hebraica e parecida com \"Laquis\") talvez signifique que os carros serao usados para fugir, enao paracombater o principio do pecado. A naturezaexata oesse pecado nao e explicada Muitos sugerem que envolve a importagao de cavalos do Egito para uso em guerra(5.10;Dt 17.16;IRs 10.28, 29),induzindo Israel aconfiar em sua forgamilitar,enaonoSenhor. filha de Siao. Uma personificagao de Jerusalem (Sf 3.14,nota).",
+        "correcoes_literal_reversiveis": {
+          "urn": 1,
+          "nao": 1
+        }
+      },
+      "texto": "corcéis... carro... Laquis. Uma cidade-fortaleza importante de Judá, localizada 42 quilômetros a sudoeste de Jerusalém, Laquis abrigava um contingente de carros. Aqui, a referência aos “corcéis” (a palavra hebraica é parecida com “Laquis”) talvez signifique que os carros serão usados para fugir, e não para combater.\n\no princípio do pecado. A natureza exata desse pecado não é explicada. Muitos sugerem que envolve a importação de cavalos do Egito para uso em guerra (5.10; Dt 17.16; 1Rs 10.28, 29), induzindo Israel a confiar em sua força militar, e não no Senhor.\n\nfilha de Sião. Uma personificação de Jerusalém (Sf 3.14, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Sf",
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "corcéis... carro... Laquis. Uma cidade-fortaleza importante de Judá, localizada 42 quilômetros a sudoeste de Jerusalém, Laquis abrigava um contingente de carros. Aqui, a referência aos “corcéis” (a palavra hebraica é parecida com “Laquis”) talvez signifique que os carros serão usados para fugir, e não para combater.",
+        "o princípio do pecado. A natureza exata desse pecado não é explicada. Muitos sugerem que envolve a importação de cavalos do Egito para uso em guerra (5.10; Dt 17.16; 1Rs 10.28, 29), induzindo Israel a confiar em sua força militar, e não no Senhor.",
+        "filha de Sião. Uma personificação de Jerusalém (Sf 3.14, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "corcéis... carro... Laquis.",
+          "texto": "Uma cidade-fortaleza importante de Judá, localizada 42 quilômetros a sudoeste de Jerusalém, Laquis abrigava um contingente de carros. Aqui, a referência aos “corcéis” (a palavra hebraica é parecida com “Laquis”) talvez signifique que os carros serão usados para fugir, e não para combater."
+        },
+        {
+          "titulo": "o princípio do pecado.",
+          "texto": "A natureza exata desse pecado não é explicada. Muitos sugerem que envolve a importação de cavalos do Egito para uso em guerra (5.10; Dt 17.16; 1Rs 10.28, 29), induzindo Israel a confiar em sua força militar, e não no Senhor."
+        },
+        {
+          "titulo": "filha de Sião.",
+          "texto": "Uma personificação de Jerusalém (Sf 3.14, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0016",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.14 presentes de despedida. Essa alusao ao"
+      },
+      "texto": "presentes de despedida. Essa alusão ao dote que o pai dá à sua filha quando ela parte para a casa de seu esposo (1Rs 9.16) é motivada pela similaridade de Moresete com a palavra hebraica que significa uma “mulher que é comprometida”. Os habitantes de Moresete-Gate (a cidade natal do profeta, situada cerca de 32 quilômetros a sudoeste de Jerusalém e dez quilômetros a nordeste de Laquis) partirão para o exílio.\n\nAczibe serão para engano. O nome da cidade se assemelha ao termo hebraico que denota “enganoso”, uma palavra usada para falar do “ilusório ribeiro” em Jeremias 15.18. A cidade de Aczibe (14 quilômetros a leste de Gate) desapontará o rei de Judá.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "presentes de despedida. Essa alusão ao dote que o pai dá à sua filha quando ela parte para a casa de seu esposo (1Rs 9.16) é motivada pela similaridade de Moresete com a palavra hebraica que significa uma “mulher que é comprometida”. Os habitantes de Moresete-Gate (a cidade natal do profeta, situada cerca de 32 quilômetros a sudoeste de Jerusalém e dez quilômetros a nordeste de Laquis) partirão para o exílio.",
+        "Aczibe serão para engano. O nome da cidade se assemelha ao termo hebraico que denota “enganoso”, uma palavra usada para falar do “ilusório ribeiro” em Jeremias 15.18. A cidade de Aczibe (14 quilômetros a leste de Gate) desapontará o rei de Judá."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "presentes de despedida.",
+          "texto": "Essa alusão ao dote que o pai dá à sua filha quando ela parte para a casa de seu esposo (1Rs 9.16) é motivada pela similaridade de Moresete com a palavra hebraica que significa uma “mulher que é comprometida”. Os habitantes de Moresete-Gate (a cidade natal do profeta, situada cerca de 32 quilômetros a sudoeste de Jerusalém e dez quilômetros a nordeste de Laquis) partirão para o exílio."
+        },
+        {
+          "titulo": "Aczibe serão para engano.",
+          "texto": "O nome da cidade se assemelha ao termo hebraico que denota “enganoso”, uma palavra usada para falar do “ilusório ribeiro” em Jeremias 15.18. A cidade de Aczibe (14 quilômetros a leste de Gate) desapontará o rei de Judá."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0017",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.15 quern tomara posse.0 termo e parecido",
+        "texto_ocr_pre_normalizacao": "quern tomara posse.0 termo e parecido com Maressa, outra cidade-fortaleza nas colinas ao sul de Jerusalem, situada oito quilometros a nordeste de Laquis. \"Quern tomara posse\" e certamente umareferendaaAssiria. AdulaoagloriadeIsrael. AssimcomoDavifugiu para o deserto e se refugiou na caverna de Adulao, tambemos lideres(\"gloria\") deIsraelfugirao.0corpo dalamentagao (vv.10-15) comega e terminacomreferencesliterariasacarreiradeDavi(v.10,nota).",
+        "correcoes_literal_reversiveis": {
+          "quern": 1
+        }
+      },
+      "texto": "quem tomará posse. O termo é parecido com Maressa, outra cidade-fortaleza nas colinas ao sul de Jerusalém, situada oito quilômetros a nordeste de Laquis. “Quem tomará posse” é certamente uma referência à Assíria.\n\nAdulão a glória de Israel. Assim como Davi fugiu para o deserto e se refugiou na caverna de Adulão, também os líderes (“glória”) de Israel fugirão. O corpo da lamentação (vv. 10-15) começa e termina com referências literárias à carreira de Davi (v. 10, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Mq",
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "quem tomará posse. O termo é parecido com Maressa, outra cidade-fortaleza nas colinas ao sul de Jerusalém, situada oito quilômetros a nordeste de Laquis. “Quem tomará posse” é certamente uma referência à Assíria.",
+        "Adulão a glória de Israel. Assim como Davi fugiu para o deserto e se refugiou na caverna de Adulão, também os líderes (“glória”) de Israel fugirão. O corpo da lamentação (vv. 10-15) começa e termina com referências literárias à carreira de Davi (v. 10, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "quem tomará posse.",
+          "texto": "O termo é parecido com Maressa, outra cidade-fortaleza nas colinas ao sul de Jerusalém, situada oito quilômetros a nordeste de Laquis. “Quem tomará posse” é certamente uma referência à Assíria."
+        },
+        {
+          "titulo": "Adulão a glória de Israel.",
+          "texto": "Assim como Davi fugiu para o deserto e se refugiou na caverna de Adulão, também os líderes (“glória”) de Israel fugirão. O corpo da lamentação (vv. 10-15) começa e termina com referências literárias à carreira de Davi (v. 10, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0018",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1575,
+        "rotulo_original_ocr": "1.16 Faze-te calva. Urn sinal de luto cultural-"
+      },
+      "texto": "Faze-te calva. Um sinal de luto culturalmente reconhecido que, em circunstâncias normais, é proibido para Israel (Dt 14.1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Faze-te calva. Um sinal de luto culturalmente reconhecido que, em circunstâncias normais, é proibido para Israel (Dt 14.1)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Faze-te calva.",
+          "texto": "Um sinal de luto culturalmente reconhecido que, em circunstâncias normais, é proibido para Israel (Dt 14.1)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0019",
+      "referencia": "2.1-5",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.1-5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.1- 5 Essa profecia contem tres partes: (1) a",
+        "texto_ocr_pre_normalizacao": "Essa profecia contem tres partes: (1) a acusagao - homens maus e violentos se apropriam injustamente de propriedade sagrada e oprimem seus donos (vv. 1, 2); (1) a sentenga — o Senhor os sentencia ao exilio (v. 3) e a perda de suas terras para os invasores (v. 4); (3) a condusao — os roubadores sao excluidos do povo da alianga (v.5). A acusagao easentengasao associadas por um trocadilho que envolve \"que imaginam a iniquidade\" (v. 1) e \"projeto mal\" (v. 3),expressoes quase identicas no hebraico. Assim como os poderosos se apropriaram de campos das familias de Israel (vv. 1, 2), tambem o Senhor enviara um exercito inimigo para tomar deles a TerraPrometida (vv. 4, 5).",
+        "correcoes_literal_reversiveis": {
+          "exilio": 1,
+          "alianga": 1,
+          "tambem": 1
+        }
+      },
+      "texto": "Essa profecia contém três partes: (1) a acusação — homens maus e violentos se apropriam injustamente de propriedade sagrada e oprimem seus donos (vv. 1, 2); (1) a sentença — o Senhor os sentencia ao exílio (v. 3) e à perda de suas terras para os invasores (v. 4); (3) a conclusão — os roubadores são excluídos do povo da aliança (v. 5). A acusação e a sentença são associadas por um trocadilho que envolve “que imaginam a iniquidade” (v. 1) e “projeto mal” (v. 3), expressões quase idênticas no hebraico. Assim como os poderosos se apropriaram de campos das famílias de Israel (vv. 1, 2), também o Senhor enviará um exército inimigo para tomar deles a Terra Prometida (vv. 4, 5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa profecia contém três partes: (1) a acusação — homens maus e violentos se apropriam injustamente de propriedade sagrada e oprimem seus donos (vv. 1, 2); (1) a sentença — o Senhor os sentencia ao exílio (v. 3) e à perda de suas terras para os invasores (v. 4); (3) a conclusão — os roubadores são excluídos do povo da aliança (v. 5). A acusação e a sentença são associadas por um trocadilho que envolve “que imaginam a iniquidade” (v. 1) e “projeto mal” (v. 3), expressões quase idênticas no hebraico. Assim como os poderosos se apropriaram de campos das famílias de Israel (vv. 1, 2), também o Senhor enviará um exército inimigo para tomar deles a Terra Prometida (vv. 4, 5)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa profecia contém três partes: (1) a acusação — homens maus e violentos se apropriam injustamente de propriedade sagrada e oprimem seus donos (vv. 1, 2); (1) a sentença — o Senhor os sentencia ao exílio (v. 3) e à perda de suas terras para os invasores (v. 4); (3) a conclusão — os roubadores são excluídos do povo da aliança (v. 5). A acusação e a sentença são associadas por um trocadilho que envolve “que imaginam a iniquidade” (v. 1) e “projeto mal” (v. 3), expressões quase idênticas no hebraico. Assim como os poderosos se apropriaram de campos das famílias de Israel (vv. 1, 2), também o Senhor enviará um exército inimigo para tomar deles a Terra Prometida (vv. 4, 5)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0020",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.1 poder esta em suas maos. Eles usam er-"
+      },
+      "texto": "poder está em suas mãos. Eles usam erroneamente seu status para perpetrar opressão.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "poder está em suas mãos. Eles usam erroneamente seu status para perpetrar opressão."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "poder está em suas mãos.",
+          "texto": "Eles usam erroneamente seu status para perpetrar opressão."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0021",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.2 heranga. A propriedade de uma familia e"
+      },
+      "texto": "herança. A propriedade de uma família é uma custódia sagrada e permanente de Deus (Lv 25.10, 13). Ver nota em Números 27.1-11.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Nm",
+          "capitulo": 27,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "herança. A propriedade de uma família é uma custódia sagrada e permanente de Deus (Lv 25.10, 13). Ver nota em Números 27.1-11."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "herança.",
+          "texto": "A propriedade de uma família é uma custódia sagrada e permanente de Deus (Lv 25.10, 13). Ver nota em Números 27.1-11."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0022",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.4 Reparte... aos rebeldes. Uma referenda"
+      },
+      "texto": "Reparte... aos rebeldes. Uma referência a Deus entregando sua terra aos assírios ou ao conquistador assírio que distribui os campos dos judeus a outros como espólio.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Reparte... aos rebeldes. Uma referência a Deus entregando sua terra aos assírios ou ao conquistador assírio que distribui os campos dos judeus a outros como espólio."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Reparte... aos rebeldes.",
+          "texto": "Uma referência a Deus entregando sua terra aos assírios ou ao conquistador assírio que distribui os campos dos judeus a outros como espólio."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0023",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.5 congregagao. Depois do exilio na Babilonia,",
+        "texto_ocr_pre_normalizacao": "congregagao. Depois do exilio na Babilonia, a terra sera redistribuida (cf. Nm 26.55;Js 18.8-10), mas nem os opressores nem seus descendentes estarao presentes parareivindicar uma heranga.",
+        "correcoes_literal_reversiveis": {
+          "exilio": 1
+        }
+      },
+      "texto": "congregação. Depois do exílio na Babilônia, a terra será redistribuída (cf. Nm 26.55; Js 18.8-10), mas nem os opressores nem seus descendentes estarão presentes para reivindicar uma herança.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "congregação. Depois do exílio na Babilônia, a terra será redistribuída (cf. Nm 26.55; Js 18.8-10), mas nem os opressores nem seus descendentes estarão presentes para reivindicar uma herança."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "congregação.",
+          "texto": "Depois do exílio na Babilônia, a terra será redistribuída (cf. Nm 26.55; Js 18.8-10), mas nem os opressores nem seus descendentes estarão presentes para reivindicar uma herança."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0024",
+      "referencia": "2.6-11",
+      "capitulo": 2,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.6-11",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.6-11Nessaprofecia,Miqueiasdefende suamen-",
+        "texto_ocr_pre_normalizacao": "Nessaprofecia,Miqueiasdefende suamensagem contra aqueles que procuram silencia-lo. Miqueias refuta a ordem deles para que se cale (v. 6). Em seguida, o Senhor acusa os poderosos de explorarem os desamparados (vv.8,9), sentenciando-os ao exilio, pois contaminaram a terra (v. 10). Por fim,o povo e condenadopor desejar falsos profetas que Ihe falem o que quer ouvir (v. 11).",
+        "correcoes_literal_reversiveis": {
+          "exilio": 1
+        }
+      },
+      "texto": "Nessa profecia, Miqueias defende sua mensagem contra aqueles que procuram silenciá-lo. Miqueias refuta a ordem deles para que se cale (v. 6). Em seguida, o Senhor acusa os poderosos de explorarem os desamparados (vv. 8, 9), sentenciando-os ao exílio, pois contaminaram a terra (v. 10). Por fim, o povo é condenado por desejar falsos profetas que lhe falem o que quer ouvir (v. 11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Nessa profecia, Miqueias defende sua mensagem contra aqueles que procuram silenciá-lo. Miqueias refuta a ordem deles para que se cale (v. 6). Em seguida, o Senhor acusa os poderosos de explorarem os desamparados (vv. 8, 9), sentenciando-os ao exílio, pois contaminaram a terra (v. 10). Por fim, o povo é condenado por desejar falsos profetas que lhe falem o que quer ouvir (v. 11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Nessa profecia, Miqueias defende sua mensagem contra aqueles que procuram silenciá-lo. Miqueias refuta a ordem deles para que se cale (v. 6). Em seguida, o Senhor acusa os poderosos de explorarem os desamparados (vv. 8, 9), sentenciando-os ao exílio, pois contaminaram a terra (v. 10). Por fim, o povo é condenado por desejar falsos profetas que lhe falem o que quer ouvir (v. 11)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0025",
+      "referencia": "2.6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2.6",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.6 0 hebraico do versiculo 6 e dificil de traduzir."
+      },
+      "texto": "O hebraico do versículo 6 é difícil de traduzir. Alguns sugerem que Miqueias confronta os falsos profetas que apoiam os roubadores de terra e procuram silenciá-lo. Em apoio a essa interpretação, a expressão hebraica traduzida como “dizem eles” (literalmente, “gotejam [palavras]”) pode ser traduzida como “eles profetizam”. Outros argumentam que os líderes gananciosos e corruptos tentavam, eles mesmos, silenciar o profeta.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "O hebraico do versículo 6 é difícil de traduzir. Alguns sugerem que Miqueias confronta os falsos profetas que apoiam os roubadores de terra e procuram silenciá-lo. Em apoio a essa interpretação, a expressão hebraica traduzida como “dizem eles” (literalmente, “gotejam [palavras]”) pode ser traduzida como “eles profetizam”. Outros argumentam que os líderes gananciosos e corruptos tentavam, eles mesmos, silenciar o profeta."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O hebraico do versículo 6 é difícil de traduzir. Alguns sugerem que Miqueias confronta os falsos profetas que apoiam os roubadores de terra e procuram silenciá-lo. Em apoio a essa interpretação, a expressão hebraica traduzida como “dizem eles” (literalmente, “gotejam [palavras]”) pode ser traduzida como “eles profetizam”. Outros argumentam que os líderes gananciosos e corruptos tentavam, eles mesmos, silenciar o profeta."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0026",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.7 minhas palavras. Desse ponto ate o fim do"
+      },
+      "texto": "minhas palavras. Desse ponto até o fim do capítulo, Miqueias transmite diretamente a palavra do Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "minhas palavras. Desse ponto até o fim do capítulo, Miqueias transmite diretamente a palavra do Senhor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "minhas palavras.",
+          "texto": "Desse ponto até o fim do capítulo, Miqueias transmite diretamente a palavra do Senhor."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0027",
+      "referencia": "2.8,9",
+      "capitulo": 2,
+      "versiculos": [
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.8,9",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1576,
+        "rotulo_original_ocr": "2.8, 9 capa... lar querido... filhinhos. Os",
+        "texto_ocr_pre_normalizacao": "capa... lar querido... filhinhos. Os oprimidos pertencem a dasse media de Israel (Introdugao:Data eCircunstancias).",
+        "correcoes_literal_reversiveis": {
+          "Introdugao": 1
+        }
+      },
+      "texto": "capa... lar querido... filhinhos. Os oprimidos pertencem à classe média de Israel (Introdução: Data e Circunstâncias).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "capa... lar querido... filhinhos. Os oprimidos pertencem à classe média de Israel (Introdução: Data e Circunstâncias)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "capa... lar querido... filhinhos.",
+          "texto": "Os oprimidos pertencem à classe média de Israel (Introdução: Data e Circunstâncias)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0028",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "2.8 sem pensar em guerra. Esperando paz em",
+        "texto_ocr_pre_normalizacao": "sem pensar em guerra. Esperando paz em sua propria terra,onde se sente mais seguro, o povo deIsraele,emvez disso,saqueado.",
+        "correcoes_literal_reversiveis": {
+          "propria": 1
+        }
+      },
+      "texto": "sem pensar em guerra. Esperando paz em sua própria terra, onde se sente mais seguro, o povo de Israel é, em vez disso, saqueado.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "sem pensar em guerra. Esperando paz em sua própria terra, onde se sente mais seguro, o povo de Israel é, em vez disso, saqueado."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sem pensar em guerra.",
+          "texto": "Esperando paz em sua própria terra, onde se sente mais seguro, o povo de Israel é, em vez disso, saqueado."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0029",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "2.11profetizarei... bebida forte.0povo se tor"
+      },
+      "texto": "profetizarei... bebida forte. O povo se tornou tão espiritualmente inepto que será facilmente enganado por um charlatão ou falso profeta.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "profetizarei... bebida forte. O povo se tornou tão espiritualmente inepto que será facilmente enganado por um charlatão ou falso profeta."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "profetizarei... bebida forte.",
+          "texto": "O povo se tornou tão espiritualmente inepto que será facilmente enganado por um charlatão ou falso profeta."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0030",
+      "referencia": "2.12,13",
+      "capitulo": 2,
+      "versiculos": [
+        12,
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.12,13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "2.12, 13 Miqueias termina a primeira segao de sua",
+        "texto_ocr_pre_normalizacao": "Miqueias termina a primeira segao de sua profecia com um breve oraculo de salvagao. Os expositors diferem quanto ao evento especifico em vista. Alguns defendem que a passagem prefigura o evento futuro de retorno do exilio.0 Senhor abrira uma brecha nas defesas de seus conquistadorse levaraseu rebanho de volta das terras onde estavam dispersos para o aprisco de Jerusalem. Alternativamente, a passagem pode referir-se ao livramento divino concedido a Jerusalem quando Senaqueribe invadiu grande parte da terra em 701 a.C. Essa interpretagao recebe apoio significativo da semelhanga de linguagem entre 2.12-13 e a profecia de Isaias, \"de Jerusalem saira o restante” que se refer, inequivocamente, a 701 a.C. (2Rs19.29-31, Is 37.30-32).0 Senhor reumra o povo na cidade para sua preservagao. Em seguida, ele saira da cidade sitiada para livrar a todos,dizimando o exercito assirio(2Rs18.17-19.37).Qualquer entendimentodeum livramentodo remanescente eleito deDeusprediz o triunfomaiordo Messias,ograndePastor-Rei(S.2-S).",
+        "correcoes_literal_reversiveis": {
+          "salvagao": 1,
+          "exilio": 1
+        }
+      },
+      "texto": "Miqueias termina a primeira seção de sua profecia com um breve oráculo de salvação. Os expositores diferem quanto ao evento específico em vista. Alguns defendem que a passagem prefigura o evento futuro de retorno do exílio. O Senhor abrirá uma brecha nas defesas de seus conquistadores e levará seu rebanho de volta das terras onde estavam dispersos para o aprisco de Jerusalém. Alternativamente, a passagem pode referir-se ao livramento divino concedido a Jerusalém quando Senaqueribe invadiu grande parte da terra em 701 a.C. Essa interpretação recebe apoio significativo da semelhança de linguagem entre 2.12-13 e a profecia de Isaías, “de Jerusalém sairá o restante”, que se refere, inequivocamente, a 701 a.C. (2Rs 19.29-31; Is 37.30-32). O Senhor reunirá o povo na cidade para sua preservação. Em seguida, ele sairá da cidade sitiada para livrar a todos, dizimando o exército assírio (2Rs 18.17-19.37). Qualquer entendimento de um livramento do remanescente eleito de Deus prediz o triunfo maior do Messias, o grande Pastor-Rei (5.2-5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Miqueias termina a primeira seção de sua profecia com um breve oráculo de salvação. Os expositores diferem quanto ao evento específico em vista. Alguns defendem que a passagem prefigura o evento futuro de retorno do exílio. O Senhor abrirá uma brecha nas defesas de seus conquistadores e levará seu rebanho de volta das terras onde estavam dispersos para o aprisco de Jerusalém. Alternativamente, a passagem pode referir-se ao livramento divino concedido a Jerusalém quando Senaqueribe invadiu grande parte da terra em 701 a.C. Essa interpretação recebe apoio significativo da semelhança de linguagem entre 2.12-13 e a profecia de Isaías, “de Jerusalém sairá o restante”, que se refere, inequivocamente, a 701 a.C. (2Rs 19.29-31; Is 37.30-32). O Senhor reunirá o povo na cidade para sua preservação. Em seguida, ele sairá da cidade sitiada para livrar a todos, dizimando o exército assírio (2Rs 18.17-19.37). Qualquer entendimento de um livramento do remanescente eleito de Deus prediz o triunfo maior do Messias, o grande Pastor-Rei (5.2-5)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Miqueias termina a primeira seção de sua profecia com um breve oráculo de salvação. Os expositores diferem quanto ao evento específico em vista. Alguns defendem que a passagem prefigura o evento futuro de retorno do exílio. O Senhor abrirá uma brecha nas defesas de seus conquistadores e levará seu rebanho de volta das terras onde estavam dispersos para o aprisco de Jerusalém. Alternativamente, a passagem pode referir-se ao livramento divino concedido a Jerusalém quando Senaqueribe invadiu grande parte da terra em 701 a.C. Essa interpretação recebe apoio significativo da semelhança de linguagem entre 2.12-13 e a profecia de Isaías, “de Jerusalém sairá o restante”, que se refere, inequivocamente, a 701 a.C. (2Rs 19.29-31; Is 37.30-32). O Senhor reunirá o povo na cidade para sua preservação. Em seguida, ele sairá da cidade sitiada para livrar a todos, dizimando o exército assírio (2Rs 18.17-19.37). Qualquer entendimento de um livramento do remanescente eleito de Deus prediz o triunfo maior do Messias, o grande Pastor-Rei (5.2-5)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0031",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "2.12 Jaco... Israel. A segunda interpretagao",
+        "texto_ocr_pre_normalizacao": "Jaco... Israel. A segunda interpretagao apresentadana nota anterior exige que esses nomes serefiram a Juda como representante de toda a nagao (l.S,nota),enquanto a primeira interpretagao nao se restringe dessa maneira.",
+        "correcoes_literal_reversiveis": {
+          "nagao": 1,
+          "nao": 1
+        }
+      },
+      "texto": "Jacó... Israel. A segunda interpretação apresentada na nota anterior exige que esses nomes se refiram a Judá como representante de toda a nação (1.5, nota), enquanto a primeira interpretação não se restringe dessa maneira.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Jacó... Israel. A segunda interpretação apresentada na nota anterior exige que esses nomes se refiram a Judá como representante de toda a nação (1.5, nota), enquanto a primeira interpretação não se restringe dessa maneira."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Jacó... Israel.",
+          "texto": "A segunda interpretação apresentada na nota anterior exige que esses nomes se refiram a Judá como representante de toda a nação (1.5, nota), enquanto a primeira interpretação não se restringe dessa maneira."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0032",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "2.13 seu Rei. Provavelmente, \"seu Rei\" refere-se"
+      },
+      "texto": "seu Rei. Provavelmente, “seu Rei” refere-se ao Senhor, em vista do paralelismo com a linha seguinte.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "seu Rei. Provavelmente, “seu Rei” refere-se ao Senhor, em vista do paralelismo com a linha seguinte."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seu Rei.",
+          "texto": "Provavelmente, “seu Rei” refere-se ao Senhor, em vista do paralelismo com a linha seguinte."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0033",
+      "referencia": "3.1-12",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.1-12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "3.1-12 As tres profecias desse capitulo anunciam a"
+      },
+      "texto": "As três profecias desse capítulo anunciam a rejeição e a punição da liderança corrupta e incompetente de Israel. Em primeiro lugar, a conduta dos líderes para com as pessoas oprimidas é associada a canibalismo (vv. 1-4). Em segundo, os falsos profetas que desviam o povo são condenados (vv. 5-7) e contrastados com Miqueias, que profetiza revelações verdadeiras da parte de Deus (v. 8). Por fim, os líderes políticos e os religiosos corruptos são condenados, e sua complacência é castigada (vv. 9-12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "As três profecias desse capítulo anunciam a rejeição e a punição da liderança corrupta e incompetente de Israel. Em primeiro lugar, a conduta dos líderes para com as pessoas oprimidas é associada a canibalismo (vv. 1-4). Em segundo, os falsos profetas que desviam o povo são condenados (vv. 5-7) e contrastados com Miqueias, que profetiza revelações verdadeiras da parte de Deus (v. 8). Por fim, os líderes políticos e os religiosos corruptos são condenados, e sua complacência é castigada (vv. 9-12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "As três profecias desse capítulo anunciam a rejeição e a punição da liderança corrupta e incompetente de Israel. Em primeiro lugar, a conduta dos líderes para com as pessoas oprimidas é associada a canibalismo (vv. 1-4). Em segundo, os falsos profetas que desviam o povo são condenados (vv. 5-7) e contrastados com Miqueias, que profetiza revelações verdadeiras da parte de Deus (v. 8). Por fim, os líderes políticos e os religiosos corruptos são condenados, e sua complacência é castigada (vv. 9-12)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0034",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "3.1 Disse eu. Um acrescimo editorial indicando",
+        "texto_ocr_pre_normalizacao": "Disse eu. Um acrescimo editorial indicando que Miqueias editou seu proprio livro (Introdugao: Caracteristicas e Temas Principais). Marca o comego do segundociclodeprofeciasnessaobra(caps. 3-5). Jaco... Israel. Ambos os termos designam Juda comoopovodaalianga(1.5,nota).",
+        "correcoes_literal_reversiveis": {
+          "proprio": 1,
+          "Introdugao": 1
+        }
+      },
+      "texto": "Disse eu. Um acréscimo editorial indicando que Miqueias editou seu próprio livro (Introdução: Características e Temas Principais). Marca o começo do segundo ciclo de profecias nessa obra (caps. 3-5).\n\nJacó... Israel. Ambos os termos designam Judá como o povo da aliança (1.5, nota).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Disse eu. Um acréscimo editorial indicando que Miqueias editou seu próprio livro (Introdução: Características e Temas Principais). Marca o começo do segundo ciclo de profecias nessa obra (caps. 3-5).",
+        "Jacó... Israel. Ambos os termos designam Judá como o povo da aliança (1.5, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Disse eu.",
+          "texto": "Um acréscimo editorial indicando que Miqueias editou seu próprio livro (Introdução: Características e Temas Principais). Marca o começo do segundo ciclo de profecias nessa obra (caps. 3-5)."
+        },
+        {
+          "titulo": "Jacó... Israel.",
+          "texto": "Ambos os termos designam Judá como o povo da aliança (1.5, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0035",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1577,
+        "rotulo_original_ocr": "3.4 nao os ouvira. Assim como os magistrados se",
+        "texto_ocr_pre_normalizacao": "nao os ouvira. Assim como os magistrados se recusaram a ouvir os clamors dos oprimidos, tambemDeus serecusaraaouviroclamor delesnotempo dejulgamento.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        }
+      },
+      "texto": "não os ouvirá. Assim como os magistrados se recusaram a ouvir os clamores dos oprimidos, também Deus se recusará a ouvir o clamor deles no tempo de julgamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "não os ouvirá. Assim como os magistrados se recusaram a ouvir os clamores dos oprimidos, também Deus se recusará a ouvir o clamor deles no tempo de julgamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não os ouvirá.",
+          "texto": "Assim como os magistrados se recusaram a ouvir os clamores dos oprimidos, também Deus se recusará a ouvir o clamor deles no tempo de julgamento."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0036",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "3.5 Paz... o que mastigar. Esses falsos profetas"
+      },
+      "texto": "Paz... o que mastigar. Esses falsos profetas são oportunistas, adaptando seus pronunciamentos de paz e segurança aos desejos daqueles que os alimentam. Ver Jeremias 28.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Paz... o que mastigar. Esses falsos profetas são oportunistas, adaptando seus pronunciamentos de paz e segurança aos desejos daqueles que os alimentam. Ver Jeremias 28."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Paz... o que mastigar.",
+          "texto": "Esses falsos profetas são oportunistas, adaptando seus pronunciamentos de paz e segurança aos desejos daqueles que os alimentam. Ver Jeremias 28."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0037",
+      "referencia": "3.6,7",
+      "capitulo": 3,
+      "versiculos": [
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.6,7",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "3.6, 7 Aqueles que profetizam falsamente"
+      },
+      "texto": "Aqueles que profetizam falsamente serão julgados e envergonhados pelo silêncio de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Aqueles que profetizam falsamente serão julgados e envergonhados pelo silêncio de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Aqueles que profetizam falsamente serão julgados e envergonhados pelo silêncio de Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0038",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "3.8 estou cheio. Miqueias e divinamente ins-",
+        "texto_ocr_pre_normalizacao": "estou cheio. Miqueias e divinamente inspirado nao para acalentar o povo com um falso senso de seguranga e favor divino, mas para expor a iniquidade deles com discernimento e ousadia.",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        }
+      },
+      "texto": "estou cheio. Miqueias é divinamente inspirado não para acalentar o povo com um falso senso de segurança e favor divino, mas para expor a iniquidade deles com discernimento e ousadia.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "estou cheio. Miqueias é divinamente inspirado não para acalentar o povo com um falso senso de segurança e favor divino, mas para expor a iniquidade deles com discernimento e ousadia."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estou cheio.",
+          "texto": "Miqueias é divinamente inspirado não para acalentar o povo com um falso senso de segurança e favor divino, mas para expor a iniquidade deles com discernimento e ousadia."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0039",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "3.10 edificais a Siao com sangue. Isso pos-",
+        "texto_ocr_pre_normalizacao": "edificais a Siao com sangue. Isso possivelmente deve estar relacionado a expansao de Jerusalem para acomodar os refugiados do Norte, bem como aos projetos de construgao empreendidosdurante o reinado de Ezequias.0profeta Isaias tambem ressalta a corrupgao na cidade de Jerusalemnessaepoca (Is 1.14, 15, 21-23).",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        }
+      },
+      "texto": "edificais a Sião com sangue. Isso possivelmente deve estar relacionado à expansão de Jerusalém para acomodar os refugiados do Norte, bem como aos projetos de construção empreendidos durante o reinado de Ezequias. O profeta Isaías também ressalta a corrupção na cidade de Jerusalém nessa época (Is 1.14, 15, 21-23).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "edificais a Sião com sangue. Isso possivelmente deve estar relacionado à expansão de Jerusalém para acomodar os refugiados do Norte, bem como aos projetos de construção empreendidos durante o reinado de Ezequias. O profeta Isaías também ressalta a corrupção na cidade de Jerusalém nessa época (Is 1.14, 15, 21-23)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "edificais a Sião com sangue.",
+          "texto": "Isso possivelmente deve estar relacionado à expansão de Jerusalém para acomodar os refugiados do Norte, bem como aos projetos de construção empreendidos durante o reinado de Ezequias. O profeta Isaías também ressalta a corrupção na cidade de Jerusalém nessa época (Is 1.14, 15, 21-23)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0040",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "3.12 Siao... colina coberta de mato. Essa"
+      },
+      "texto": "Sião... colina coberta de mato. Essa profecia foi dada nos dias de Ezequias (Jr 26.17-19). O arrependimento e a fidelidade de Ezequias (cf. Is 36-38) significam que a realização completa das palavras de Miqueias no julgamento de Jerusalém é postergada até 586 a.C.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Sião... colina coberta de mato. Essa profecia foi dada nos dias de Ezequias (Jr 26.17-19). O arrependimento e a fidelidade de Ezequias (cf. Is 36-38) significam que a realização completa das palavras de Miqueias no julgamento de Jerusalém é postergada até 586 a.C."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Sião... colina coberta de mato.",
+          "texto": "Essa profecia foi dada nos dias de Ezequias (Jr 26.17-19). O arrependimento e a fidelidade de Ezequias (cf. Is 36-38) significam que a realização completa das palavras de Miqueias no julgamento de Jerusalém é postergada até 586 a.C."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0041",
+      "referencia": "4.1-8",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "4.1-8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "4.1-8 A visao profetica de Miqueias muda de",
+        "texto_ocr_pre_normalizacao": "A visao profetica de Miqueias muda de julgamento iminente, em curto prazo, para os \"ultimos dias’ quando o reino messianico de Deus for estabelecido em Siao. A primeira parte desse oraculo (vv. 1-5) e quase identica a Isaias 2.1-5 (quanto a comentariosadicionais, ver notas sobre essa passagem).",
+        "correcoes_literal_reversiveis": {
+          "profetica": 1
+        }
+      },
+      "texto": "A visão profética de Miqueias muda de julgamento iminente, em curto prazo, para os “últimos dias”, quando o reino messiânico de Deus for estabelecido em Sião. A primeira parte desse oráculo (vv. 1-5) é quase idêntica a Isaías 2.1-5 (quanto a comentários adicionais, ver notas sobre essa passagem).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "A visão profética de Miqueias muda de julgamento iminente, em curto prazo, para os “últimos dias”, quando o reino messiânico de Deus for estabelecido em Sião. A primeira parte desse oráculo (vv. 1-5) é quase idêntica a Isaías 2.1-5 (quanto a comentários adicionais, ver notas sobre essa passagem)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A visão profética de Miqueias muda de julgamento iminente, em curto prazo, para os “últimos dias”, quando o reino messiânico de Deus for estabelecido em Sião. A primeira parte desse oráculo (vv. 1-5) é quase idêntica a Isaías 2.1-5 (quanto a comentários adicionais, ver notas sobre essa passagem)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0042",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5,
+          6
+        ],
+        "pagina_impressa": 1578,
+        "rotulo_original_ocr": "4.1ultimos dias. (Cf. Is 2.2-4.) A expressao indica",
+        "texto_ocr_pre_normalizacao": "ultimos dias. (Cf. Is 2.2-4.) A expressao indica uma nova epoca que, embora oculta no futuro, altera decisivamente o curso da historia. Aqui, refere-se a era messianica, que sera consumada nos novos ceuse nanovaterra (Ap 21; 22). monte da Casa do SENHOR. Nao mais as ruinas abandonadas de 3.12, mas, sim, o precursor da presenga do Senhor com seu povo, o monte Siao terreno prefigure a realidade celestial, a qual a igreja chegou realmente agora (Hb 12.22-24). Como parte da antiga alianga, o centre religioso terreno foi eclipsado pela vinda da nova ordem (Hb 8.13). No cimo dos montes. Nos dias de Miqueias, os deuses pagaos tambem tinham montes sagrados com templos. Por se elevar acima deles, a casaeternadeDeus (aqui simbolizada pelo templo no monte Siao) sera estabelecida entre as nagoes como o centra daverdadeiraadoragao.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1,
+          "tambem": 1,
+          "nagoes": 1
+        }
+      },
+      "texto": "últimos dias. (Cf. Is 2.2-4.) A expressão indica uma nova época que, embora oculta no futuro, altera decisivamente o curso da história. Aqui, refere-se à era messiânica, que será consumada nos novos céus e na nova terra (Ap 21; 22).\n\nmonte da Casa do SENHOR. Não mais as ruínas abandonadas de 3.12, mas, sim, o precursor da presença do Senhor com seu povo, o monte Sião terreno prefigura a realidade celestial, à qual a igreja chegou realmente agora (Hb 12.22-24). Como parte da antiga aliança, o centro religioso terreno foi eclipsado pela vinda da nova ordem (Hb 8.13).\n\nNo cimo dos montes. Nos dias de Miqueias, os deuses pagãos também tinham montes sagrados com templos. Por se elevar acima deles, a casa eterna de Deus (aqui simbolizada pelo templo no monte Sião) será estabelecida entre as nações como o centro da verdadeira adoração.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "últimos dias. (Cf. Is 2.2-4.) A expressão indica uma nova época que, embora oculta no futuro, altera decisivamente o curso da história. Aqui, refere-se à era messiânica, que será consumada nos novos céus e na nova terra (Ap 21; 22).",
+        "monte da Casa do SENHOR. Não mais as ruínas abandonadas de 3.12, mas, sim, o precursor da presença do Senhor com seu povo, o monte Sião terreno prefigura a realidade celestial, à qual a igreja chegou realmente agora (Hb 12.22-24). Como parte da antiga aliança, o centro religioso terreno foi eclipsado pela vinda da nova ordem (Hb 8.13).",
+        "No cimo dos montes. Nos dias de Miqueias, os deuses pagãos também tinham montes sagrados com templos. Por se elevar acima deles, a casa eterna de Deus (aqui simbolizada pelo templo no monte Sião) será estabelecida entre as nações como o centro da verdadeira adoração."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "últimos dias.",
+          "texto": "(Cf. Is 2.2-4.) A expressão indica uma nova época que, embora oculta no futuro, altera decisivamente o curso da história. Aqui, refere-se à era messiânica, que será consumada nos novos céus e na nova terra (Ap 21; 22)."
+        },
+        {
+          "titulo": "monte da Casa do SENHOR.",
+          "texto": "Não mais as ruínas abandonadas de 3.12, mas, sim, o precursor da presença do Senhor com seu povo, o monte Sião terreno prefigura a realidade celestial, à qual a igreja chegou realmente agora (Hb 12.22-24). Como parte da antiga aliança, o centro religioso terreno foi eclipsado pela vinda da nova ordem (Hb 8.13)."
+        },
+        {
+          "titulo": "No cimo dos montes.",
+          "texto": "Nos dias de Miqueias, os deuses pagãos também tinham montes sagrados com templos. Por se elevar acima deles, a casa eterna de Deus (aqui simbolizada pelo templo no monte Sião) será estabelecida entre as nações como o centro da verdadeira adoração."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0043",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1579,
+        "rotulo_original_ocr": "4.6 Naqueledia. Vernotanov.1."
+      },
+      "texto": "Naquele dia. Ver nota no v. 1.\n\ncongregarei... recolherei. Os mesmos verbos que ocorrem em 2.12, indicando que essa profecia é um desenvolvimento e uma expansão do que foi dito antes.\n\ne os que. Talvez a melhor tradução seja “os mesmos que” — uma descrição adicional do mesmo grupo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Naquele dia. Ver nota no v. 1.",
+        "congregarei... recolherei. Os mesmos verbos que ocorrem em 2.12, indicando que essa profecia é um desenvolvimento e uma expansão do que foi dito antes.",
+        "e os que. Talvez a melhor tradução seja “os mesmos que” — uma descrição adicional do mesmo grupo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Naquele dia.",
+          "texto": "Ver nota no v. 1."
+        },
+        {
+          "titulo": "congregarei... recolherei.",
+          "texto": "Os mesmos verbos que ocorrem em 2.12, indicando que essa profecia é um desenvolvimento e uma expansão do que foi dito antes."
+        },
+        {
+          "titulo": "e os que.",
+          "texto": "Talvez a melhor tradução seja “os mesmos que” — uma descrição adicional do mesmo grupo."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0044",
+      "referencia": "4.7",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "4.7",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1579,
+        "rotulo_original_ocr": "4.7 restante. Assim como Deus preservou",
+        "texto_ocr_pre_normalizacao": "restante. Assim como Deus preservou um remanescente que sobreviveu a invasao de Senaqueribe (2.12, 13, nota), tambem um remanescente sobrevivera ao exilio babilonico future. poderosa nagao. Uma profecia que tern cumprimento final na igreja(iPe 2.9,10).",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1,
+          "exilio": 1,
+          "nagao": 1,
+          "tern": 1
+        }
+      },
+      "texto": "restante. Assim como Deus preservou um remanescente que sobreviveu à invasão de Senaqueribe (2.12, 13, nota), também um remanescente sobreviverá ao exílio babilônico futuro.\n\npoderosa nação. Uma profecia que tem cumprimento final na igreja (1Pe 2.9, 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "restante. Assim como Deus preservou um remanescente que sobreviveu à invasão de Senaqueribe (2.12, 13, nota), também um remanescente sobreviverá ao exílio babilônico futuro.",
+        "poderosa nação. Uma profecia que tem cumprimento final na igreja (1Pe 2.9, 10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "restante.",
+          "texto": "Assim como Deus preservou um remanescente que sobreviveu à invasão de Senaqueribe (2.12, 13, nota), também um remanescente sobreviverá ao exílio babilônico futuro."
+        },
+        {
+          "titulo": "poderosa nação.",
+          "texto": "Uma profecia que tem cumprimento final na igreja (1Pe 2.9, 10)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0045",
+      "referencia": "4.8",
+      "capitulo": 4,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "4.8",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1579,
+        "rotulo_original_ocr": "4.8 torre. Jerusalem (ou seja, a nova Jerusa-"
+      },
+      "texto": "torre. Jerusalém (ou seja, a nova Jerusalém — Ap 21; cf. Hb 12.22) se tornará uma torre fortificada ao redor da qual os habitantes se congregarão para desfrutar de proteção. Isaías prediz uma transformação semelhante de Jerusalém (Is 65.17-25).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "torre. Jerusalém (ou seja, a nova Jerusalém — Ap 21; cf. Hb 12.22) se tornará uma torre fortificada ao redor da qual os habitantes se congregarão para desfrutar de proteção. Isaías prediz uma transformação semelhante de Jerusalém (Is 65.17-25)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "torre.",
+          "texto": "Jerusalém (ou seja, a nova Jerusalém — Ap 21; cf. Hb 12.22) se tornará uma torre fortificada ao redor da qual os habitantes se congregarão para desfrutar de proteção. Isaías prediz uma transformação semelhante de Jerusalém (Is 65.17-25)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0046",
+      "referencia": "4.9-13",
+      "capitulo": 4,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "4.9-13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1579,
+        "rotulo_original_ocr": "4.9-13 Essa profecia explica que a angustia pre-"
+      },
+      "texto": "Essa profecia explica que a angústia presente de Israel (o “agora” dos vv. 9, 11) trará salvação gloriosa — libertação do exílio babilônico futuro (vv. 9, 10) e livramento do cerco de Senaqueribe (vv. 11, 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa profecia explica que a angústia presente de Israel (o “agora” dos vv. 9, 11) trará salvação gloriosa — libertação do exílio babilônico futuro (vv. 9, 10) e livramento do cerco de Senaqueribe (vv. 11, 12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa profecia explica que a angústia presente de Israel (o “agora” dos vv. 9, 11) trará salvação gloriosa — libertação do exílio babilônico futuro (vv. 9, 10) e livramento do cerco de Senaqueribe (vv. 11, 12)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0047",
+      "referencia": "4.10",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "4.10",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1580,
+        "rotulo_original_ocr": "4.10 como a que esta para dar a luz. A afli-",
+        "texto_ocr_pre_normalizacao": "como a que esta para dar a luz. A afligao do julgamento (exilio, perda do rei e da terra) para o remanescente deve preceder o nascimento daera messianica que se seguira. a Babilonia. A visao de Miqueias vai alem da a imediata da Assiria e prediz o que aconannea^ tecera mais de um seculo depois, quando nao haveralivramentodos babilonios paraJerusalem.",
+        "correcoes_literal_reversiveis": {
+          "exilio": 1,
+          "nao": 1
+        }
+      },
+      "texto": "como a que está para dar à luz. A aflição do julgamento (exílio, perda do rei e da terra) para o remanescente deve preceder o nascimento da era messiânica que se seguirá.\n\nà Babilônia. A visão de Miqueias vai além da ameaça imediata da Assíria e prediz o que acontecerá mais de um século depois, quando não haverá livramento dos babilônios para Jerusalém.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "como a que está para dar à luz. A aflição do julgamento (exílio, perda do rei e da terra) para o remanescente deve preceder o nascimento da era messiânica que se seguirá.",
+        "à Babilônia. A visão de Miqueias vai além da ameaça imediata da Assíria e prediz o que acontecerá mais de um século depois, quando não haverá livramento dos babilônios para Jerusalém."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como a que está para dar à luz.",
+          "texto": "A aflição do julgamento (exílio, perda do rei e da terra) para o remanescente deve preceder o nascimento da era messiânica que se seguirá."
+        },
+        {
+          "titulo": "à Babilônia.",
+          "texto": "A visão de Miqueias vai além da ameaça imediata da Assíria e prediz o que acontecerá mais de um século depois, quando não haverá livramento dos babilônios para Jerusalém."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0048",
+      "referencia": "4.11",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.11",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1580,
+        "rotulo_original_ocr": "4.11 Agora. 0 foco esta novamente nas circuns-",
+        "texto_ocr_pre_normalizacao": "Agora. 0 foco esta novamente nas circunstancias dos dias do proprioMiqueias. oes. 0 exercito imperial assirio conmuitas na^ atual e humilhado representante da linhagem de Davi, referidono v.1. siste de mercenaries demuitas nagoes. Belem-Efrata.Literalmente,“casadepao,frutife-",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1
+        }
+      },
+      "texto": "Agora. O foco está novamente nas circunstâncias dos dias do próprio Miqueias.\n\nmuitas nações. O exército imperial assírio consiste de mercenários de muitas nações.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Agora. O foco está novamente nas circunstâncias dos dias do próprio Miqueias.",
+        "muitas nações. O exército imperial assírio consiste de mercenários de muitas nações."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Agora.",
+          "texto": "O foco está novamente nas circunstâncias dos dias do próprio Miqueias."
+        },
+        {
+          "titulo": "muitas nações.",
+          "texto": "O exército imperial assírio consiste de mercenários de muitas nações."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0049",
+      "referencia": "5.1-6",
+      "capitulo": 5,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "5.1-6",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1580,
+        "rotulo_original_ocr": "5.1-6 Essa profecia tambem se move do sofri-",
+        "texto_ocr_pre_normalizacao": "Essa profecia tambem se move do sofrira\" A outrorainsignificante cidade em que Davi nasmento presente (\"agora\" — v. 1) para a vinda e a ceu(iSm16.1-13),situadaoitoquilometros asudoeste vitoria do Messias (vv. 2-5). Ver Introdugao: Cristo de Jerusalem. Embora a linhagem de reis davidicos em Miqueias tenhacessado temporariamente (v. 3),Deuslevanta-",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1,
+          "Introdugao": 1
+        }
+      },
+      "texto": "Essa profecia também se move do sofrimento presente (“agora” — v. 1) para a vinda e a vitória do Messias (vv. 2-5). Ver Introdução: Cristo em Miqueias.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa profecia também se move do sofrimento presente (“agora” — v. 1) para a vinda e a vitória do Messias (vv. 2-5). Ver Introdução: Cristo em Miqueias."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa profecia também se move do sofrimento presente (“agora” — v. 1) para a vinda e a vitória do Messias (vv. 2-5). Ver Introdução: Cristo em Miqueias."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0050",
+      "referencia": "5.1",
+      "capitulo": 5,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "5.1",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1580,
+        "rotulo_original_ocr": "5.1 face. Esse insulto ao lider deIsrael significa que"
+      },
+      "texto": "face. Esse insulto ao líder de Israel significa que Jerusalém cairá para seus invasores babilônios, e todo o poder para resistir será extinto (2Rs 25.4-7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "face. Esse insulto ao líder de Israel significa que Jerusalém cairá para seus invasores babilônios, e todo o poder para resistir será extinto (2Rs 25.4-7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "face.",
+          "texto": "Esse insulto ao líder de Israel significa que Jerusalém cairá para seus invasores babilônios, e todo o poder para resistir será extinto (2Rs 25.4-7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0051",
+      "referencia": "5.2",
+      "capitulo": 5,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "5.2",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7,
+          8
+        ],
+        "pagina_impressa": 1580,
+        "rotulo_original_ocr": "5.2 E tu. Contrasta o governante vindouro com o",
+        "texto_ocr_pre_normalizacao": "E tu. Contrasta o governante vindouro com o piano divino. desde os dias da eternidade. A expressao \"desde os temposantigos\" e traduzidacomo “desde a eternidade” em Habacuque 1.12, aplicando-se ao proprio Deus(\"cf.\"Deuseterno\" — Dt3127).Miqueias aprendeu certamente que a origem do governante era muito anterior a sua futura vinda profetizada. Uma pessoamaisquehumanaestavaenvolvida.",
+        "correcoes_literal_reversiveis": {
+          "proprio": 1
+        }
+      },
+      "texto": "E tu. Contrasta o governante vindouro com o atual e humilhado representante da linhagem de Davi, referido no v. 1.\n\nBelém-Efrata. Literalmente, “casa de pão, frutífera”. A outrora insignificante cidade em que Davi nasceu (1Sm 16.1-13), situada oito quilômetros a sudoeste de Jerusalém. Embora a linhagem de reis davídicos tenha cessado temporariamente (v. 3), Deus levantaria um governante da família de Davi para reinar eternamente — o próprio Jesus Cristo (2Sm 7.12-17; Mt 2.6).\n\nme. Tudo acontece para dar prosseguimento ao plano divino.\n\ndesde os dias da eternidade. A expressão “desde os tempos antigos” é traduzida como “desde a eternidade” em Habacuque 1.12, aplicando-se ao próprio Deus (“cf. “Deus eterno” — Dt 33.27). Miqueias aprendeu certamente que a origem do governante era muito anterior à sua futura vinda profetizada. Uma pessoa mais que humana estava envolvida.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "E tu. Contrasta o governante vindouro com o atual e humilhado representante da linhagem de Davi, referido no v. 1.",
+        "Belém-Efrata. Literalmente, “casa de pão, frutífera”. A outrora insignificante cidade em que Davi nasceu (1Sm 16.1-13), situada oito quilômetros a sudoeste de Jerusalém. Embora a linhagem de reis davídicos tenha cessado temporariamente (v. 3), Deus levantaria um governante da família de Davi para reinar eternamente — o próprio Jesus Cristo (2Sm 7.12-17; Mt 2.6).",
+        "me. Tudo acontece para dar prosseguimento ao plano divino.",
+        "desde os dias da eternidade. A expressão “desde os tempos antigos” é traduzida como “desde a eternidade” em Habacuque 1.12, aplicando-se ao próprio Deus (“cf. “Deus eterno” — Dt 33.27). Miqueias aprendeu certamente que a origem do governante era muito anterior à sua futura vinda profetizada. Uma pessoa mais que humana estava envolvida."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "E tu.",
+          "texto": "Contrasta o governante vindouro com o atual e humilhado representante da linhagem de Davi, referido no v. 1."
+        },
+        {
+          "titulo": "Belém-Efrata.",
+          "texto": "Literalmente, “casa de pão, frutífera”. A outrora insignificante cidade em que Davi nasceu (1Sm 16.1-13), situada oito quilômetros a sudoeste de Jerusalém. Embora a linhagem de reis davídicos tenha cessado temporariamente (v. 3), Deus levantaria um governante da família de Davi para reinar eternamente — o próprio Jesus Cristo (2Sm 7.12-17; Mt 2.6)."
+        },
+        {
+          "titulo": "me.",
+          "texto": "Tudo acontece para dar prosseguimento ao plano divino."
+        },
+        {
+          "titulo": "desde os dias da eternidade.",
+          "texto": "A expressão “desde os tempos antigos” é traduzida como “desde a eternidade” em Habacuque 1.12, aplicando-se ao próprio Deus (“cf. “Deus eterno” — Dt 33.27). Miqueias aprendeu certamente que a origem do governante era muito anterior à sua futura vinda profetizada. Uma pessoa mais que humana estava envolvida."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0052",
+      "referencia": "5.3",
+      "capitulo": 5,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "5.3",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.3 o SENHOR OS entregara.Israel esteve sem"
+      },
+      "texto": "o SENHOR os entregará. Israel esteve sem um rei davídico desde a queda de Jerusalém, em 586 a.C., até à vinda de Cristo.\n\na que está em dores. Uma referência ou a Maria, a mãe de Jesus, ou ao remanescente fiel (ver 4.10).\n\nrestante de seus irmãos. Milhares de israelitas foram convertidos depois do Pentecostes (At 2.41, 47).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "o SENHOR os entregará. Israel esteve sem um rei davídico desde a queda de Jerusalém, em 586 a.C., até à vinda de Cristo.",
+        "a que está em dores. Uma referência ou a Maria, a mãe de Jesus, ou ao remanescente fiel (ver 4.10).",
+        "restante de seus irmãos. Milhares de israelitas foram convertidos depois do Pentecostes (At 2.41, 47)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o SENHOR os entregará.",
+          "texto": "Israel esteve sem um rei davídico desde a queda de Jerusalém, em 586 a.C., até à vinda de Cristo."
+        },
+        {
+          "titulo": "a que está em dores.",
+          "texto": "Uma referência ou a Maria, a mãe de Jesus, ou ao remanescente fiel (ver 4.10)."
+        },
+        {
+          "titulo": "restante de seus irmãos.",
+          "texto": "Milhares de israelitas foram convertidos depois do Pentecostes (At 2.41, 47)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0053",
+      "referencia": "5.4",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "5.4",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.4 apascentara o povo. 0 governante"
+      },
+      "texto": "apascentará o povo. O governante messiânico assume o papel do Senhor (2.12) de cuidar do rebanho.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "apascentará o povo. O governante messiânico assume o papel do Senhor (2.12) de cuidar do rebanho."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "apascentará o povo.",
+          "texto": "O governante messiânico assume o papel do Senhor (2.12) de cuidar do rebanho."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0054",
+      "referencia": "5.5",
+      "capitulo": 5,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "5.5",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.5 nossa paz.0 governante,como “Principe da",
+        "texto_ocr_pre_normalizacao": "nossa paz.0 governante,como “Principe da Paz” (Is9.6;cf.tambemZc 9.10),supriraplenamente o necessario paraobem-estar easegurangadeseu povo. E esse aspecto da missao de CristoquePaulo reflete em Efesios 2.14. a Assiria.Depois daprimeira linha do que agora e designado como o v. 5, Miqueias desloca seu foco novamente para as condigoes presentes. Aqui,a Assiria,a nagao sitiante do v.1, representa todos os inimigos que se opoem ao reino de Deus. sete...oito.Seteeo nurnero da perfeigao.Havera suprimento de lideres mais do que suficiente para expandiro reinode Cristo.",
+        "correcoes_literal_reversiveis": {
+          "nagao": 1
+        }
+      },
+      "texto": "nossa paz. O governante, como “Príncipe da Paz” (Is 9.6; cf. também Zc 9.10), suprirá plenamente o necessário para o bem-estar e a segurança de seu povo. É esse aspecto da missão de Cristo que Paulo reflete em Efésios 2.14.\n\na Assíria. Depois da primeira linha do que agora é designado como o v. 5, Miqueias desloca seu foco novamente para as condições presentes. Aqui, a Assíria, a nação sitiante do v. 1, representa todos os inimigos que se opõem ao reino de Deus.\n\nsete... oito. Sete é o número da perfeição. Haverá suprimento de líderes mais do que suficiente para expandir o reino de Cristo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "nossa paz. O governante, como “Príncipe da Paz” (Is 9.6; cf. também Zc 9.10), suprirá plenamente o necessário para o bem-estar e a segurança de seu povo. É esse aspecto da missão de Cristo que Paulo reflete em Efésios 2.14.",
+        "a Assíria. Depois da primeira linha do que agora é designado como o v. 5, Miqueias desloca seu foco novamente para as condições presentes. Aqui, a Assíria, a nação sitiante do v. 1, representa todos os inimigos que se opõem ao reino de Deus.",
+        "sete... oito. Sete é o número da perfeição. Haverá suprimento de líderes mais do que suficiente para expandir o reino de Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "nossa paz.",
+          "texto": "O governante, como “Príncipe da Paz” (Is 9.6; cf. também Zc 9.10), suprirá plenamente o necessário para o bem-estar e a segurança de seu povo. É esse aspecto da missão de Cristo que Paulo reflete em Efésios 2.14."
+        },
+        {
+          "titulo": "a Assíria.",
+          "texto": "Depois da primeira linha do que agora é designado como o v. 5, Miqueias desloca seu foco novamente para as condições presentes. Aqui, a Assíria, a nação sitiante do v. 1, representa todos os inimigos que se opõem ao reino de Deus."
+        },
+        {
+          "titulo": "sete... oito.",
+          "texto": "Sete é o número da perfeição. Haverá suprimento de líderes mais do que suficiente para expandir o reino de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0055",
+      "referencia": "5.6",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "5.6",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.6 Ninrode. Referenda a um rei antige cujo"
+      },
+      "texto": "Ninrode. Referência a um rei antigo cujo império incluía tanto a Babilônia como a Assíria (Gn 10.10, 11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Ninrode. Referência a um rei antigo cujo império incluía tanto a Babilônia como a Assíria (Gn 10.10, 11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ninrode.",
+          "texto": "Referência a um rei antigo cujo império incluía tanto a Babilônia como a Assíria (Gn 10.10, 11)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0056",
+      "referencia": "5.7-9",
+      "capitulo": 5,
+      "versiculos": [
+        7,
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "5.7-9",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.7-9 Esse oraculo tern duas partes: uma profecia",
+        "texto_ocr_pre_normalizacao": "Esse oraculo tern duas partes: uma profecia de que o remanescente se tornara o instrument deDeus de vida e morte (vv.7,8) e um pedido para que Deus venga todos os seus inimigos (ver v. 9 e nota). Essas afirmagoes encontram cumprimento na igreja(2Co 2.14-16).",
+        "correcoes_literal_reversiveis": {
+          "tern": 1
+        }
+      },
+      "texto": "Esse oráculo tem duas partes: uma profecia de que o remanescente se tornará o instrumento de Deus de vida e morte (vv. 7, 8) e um pedido para que Deus vença todos os seus inimigos (ver v. 9 e nota). Essas afirmações encontram cumprimento na igreja (2Co 2.14-16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Esse oráculo tem duas partes: uma profecia de que o remanescente se tornará o instrumento de Deus de vida e morte (vv. 7, 8) e um pedido para que Deus vença todos os seus inimigos (ver v. 9 e nota). Essas afirmações encontram cumprimento na igreja (2Co 2.14-16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esse oráculo tem duas partes: uma profecia de que o remanescente se tornará o instrumento de Deus de vida e morte (vv. 7, 8) e um pedido para que Deus vença todos os seus inimigos (ver v. 9 e nota). Essas afirmações encontram cumprimento na igreja (2Co 2.14-16)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0057",
+      "referencia": "5.7",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "5.7",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.7 espera... depende. Assim como a chu-",
+        "texto_ocr_pre_normalizacao": "espera... depende. Assim como a chuva procede da iniciativa divina, tambem o remanescente depende de Deus para refrescar a terra.",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        }
+      },
+      "texto": "espera... depende. Assim como a chuva procede da iniciativa divina, também o remanescente depende de Deus para refrescar a terra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "espera... depende. Assim como a chuva procede da iniciativa divina, também o remanescente depende de Deus para refrescar a terra."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "espera... depende.",
+          "texto": "Assim como a chuva procede da iniciativa divina, também o remanescente depende de Deus para refrescar a terra."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0058",
+      "referencia": "5.9",
+      "capitulo": 5,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "5.9",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.9 tua mao.Uma tradugao melhor desse ver-"
+      },
+      "texto": "tua mão. Uma tradução melhor desse versículo talvez seja como uma petição por vitória divina (“Seja a tua mão levantada contra”). A seção seguinte descreve como o Senhor realiza essa vitória.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "tua mão. Uma tradução melhor desse versículo talvez seja como uma petição por vitória divina (“Seja a tua mão levantada contra”). A seção seguinte descreve como o Senhor realiza essa vitória."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tua mão.",
+          "texto": "Uma tradução melhor desse versículo talvez seja como uma petição por vitória divina (“Seja a tua mão levantada contra”). A seção seguinte descreve como o Senhor realiza essa vitória."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0059",
+      "referencia": "5.10-15",
+      "capitulo": 5,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "5.10-15",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1581,
+        "rotulo_original_ocr": "5.10-15 Deuspurificara seu povo (vv.10-14) e des-",
+        "texto_ocr_pre_normalizacao": "Deuspurificara seu povo (vv.10-14) e destruira as nagoes pagas (v. 15). A salvagao de Deus nao pode vir senao por ele remover de seu povo todaconfiangamilitar va e falsa (vv.10,11), feitigarias(v.12)eidolatria (v.13).",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1,
+          "salvagao": 1,
+          "nao": 1
+        }
+      },
+      "texto": "Deus purificará seu povo (vv. 10-14) e destruirá as nações pagãs (v. 15). A salvação de Deus não pode vir senão por ele remover de seu povo toda confiança militar vã e falsa (vv. 10, 11), feitiçarias (v. 12) e idolatria (v. 13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Deus purificará seu povo (vv. 10-14) e destruirá as nações pagãs (v. 15). A salvação de Deus não pode vir senão por ele remover de seu povo toda confiança militar vã e falsa (vv. 10, 11), feitiçarias (v. 12) e idolatria (v. 13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Deus purificará seu povo (vv. 10-14) e destruirá as nações pagãs (v. 15). A salvação de Deus não pode vir senão por ele remover de seu povo toda confiança militar vã e falsa (vv. 10, 11), feitiçarias (v. 12) e idolatria (v. 13)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0060",
+      "referencia": "5.15",
+      "capitulo": 5,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "5.15",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "5.15 vinganga. A vinganga de Deus acontecera",
+        "texto_ocr_pre_normalizacao": "vinganga. A vinganga de Deus acontecera quando ele revelar sua soberania total,ao libertar seu povo e punir os opressores culpados. Somente a soberania do proprio Senhor tern o direito absoluto de recorrer a forga para proteger seu reino; e o exerciciode forgapor umindividuooucomunidade sem autorizagaodivinatemorigemnaincredulidade(Dt 32.35;Rm12.19-21).",
+        "correcoes_literal_reversiveis": {
+          "proprio": 1,
+          "tern": 1
+        }
+      },
+      "texto": "vingança. A vingança de Deus acontecerá quando ele revelar sua soberania total, ao libertar seu povo e punir os opressores culpados. Somente a soberania do próprio Senhor tem o direito absoluto de recorrer à força para proteger seu reino; e o exercício de força por um indivíduo ou comunidade sem autorização divina tem origem na incredulidade (Dt 32.35; Rm 12.19-21).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "vingança. A vingança de Deus acontecerá quando ele revelar sua soberania total, ao libertar seu povo e punir os opressores culpados. Somente a soberania do próprio Senhor tem o direito absoluto de recorrer à força para proteger seu reino; e o exercício de força por um indivíduo ou comunidade sem autorização divina tem origem na incredulidade (Dt 32.35; Rm 12.19-21)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vingança.",
+          "texto": "A vingança de Deus acontecerá quando ele revelar sua soberania total, ao libertar seu povo e punir os opressores culpados. Somente a soberania do próprio Senhor tem o direito absoluto de recorrer à força para proteger seu reino; e o exercício de força por um indivíduo ou comunidade sem autorização divina tem origem na incredulidade (Dt 32.35; Rm 12.19-21)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0061",
+      "referencia": "6.1-8",
+      "capitulo": 6,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "6.1-8",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "6.1-8 0terceirociclo dosoraculosde Miqueias (caps.",
+        "texto_ocr_pre_normalizacao": "0terceirociclo dosoraculosde Miqueias (caps. 6, 7) tem inicio com um exemplo classico do litigio pactual profetico em que o Senhor alega os termos daalianga contra seu povo desobediente. A mensagemcomegacomumacenade julgamentoemque o Senhoreodemandante,Miqueiase seu emissario,as montanhassao testemunhaseIsrael eoacusado(vv. 1, 2). A fidelidade pactual do proprio Deus e, depois, confirmadaquandoeledaaIsrael aoportunidadede expressar quaisquer redamagoes (v. 3) e,em seguida, relata seus poderososatos delivramento (vv. 4,5). A exigenciadeumajustigapactuale,entao,prodamada — umajustigaqueconsistenaoderituais vazios, mas deobediencia sincera(vv.6-8).",
+        "correcoes_literal_reversiveis": {
+          "profetico": 1,
+          "proprio": 1
+        }
+      },
+      "texto": "O terceiro ciclo dos oráculos de Miqueias (caps. 6, 7) tem início com um exemplo clássico do litígio pactual profético em que o Senhor alega os termos da aliança contra seu povo desobediente. A mensagem começa com uma cena de julgamento em que o Senhor é o demandante, Miqueias é seu emissário, as montanhas são testemunhas e Israel é o acusado (vv. 1, 2). A fidelidade pactual do próprio Deus é, depois, confirmada quando ele dá a Israel a oportunidade de expressar quaisquer reclamações (v. 3) e, em seguida, relata seus poderosos atos de livramento (vv. 4, 5). A exigência de uma justiça pactual é, então, proclamada — uma justiça que consiste não de rituais vazios, mas de obediência sincera (vv. 6-8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "O terceiro ciclo dos oráculos de Miqueias (caps. 6, 7) tem início com um exemplo clássico do litígio pactual profético em que o Senhor alega os termos da aliança contra seu povo desobediente. A mensagem começa com uma cena de julgamento em que o Senhor é o demandante, Miqueias é seu emissário, as montanhas são testemunhas e Israel é o acusado (vv. 1, 2). A fidelidade pactual do próprio Deus é, depois, confirmada quando ele dá a Israel a oportunidade de expressar quaisquer reclamações (v. 3) e, em seguida, relata seus poderosos atos de livramento (vv. 4, 5). A exigência de uma justiça pactual é, então, proclamada — uma justiça que consiste não de rituais vazios, mas de obediência sincera (vv. 6-8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O terceiro ciclo dos oráculos de Miqueias (caps. 6, 7) tem início com um exemplo clássico do litígio pactual profético em que o Senhor alega os termos da aliança contra seu povo desobediente. A mensagem começa com uma cena de julgamento em que o Senhor é o demandante, Miqueias é seu emissário, as montanhas são testemunhas e Israel é o acusado (vv. 1, 2). A fidelidade pactual do próprio Deus é, depois, confirmada quando ele dá a Israel a oportunidade de expressar quaisquer reclamações (v. 3) e, em seguida, relata seus poderosos atos de livramento (vv. 4, 5). A exigência de uma justiça pactual é, então, proclamada — uma justiça que consiste não de rituais vazios, mas de obediência sincera (vv. 6-8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0062",
+      "referencia": "6.1",
+      "capitulo": 6,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "6.1",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "6.1 Levanta-te, defende a tua causa.0 Se-"
+      },
+      "texto": "Levanta-te, defende a tua causa. O Senhor ordena a Miqueias, como seu representante, que apresente a controvérsia de Deus contra o povo. Miqueias obedece à ordem (v. 2).\n\nmontes. O Senhor usa as montanhas duradouras como testemunhas da aliança mediada por Moisés (ver Dt 4.26; 30.19 e nota; 31.28; 32.1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Levanta-te, defende a tua causa. O Senhor ordena a Miqueias, como seu representante, que apresente a controvérsia de Deus contra o povo. Miqueias obedece à ordem (v. 2).",
+        "montes. O Senhor usa as montanhas duradouras como testemunhas da aliança mediada por Moisés (ver Dt 4.26; 30.19 e nota; 31.28; 32.1)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Levanta-te, defende a tua causa.",
+          "texto": "O Senhor ordena a Miqueias, como seu representante, que apresente a controvérsia de Deus contra o povo. Miqueias obedece à ordem (v. 2)."
+        },
+        {
+          "titulo": "montes.",
+          "texto": "O Senhor usa as montanhas duradouras como testemunhas da aliança mediada por Moisés (ver Dt 4.26; 30.19 e nota; 31.28; 32.1)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0063",
+      "referencia": "6.3",
+      "capitulo": 6,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "6.3",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "6.3 Povo meu.0 Senhor os reconhece como es-",
+        "texto_ocr_pre_normalizacao": "Povo meu.0 Senhor os reconhece como estando em alianga com elemesmo.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        }
+      },
+      "texto": "Povo meu. O Senhor os reconhece como estando em aliança com ele mesmo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Povo meu. O Senhor os reconhece como estando em aliança com ele mesmo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Povo meu.",
+          "texto": "O Senhor os reconhece como estando em aliança com ele mesmo."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0064",
+      "referencia": "6.4,5",
+      "capitulo": 6,
+      "versiculos": [
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "6.4,5",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "6.4, 5 Esses versiculos sao estruturados por re-"
+      },
+      "texto": "Esses versículos são estruturados por referências ao Egito (de onde Israel conseguira a libertação) e a Gilgal (onde Israel entrara na Terra Prometida — Js 4.19). Todos os atos salvadores de Deus no período de formação de Israel são incluídos: a Páscoa e o êxodo, a orientação pela coluna de nuvem e de fogo, a provisão miraculosa de alimento e água, a provisão de líderes capazes (“Moisés, Arão e Miriã”) e a vitória sobre os inimigos. A maravilhosa provisão de Deus para seu povo nesse período prefigura a experiência da igreja com Cristo (Jo 6.33; 1Co 5.7; 10.1-4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Esses versículos são estruturados por referências ao Egito (de onde Israel conseguira a libertação) e a Gilgal (onde Israel entrara na Terra Prometida — Js 4.19). Todos os atos salvadores de Deus no período de formação de Israel são incluídos: a Páscoa e o êxodo, a orientação pela coluna de nuvem e de fogo, a provisão miraculosa de alimento e água, a provisão de líderes capazes (“Moisés, Arão e Miriã”) e a vitória sobre os inimigos. A maravilhosa provisão de Deus para seu povo nesse período prefigura a experiência da igreja com Cristo (Jo 6.33; 1Co 5.7; 10.1-4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos são estruturados por referências ao Egito (de onde Israel conseguira a libertação) e a Gilgal (onde Israel entrara na Terra Prometida — Js 4.19). Todos os atos salvadores de Deus no período de formação de Israel são incluídos: a Páscoa e o êxodo, a orientação pela coluna de nuvem e de fogo, a provisão miraculosa de alimento e água, a provisão de líderes capazes (“Moisés, Arão e Miriã”) e a vitória sobre os inimigos. A maravilhosa provisão de Deus para seu povo nesse período prefigura a experiência da igreja com Cristo (Jo 6.33; 1Co 5.7; 10.1-4)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0065",
+      "referencia": "6.5",
+      "capitulo": 6,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "6.5",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "6.5 lembra-te. Essa ordem significanao somen-"
+      },
+      "texto": "lembra-te. Essa ordem significa não somente a recordação de eventos passados, mas também que esses eventos são os meios de atualizá-los no presente. Pela fé, esse conhecimento do passado é aplicado a situações presentes.\n\nSitim até Gilgal. Desde o último acampamento a leste do Jordão (Js 3.1) até o primeiro acampamento a oeste desse rio (Js 4.19). O que está em vista é a secagem miraculosa do Jordão.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "lembra-te. Essa ordem significa não somente a recordação de eventos passados, mas também que esses eventos são os meios de atualizá-los no presente. Pela fé, esse conhecimento do passado é aplicado a situações presentes.",
+        "Sitim até Gilgal. Desde o último acampamento a leste do Jordão (Js 3.1) até o primeiro acampamento a oeste desse rio (Js 4.19). O que está em vista é a secagem miraculosa do Jordão."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "lembra-te.",
+          "texto": "Essa ordem significa não somente a recordação de eventos passados, mas também que esses eventos são os meios de atualizá-los no presente. Pela fé, esse conhecimento do passado é aplicado a situações presentes."
+        },
+        {
+          "titulo": "Sitim até Gilgal.",
+          "texto": "Desde o último acampamento a leste do Jordão (Js 3.1) até o primeiro acampamento a oeste desse rio (Js 4.19). O que está em vista é a secagem miraculosa do Jordão."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0066",
+      "referencia": "6.6,7",
+      "capitulo": 6,
+      "versiculos": [
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "6.6,7",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9,
+          10
+        ],
+        "pagina_impressa": 1582,
+        "rotulo_original_ocr": "6.6, 7 Por meio da intensificagao retorica de",
+        "texto_ocr_pre_normalizacao": "Por meio da intensificagao retorica de sacrificios (\"bezerros... milhares de carneiros... ribeiros de azeite... meu primogenito\"),Miqueias expoe o absurdo de Israel depender de rituais e sacrificios futeis para merecer o favor divino. Essa dependence revela profundo entendimento equivocado da graga de Deus, pois a salvagao de Israel do Egito (e, em ultima analise,do pecado e da morte) foi gratuita, e nao merecida (vv. 4, 5). Alem disso, as obrigagoes pactuais de Israel envolvem justiga social e misericordia, e nao mera liturgia (v. 9). Ver tambem Amos 5.21-24. A CORRUPqAO MORAL DE ISRAEL",
+        "correcoes_literal_reversiveis": {
+          "graga": 1,
+          "salvagao": 1,
+          "nao": 2,
+          "justiga": 1,
+          "misericordia": 1,
+          "tambem": 1
+        }
+      },
+      "texto": "Por meio da intensificação retórica de sacrifícios (“bezerros... milhares de carneiros... ribeiros de azeite... meu primogênito”), Miqueias expõe o absurdo de Israel depender de rituais e sacrifícios fúteis para merecer o favor divino. Essa dependência revela profundo entendimento equivocado da graça de Deus, pois a salvação de Israel do Egito (e, em última análise, do pecado e da morte) foi gratuita, e não merecida (vv. 4, 5). Além disso, as obrigações pactuais de Israel envolvem justiça social e misericórdia, e não mera liturgia (v. 9). Ver também Amós 5.21-24.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Por meio da intensificação retórica de sacrifícios (“bezerros... milhares de carneiros... ribeiros de azeite... meu primogênito”), Miqueias expõe o absurdo de Israel depender de rituais e sacrifícios fúteis para merecer o favor divino. Essa dependência revela profundo entendimento equivocado da graça de Deus, pois a salvação de Israel do Egito (e, em última análise, do pecado e da morte) foi gratuita, e não merecida (vv. 4, 5). Além disso, as obrigações pactuais de Israel envolvem justiça social e misericórdia, e não mera liturgia (v. 9). Ver também Amós 5.21-24."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Por meio da intensificação retórica de sacrifícios (“bezerros... milhares de carneiros... ribeiros de azeite... meu primogênito”), Miqueias expõe o absurdo de Israel depender de rituais e sacrifícios fúteis para merecer o favor divino. Essa dependência revela profundo entendimento equivocado da graça de Deus, pois a salvação de Israel do Egito (e, em última análise, do pecado e da morte) foi gratuita, e não merecida (vv. 4, 5). Além disso, as obrigações pactuais de Israel envolvem justiça social e misericórdia, e não mera liturgia (v. 9). Ver também Amós 5.21-24."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0067",
+      "referencia": "6.8",
+      "capitulo": 6,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "6.8",
+      "pagina_original": 10,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 10,
+        "paginas_pdf": [
+          10
+        ],
+        "pagina_impressa": 1583,
+        "rotulo_original_ocr": "6.8 humildemente. Ou \"prudentemente\".",
+        "texto_ocr_pre_normalizacao": "humildemente. Ou \"prudentemente\". Essas tres exigences divinas abrangem relagoes com os outros, um apego individual e intimo aos padroes da alianga e um estilo de vida que presta devido reconhecimento a Deus em cada aspecto daconduta.",
+        "correcoes_literal_reversiveis": {
+          "alianga": 1
+        }
+      },
+      "texto": "humildemente. Ou “prudentemente”. Essas três exigências divinas abrangem relações com os outros, um apego individual e íntimo aos padrões da aliança e um estilo de vida que presta devido reconhecimento a Deus em cada aspecto da conduta.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "humildemente. Ou “prudentemente”. Essas três exigências divinas abrangem relações com os outros, um apego individual e íntimo aos padrões da aliança e um estilo de vida que presta devido reconhecimento a Deus em cada aspecto da conduta."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "humildemente.",
+          "texto": "Ou “prudentemente”. Essas três exigências divinas abrangem relações com os outros, um apego individual e íntimo aos padrões da aliança e um estilo de vida que presta devido reconhecimento a Deus em cada aspecto da conduta."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0068",
+      "referencia": "6.9-16",
+      "capitulo": 6,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "6.9-16",
+      "pagina_original": 10,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 10,
+        "paginas_pdf": [
+          10
+        ],
+        "pagina_impressa": 1583,
+        "rotulo_original_ocr": "6.9-16 Essa profecia consiste de uma mensa-"
+      },
+      "texto": "Essa profecia consiste de uma mensagem dirigida a Jerusalém (v. 9), uma acusação de falsidade nos negócios e na fala (vv. 10-12) e uma sentença judicial de enfermidade e ruína (vv. 13-15). O contexto pactual é evidente porque a punição reflete as maldições pactuais especificadas na lei de Moisés (v. 15; Lv 26.20; Dt 28.40, 51). Aqueles que vivem em rebelião contra seu rei pactual verão todos os esforços frustrados quando o Senhor impedi-los de realizar o que desejam.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa profecia consiste de uma mensagem dirigida a Jerusalém (v. 9), uma acusação de falsidade nos negócios e na fala (vv. 10-12) e uma sentença judicial de enfermidade e ruína (vv. 13-15). O contexto pactual é evidente porque a punição reflete as maldições pactuais especificadas na lei de Moisés (v. 15; Lv 26.20; Dt 28.40, 51). Aqueles que vivem em rebelião contra seu rei pactual verão todos os esforços frustrados quando o Senhor impedi-los de realizar o que desejam."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa profecia consiste de uma mensagem dirigida a Jerusalém (v. 9), uma acusação de falsidade nos negócios e na fala (vv. 10-12) e uma sentença judicial de enfermidade e ruína (vv. 13-15). O contexto pactual é evidente porque a punição reflete as maldições pactuais especificadas na lei de Moisés (v. 15; Lv 26.20; Dt 28.40, 51). Aqueles que vivem em rebelião contra seu rei pactual verão todos os esforços frustrados quando o Senhor impedi-los de realizar o que desejam."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0069",
+      "referencia": "6.14,15",
+      "capitulo": 6,
+      "versiculos": [
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 6,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "6.14,15",
+      "pagina_original": 10,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 10,
+        "paginas_pdf": [
+          10
+        ],
+        "pagina_impressa": 1583,
+        "rotulo_original_ocr": "6.14, 15 As condigoes amargas preditas nesses"
+      },
+      "texto": "As condições amargas preditas nesses versículos refletem as maldições de futilidade descritas em Levítico 26.26; Deuteronômio 28.30, 31, 38-40.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "As condições amargas preditas nesses versículos refletem as maldições de futilidade descritas em Levítico 26.26; Deuteronômio 28.30, 31, 38-40."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "As condições amargas preditas nesses versículos refletem as maldições de futilidade descritas em Levítico 26.26; Deuteronômio 28.30, 31, 38-40."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0070",
+      "referencia": "6.16",
+      "capitulo": 6,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 6,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "6.16",
+      "pagina_original": 10,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 10,
+        "paginas_pdf": [
+          10
+        ],
+        "pagina_impressa": 1583,
+        "rotulo_original_ocr": "6.16 os estatutos de Onri e todas as"
+      },
+      "texto": "os estatutos de Onri e todas as obras da casa de Acabe. Onri e Acabe governaram sobre o reino do Norte durante o século IX a.C. Notórios por suas obras ímpias, eles promoveram ativamente o culto a Baal em todo o Israel.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "os estatutos de Onri e todas as obras da casa de Acabe. Onri e Acabe governaram sobre o reino do Norte durante o século IX a.C. Notórios por suas obras ímpias, eles promoveram ativamente o culto a Baal em todo o Israel."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os estatutos de Onri e todas as obras da casa de Acabe.",
+          "texto": "Onri e Acabe governaram sobre o reino do Norte durante o século IX a.C. Notórios por suas obras ímpias, eles promoveram ativamente o culto a Baal em todo o Israel."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0071",
+      "referencia": "7.1-7",
+      "capitulo": 7,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "7.1-7",
+      "pagina_original": 10,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 10,
+        "paginas_pdf": [
+          10
+        ],
+        "pagina_impressa": 1583,
+        "rotulo_original_ocr": "7.1-7 Miqueias lamenta nao haver nenhum justo",
+        "texto_ocr_pre_normalizacao": "Miqueias lamenta nao haver nenhum justo (vv. 1-4) e deplora a confusao social e nacional resultante, que e tanto a consequencia como a punigaodos pecadosdeles (vv. 4-6).Especialmente chocante e a descrigao do colapso da ordem familiar. Miqueias termina,porem, expressando sua confianga de que, no outro lado do julgamento de Deus,ha salvagao (v.7).",
+        "correcoes_literal_reversiveis": {
+          "nao": 1,
+          "salvagao": 1
+        }
+      },
+      "texto": "Miqueias lamenta não haver nenhum justo (vv. 1-4) e deplora a confusão social e nacional resultante, que é tanto a consequência como a punição dos pecados deles (vv. 4-6). Especialmente chocante é a descrição do colapso da ordem familiar. Miqueias termina, porém, expressando sua confiança de que, no outro lado do julgamento de Deus, há salvação (v. 7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Miqueias lamenta não haver nenhum justo (vv. 1-4) e deplora a confusão social e nacional resultante, que é tanto a consequência como a punição dos pecados deles (vv. 4-6). Especialmente chocante é a descrição do colapso da ordem familiar. Miqueias termina, porém, expressando sua confiança de que, no outro lado do julgamento de Deus, há salvação (v. 7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Miqueias lamenta não haver nenhum justo (vv. 1-4) e deplora a confusão social e nacional resultante, que é tanto a consequência como a punição dos pecados deles (vv. 4-6). Especialmente chocante é a descrição do colapso da ordem familiar. Miqueias termina, porém, expressando sua confiança de que, no outro lado do julgamento de Deus, há salvação (v. 7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0072",
+      "referencia": "7.1",
+      "capitulo": 7,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "7.1",
+      "pagina_original": 10,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 10,
+        "paginas_pdf": [
+          10
+        ],
+        "pagina_impressa": 1583,
+        "rotulo_original_ocr": "7.1 estou... frutas do verao.Em sua busca por"
+      },
+      "texto": "estou... frutas do verão. Em sua busca por justos, Miqueias se compara a um viticultor que procura fruto excelente depois de haver passado o melhor da estação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "estou... frutas do verão. Em sua busca por justos, Miqueias se compara a um viticultor que procura fruto excelente depois de haver passado o melhor da estação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estou... frutas do verão.",
+          "texto": "Em sua busca por justos, Miqueias se compara a um viticultor que procura fruto excelente depois de haver passado o melhor da estação."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0073",
+      "referencia": "7.2",
+      "capitulo": 7,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "7.2",
+      "pagina_original": 11,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 11,
+        "paginas_pdf": [
+          11
+        ],
+        "pagina_impressa": 1584,
+        "rotulo_original_ocr": "7.2 o piedoso. Uma pessoa que se caracteriza"
+      },
+      "texto": "o piedoso. Uma pessoa que se caracteriza pela lealdade à aliança.\n\num que seja reto. Esse versículo explica a alegoria do versículo 1.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "o piedoso. Uma pessoa que se caracteriza pela lealdade à aliança.",
+        "um que seja reto. Esse versículo explica a alegoria do versículo 1."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o piedoso.",
+          "texto": "Uma pessoa que se caracteriza pela lealdade à aliança."
+        },
+        {
+          "titulo": "um que seja reto.",
+          "texto": "Esse versículo explica a alegoria do versículo 1."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0074",
+      "referencia": "7.4",
+      "capitulo": 7,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "7.4",
+      "pagina_original": 11,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 11,
+        "paginas_pdf": [
+          11
+        ],
+        "pagina_impressa": 1584,
+        "rotulo_original_ocr": "7.4 O melhor deles e como um espinheiro."
+      },
+      "texto": "O melhor deles é como um espinheiro. Como acontece com uma pessoa que procura bons frutos, mas encontra apenas espinhos e abrolhos, uma pessoa reta não pode ser achada.\n\nsentinelas. Uma metáfora dos profetas que anunciavam o julgamento vindouro (Ez 3.17; 33.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "O melhor deles é como um espinheiro. Como acontece com uma pessoa que procura bons frutos, mas encontra apenas espinhos e abrolhos, uma pessoa reta não pode ser achada.",
+        "sentinelas. Uma metáfora dos profetas que anunciavam o julgamento vindouro (Ez 3.17; 33.7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "O melhor deles é como um espinheiro.",
+          "texto": "Como acontece com uma pessoa que procura bons frutos, mas encontra apenas espinhos e abrolhos, uma pessoa reta não pode ser achada."
+        },
+        {
+          "titulo": "sentinelas.",
+          "texto": "Uma metáfora dos profetas que anunciavam o julgamento vindouro (Ez 3.17; 33.7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0075",
+      "referencia": "7.5,6",
+      "capitulo": 7,
+      "versiculos": [
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "7.5,6",
+      "pagina_original": 11,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 11,
+        "paginas_pdf": [
+          11
+        ],
+        "pagina_impressa": 1584,
+        "rotulo_original_ocr": "7.5, 6 Essa passagem e usada posteriormente na",
+        "texto_ocr_pre_normalizacao": "Essa passagem e usada posteriormente na literatura judaica apocaliptica e nao biblica para ciescrever o conflito que acompanhara o dia final do Senhor. Jesus cita o versiculo 6 ao descrever o conflito associado a sua vinda (Mt 10.35-39; Lc 12.51-53).",
+        "correcoes_literal_reversiveis": {
+          "nao": 1
+        }
+      },
+      "texto": "Essa passagem é usada posteriormente na literatura judaica apocalíptica e não bíblica para descrever o conflito que acompanhará o dia final do Senhor. Jesus cita o versículo 6 ao descrever o conflito associado à sua vinda (Mt 10.35-39; Lc 12.51-53).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Essa passagem é usada posteriormente na literatura judaica apocalíptica e não bíblica para descrever o conflito que acompanhará o dia final do Senhor. Jesus cita o versículo 6 ao descrever o conflito associado à sua vinda (Mt 10.35-39; Lc 12.51-53)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Essa passagem é usada posteriormente na literatura judaica apocalíptica e não bíblica para descrever o conflito que acompanhará o dia final do Senhor. Jesus cita o versículo 6 ao descrever o conflito associado à sua vinda (Mt 10.35-39; Lc 12.51-53)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0076",
+      "referencia": "7.8-20",
+      "capitulo": 7,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 7,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "7.8-20",
+      "pagina_original": 11,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 11,
+        "paginas_pdf": [
+          11
+        ],
+        "pagina_impressa": 1584,
+        "rotulo_original_ocr": "7.8-20 Esse hmo decondusao e formado por qua-",
+        "texto_ocr_pre_normalizacao": "Esse hmo decondusao e formado por quatro estrofes: (1) em seu estado de queda, a senhora Jerusalem confessaseu pecado e sua fe no Senhor (vv. 8-10);(2) o profeta promete que ela se tornara um aprisco que oferecera salvagao ao mundo sob julgamento (vv. 11-13);(3) Miqueias roga ao Senhor que apascente de novo e miraculosamente seu povo, o que o Senhor promete fazer (v. 15);depois, Miqueias profetiza que o inimigo incredulo sera conquistado (vv. 16, 17); e (4) o povo celebra o perdao e a fidelidade de Deus com um hino de louvor (vv.18-20).",
+        "correcoes_literal_reversiveis": {
+          "salvagao": 1
+        }
+      },
+      "texto": "Esse hino de conclusão é formado por quatro estrofes: (1) em seu estado de queda, a senhora Jerusalém confessa seu pecado e sua fé no Senhor (vv. 8-10); (2) o profeta promete que ela se tornará um aprisco que oferecerá salvação ao mundo sob julgamento (vv. 11-13); (3) Miqueias roga ao Senhor que apascente de novo e miraculosamente seu povo, o que o Senhor promete fazer (v. 15); depois, Miqueias profetiza que o inimigo incrédulo será conquistado (vv. 16, 17); e (4) o povo celebra o perdão e a fidelidade de Deus com um hino de louvor (vv. 18-20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Esse hino de conclusão é formado por quatro estrofes: (1) em seu estado de queda, a senhora Jerusalém confessa seu pecado e sua fé no Senhor (vv. 8-10); (2) o profeta promete que ela se tornará um aprisco que oferecerá salvação ao mundo sob julgamento (vv. 11-13); (3) Miqueias roga ao Senhor que apascente de novo e miraculosamente seu povo, o que o Senhor promete fazer (v. 15); depois, Miqueias profetiza que o inimigo incrédulo será conquistado (vv. 16, 17); e (4) o povo celebra o perdão e a fidelidade de Deus com um hino de louvor (vv. 18-20)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esse hino de conclusão é formado por quatro estrofes: (1) em seu estado de queda, a senhora Jerusalém confessa seu pecado e sua fé no Senhor (vv. 8-10); (2) o profeta promete que ela se tornará um aprisco que oferecerá salvação ao mundo sob julgamento (vv. 11-13); (3) Miqueias roga ao Senhor que apascente de novo e miraculosamente seu povo, o que o Senhor promete fazer (v. 15); depois, Miqueias profetiza que o inimigo incrédulo será conquistado (vv. 16, 17); e (4) o povo celebra o perdão e a fidelidade de Deus com um hino de louvor (vv. 18-20)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0077",
+      "referencia": "7.8",
+      "capitulo": 7,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "7.8",
+      "pagina_original": 11,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 11,
+        "paginas_pdf": [
+          11
+        ],
+        "pagina_impressa": 1584,
+        "rotulo_original_ocr": "7.8 trevas. Um calabougo sem luz e uma figura"
+      },
+      "texto": "trevas. Um calabouço sem luz é uma figura apropriada de uma cidade que está sob julgamento divino.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "trevas. Um calabouço sem luz é uma figura apropriada de uma cidade que está sob julgamento divino."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "trevas.",
+          "texto": "Um calabouço sem luz é uma figura apropriada de uma cidade que está sob julgamento divino."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0078",
+      "referencia": "7.9",
+      "capitulo": 7,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "7.9",
+      "pagina_original": 11,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 11,
+        "paginas_pdf": [
+          11
+        ],
+        "pagina_impressa": 1584,
+        "rotulo_original_ocr": "7.9 e eu verei a sua justiga. A justiga do Se-",
+        "texto_ocr_pre_normalizacao": "e eu verei a sua justiga. A justiga do Senhor sera expressana salvagao fiel de Israel (vv.8, 9) e na destruigao de sua inimigaincredula (v.10).",
+        "correcoes_literal_reversiveis": {
+          "justiga": 2,
+          "salvagao": 1
+        }
+      },
+      "texto": "e eu verei a sua justiça. A justiça do Senhor será expressa na salvação fiel de Israel (vv. 8, 9) e na destruição de sua inimiga incrédula (v. 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "e eu verei a sua justiça. A justiça do Senhor será expressa na salvação fiel de Israel (vv. 8, 9) e na destruição de sua inimiga incrédula (v. 10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "e eu verei a sua justiça.",
+          "texto": "A justiça do Senhor será expressa na salvação fiel de Israel (vv. 8, 9) e na destruição de sua inimiga incrédula (v. 10)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0079",
+      "referencia": "7.11",
+      "capitulo": 7,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "7.11",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.11 dia. Ver 4.1, 6; 5.10-15.0 ultimo dia e descrito"
+      },
+      "texto": "dia. Ver 4.1, 6; 5.10-15. O último dia é descrito simbolicamente pela restauração dos muros de Jerusalém (v. 11) e pela expansão das fronteiras da terra até os limites profetizados por Moisés e desfrutados nos reinados de Davi e Salomão (v. 12; Gn 15.18; Êx 23.31; Dt 11.24; 1Rs 4.21, 25).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "dia. Ver 4.1, 6; 5.10-15. O último dia é descrito simbolicamente pela restauração dos muros de Jerusalém (v. 11) e pela expansão das fronteiras da terra até os limites profetizados por Moisés e desfrutados nos reinados de Davi e Salomão (v. 12; Gn 15.18; Êx 23.31; Dt 11.24; 1Rs 4.21, 25)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "dia.",
+          "texto": "Ver 4.1, 6; 5.10-15. O último dia é descrito simbolicamente pela restauração dos muros de Jerusalém (v. 11) e pela expansão das fronteiras da terra até os limites profetizados por Moisés e desfrutados nos reinados de Davi e Salomão (v. 12; Gn 15.18; Êx 23.31; Dt 11.24; 1Rs 4.21, 25)."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0086",
+      "referencia": "7.12",
+      "capitulo": 7,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "7.12",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.12. rio.",
+        "texto_ocr_pre_normalizacao": "rio.0 Eufrates.",
+        "correcoes_literal_reversiveis": {}
+      },
+      "texto": "rio. O Eufrates.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "rio. O Eufrates."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "rio.",
+          "texto": "O Eufrates."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0080",
+      "referencia": "7.13",
+      "capitulo": 7,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "7.13",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.13 a terra sera posta em desolagao. Fora"
+      },
+      "texto": "a terra será posta em desolação. Fora das fronteiras seguras dos eleitos, há um julgamento universal. O último julgamento está em vista.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "a terra será posta em desolação. Fora das fronteiras seguras dos eleitos, há um julgamento universal. O último julgamento está em vista."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a terra será posta em desolação.",
+          "texto": "Fora das fronteiras seguras dos eleitos, há um julgamento universal. O último julgamento está em vista."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0081",
+      "referencia": "7.14",
+      "capitulo": 7,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "7.14",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.14 Basa e Gileade. Areas ferteis a leste do"
+      },
+      "texto": "Basã e Gileade. Áreas férteis a leste do Jordão, famosas por seu gado e pelas ovelhas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Basã e Gileade. Áreas férteis a leste do Jordão, famosas por seu gado e pelas ovelhas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Basã e Gileade.",
+          "texto": "Áreas férteis a leste do Jordão, famosas por seu gado e pelas ovelhas."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0082",
+      "referencia": "7.16",
+      "capitulo": 7,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "7.16",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.16 mao sobre a boca... ficarao surdos.",
+        "texto_ocr_pre_normalizacao": "mao sobre a boca... ficarao surdos. Esses sao sinais de humilhagao diante do extraordinary poder divino. As nagoes nao mais zombarao de Israel,nem darao ouvidosas vas jactancias alheias.",
+        "correcoes_literal_reversiveis": {
+          "nagoes": 1,
+          "nao": 1
+        }
+      },
+      "texto": "mão sobre a boca... ficarão surdos. Esses são sinais de humilhação diante do extraordinário poder divino. As nações não mais zombarão de Israel, nem darão ouvidos às vãs jactâncias alheias.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "mão sobre a boca... ficarão surdos. Esses são sinais de humilhação diante do extraordinário poder divino. As nações não mais zombarão de Israel, nem darão ouvidos às vãs jactâncias alheias."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mão sobre a boca... ficarão surdos.",
+          "texto": "Esses são sinais de humilhação diante do extraordinário poder divino. As nações não mais zombarão de Israel, nem darão ouvidos às vãs jactâncias alheias."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0083",
+      "referencia": "7.18",
+      "capitulo": 7,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "7.18",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.18 Quern, 6 Deus, e semelhante a ti. Mi-",
+        "texto_ocr_pre_normalizacao": "Quern, 6 Deus, e semelhante a ti. Miqueias,cujo nome significa \"quern e semelhante ao Senhor?\" (1.1, nota), talvez esteja empregando urn trocadilho sobre seu proprio nome para enfatizar a graga perdoadora de Deus. tern prazer na misericordia. A palavra usada aqui (e no v. 20) traduzida como \"misericordia\" e o familiar vocabulo hebraico hesed. Refere-se ao pleno compromisso de Deus com o relacionamento de alianga que ele instituiu soberanamente e no qual persiste, apesar da obstinagao de seus parceiros da alianga. Deus tern prazer em mostrar seu compromisso resoluto e eficaz, assegurando-lhes perdao e aceitagao — nao importando o custo ou a dificuldade envolvidos. Deus garantira, portanto, que o relacionamento quebrado pelo pecado deles sera consumado de acordo com seu proposito.",
+        "correcoes_literal_reversiveis": {
+          "quern": 1,
+          "urn": 1,
+          "proprio": 1,
+          "graga": 1,
+          "tern": 2,
+          "misericordia": 2,
+          "alianga": 2,
+          "nao": 1
+        }
+      },
+      "texto": "Quem, ó Deus, é semelhante a ti. Miqueias, cujo nome significa “quem é semelhante ao Senhor?” (1.1, nota), talvez esteja empregando um trocadilho sobre seu próprio nome para enfatizar a graça perdoadora de Deus.\n\ntem prazer na misericórdia. A palavra usada aqui (e no v. 20) traduzida como “misericórdia” é o familiar vocábulo hebraico hesed. Refere-se ao pleno compromisso de Deus com o relacionamento de aliança que ele instituiu soberanamente e no qual persiste, apesar da obstinação de seus parceiros da aliança. Deus tem prazer em mostrar seu compromisso resoluto e eficaz, assegurando-lhes perdão e aceitação — não importando o custo ou a dificuldade envolvidos. Deus garantirá, portanto, que o relacionamento quebrado pelo pecado deles será consumado de acordo com seu propósito.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Quem, ó Deus, é semelhante a ti. Miqueias, cujo nome significa “quem é semelhante ao Senhor?” (1.1, nota), talvez esteja empregando um trocadilho sobre seu próprio nome para enfatizar a graça perdoadora de Deus.",
+        "tem prazer na misericórdia. A palavra usada aqui (e no v. 20) traduzida como “misericórdia” é o familiar vocábulo hebraico hesed. Refere-se ao pleno compromisso de Deus com o relacionamento de aliança que ele instituiu soberanamente e no qual persiste, apesar da obstinação de seus parceiros da aliança. Deus tem prazer em mostrar seu compromisso resoluto e eficaz, assegurando-lhes perdão e aceitação — não importando o custo ou a dificuldade envolvidos. Deus garantirá, portanto, que o relacionamento quebrado pelo pecado deles será consumado de acordo com seu propósito."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Quem, ó Deus, é semelhante a ti.",
+          "texto": "Miqueias, cujo nome significa “quem é semelhante ao Senhor?” (1.1, nota), talvez esteja empregando um trocadilho sobre seu próprio nome para enfatizar a graça perdoadora de Deus."
+        },
+        {
+          "titulo": "tem prazer na misericórdia.",
+          "texto": "A palavra usada aqui (e no v. 20) traduzida como “misericórdia” é o familiar vocábulo hebraico hesed. Refere-se ao pleno compromisso de Deus com o relacionamento de aliança que ele instituiu soberanamente e no qual persiste, apesar da obstinação de seus parceiros da aliança. Deus tem prazer em mostrar seu compromisso resoluto e eficaz, assegurando-lhes perdão e aceitação — não importando o custo ou a dificuldade envolvidos. Deus garantirá, portanto, que o relacionamento quebrado pelo pecado deles será consumado de acordo com seu propósito."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0084",
+      "referencia": "7.19",
+      "capitulo": 7,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "7.19",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.19 langara... mar. Assim como Deus comegou",
+        "texto_ocr_pre_normalizacao": "langara... mar. Assim como Deus comegou a jornada de Israel langando os egi'pcios no mar Vermelho (v.15; cf. Ex 15.1-5),tambem concluira a historia atirando as iniquidades de seu povo nas profundezas.",
+        "correcoes_literal_reversiveis": {
+          "tambem": 1
+        }
+      },
+      "texto": "lançará... mar. Assim como Deus começou a jornada de Israel lançando os egípcios no mar Vermelho (v. 15; cf. Êx 15.1-5), também concluirá a história atirando as iniquidades de seu povo nas profundezas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "lançará... mar. Assim como Deus começou a jornada de Israel lançando os egípcios no mar Vermelho (v. 15; cf. Êx 15.1-5), também concluirá a história atirando as iniquidades de seu povo nas profundezas."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "lançará... mar.",
+          "texto": "Assim como Deus começou a jornada de Israel lançando os egípcios no mar Vermelho (v. 15; cf. Êx 15.1-5), também concluirá a história atirando as iniquidades de seu povo nas profundezas."
+        }
+      ]
+    },
+    {
+      "id": "fr-mq-0085",
+      "referencia": "7.20",
+      "capitulo": 7,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 7,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "7.20",
+      "pagina_original": 12,
+      "origem": {
+        "pdf": "071 - Miqueias (Mq).pdf",
+        "pagina_pdf": 12,
+        "paginas_pdf": [
+          12
+        ],
+        "pagina_impressa": 1585,
+        "rotulo_original_ocr": "7.20 Mostraras... fidelidade. A amavel fide-"
+      },
+      "texto": "Mostrarás... fidelidade. A amável fidelidade de Deus para com os patriarcas é a base da esperança da igreja (Rm 4.17; Gl 3.7-9, 29).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "cotejo_visual_v1_comentario",
+      "avisos_ocr": [],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "paragrafos": [
+        "Mostrarás... fidelidade. A amável fidelidade de Deus para com os patriarcas é a base da esperança da igreja (Rm 4.17; Gl 3.7-9, 29)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Mostrarás... fidelidade.",
+          "texto": "A amável fidelidade de Deus para com os patriarcas é a base da esperança da igreja (Rm 4.17; Gl 3.7-9, 29)."
+        }
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

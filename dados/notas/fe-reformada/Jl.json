@@ -1,0 +1,3801 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Jl",
+  "titulo": "Joel",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "063 - Joel (Jl).pdf",
+    "paginas_pdf": [
+      1,
+      9
+    ],
+    "observacao": "66 comentários: capítulo 1 revisado no pacote anterior; capítulos 2–3 nesta etapa. Introdução, artigo Legalismo e margens cotejados. Dois grupos marginais sem letra visível no corpo do impresso, preservados no painel geral; teste funcional pendente."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional_e_ressalvas_fonte",
+  "notas": [
+    {
+      "id": "fr-jl-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.1PalavradoSENHOR.Essetitulosimplesecurto",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Palavra do SENHOR. Esse título simples e curto anuncia que o texto seguinte é a palavra revelada do Senhor e se parece muito com Jonas 1.1. Títulos mais extensos de livros proféticos individuais se encontram em Jeremias 1.2; Ezequiel 1.3; Oseias 1.1; Miqueias 1.1; Sofonias 1.1; Ageu 1.1; Zacarias 1.1; Malaquias 1.1.\n\nJoel. Seu nome significa “Jeová é Deus”.\n\nPetuel. A única ocorrência desse nome na Bíblia.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Palavra do SENHOR.",
+          "texto": "Esse título simples e curto anuncia que o texto seguinte é a palavra revelada do Senhor e se parece muito com Jonas 1.1. Títulos mais extensos de livros proféticos individuais se encontram em Jeremias 1.2; Ezequiel 1.3; Oseias 1.1; Miqueias 1.1; Sofonias 1.1; Ageu 1.1; Zacarias 1.1; Malaquias 1.1."
+        },
+        {
+          "titulo": "Joel.",
+          "texto": "Seu nome significa “Jeová é Deus”."
+        },
+        {
+          "titulo": "Petuel.",
+          "texto": "A única ocorrência desse nome na Bíblia."
+        }
+      ],
+      "paragrafos": [
+        "Palavra do SENHOR. Esse título simples e curto anuncia que o texto seguinte é a palavra revelada do Senhor e se parece muito com Jonas 1.1. Títulos mais extensos de livros proféticos individuais se encontram em Jeremias 1.2; Ezequiel 1.3; Oseias 1.1; Miqueias 1.1; Sofonias 1.1; Ageu 1.1; Zacarias 1.1; Malaquias 1.1.",
+        "Joel. Seu nome significa “Jeová é Deus”.",
+        "Petuel. A única ocorrência desse nome na Bíblia."
+      ]
+    },
+    {
+      "id": "fr-jl-0002",
+      "referencia": "1.2-2.17",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.2-2.17",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.2-2.17 Juda depara com duas crises como",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Judá depara com duas crises como consequência dos pecados do povo: (1) a recente devastação da terra por gafanhotos (1.4-8) e seca (1.10-12, 16-20); e (2) o ataque iminente sobre a terra pelo exército do Senhor (2.1-17). Se o povo quiser livrar-se dessas calamidades, tem de se arrepender de seus pecados e converter-se ao Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Judá depara com duas crises como consequência dos pecados do povo: (1) a recente devastação da terra por gafanhotos (1.4-8) e seca (1.10-12, 16-20); e (2) o ataque iminente sobre a terra pelo exército do Senhor (2.1-17). Se o povo quiser livrar-se dessas calamidades, tem de se arrepender de seus pecados e converter-se ao Senhor."
+        }
+      ],
+      "paragrafos": [
+        "Judá depara com duas crises como consequência dos pecados do povo: (1) a recente devastação da terra por gafanhotos (1.4-8) e seca (1.10-12, 16-20); e (2) o ataque iminente sobre a terra pelo exército do Senhor (2.1-17). Se o povo quiser livrar-se dessas calamidades, tem de se arrepender de seus pecados e converter-se ao Senhor."
+      ]
+    },
+    {
+      "id": "fr-jl-0003",
+      "referencia": "1.2-20",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "1.2-20",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.2-20 Joel apela aos velhos (v. 2), aos ebrios",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Joel apela aos velhos (v. 2), aos ébrios (v. 5), aos lavradores (v. 11) e aos sacerdotes (v. 13) para que ponderem o significado da recente praga de gafanhotos e seca, e se arrependam. Essa variedade de tipos de pessoas reflete a ideia de que todos os homens e todas as mulheres em Judá devem considerar sua situação e as circunstâncias que os cercam.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Joel apela aos velhos (v. 2), aos ébrios (v. 5), aos lavradores (v. 11) e aos sacerdotes (v. 13) para que ponderem o significado da recente praga de gafanhotos e seca, e se arrependam. Essa variedade de tipos de pessoas reflete a ideia de que todos os homens e todas as mulheres em Judá devem considerar sua situação e as circunstâncias que os cercam."
+        }
+      ],
+      "paragrafos": [
+        "Joel apela aos velhos (v. 2), aos ébrios (v. 5), aos lavradores (v. 11) e aos sacerdotes (v. 13) para que ponderem o significado da recente praga de gafanhotos e seca, e se arrependam. Essa variedade de tipos de pessoas reflete a ideia de que todos os homens e todas as mulheres em Judá devem considerar sua situação e as circunstâncias que os cercam."
+      ]
+    },
+    {
+      "id": "fr-jl-0004",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.2 Ouvi...escutai.Essa serie de ordens chama",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Ouvi... escutai. Essa série de ordens chama o povo para reconhecer o significado espiritual e pessoal da invasão de gafanhotos. A repetição do pensamento na primeira e na segunda linhas, bem como na terceira e na quarta linhas, ilustra o paralelismo típico da poesia hebraica.\n\nvelhos. Essa palavra denota os líderes religiosos e comunitários. A mesma palavra usada em 2.28 parece referir-se à idade.\n\ntodos os habitantes da terra. A população inteira de Judá e Jerusalém é chamada a ouvir.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ouvi... escutai.",
+          "texto": "Essa série de ordens chama o povo para reconhecer o significado espiritual e pessoal da invasão de gafanhotos. A repetição do pensamento na primeira e na segunda linhas, bem como na terceira e na quarta linhas, ilustra o paralelismo típico da poesia hebraica."
+        },
+        {
+          "titulo": "velhos.",
+          "texto": "Essa palavra denota os líderes religiosos e comunitários. A mesma palavra usada em 2.28 parece referir-se à idade."
+        },
+        {
+          "titulo": "todos os habitantes da terra.",
+          "texto": "A população inteira de Judá e Jerusalém é chamada a ouvir."
+        }
+      ],
+      "paragrafos": [
+        "Ouvi... escutai. Essa série de ordens chama o povo para reconhecer o significado espiritual e pessoal da invasão de gafanhotos. A repetição do pensamento na primeira e na segunda linhas, bem como na terceira e na quarta linhas, ilustra o paralelismo típico da poesia hebraica.",
+        "velhos. Essa palavra denota os líderes religiosos e comunitários. A mesma palavra usada em 2.28 parece referir-se à idade.",
+        "todos os habitantes da terra. A população inteira de Judá e Jerusalém é chamada a ouvir."
+      ]
+    },
+    {
+      "id": "fr-jl-0066",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.3 Narrai... filhos... outra geração.",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Narrai... filhos... outra geração. Relatos de julgamento de Deus, bem como de suas misericórdias, devem ser transmitidos às futuras gerações (cf. Dt 4.9; 6.7; 32.7; Sl 78.1-8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Narrai... filhos... outra geração.",
+          "texto": "Relatos de julgamento de Deus, bem como de suas misericórdias, devem ser transmitidos às futuras gerações (cf. Dt 4.9; 6.7; 32.7; Sl 78.1-8)."
+        }
+      ],
+      "paragrafos": [
+        "Narrai... filhos... outra geração. Relatos de julgamento de Deus, bem como de suas misericórdias, devem ser transmitidos às futuras gerações (cf. Dt 4.9; 6.7; 32.7; Sl 78.1-8)."
+      ]
+    },
+    {
+      "id": "fr-jl-0005",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.4gafanhoto As repetigoes poeticas em cada",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "gafanhoto. As repetições poéticas em cada linha enfatizam a completude da destruição dos gafanhotos. A variedade nos nomes dos gafanhotos pode referir-se aos vários estágios de desenvolvimento, embora algumas diferenças de cores e no tipo e na origem regional possam ser refletidas aqui e em 2.25. Quando os gafanhotos são entendidos como instrumento da punição divina, o arrependimento é a resposta apropriada (Dt 28.38; Am 7.1; Is 33.4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "gafanhoto.",
+          "texto": "As repetições poéticas em cada linha enfatizam a completude da destruição dos gafanhotos. A variedade nos nomes dos gafanhotos pode referir-se aos vários estágios de desenvolvimento, embora algumas diferenças de cores e no tipo e na origem regional possam ser refletidas aqui e em 2.25. Quando os gafanhotos são entendidos como instrumento da punição divina, o arrependimento é a resposta apropriada (Dt 28.38; Am 7.1; Is 33.4)."
+        }
+      ],
+      "paragrafos": [
+        "gafanhoto. As repetições poéticas em cada linha enfatizam a completude da destruição dos gafanhotos. A variedade nos nomes dos gafanhotos pode referir-se aos vários estágios de desenvolvimento, embora algumas diferenças de cores e no tipo e na origem regional possam ser refletidas aqui e em 2.25. Quando os gafanhotos são entendidos como instrumento da punição divina, o arrependimento é a resposta apropriada (Dt 28.38; Am 7.1; Is 33.4)."
+      ]
+    },
+    {
+      "id": "fr-jl-0006",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.5 despertai... chorai.0 primeiro chamado a",
+        "texto_ocr_pre_normalizacao": "despertai... chorai.0 primeiro chamado a resposta e dirigido aos bebados. Eles representam a atitude de muitos que se mostram indiferentes as coisas que tem importance espiritual.Somente os sobrios sao capazes de reagir corretamente ao julgamento de Deus. Ate os bebados precisam entender que nao havera vinho para eles apos a devastagao degafanhotos.",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "despertai... chorai. O primeiro chamado à resposta é dirigido aos bêbados. Eles representam a atitude de muitos que se mostram indiferentes às coisas que têm importância espiritual. Somente os sóbrios são capazes de reagir corretamente ao julgamento de Deus. Até os bêbados precisam entender que não haverá vinho para eles após a devastação de gafanhotos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "despertai... chorai.",
+          "texto": "O primeiro chamado à resposta é dirigido aos bêbados. Eles representam a atitude de muitos que se mostram indiferentes às coisas que têm importância espiritual. Somente os sóbrios são capazes de reagir corretamente ao julgamento de Deus. Até os bêbados precisam entender que não haverá vinho para eles após a devastação de gafanhotos."
+        }
+      ],
+      "paragrafos": [
+        "despertai... chorai. O primeiro chamado à resposta é dirigido aos bêbados. Eles representam a atitude de muitos que se mostram indiferentes às coisas que têm importância espiritual. Somente os sóbrios são capazes de reagir corretamente ao julgamento de Deus. Até os bêbados precisam entender que não haverá vinho para eles após a devastação de gafanhotos."
+      ]
+    },
+    {
+      "id": "fr-jl-0007",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.6minhaterra.Pronomes pessoais sao usados",
+        "texto_ocr_pre_normalizacao": "minhaterra.Pronomes pessoais sao usados em todo o livro e apontam para a relagao pactual que liga o Senhor nao somente a terra, as suas videiras e as suas figueiras, mas tambem ao seu povo (1.7; 2.13,14,17,18,23, 26, 27; 3.2, 3,17). poderoso...leoa. Os gafanhotos sao comparados a uma nagao invasora que tem a paixao voraz de um leao (cf. 2.4-9; Ap 9.7-9). Com frequence, gafanhotos e exercitos sao usados comparativamente no mundo antigo. A literatura mitica da cidade antiga de Ugarite compara um grande exercito a gafanhotos (cf. Jz 6.5; Pv 30.27; Jr 51.14, 27;Na 3.15-17).",
+        "normalizacoes_literais_reversiveis": {
+          "relagao": 1,
+          "nao": 1,
+          "tambem": 1,
+          "nagao": 1
+        },
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "minha terra. Pronomes pessoais são usados em todo o livro e apontam para a relação pactual que liga o Senhor não somente à terra, às suas videiras e às suas figueiras, mas também ao seu povo (1.7; 2.13, 14, 17, 18, 23, 26, 27; 3.2, 3, 17).\n\npoderoso... leoa. Os gafanhotos são comparados a uma nação invasora que tem a paixão voraz de um leão (cf. 2.4-9; Ap 9.7-9). Com frequência, gafanhotos e exércitos são usados comparativamente no mundo antigo. A literatura mítica da cidade antiga de Ugarite compara um grande exército a gafanhotos (cf. Jz 6.5; Pv 30.27; Jr 51.14, 27; Na 3.15-17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "minha terra.",
+          "texto": "Pronomes pessoais são usados em todo o livro e apontam para a relação pactual que liga o Senhor não somente à terra, às suas videiras e às suas figueiras, mas também ao seu povo (1.7; 2.13, 14, 17, 18, 23, 26, 27; 3.2, 3, 17)."
+        },
+        {
+          "titulo": "poderoso... leoa.",
+          "texto": "Os gafanhotos são comparados a uma nação invasora que tem a paixão voraz de um leão (cf. 2.4-9; Ap 9.7-9). Com frequência, gafanhotos e exércitos são usados comparativamente no mundo antigo. A literatura mítica da cidade antiga de Ugarite compara um grande exército a gafanhotos (cf. Jz 6.5; Pv 30.27; Jr 51.14, 27; Na 3.15-17)."
+        }
+      ],
+      "paragrafos": [
+        "minha terra. Pronomes pessoais são usados em todo o livro e apontam para a relação pactual que liga o Senhor não somente à terra, às suas videiras e às suas figueiras, mas também ao seu povo (1.7; 2.13, 14, 17, 18, 23, 26, 27; 3.2, 3, 17).",
+        "poderoso... leoa. Os gafanhotos são comparados a uma nação invasora que tem a paixão voraz de um leão (cf. 2.4-9; Ap 9.7-9). Com frequência, gafanhotos e exércitos são usados comparativamente no mundo antigo. A literatura mítica da cidade antiga de Ugarite compara um grande exército a gafanhotos (cf. Jz 6.5; Pv 30.27; Jr 51.14, 27; Na 3.15-17)."
+      ]
+    },
+    {
+      "id": "fr-jl-0008",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 1522,
+        "rotulo_original_ocr": "1.7 vide...figueira. Os dentes dos gafanhotos",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "vide... figueira. Os dentes dos gafanhotos assolaram, de forma eficaz, as mais valiosas árvores da terra do Senhor. Essas árvores são símbolos de prosperidade no Antigo Testamento (Mq 4.4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "vide... figueira.",
+          "texto": "Os dentes dos gafanhotos assolaram, de forma eficaz, as mais valiosas árvores da terra do Senhor. Essas árvores são símbolos de prosperidade no Antigo Testamento (Mq 4.4)."
+        }
+      ],
+      "paragrafos": [
+        "vide... figueira. Os dentes dos gafanhotos assolaram, de forma eficaz, as mais valiosas árvores da terra do Senhor. Essas árvores são símbolos de prosperidade no Antigo Testamento (Mq 4.4)."
+      ]
+    },
+    {
+      "id": "fr-jl-0009",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.8 Lamenta. 0 lamento deve assemelhar-se",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Lamenta. O lamento deve assemelhar-se ao de uma jovem mulher que perdeu seu amado antes do casamento.\n\npano de saco. Esse material rudemente entretecido era feito, em geral, de pelos de cabra, sendo vestido nos tempos de lamento. Ver versículo 13; cf. Gênesis 37.34; 2 Samuel 3.31; 1 Reis 21.27; Isaías 32.11, 12.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Lamenta.",
+          "texto": "O lamento deve assemelhar-se ao de uma jovem mulher que perdeu seu amado antes do casamento."
+        },
+        {
+          "titulo": "pano de saco.",
+          "texto": "Esse material rudemente entretecido era feito, em geral, de pelos de cabra, sendo vestido nos tempos de lamento. Ver versículo 13; cf. Gênesis 37.34; 2 Samuel 3.31; 1 Reis 21.27; Isaías 32.11, 12."
+        }
+      ],
+      "paragrafos": [
+        "Lamenta. O lamento deve assemelhar-se ao de uma jovem mulher que perdeu seu amado antes do casamento.",
+        "pano de saco. Esse material rudemente entretecido era feito, em geral, de pelos de cabra, sendo vestido nos tempos de lamento. Ver versículo 13; cf. Gênesis 37.34; 2 Samuel 3.31; 1 Reis 21.27; Isaías 32.11, 12."
+      ]
+    },
+    {
+      "id": "fr-jl-0010",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.9 oferta de manjares e a libagao. Essas",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "oferta de manjares e a libação. Essas ofertas, prescritas na lei mosaica como ofertas que devem ser feitas duas vezes por dia (Êx 29.38-42; Lv 2.1, 2; 23.13), estão ausentes porque as colheitas foram destruídas.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "oferta de manjares e a libação.",
+          "texto": "Essas ofertas, prescritas na lei mosaica como ofertas que devem ser feitas duas vezes por dia (Êx 29.38-42; Lv 2.1, 2; 23.13), estão ausentes porque as colheitas foram destruídas."
+        }
+      ],
+      "paragrafos": [
+        "oferta de manjares e a libação. Essas ofertas, prescritas na lei mosaica como ofertas que devem ser feitas duas vezes por dia (Êx 29.38-42; Lv 2.1, 2; 23.13), estão ausentes porque as colheitas foram destruídas."
+      ]
+    },
+    {
+      "id": "fr-jl-0011",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.10 cereal... vide... olivas. 0s ingredientes",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "cereal... vide... olivas. Os ingredientes necessários às ofertas diárias aparecem tradicionalmente nessa ordem (2.19; cf. Os 2.8).\n\nse secou. A seca acompanha a invasão de gafanhotos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "cereal... vide... olivas.",
+          "texto": "Os ingredientes necessários às ofertas diárias aparecem tradicionalmente nessa ordem (2.19; cf. Os 2.8)."
+        },
+        {
+          "titulo": "se secou.",
+          "texto": "A seca acompanha a invasão de gafanhotos."
+        }
+      ],
+      "paragrafos": [
+        "cereal... vide... olivas. Os ingredientes necessários às ofertas diárias aparecem tradicionalmente nessa ordem (2.19; cf. Os 2.8).",
+        "se secou. A seca acompanha a invasão de gafanhotos."
+      ]
+    },
+    {
+      "id": "fr-jl-0012",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.12 vide... figueira... romeira... palmeira...",
+        "texto_ocr_pre_normalizacao": "vide... figueira... romeira... palmeira... macieira. Cinco tipos de arvores se destacam, o que conduz a afirmagao critica de que todas as arvores do campo ficaram secas. nao ha alegria. Numa economia agricola,aalegriahumana murchajuntamente com a vegetagao.",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "vide... figueira... romeira... palmeira... macieira. Cinco tipos de árvores se destacam, o que conduz à afirmação crítica de que todas as árvores do campo ficaram secas.\n\nnão há alegria. Numa economia agrícola, a alegria humana murcha juntamente com a vegetação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "vide... figueira... romeira... palmeira... macieira.",
+          "texto": "Cinco tipos de árvores se destacam, o que conduz à afirmação crítica de que todas as árvores do campo ficaram secas."
+        },
+        {
+          "titulo": "não há alegria.",
+          "texto": "Numa economia agrícola, a alegria humana murcha juntamente com a vegetação."
+        }
+      ],
+      "paragrafos": [
+        "vide... figueira... romeira... palmeira... macieira. Cinco tipos de árvores se destacam, o que conduz à afirmação crítica de que todas as árvores do campo ficaram secas.",
+        "não há alegria. Numa economia agrícola, a alegria humana murcha juntamente com a vegetação."
+      ]
+    },
+    {
+      "id": "fr-jl-0013",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.13 pano de saco e lamentai. Os sacerdotes",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "pano de saco e lamentai. Os sacerdotes recebem instruções específicas sobre como responder ao julgamento de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "pano de saco e lamentai.",
+          "texto": "Os sacerdotes recebem instruções específicas sobre como responder ao julgamento de Deus."
+        }
+      ],
+      "paragrafos": [
+        "pano de saco e lamentai. Os sacerdotes recebem instruções específicas sobre como responder ao julgamento de Deus."
+      ]
+    },
+    {
+      "id": "fr-jl-0014",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.14 Promulgai um santo jejum. Os sacer-",
+        "texto_ocr_pre_normalizacao": "Promulgai um santo jejum. Os sacerdotes devem exercer lideranga na comunidade ao prodamarem um jejum publico, de modo que toda a nagao interrompa todas as atividades regulars por um tempo (talvez por um dia; cf. Jz 20.26; iSm 14.24; Jr 36.6-9) para reconhecer o julgamento de Deus e se arrepender.",
+        "normalizacoes_literais_reversiveis": {
+          "nagao": 1
+        },
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Promulgai um santo jejum. Os sacerdotes devem exercer liderança na comunidade ao proclamarem um jejum público, de modo que toda a nação interrompa todas as atividades regulares por um tempo (talvez por um dia; cf. Jz 20.26; 1Sm 14.24; Jr 36.6-9) para reconhecer o julgamento de Deus e se arrepender.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "Promulgai um santo jejum.",
+          "texto": "Os sacerdotes devem exercer liderança na comunidade ao proclamarem um jejum público, de modo que toda a nação interrompa todas as atividades regulares por um tempo (talvez por um dia; cf. Jz 20.26; 1Sm 14.24; Jr 36.6-9) para reconhecer o julgamento de Deus e se arrepender."
+        }
+      ],
+      "paragrafos": [
+        "Promulgai um santo jejum. Os sacerdotes devem exercer liderança na comunidade ao proclamarem um jejum público, de modo que toda a nação interrompa todas as atividades regulares por um tempo (talvez por um dia; cf. Jz 20.26; 1Sm 14.24; Jr 36.6-9) para reconhecer o julgamento de Deus e se arrepender."
+      ]
+    },
+    {
+      "id": "fr-jl-0015",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2,
+          3
+        ],
+        "pagina_impressa": 1523,
+        "rotulo_original_ocr": "1.15 o Diado SENHOR.Uma expressao tematica",
+        "texto_ocr_pre_normalizacao": "o Diado SENHOR.Uma expressao tematica em Joel (1.15; 2.1,11, 31; 3.14) e em outros livros profeticos do Antigo Testamento (Is 13.6, 9; Ez 13.5;Am 5.18, 20; 0b 15; Sf 1.7, 14; Ml 4.5). Aqui (e em 2.1,11), refere-se a um dia da ira do Senhor contra Juda, embora,posteriormente no livro, refira-se aira do Senhor contraas nagoes e a bengao sobreseupovo (2.31; 3.14). A magnitude da devastagao indica um diade julgamento ainda mais terri'vel. assolagao do Todo-Poderoso. Essa expressao pode ser traduzida como \"poder do Todo- -Poderoso\", denotando o sentido do trocadilho hebraico shod (\"destruicao\") e shaddai (\"o Todo- -Poderoso\";Is13.6).",
+        "normalizacoes_literais_reversiveis": {
+          "nagoes": 1,
+          "bengao": 1
+        },
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "o Dia do SENHOR. Uma expressão temática em Joel (1.15; 2.1, 11, 31; 3.14) e em outros livros proféticos do Antigo Testamento (Is 13.6, 9; Ez 13.5; Am 5.18, 20; Ob 15; Sf 1.7, 14; Ml 4.5). Aqui (e em 2.1, 11), refere-se a um dia da ira do Senhor contra Judá, embora, posteriormente no livro, refira-se à ira do Senhor contra as nações e à bênção sobre seu povo (2.31; 3.14). A magnitude da devastação indica um dia de julgamento ainda mais terrível.\n\nassolação do Todo-Poderoso. Essa expressão pode ser traduzida como “poder do Todo-Poderoso”, denotando o sentido do trocadilho hebraico shod (“destruição”) e shaddai (“o Todo-Poderoso”; Is 13.6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "o Dia do SENHOR.",
+          "texto": "Uma expressão temática em Joel (1.15; 2.1, 11, 31; 3.14) e em outros livros proféticos do Antigo Testamento (Is 13.6, 9; Ez 13.5; Am 5.18, 20; Ob 15; Sf 1.7, 14; Ml 4.5). Aqui (e em 2.1, 11), refere-se a um dia da ira do Senhor contra Judá, embora, posteriormente no livro, refira-se à ira do Senhor contra as nações e à bênção sobre seu povo (2.31; 3.14). A magnitude da devastação indica um dia de julgamento ainda mais terrível."
+        },
+        {
+          "titulo": "assolação do Todo-Poderoso.",
+          "texto": "Essa expressão pode ser traduzida como “poder do Todo-Poderoso”, denotando o sentido do trocadilho hebraico shod (“destruição”) e shaddai (“o Todo-Poderoso”; Is 13.6)."
+        }
+      ],
+      "paragrafos": [
+        "o Dia do SENHOR. Uma expressão temática em Joel (1.15; 2.1, 11, 31; 3.14) e em outros livros proféticos do Antigo Testamento (Is 13.6, 9; Ez 13.5; Am 5.18, 20; Ob 15; Sf 1.7, 14; Ml 4.5). Aqui (e em 2.1, 11), refere-se a um dia da ira do Senhor contra Judá, embora, posteriormente no livro, refira-se à ira do Senhor contra as nações e à bênção sobre seu povo (2.31; 3.14). A magnitude da devastação indica um dia de julgamento ainda mais terrível.",
+        "assolação do Todo-Poderoso. Essa expressão pode ser traduzida como “poder do Todo-Poderoso”, denotando o sentido do trocadilho hebraico shod (“destruição”) e shaddai (“o Todo-Poderoso”; Is 13.6)."
+      ]
+    },
+    {
+      "id": "fr-jl-0016",
+      "referencia": "1.16-18",
+      "capitulo": 1,
+      "versiculos": [
+        16,
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "1.16-18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1524,
+        "rotulo_original_ocr": "1.16-18 Joel reforgaseu argumento sobre o dia do",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "Joel reforça seu argumento sobre o dia do Senhor ao lembrar novamente a sua audiência o julgamento de Deus, que está evidente nas condições de seca no entorno.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Joel reforça seu argumento sobre o dia do Senhor ao lembrar novamente a sua audiência o julgamento de Deus, que está evidente nas condições de seca no entorno."
+        }
+      ],
+      "paragrafos": [
+        "Joel reforça seu argumento sobre o dia do Senhor ao lembrar novamente a sua audiência o julgamento de Deus, que está evidente nas condições de seca no entorno."
+      ]
+    },
+    {
+      "id": "fr-jl-0017",
+      "referencia": "1.19",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "1.19",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1524,
+        "rotulo_original_ocr": "1.19 A ti,6 SENHOR, clamo.0 proprio profeta",
+        "texto_ocr_pre_normalizacao": "A ti,6 SENHOR, clamo.0 proprio profeta inicia a lamentagao. A devastagao procede do Senhor,que e tambem a fonteda restauragao.",
+        "normalizacoes_literais_reversiveis": {
+          "proprio": 1,
+          "tambem": 1
+        },
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "A ti, ó SENHOR, clamo. O próprio profeta inicia a lamentação. A devastação procede do Senhor, que é também a fonte da restauração.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "A ti, ó SENHOR, clamo.",
+          "texto": "O próprio profeta inicia a lamentação. A devastação procede do Senhor, que é também a fonte da restauração."
+        }
+      ],
+      "paragrafos": [
+        "A ti, ó SENHOR, clamo. O próprio profeta inicia a lamentação. A devastação procede do Senhor, que é também a fonte da restauração."
+      ]
+    },
+    {
+      "id": "fr-jl-0018",
+      "referencia": "1.20",
+      "capitulo": 1,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "1.20",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1524,
+        "rotulo_original_ocr": "1.20 animais do campo. Ate os animais se",
+        "metodo": "conferência textual da fonte PDF; revisão parcial"
+      },
+      "texto": "animais do campo. Até os animais se unem a Joel em seu clamor (Jó 38.41; Sl 104.21; 147.9).\n\no fogo devorou. Com frequência, o julgamento divino é retratado como fogo (Dt 32.22; Sl 50.3; 97.3). A metáfora descreve os efeitos da seca (cf. 2.3, passagem que descreve o “fogo” da devastação por gafanhotos).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_parcial",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos_formatados": [
+        {
+          "titulo": "animais do campo.",
+          "texto": "Até os animais se unem a Joel em seu clamor (Jó 38.41; Sl 104.21; 147.9)."
+        },
+        {
+          "titulo": "o fogo devorou.",
+          "texto": "Com frequência, o julgamento divino é retratado como fogo (Dt 32.22; Sl 50.3; 97.3). A metáfora descreve os efeitos da seca (cf. 2.3, passagem que descreve o “fogo” da devastação por gafanhotos)."
+        }
+      ],
+      "paragrafos": [
+        "animais do campo. Até os animais se unem a Joel em seu clamor (Jó 38.41; Sl 104.21; 147.9).",
+        "o fogo devorou. Com frequência, o julgamento divino é retratado como fogo (Dt 32.22; Sl 50.3; 97.3). A metáfora descreve os efeitos da seca (cf. 2.3, passagem que descreve o “fogo” da devastação por gafanhotos)."
+      ]
+    },
+    {
+      "id": "fr-jl-0019",
+      "referencia": "2.1-17",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.1-17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1524,
+        "rotulo_original_ocr": "2.1-17Joel exorta “todos os moradores da terra\"",
+        "texto_ocr_pre_normalizacao": "Joel exorta “todos os moradores da terra\" (v. 1) a se prepararem para um ataque iminente do exercito do Senhor. Coragoes contritos entre o povo podem trazer a compaixao e a bengao de Deus (v.14).",
+        "normalizacoes_literais_reversiveis": {
+          "bengao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Joel exorta “todos os moradores da terra” (v. 1) a se prepararem para um ataque iminente do exército do Senhor. Corações contritos entre o povo podem trazer a compaixão e a bênção de Deus (v. 14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Joel exorta “todos os moradores da terra” (v. 1) a se prepararem para um ataque iminente do exército do Senhor. Corações contritos entre o povo podem trazer a compaixão e a bênção de Deus (v. 14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Joel exorta “todos os moradores da terra” (v. 1) a se prepararem para um ataque iminente do exército do Senhor. Corações contritos entre o povo podem trazer a compaixão e a bênção de Deus (v. 14)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0020",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1524,
+        "rotulo_original_ocr": "2.1atrombeta.0 chifre decarneiro(do hebraico",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "a trombeta. O chifre de carneiro (do hebraico shofar) era usado em guerras para anunciar perigo. Todos tremem ante o estrepito da trombeta, que anuncia a vinda do dia do Senhor (Am 3.6; Sf 1.14-16).\n\nSião... meu santo monte. Jerusalém, o lugar da residência terrena de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "a trombeta. O chifre de carneiro (do hebraico shofar) era usado em guerras para anunciar perigo. Todos tremem ante o estrepito da trombeta, que anuncia a vinda do dia do Senhor (Am 3.6; Sf 1.14-16).",
+        "Sião... meu santo monte. Jerusalém, o lugar da residência terrena de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a trombeta.",
+          "texto": "O chifre de carneiro (do hebraico shofar) era usado em guerras para anunciar perigo. Todos tremem ante o estrepito da trombeta, que anuncia a vinda do dia do Senhor (Am 3.6; Sf 1.14-16)."
+        },
+        {
+          "titulo": "Sião... meu santo monte.",
+          "texto": "Jerusalém, o lugar da residência terrena de Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0021",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 1524,
+        "rotulo_original_ocr": "2.2 diade escuridade e densas trevas.Essa",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "dia de escuridade e densas trevas. Essa caracterização impressionante da vinda do dia do Senhor (cf. Sf 1.15; Am 5.18, 20) corresponde às descrições das aparições do Senhor no passado (Dt 4.11; 5.22, 23; Sl 97.2).\n\npovo grande e poderoso. Metáforas complexas de um exército e de uma invasão de gafanhotos se combinam para descrever os eventos de julgamento e devastação (1.6, nota).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "dia de escuridade e densas trevas. Essa caracterização impressionante da vinda do dia do Senhor (cf. Sf 1.15; Am 5.18, 20) corresponde às descrições das aparições do Senhor no passado (Dt 4.11; 5.22, 23; Sl 97.2).",
+        "povo grande e poderoso. Metáforas complexas de um exército e de uma invasão de gafanhotos se combinam para descrever os eventos de julgamento e devastação (1.6, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "dia de escuridade e densas trevas.",
+          "texto": "Essa caracterização impressionante da vinda do dia do Senhor (cf. Sf 1.15; Am 5.18, 20) corresponde às descrições das aparições do Senhor no passado (Dt 4.11; 5.22, 23; Sl 97.2)."
+        },
+        {
+          "titulo": "povo grande e poderoso.",
+          "texto": "Metáforas complexas de um exército e de uma invasão de gafanhotos se combinam para descrever os eventos de julgamento e devastação (1.6, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0022",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.3 deserto assolado. Os invasores devastam",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "deserto assolado. Os invasores devastam a terra. O intenso contraste entre “o jardim do Éden” e esse deserto (Gn 3.10; Is 51.3; Ez 28.13-19; 31.8, 9, 16-18; 36.35) ressalta o horror da invasão inevitável.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "deserto assolado. Os invasores devastam a terra. O intenso contraste entre “o jardim do Éden” e esse deserto (Gn 3.10; Is 51.3; Ez 28.13-19; 31.8, 9, 16-18; 36.35) ressalta o horror da invasão inevitável."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "deserto assolado.",
+          "texto": "Os invasores devastam a terra. O intenso contraste entre “o jardim do Éden” e esse deserto (Gn 3.10; Is 51.3; Ez 28.13-19; 31.8, 9, 16-18; 36.35) ressalta o horror da invasão inevitável."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0023",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.5 Mais uma vez,o exercito dejulgamento eapre-",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Mais uma vez, o exército de julgamento é apresentado metaforicamente como uma invasão de gafanhotos (1.6, nota; cf. Ap 9.1-11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Mais uma vez, o exército de julgamento é apresentado metaforicamente como uma invasão de gafanhotos (1.6, nota; cf. Ap 9.1-11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Mais uma vez, o exército de julgamento é apresentado metaforicamente como uma invasão de gafanhotos (1.6, nota; cf. Ap 9.1-11)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0024",
+      "referencia": "2.7-9",
+      "capitulo": 2,
+      "versiculos": [
+        7,
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.7-9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.7-9 0 exercito e disciplinado,cruel e bem-suce-",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "O exército é disciplinado, cruel e bem-sucedido. A “cidade” (v. 9) é finalmente invadida (cf. a praga de gafanhotos sobre o Egito em Êxodo 10.6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "O exército é disciplinado, cruel e bem-sucedido. A “cidade” (v. 9) é finalmente invadida (cf. a praga de gafanhotos sobre o Egito em Êxodo 10.6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O exército é disciplinado, cruel e bem-sucedido. A “cidade” (v. 9) é finalmente invadida (cf. a praga de gafanhotos sobre o Egito em Êxodo 10.6)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0025",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.10 terra... estrelas. Esses julgamentos di-",
+        "texto_ocr_pre_normalizacao": "terra... estrelas. Esses julgamentos divinos sao acompanhados por um abalo e um colapso da ordem natural. Toda a criagao e perturbada (v. 31; cf. Jr 4.23-26; Ez 32.7, 8; Na 1.5; He 3.6,10).",
+        "normalizacoes_literais_reversiveis": {
+          "criagao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "terra... estrelas. Esses julgamentos divinos são acompanhados por um abalo e um colapso da ordem natural. Toda a criação é perturbada (v. 31; cf. Jr 4.23-26; Ez 32.7, 8; Na 1.5; Hc 3.6, 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "terra... estrelas. Esses julgamentos divinos são acompanhados por um abalo e um colapso da ordem natural. Toda a criação é perturbada (v. 31; cf. Jr 4.23-26; Ez 32.7, 8; Na 1.5; Hc 3.6, 10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "terra... estrelas.",
+          "texto": "Esses julgamentos divinos são acompanhados por um abalo e um colapso da ordem natural. Toda a criação é perturbada (v. 31; cf. Jr 4.23-26; Ez 32.7, 8; Na 1.5; Hc 3.6, 10)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0026",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.11 seu exercito. 0 exercito implacavel e do",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "seu exército. O exército implacável é do Senhor. Ele ordena, e suas forças obedecem. O dia do Senhor é grande (2.31; Sf 1.14), temível (Ml 4.5) e insuportável (Na 1.6; Ml 3.2).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "seu exército. O exército implacável é do Senhor. Ele ordena, e suas forças obedecem. O dia do Senhor é grande (2.31; Sf 1.14), temível (Ml 4.5) e insuportável (Na 1.6; Ml 3.2)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seu exército.",
+          "texto": "O exército implacável é do Senhor. Ele ordena, e suas forças obedecem. O dia do Senhor é grande (2.31; Sf 1.14), temível (Ml 4.5) e insuportável (Na 1.6; Ml 3.2)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0027",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.12 Convertei-vos a mim. 0 Senhor convida",
+        "texto_ocr_pre_normalizacao": "Convertei-vos a mim. 0 Senhor convida seu povoa escapar,voltando-se aele detodooseu coragao. Ainda ha tempo para eles se arrependerem e seremrestaurados. ao. 0 arrependimento de todo o vosso cora^ do povo de Deus terndeser completo e irrestrito. jejuns... choro... pranto. 0s sinais visiveis de arrependimento (Ed10.1-6;Et 4.3;Jn 3.5-9).",
+        "normalizacoes_literais_reversiveis": {
+          "coragao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Convertei-vos a mim. O Senhor convida seu povo a escapar, voltando-se a ele de todo o seu coração. Ainda há tempo para eles se arrependerem e serem restaurados.\n\nde todo o vosso coração. O arrependimento do povo de Deus tem de ser completo e irrestrito.\n\njejuns... choro... pranto. Os sinais visíveis de arrependimento (Ed 10.1-6; Et 4.3; Jn 3.5-9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Convertei-vos a mim. O Senhor convida seu povo a escapar, voltando-se a ele de todo o seu coração. Ainda há tempo para eles se arrependerem e serem restaurados.",
+        "de todo o vosso coração. O arrependimento do povo de Deus tem de ser completo e irrestrito.",
+        "jejuns... choro... pranto. Os sinais visíveis de arrependimento (Ed 10.1-6; Et 4.3; Jn 3.5-9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Convertei-vos a mim.",
+          "texto": "O Senhor convida seu povo a escapar, voltando-se a ele de todo o seu coração. Ainda há tempo para eles se arrependerem e serem restaurados."
+        },
+        {
+          "titulo": "de todo o vosso coração.",
+          "texto": "O arrependimento do povo de Deus tem de ser completo e irrestrito."
+        },
+        {
+          "titulo": "jejuns... choro... pranto.",
+          "texto": "Os sinais visíveis de arrependimento (Ed 10.1-6; Et 4.3; Jn 3.5-9)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0028",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4,
+          5
+        ],
+        "pagina_impressa": 1525,
+        "rotulo_original_ocr": "2.13 nao as vossas vestes. Ver nota teologica",
+        "texto_ocr_pre_normalizacao": "nao as vossas vestes. Ver nota teologica \"Legalismo\" nap.1713. misericordioso... benignidade. 0 chamado para se voltarem ao Senhor esta baseado na natureza compassiva do Senhor manifestada pela autorrevelagao dramatica de seu carater aMoises, em Exodo 34.6-7- umadescrigao repetidamuitas vezes no Antigo Testamento (p. ex., Nm 14.18; Ne 9.17;SI 86.15;103.8;145.8;Jn 4.2).",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "remissao_externa_convertida": {
+          "texto_no_OCR": "Ver nota teologica \"Legalismo\" nap.1713.",
+          "material": "Legalismo",
+          "pagina_impressa_citada": 1713,
+          "criterio": "remocao_de_numero_de_pagina_sem_destino_no_app"
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "não as vossas vestes. Ver nota teológica “Legalismo”, na p. 1713.\n\nmisericordioso... benignidade. O chamado para se voltarem ao Senhor está baseado na natureza compassiva do Senhor manifestada pela autorrevelação dramática de seu caráter a Moisés, em Êxodo 34.6-7 — uma descrição repetida muitas vezes no Antigo Testamento (p. ex., Nm 14.18; Ne 9.17; Sl 86.15; 103.8; 145.8; Jn 4.2).",
+      "remissoes": [
+        "jl-art-legalismo"
+      ],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "não as vossas vestes. Ver nota teológica “Legalismo”, na p. 1713.",
+        "misericordioso... benignidade. O chamado para se voltarem ao Senhor está baseado na natureza compassiva do Senhor manifestada pela autorrevelação dramática de seu caráter a Moisés, em Êxodo 34.6-7 — uma descrição repetida muitas vezes no Antigo Testamento (p. ex., Nm 14.18; Ne 9.17; Sl 86.15; 103.8; 145.8; Jn 4.2)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não as vossas vestes.",
+          "texto": "Ver nota teológica “Legalismo”, na p. 1713."
+        },
+        {
+          "titulo": "misericordioso... benignidade.",
+          "texto": "O chamado para se voltarem ao Senhor está baseado na natureza compassiva do Senhor manifestada pela autorrevelação dramática de seu caráter a Moisés, em Êxodo 34.6-7 — uma descrição repetida muitas vezes no Antigo Testamento (p. ex., Nm 14.18; Ne 9.17; Sl 86.15; 103.8; 145.8; Jn 4.2)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0029",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.14 Quem sabe se nao se voltara, e se ar-",
+        "texto_ocr_pre_normalizacao": "Quem sabe se nao se voltara, e se arrependera. A soberania e a liberdadede Deus em perdoar sao vistasnosversiculos13,14(cf.Ex 33.19;2Sm 12.22;Lm 3.29;Jn3.9;Sf 2.3).VernotaemGenesis6.6.",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Quem sabe se não se voltará, e se arrependerá. A soberania e a liberdade de Deus em perdoar são vistas nos versículos 13, 14 (cf. Êx 33.19; 2Sm 12.22; Lm 3.29; Jn 3.9; Sf 2.3). Ver nota em Gênesis 6.6.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Quem sabe se não se voltará, e se arrependerá. A soberania e a liberdade de Deus em perdoar são vistas nos versículos 13, 14 (cf. Êx 33.19; 2Sm 12.22; Lm 3.29; Jn 3.9; Sf 2.3). Ver nota em Gênesis 6.6."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Quem sabe se não se voltará, e se arrependerá.",
+          "texto": "A soberania e a liberdade de Deus em perdoar são vistas nos versículos 13, 14 (cf. Êx 33.19; 2Sm 12.22; Lm 3.29; Jn 3.9; Sf 2.3). Ver nota em Gênesis 6.6."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0030",
+      "referencia": "2.15,16",
+      "capitulo": 2,
+      "versiculos": [
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.15,16",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.15, 16 Instrugoes adicionais a respeito de se",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Instruções adicionais a respeito de se converterem ao Senhor incluem um jejum e uma assembleia (v. 15), um ajuntamento e a consagração de todo o povo, incluindo anciãos, crianças, bebês que mamam e até mesmo os que estão prestes a casar (v. 16). A característica de staccato da poesia hebraica nesses versículos enfatiza a urgência da situação.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Instruções adicionais a respeito de se converterem ao Senhor incluem um jejum e uma assembleia (v. 15), um ajuntamento e a consagração de todo o povo, incluindo anciãos, crianças, bebês que mamam e até mesmo os que estão prestes a casar (v. 16). A característica de staccato da poesia hebraica nesses versículos enfatiza a urgência da situação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Instruções adicionais a respeito de se converterem ao Senhor incluem um jejum e uma assembleia (v. 15), um ajuntamento e a consagração de todo o povo, incluindo anciãos, crianças, bebês que mamam e até mesmo os que estão prestes a casar (v. 16). A característica de staccato da poesia hebraica nesses versículos enfatiza a urgência da situação."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0031",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.17Instrugoes especi'ficas sao dadas tambem aos",
+        "texto_ocr_pre_normalizacao": "Instrugoes especi'ficas sao dadas tambem aos sacerdotes, que devem chorar e oferecer oragoes de intercessao. entre o portico e o altar. Esse localdo templo e onde,habitualmente, e feita a intercessao sacerdotal(lRs 8.22;Ez 8.16). tua heranga. 0 lamento sacerdotal apela para o senso de propriedade e amor do Senhor em seu povo da alianga (Dt 9.26, 29; SI 44.11-14; 74.2; 79.10; 115.2;Mq 7.10).",
+        "normalizacoes_literais_reversiveis": {
+          "tambem": 1,
+          "alianga": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Instruções específicas são dadas também aos sacerdotes, que devem chorar e oferecer orações de intercessão.\n\nentre o pórtico e o altar. Esse local do templo é onde, habitualmente, é feita a intercessão sacerdotal (1Rs 8.22; Ez 8.16).\n\ntua herança. O lamento sacerdotal apela para o senso de propriedade e amor do Senhor em seu povo da aliança (Dt 9.26, 29; Sl 44.11-14; 74.2; 79.10; 115.2; Mq 7.10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Instruções específicas são dadas também aos sacerdotes, que devem chorar e oferecer orações de intercessão.",
+        "entre o pórtico e o altar. Esse local do templo é onde, habitualmente, é feita a intercessão sacerdotal (1Rs 8.22; Ez 8.16).",
+        "tua herança. O lamento sacerdotal apela para o senso de propriedade e amor do Senhor em seu povo da aliança (Dt 9.26, 29; Sl 44.11-14; 74.2; 79.10; 115.2; Mq 7.10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Instruções específicas são dadas também aos sacerdotes, que devem chorar e oferecer orações de intercessão."
+        },
+        {
+          "titulo": "entre o pórtico e o altar.",
+          "texto": "Esse local do templo é onde, habitualmente, é feita a intercessão sacerdotal (1Rs 8.22; Ez 8.16)."
+        },
+        {
+          "titulo": "tua herança.",
+          "texto": "O lamento sacerdotal apela para o senso de propriedade e amor do Senhor em seu povo da aliança (Dt 9.26, 29; Sl 44.11-14; 74.2; 79.10; 115.2; Mq 7.10)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0032",
+      "referencia": "2.18-3.21",
+      "capitulo": 2,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 26
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 29
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 30
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 31
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 32
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "2.18-3.21",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.18-3.21 0 Senhor, o Deus da alianga, promete",
+        "texto_ocr_pre_normalizacao": "0 Senhor, o Deus da alianga, promete renovar a terra e seu povo, quando responderem com arrependimento a crise de 1.2-2.17. A renovagao redentora dopovo de Deus conduzira,umdia, a devastagao final dos inimigos de Siao e a exaltagao finaldapropriaSiao.",
+        "normalizacoes_literais_reversiveis": {
+          "alianga": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "O Senhor, o Deus da aliança, promete renovar a terra e seu povo, quando responderem com arrependimento à crise de 1.2-2.17. A renovação redentora do povo de Deus conduzirá, um dia, à devastação final dos inimigos de Sião e à exaltação final da própria Sião.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "O Senhor, o Deus da aliança, promete renovar a terra e seu povo, quando responderem com arrependimento à crise de 1.2-2.17. A renovação redentora do povo de Deus conduzirá, um dia, à devastação final dos inimigos de Sião e à exaltação final da própria Sião."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O Senhor, o Deus da aliança, promete renovar a terra e seu povo, quando responderem com arrependimento à crise de 1.2-2.17. A renovação redentora do povo de Deus conduzirá, um dia, à devastação final dos inimigos de Sião e à exaltação final da própria Sião."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0033",
+      "referencia": "2.18-27",
+      "capitulo": 2,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 26
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        }
+      ],
+      "titulo": "2.18-27",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.18-270 arrependimento trarafrutificagaoreno-",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "O arrependimento trará frutificação renovada à terra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "O arrependimento trará frutificação renovada à terra."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O arrependimento trará frutificação renovada à terra."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0034",
+      "referencia": "2.18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2.18",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.18 Entao. Aqui tern inicio a resposta do Senhor",
+        "texto_ocr_pre_normalizacao": "Entao. Aqui tern inicio a resposta do Senhor a angustia do povo, e isso marca uma mudanga decisivano texto. Algumas tradugoes usam o tempo futuro para os verbos nesse versiculo, mas isso indica que a mudanga de atitude do Senhor ainda nao ocorreu. Todavia, uma mudanga em sujeito, modo e tempo acontece a essa altura,mostrando que o Senhor ja reagiu;o que opovo esta esperando sao as bengaosque oSenhor dara.",
+        "normalizacoes_literais_reversiveis": {
+          "tern": 1,
+          "nao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Então. Aqui tem início a resposta do Senhor à angústia do povo, e isso marca uma mudança decisiva no texto. Algumas traduções usam o tempo futuro para os verbos nesse versículo, mas isso indica que a mudança de atitude do Senhor ainda não ocorreu. Todavia, uma mudança em sujeito, modo e tempo acontece a essa altura, mostrando que o Senhor já reagiu; o que o povo está esperando são as bênçãos que o Senhor dará.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Então. Aqui tem início a resposta do Senhor à angústia do povo, e isso marca uma mudança decisiva no texto. Algumas traduções usam o tempo futuro para os verbos nesse versículo, mas isso indica que a mudança de atitude do Senhor ainda não ocorreu. Todavia, uma mudança em sujeito, modo e tempo acontece a essa altura, mostrando que o Senhor já reagiu; o que o povo está esperando são as bênçãos que o Senhor dará."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Então.",
+          "texto": "Aqui tem início a resposta do Senhor à angústia do povo, e isso marca uma mudança decisiva no texto. Algumas traduções usam o tempo futuro para os verbos nesse versículo, mas isso indica que a mudança de atitude do Senhor ainda não ocorreu. Todavia, uma mudança em sujeito, modo e tempo acontece a essa altura, mostrando que o Senhor já reagiu; o que o povo está esperando são as bênçãos que o Senhor dará."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0035",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 1526,
+        "rotulo_original_ocr": "2.19 As oragoes do povo de Deus serao atendidas",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "As orações do povo de Deus serão atendidas com itens da produção agrícola — “cereal, vinho e óleo” (1.10; 2.24).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "As orações do povo de Deus serão atendidas com itens da produção agrícola — “cereal, vinho e óleo” (1.10; 2.24)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "As orações do povo de Deus serão atendidas com itens da produção agrícola — “cereal, vinho e óleo” (1.10; 2.24)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0036",
+      "referencia": "2.20",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.20",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.20 o exercito que vem do Norte. Alguns",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "o exército que vem do Norte. Alguns intérpretes entendem isso como uma referência aos gafanhotos do capítulo 1. Mais provavelmente, refere-se a um grande e poderoso exército que se torna instrumento de julgamento do Senhor. Ao contrário da maioria das invasões de gafanhotos (que vinham do leste ou do sul), as invasões militares estrangeiras vinham usualmente do norte no Israel antigo. Confiram-se as referências ao inimigo do Norte em Jeremias 1.14, 15; 4.6; 6.1, 22; Ezequiel 38.6, 15; 39.2.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "o exército que vem do Norte. Alguns intérpretes entendem isso como uma referência aos gafanhotos do capítulo 1. Mais provavelmente, refere-se a um grande e poderoso exército que se torna instrumento de julgamento do Senhor. Ao contrário da maioria das invasões de gafanhotos (que vinham do leste ou do sul), as invasões militares estrangeiras vinham usualmente do norte no Israel antigo. Confiram-se as referências ao inimigo do Norte em Jeremias 1.14, 15; 4.6; 6.1, 22; Ezequiel 38.6, 15; 39.2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o exército que vem do Norte.",
+          "texto": "Alguns intérpretes entendem isso como uma referência aos gafanhotos do capítulo 1. Mais provavelmente, refere-se a um grande e poderoso exército que se torna instrumento de julgamento do Senhor. Ao contrário da maioria das invasões de gafanhotos (que vinham do leste ou do sul), as invasões militares estrangeiras vinham usualmente do norte no Israel antigo. Confiram-se as referências ao inimigo do Norte em Jeremias 1.14, 15; 4.6; 6.1, 22; Ezequiel 38.6, 15; 39.2."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0037",
+      "referencia": "2.21-24",
+      "capitulo": 2,
+      "versiculos": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "2.21-24",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.21-24 Ate a terra e os animais selvagens sao",
+        "texto_ocr_pre_normalizacao": "Ate a terra e os animais selvagens sao exortados a nao temer, sendo aconselhados a se alegrar e se regozijar com opovo de Siao na abundance agricolaproveniente do Senhor.",
+        "normalizacoes_literais_reversiveis": {
+          "nao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Até a terra e os animais selvagens são exortados a não temer, sendo aconselhados a se alegrar e se regozijar com o povo de Sião na abundância agrícola proveniente do Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Até a terra e os animais selvagens são exortados a não temer, sendo aconselhados a se alegrar e se regozijar com o povo de Sião na abundância agrícola proveniente do Senhor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Até a terra e os animais selvagens são exortados a não temer, sendo aconselhados a se alegrar e se regozijar com o povo de Sião na abundância agrícola proveniente do Senhor."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0038",
+      "referencia": "2.23",
+      "capitulo": 2,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "2.23",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.23 em justa medida a chuva. E muito",
+        "texto_ocr_pre_normalizacao": "em justa medida a chuva. E muito dificil traduzir essa frase. \"A chuva\" (do hebraico moreh) tambem pode ser traduzida como \"o professor\" ou “aquilo queinstrui\" Embora, depois, Joel use a mesma palavra no versiculo, no sentido de “chuva tempora\", nao se trata do termo normal que denota essa chuva (do hebraico yoreh ). A maior parte das tradugoes modernas opta por chuva/chuva tempora em ambas as ocorrencias como mais apropriadas a passagem, porque as ben<;aos agricolas associadas a reversao da seca sao mencionadas em primeiro lugar, enquanto as bentjaos espirituais sao abordadas depois (vv. 28- 32) No entanto,isso naoexplicao uso incomum da palavra por Joel . Alguns autores contmuam preferindo uma tradugao como “o mestre de justiija\", encontrando, aqui,umaprofeciamessiamcadireta, como muitos comentadores antigos fizeram. A comumdade de Qumran, que copiou os rolos do mar Morto, extrairam dessa expressao o titulo de seu fundador ou lider; oMestrede Justiga. Mais provavelmente,o jogo de palavras de Joel e menos direto:a chuva vindoura e o recome<;o do ciclo agricola normal serao um meio de instrugao divina para o povono que diz respeito a provisao fiel do Senhor para seupovo arrependido e restaurado. a chuva tempora e a serodia. As chuvas do outono e da primavera, respectivamente, ambas sao necessariasa prosperidade agricola",
+        "normalizacoes_literais_reversiveis": {
+          "tambem": 1,
+          "nao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "em justa medida a chuva. É muito difícil traduzir essa frase. “A chuva” (do hebraico moreh) também pode ser traduzida como “o professor” ou “aquilo que instrui”. Embora, depois, Joel use a mesma palavra no versículo, no sentido de “chuva temporã”, não se trata do termo normal que denota essa chuva (do hebraico yoreh). A maior parte das traduções modernas opta por chuva/chuva temporã em ambas as ocorrências como mais apropriadas à passagem, porque as bênçãos agrícolas associadas à reversão da seca são mencionadas em primeiro lugar, enquanto as bênçãos espirituais são abordadas depois (vv. 28-32). No entanto, isso não explica o uso incomum da palavra por Joel. Alguns autores continuam preferindo uma tradução como “o mestre de justiça”, encontrando, aqui, uma profecia messiânica direta, como muitos comentadores antigos fizeram. A comunidade de Qumran, que copiou os rolos do mar Morto, extraiu dessa expressão o título de seu fundador ou líder: o Mestre de Justiça. Mais provavelmente, o jogo de palavras de Joel é menos direto: a chuva vindoura e o recomeço do ciclo agrícola normal serão um meio de instrução divina para o povo no que diz respeito à provisão fiel do Senhor para seu povo arrependido e restaurado.\n\na chuva temporã e a serôdia. As chuvas do outono e da primavera, respectivamente, ambas são necessárias à prosperidade agrícola.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "em justa medida a chuva. É muito difícil traduzir essa frase. “A chuva” (do hebraico moreh) também pode ser traduzida como “o professor” ou “aquilo que instrui”. Embora, depois, Joel use a mesma palavra no versículo, no sentido de “chuva temporã”, não se trata do termo normal que denota essa chuva (do hebraico yoreh). A maior parte das traduções modernas opta por chuva/chuva temporã em ambas as ocorrências como mais apropriadas à passagem, porque as bênçãos agrícolas associadas à reversão da seca são mencionadas em primeiro lugar, enquanto as bênçãos espirituais são abordadas depois (vv. 28-32). No entanto, isso não explica o uso incomum da palavra por Joel. Alguns autores continuam preferindo uma tradução como “o mestre de justiça”, encontrando, aqui, uma profecia messiânica direta, como muitos comentadores antigos fizeram. A comunidade de Qumran, que copiou os rolos do mar Morto, extraiu dessa expressão o título de seu fundador ou líder: o Mestre de Justiça. Mais provavelmente, o jogo de palavras de Joel é menos direto: a chuva vindoura e o recomeço do ciclo agrícola normal serão um meio de instrução divina para o povo no que diz respeito à provisão fiel do Senhor para seu povo arrependido e restaurado.",
+        "a chuva temporã e a serôdia. As chuvas do outono e da primavera, respectivamente, ambas são necessárias à prosperidade agrícola."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "em justa medida a chuva.",
+          "texto": "É muito difícil traduzir essa frase. “A chuva” (do hebraico moreh) também pode ser traduzida como “o professor” ou “aquilo que instrui”. Embora, depois, Joel use a mesma palavra no versículo, no sentido de “chuva temporã”, não se trata do termo normal que denota essa chuva (do hebraico yoreh). A maior parte das traduções modernas opta por chuva/chuva temporã em ambas as ocorrências como mais apropriadas à passagem, porque as bênçãos agrícolas associadas à reversão da seca são mencionadas em primeiro lugar, enquanto as bênçãos espirituais são abordadas depois (vv. 28-32). No entanto, isso não explica o uso incomum da palavra por Joel. Alguns autores continuam preferindo uma tradução como “o mestre de justiça”, encontrando, aqui, uma profecia messiânica direta, como muitos comentadores antigos fizeram. A comunidade de Qumran, que copiou os rolos do mar Morto, extraiu dessa expressão o título de seu fundador ou líder: o Mestre de Justiça. Mais provavelmente, o jogo de palavras de Joel é menos direto: a chuva vindoura e o recomeço do ciclo agrícola normal serão um meio de instrução divina para o povo no que diz respeito à provisão fiel do Senhor para seu povo arrependido e restaurado."
+        },
+        {
+          "titulo": "a chuva temporã e a serôdia.",
+          "texto": "As chuvas do outono e da primavera, respectivamente, ambas são necessárias à prosperidade agrícola."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0039",
+      "referencia": "2.25",
+      "capitulo": 2,
+      "versiculos": [
+        25
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        }
+      ],
+      "titulo": "2.25",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.25 Ver notaem1.4",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Ver nota em 1.4.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jl",
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Ver nota em 1.4."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Ver nota em 1.4."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0040",
+      "referencia": "2.26",
+      "capitulo": 2,
+      "versiculos": [
+        26
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 26
+        }
+      ],
+      "titulo": "2.26",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.26 A abundanciadeve conduzir ao louvor (cf. Dt",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "A abundância deve conduzir ao louvor (cf. Dt 8.10; Os 13.5, 6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "A abundância deve conduzir ao louvor (cf. Dt 8.10; Os 13.5, 6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A abundância deve conduzir ao louvor (cf. Dt 8.10; Os 13.5, 6)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0041",
+      "referencia": "2.27",
+      "capitulo": 2,
+      "versiculos": [
+        27
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        }
+      ],
+      "titulo": "2.27",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.27 A restauragao leva a uma nova compreensao",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "A restauração leva a uma nova compreensão de que o Senhor está em Israel e de que ele é o Deus da aliança e não há outro.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "A restauração leva a uma nova compreensão de que o Senhor está em Israel e de que ele é o Deus da aliança e não há outro."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A restauração leva a uma nova compreensão de que o Senhor está em Israel e de que ele é o Deus da aliança e não há outro."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0042",
+      "referencia": "2.28-32",
+      "capitulo": 2,
+      "versiculos": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 29
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 30
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 31
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 32
+        }
+      ],
+      "titulo": "2.28-32",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.28-32 Joel profetiza sobre o incomparavel der-",
+        "texto_ocr_pre_normalizacao": "Joel profetiza sobre o incomparavel derramamento do Espirito de Deus que acontecera antes da vinda do dia do Senhor. Ha tres estrofes (ver Introdugao a Poesia Hebraica) que comegam comamesmaconstrugao gramatical: aprimeira(2.28, 29) expressao derramamento do Espirito de Deus; a segunda (2.30, 31) fala dos sinais cosmicos que sao o prenunciododiadoSenhor;a terceira(2.32) descreve asegurangafinaldopovodoSenhor.",
+        "normalizacoes_literais_reversiveis": {
+          "Espirito": 2,
+          "Introdugao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Joel profetiza sobre o incomparável derramamento do Espírito de Deus que acontecerá antes da vinda do dia do Senhor. Há três estrofes (ver Introdução à Poesia Hebraica) que começam com a mesma construção gramatical: a primeira (2.28, 29) expressa o derramamento do Espírito de Deus; a segunda (2.30, 31) fala dos sinais cósmicos que são o prenúncio do dia do Senhor; a terceira (2.32) descreve a segurança final do povo do Senhor.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Joel profetiza sobre o incomparável derramamento do Espírito de Deus que acontecerá antes da vinda do dia do Senhor. Há três estrofes (ver Introdução à Poesia Hebraica) que começam com a mesma construção gramatical: a primeira (2.28, 29) expressa o derramamento do Espírito de Deus; a segunda (2.30, 31) fala dos sinais cósmicos que são o prenúncio do dia do Senhor; a terceira (2.32) descreve a segurança final do povo do Senhor."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Joel profetiza sobre o incomparável derramamento do Espírito de Deus que acontecerá antes da vinda do dia do Senhor. Há três estrofes (ver Introdução à Poesia Hebraica) que começam com a mesma construção gramatical: a primeira (2.28, 29) expressa o derramamento do Espírito de Deus; a segunda (2.30, 31) fala dos sinais cósmicos que são o prenúncio do dia do Senhor; a terceira (2.32) descreve a segurança final do povo do Senhor."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0043",
+      "referencia": "2.28,29",
+      "capitulo": 2,
+      "versiculos": [
+        28,
+        29
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 29
+        }
+      ],
+      "titulo": "2.28,29",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 1527,
+        "rotulo_original_ocr": "2.28, 29 MoisesorouparaqueIsrael,como umtodo,",
+        "texto_ocr_pre_normalizacao": "MoisesorouparaqueIsrael,como umtodo, fosse umanagaode profetas(Nm11.29); e,agora,Joel prediz isso como parte do future glorioso de Israel. Pedro dedarou que a visaocomegou a secumprir no Pentecostes, com a vinda do Espirito Santo (At 2.16- 21), que capacita os crentes a darem testemunho de Jesus Cristo (At 1.8). Ao introduzir essa profecia com \"os ultimosdias\" (At 2.17),Pedroaconectacomoutras profecias referentes ao future messianico de Israel, ensinando,portanto, que o Pentecostes maugura a novaepocaprometida(cf. lPe1.10-12).",
+        "normalizacoes_literais_reversiveis": {
+          "Espirito": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Moisés orou para que Israel, como um todo, fosse uma nação de profetas (Nm 11.29); e, agora, Joel prediz isso como parte do futuro glorioso de Israel. Pedro declarou que a visão começou a se cumprir no Pentecostes, com a vinda do Espírito Santo (At 2.16-21), que capacita os crentes a darem testemunho de Jesus Cristo (At 1.8). Ao introduzir essa profecia com “os últimos dias” (At 2.17), Pedro a conecta com outras profecias referentes ao futuro messiânico de Israel, ensinando, portanto, que o Pentecostes inaugura a nova época prometida (cf. 1Pe 1.10-12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Moisés orou para que Israel, como um todo, fosse uma nação de profetas (Nm 11.29); e, agora, Joel prediz isso como parte do futuro glorioso de Israel. Pedro declarou que a visão começou a se cumprir no Pentecostes, com a vinda do Espírito Santo (At 2.16-21), que capacita os crentes a darem testemunho de Jesus Cristo (At 1.8). Ao introduzir essa profecia com “os últimos dias” (At 2.17), Pedro a conecta com outras profecias referentes ao futuro messiânico de Israel, ensinando, portanto, que o Pentecostes inaugura a nova época prometida (cf. 1Pe 1.10-12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Moisés orou para que Israel, como um todo, fosse uma nação de profetas (Nm 11.29); e, agora, Joel prediz isso como parte do futuro glorioso de Israel. Pedro declarou que a visão começou a se cumprir no Pentecostes, com a vinda do Espírito Santo (At 2.16-21), que capacita os crentes a darem testemunho de Jesus Cristo (At 1.8). Ao introduzir essa profecia com “os últimos dias” (At 2.17), Pedro a conecta com outras profecias referentes ao futuro messiânico de Israel, ensinando, portanto, que o Pentecostes inaugura a nova época prometida (cf. 1Pe 1.10-12)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0044",
+      "referencia": "2.28",
+      "capitulo": 2,
+      "versiculos": [
+        28
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        }
+      ],
+      "titulo": "2.28",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "2.28 depois. Joel fala de promessas mais re-",
+        "texto_ocr_pre_normalizacao": "depois. Joel fala de promessas mais remotas. derramarei. Embora, aqui, a palavra se refira principalmente ao derramamento de liquidos (Gn 9.6;Ex 4.9),tambem eusadaemrelagaoao Espi'rito Santo (Ez 39.29;Zc12.10),que e dadoatodososque creem, sem distingao de sexo, idade ou condigao social(1CO 12.13). Ver Numeros12.6;Jeremias 31.31-34;Ezequiel 36.26-29.",
+        "normalizacoes_literais_reversiveis": {
+          "tambem": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "depois. Joel fala de promessas mais remotas.\n\nderramarei. Embora, aqui, a palavra se refira principalmente ao derramamento de líquidos (Gn 9.6; Êx 4.9), também é usada em relação ao Espírito Santo (Ez 39.29; Zc 12.10), que é dado a todos os que creem, sem distinção de sexo, idade ou condição social (1Co 12.13).\n\nprofetizarão... sonharão... terão visões. Ver Números 12.6; Jeremias 31.31-34; Ezequiel 36.26-29.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "depois. Joel fala de promessas mais remotas.",
+        "derramarei. Embora, aqui, a palavra se refira principalmente ao derramamento de líquidos (Gn 9.6; Êx 4.9), também é usada em relação ao Espírito Santo (Ez 39.29; Zc 12.10), que é dado a todos os que creem, sem distinção de sexo, idade ou condição social (1Co 12.13).",
+        "profetizarão... sonharão... terão visões. Ver Números 12.6; Jeremias 31.31-34; Ezequiel 36.26-29."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "depois.",
+          "texto": "Joel fala de promessas mais remotas."
+        },
+        {
+          "titulo": "derramarei.",
+          "texto": "Embora, aqui, a palavra se refira principalmente ao derramamento de líquidos (Gn 9.6; Êx 4.9), também é usada em relação ao Espírito Santo (Ez 39.29; Zc 12.10), que é dado a todos os que creem, sem distinção de sexo, idade ou condição social (1Co 12.13)."
+        },
+        {
+          "titulo": "profetizarão... sonharão... terão visões.",
+          "texto": "Ver Números 12.6; Jeremias 31.31-34; Ezequiel 36.26-29."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0045",
+      "referencia": "2.30,31",
+      "capitulo": 2,
+      "versiculos": [
+        30,
+        31
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 30
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 31
+        }
+      ],
+      "titulo": "2.30,31",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "2.30, 31 0 escopo universal dos eventos que",
+        "texto_ocr_pre_normalizacao": "0 escopo universal dos eventos que anunciam \"o grande e temvel Dia do SENHOR\" e enfatizado. Ver tambem Isai'as 13.10; Ezequiel 32.7, 8;Amos 8.9;Sofonias 1.14-17.",
+        "normalizacoes_literais_reversiveis": {
+          "tambem": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "O escopo universal dos eventos que anunciam “o grande e temível Dia do SENHOR” é enfatizado. Ver também Isaías 13.10; Ezequiel 32.7, 8; Amós 8.9; Sofonias 1.14-17.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "O escopo universal dos eventos que anunciam “o grande e temível Dia do SENHOR” é enfatizado. Ver também Isaías 13.10; Ezequiel 32.7, 8; Amós 8.9; Sofonias 1.14-17."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O escopo universal dos eventos que anunciam “o grande e temível Dia do SENHOR” é enfatizado. Ver também Isaías 13.10; Ezequiel 32.7, 8; Amós 8.9; Sofonias 1.14-17."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0046",
+      "referencia": "2.32",
+      "capitulo": 2,
+      "versiculos": [
+        32
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 32
+        }
+      ],
+      "titulo": "2.32",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "2.32 invocar o nome do SENHOR.Umarefe-",
+        "texto_ocr_pre_normalizacao": "invocar o nome do SENHOR.UmareferendaaadoragaodoSenhor(Gn12.8;S1105.1).A salvagao se encontra somente em retornar a verdadeiraeexdusiva adoragao de Deus. Paulo cita esse versiculoem Romanos10.13 ao talardaindusaodos gentios no piano salvifico de Deus. sobreviventes. Esses sao aqueles que responderam com fe ao chamado do Senhor. Aqui, esta implicito o fato de que a intervengao do Senhor naquele dianao isentaradeescrutinio e julgamentoos habitantes de Siao e Jerusalem.",
+        "normalizacoes_literais_reversiveis": {
+          "salvagao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "invocar o nome do SENHOR. Uma referência à adoração do Senhor (Gn 12.8; Sl 105.1). A salvação se encontra somente em retornar à verdadeira e exclusiva adoração de Deus. Paulo cita esse versículo em Romanos 10.13 ao falar da inclusão dos gentios no plano salvífico de Deus.\n\nsobreviventes. Esses são aqueles que responderam com fé ao chamado do Senhor. Aqui, está implícito o fato de que a intervenção do Senhor naquele dia não isentará de escrutínio e julgamento os habitantes de Sião e Jerusalém.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "invocar o nome do SENHOR. Uma referência à adoração do Senhor (Gn 12.8; Sl 105.1). A salvação se encontra somente em retornar à verdadeira e exclusiva adoração de Deus. Paulo cita esse versículo em Romanos 10.13 ao falar da inclusão dos gentios no plano salvífico de Deus.",
+        "sobreviventes. Esses são aqueles que responderam com fé ao chamado do Senhor. Aqui, está implícito o fato de que a intervenção do Senhor naquele dia não isentará de escrutínio e julgamento os habitantes de Sião e Jerusalém."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "invocar o nome do SENHOR.",
+          "texto": "Uma referência à adoração do Senhor (Gn 12.8; Sl 105.1). A salvação se encontra somente em retornar à verdadeira e exclusiva adoração de Deus. Paulo cita esse versículo em Romanos 10.13 ao falar da inclusão dos gentios no plano salvífico de Deus."
+        },
+        {
+          "titulo": "sobreviventes.",
+          "texto": "Esses são aqueles que responderam com fé ao chamado do Senhor. Aqui, está implícito o fato de que a intervenção do Senhor naquele dia não isentará de escrutínio e julgamento os habitantes de Sião e Jerusalém."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0047",
+      "referencia": "3.1-21",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "3.1-21",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "3.1-21 Joel profetiza a vinda do dia do Senhor,",
+        "texto_ocr_pre_normalizacao": "Joel profetiza a vinda do dia do Senhor, no qual, por fim, Deus julgara os inimigos de Siao, fazendo dessa nagao uma fonte de bengao eterna.",
+        "normalizacoes_literais_reversiveis": {
+          "nagao": 1,
+          "bengao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Joel profetiza a vinda do dia do Senhor, no qual, por fim, Deus julgará os inimigos de Sião, fazendo dessa nação uma fonte de bênção eterna.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Joel profetiza a vinda do dia do Senhor, no qual, por fim, Deus julgará os inimigos de Sião, fazendo dessa nação uma fonte de bênção eterna."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Joel profetiza a vinda do dia do Senhor, no qual, por fim, Deus julgará os inimigos de Sião, fazendo dessa nação uma fonte de bênção eterna."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0048",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "3.1naqueles dias. Em conjunto com \"naquele",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "naqueles dias. Em conjunto com “naquele tempo”, esse anúncio marca o começo de uma série adicional de promessas para o povo de Deus (Jr 33.15; 50.4, 20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "naqueles dias. Em conjunto com “naquele tempo”, esse anúncio marca o começo de uma série adicional de promessas para o povo de Deus (Jr 33.15; 50.4, 20)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "naqueles dias.",
+          "texto": "Em conjunto com “naquele tempo”, esse anúncio marca o começo de uma série adicional de promessas para o povo de Deus (Jr 33.15; 50.4, 20)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0049",
+      "referencia": "3.2",
+      "capitulo": 3,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "3.2",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "3.2 A restauragao induira o julgamento dos inimi-",
+        "texto_ocr_pre_normalizacao": "A restauragao induira o julgamento dos inimigos deIsrael (\"todas as nagoes\") por suas injustigas contrao povo e aterrade Deus. vale de Josafa. Esse lugar e identificado como o “vale da decisao\" no v. 14. Acredita-se, em geral, que sua localizagao e no vale de Cedrom, a leste de Jerusalem,entre acidade e o monte das Oliveiras. do povo, a terrafoi redistribuida a outras pessoas. 0 evento historico especifico aludido aqui nao e daro. As deportagoes de 722, 701, 598 e 586 a.C. ou ate mesmo deportagoes menores,envolvendo guerrasde fronteira(p. ex.Am1.9,10),sao algumas possibilidades.",
+        "normalizacoes_literais_reversiveis": {
+          "nagoes": 1,
+          "nao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "A restauração incluirá o julgamento dos inimigos de Israel (“todas as nações”) por suas injustiças contra o povo e a terra de Deus.\n\nvale de Josafá. Esse lugar é identificado como o “vale da decisão” no v. 14. Acredita-se, em geral, que sua localização é no vale de Cedrom, a leste de Jerusalém, entre a cidade e o monte das Oliveiras.\n\nespalharam... repartindo. Após a deportação do povo, a terra foi redistribuída a outras pessoas. O evento histórico específico aludido aqui não é claro. As deportações de 722, 701, 598 e 586 a.C. ou até mesmo deportações menores, envolvendo guerras de fronteira (p. ex., Am 1.9, 10), são algumas possibilidades.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "A restauração incluirá o julgamento dos inimigos de Israel (“todas as nações”) por suas injustiças contra o povo e a terra de Deus.",
+        "vale de Josafá. Esse lugar é identificado como o “vale da decisão” no v. 14. Acredita-se, em geral, que sua localização é no vale de Cedrom, a leste de Jerusalém, entre a cidade e o monte das Oliveiras.",
+        "espalharam... repartindo. Após a deportação do povo, a terra foi redistribuída a outras pessoas. O evento histórico específico aludido aqui não é claro. As deportações de 722, 701, 598 e 586 a.C. ou até mesmo deportações menores, envolvendo guerras de fronteira (p. ex., Am 1.9, 10), são algumas possibilidades."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A restauração incluirá o julgamento dos inimigos de Israel (“todas as nações”) por suas injustiças contra o povo e a terra de Deus."
+        },
+        {
+          "titulo": "vale de Josafá.",
+          "texto": "Esse lugar é identificado como o “vale da decisão” no v. 14. Acredita-se, em geral, que sua localização é no vale de Cedrom, a leste de Jerusalém, entre a cidade e o monte das Oliveiras."
+        },
+        {
+          "titulo": "espalharam... repartindo.",
+          "texto": "Após a deportação do povo, a terra foi redistribuída a outras pessoas. O evento histórico específico aludido aqui não é claro. As deportações de 722, 701, 598 e 586 a.C. ou até mesmo deportações menores, envolvendo guerras de fronteira (p. ex., Am 1.9, 10), são algumas possibilidades."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0050",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "3.3 Depois do langar de sortes por prisioneiros(Ob",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Depois do lançar de sortes por prisioneiros (Ob 11; Na 3.10), as crianças indefesas eram negociadas e vendidas com propósitos de devassidão (Am 2.6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Depois do lançar de sortes por prisioneiros (Ob 11; Na 3.10), as crianças indefesas eram negociadas e vendidas com propósitos de devassidão (Am 2.6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Depois do lançar de sortes por prisioneiros (Ob 11; Na 3.10), as crianças indefesas eram negociadas e vendidas com propósitos de devassidão (Am 2.6)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0051",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "3.4 vinganga que quereis contra mim. A",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "vingança que quereis contra mim. A acusação legal contra Tiro e Sidom (Fenícia litorânea) e as regiões da Filístia (Palestina litorânea, Js 13.2, 3) diz respeito ao seu envolvimento em capturar e negociar israelitas como prisioneiros de guerra. Ambas as regiões venderam israelitas como escravos para os gregos (v. 6) e para Edom (Am 1.6, 9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "vingança que quereis contra mim. A acusação legal contra Tiro e Sidom (Fenícia litorânea) e as regiões da Filístia (Palestina litorânea, Js 13.2, 3) diz respeito ao seu envolvimento em capturar e negociar israelitas como prisioneiros de guerra. Ambas as regiões venderam israelitas como escravos para os gregos (v. 6) e para Edom (Am 1.6, 9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vingança que quereis contra mim.",
+          "texto": "A acusação legal contra Tiro e Sidom (Fenícia litorânea) e as regiões da Filístia (Palestina litorânea, Js 13.2, 3) diz respeito ao seu envolvimento em capturar e negociar israelitas como prisioneiros de guerra. Ambas as regiões venderam israelitas como escravos para os gregos (v. 6) e para Edom (Am 1.6, 9)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0052",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 7,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 7,
+        "paginas_pdf": [
+          7
+        ],
+        "pagina_impressa": 1528,
+        "rotulo_original_ocr": "3.5 aminhaprata e o meu ouro. A prata e o",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "a minha prata e o meu ouro. A prata e o ouro da terra, bem como seus habitantes, pertencem ao Senhor (Ag 2.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "a minha prata e o meu ouro. A prata e o ouro da terra, bem como seus habitantes, pertencem ao Senhor (Ag 2.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a minha prata e o meu ouro.",
+          "texto": "A prata e o ouro da terra, bem como seus habitantes, pertencem ao Senhor (Ag 2.8)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0053",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.7 eu os suscitarei.0povo restaurado deDeus",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "eu os suscitarei. O povo restaurado de Deus infligirá punição divina sobre Tiro, Sidom e Filístia.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "eu os suscitarei. O povo restaurado de Deus infligirá punição divina sobre Tiro, Sidom e Filístia."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "eu os suscitarei.",
+          "texto": "O povo restaurado de Deus infligirá punição divina sobre Tiro, Sidom e Filístia."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0054",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.8 sabeus. Esses sao mercadores da distante",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "sabeus. Esses são mercadores da distante terra de Sabá (1Rs 10.1-3; Jr 6.20).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "sabeus. Esses são mercadores da distante terra de Sabá (1Rs 10.1-3; Jr 6.20)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sabeus.",
+          "texto": "Esses são mercadores da distante terra de Sabá (1Rs 10.1-3; Jr 6.20)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0055",
+      "referencia": "3.9-12",
+      "capitulo": 3,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.9-12",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.9-12 Joel profere um chamado amargamente",
+        "texto_ocr_pre_normalizacao": "Joel profere um chamado amargamente ironico a batalha para as nagoes que o Senhor derrotara.",
+        "normalizacoes_literais_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Joel profere um chamado amargamente irônico à batalha para as nações que o Senhor derrotará.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Joel profere um chamado amargamente irônico à batalha para as nações que o Senhor derrotará."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Joel profere um chamado amargamente irônico à batalha para as nações que o Senhor derrotará."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0056",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.10 relhas de arado... podadeiras. Isso e o",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "relhas de arado... podadeiras. Isso é o oposto de Isaías 2.4 e Miqueias 4.3. Aqui, os instrumentos agrícolas devem ser transformados em armas de guerra.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "relhas de arado... podadeiras. Isso é o oposto de Isaías 2.4 e Miqueias 4.3. Aqui, os instrumentos agrícolas devem ser transformados em armas de guerra."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "relhas de arado... podadeiras.",
+          "texto": "Isso é o oposto de Isaías 2.4 e Miqueias 4.3. Aqui, os instrumentos agrícolas devem ser transformados em armas de guerra."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0057",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.11 ali. 0 vale de Josafa (v. 2, nota) e o lugar da",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "ali. O vale de Josafá (v. 2, nota) é o lugar da grande batalha (v. 14, nota).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "ali. O vale de Josafá (v. 2, nota) é o lugar da grande batalha (v. 14, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ali.",
+          "texto": "O vale de Josafá (v. 2, nota) é o lugar da grande batalha (v. 14, nota)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0058",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.13 A semelhanga dograo pronto para ser cortado",
+        "texto_ocr_pre_normalizacao": "A semelhanga dograo pronto para ser cortado pela foice (Is 17.5) e das uvas que esperam para ser pisadas (Is 63.3), as nacoes impias estao maduras paraumacolheitade julgamento(cf.Ap14.15,18,20). o lagar esta cheio... compartimentos transbordam. 0 lagar cheio e os compartimentos transbordantes enfatizam aenorme impiedade das nagoes reunidas no vale para julgamento. Trata-sedo inversoda promessa feitaaJudaem2.24.",
+        "normalizacoes_literais_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "À semelhança do grão pronto para ser cortado pela foice (Is 17.5) e das uvas que esperam para ser pisadas (Is 63.3), as nações ímpias estão maduras para uma colheita de julgamento (cf. Ap 14.15, 18, 20).\n\no lagar está cheio... compartimentos transbordam. O lagar cheio e os compartimentos transbordantes enfatizam a enorme impiedade das nações reunidas no vale para julgamento. Trata-se do inverso da promessa feita a Judá em 2.24.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "À semelhança do grão pronto para ser cortado pela foice (Is 17.5) e das uvas que esperam para ser pisadas (Is 63.3), as nações ímpias estão maduras para uma colheita de julgamento (cf. Ap 14.15, 18, 20).",
+        "o lagar está cheio... compartimentos transbordam. O lagar cheio e os compartimentos transbordantes enfatizam a enorme impiedade das nações reunidas no vale para julgamento. Trata-se do inverso da promessa feita a Judá em 2.24."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "À semelhança do grão pronto para ser cortado pela foice (Is 17.5) e das uvas que esperam para ser pisadas (Is 63.3), as nações ímpias estão maduras para uma colheita de julgamento (cf. Ap 14.15, 18, 20)."
+        },
+        {
+          "titulo": "o lagar está cheio... compartimentos transbordam.",
+          "texto": "O lagar cheio e os compartimentos transbordantes enfatizam a enorme impiedade das nações reunidas no vale para julgamento. Trata-se do inverso da promessa feita a Judá em 2.24."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0059",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.14 vale da Decisao. Agora, o vale de Josa-",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "vale da Decisão. Agora, o vale de Josafá é identificado como o “vale da Decisão”, no qual o julgamento do Senhor será passado sobre multidões.\n\nperto. A iminência do dia do Senhor como um dia de julgamento é novamente ressaltada (1.15; 2.1, 31).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "vale da Decisão. Agora, o vale de Josafá é identificado como o “vale da Decisão”, no qual o julgamento do Senhor será passado sobre multidões.",
+        "perto. A iminência do dia do Senhor como um dia de julgamento é novamente ressaltada (1.15; 2.1, 31)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vale da Decisão.",
+          "texto": "Agora, o vale de Josafá é identificado como o “vale da Decisão”, no qual o julgamento do Senhor será passado sobre multidões."
+        },
+        {
+          "titulo": "perto.",
+          "texto": "A iminência do dia do Senhor como um dia de julgamento é novamente ressaltada (1.15; 2.1, 31)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0060",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.15 sol... lua... estrelas. A criagao responde",
+        "texto_ocr_pre_normalizacao": "sol... lua... estrelas. A criagao responde ao aparecimento do Senhor no dia de julgamento (2.10,31;Am 5.18).",
+        "normalizacoes_literais_reversiveis": {
+          "criagao": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "sol... lua... estrelas. A criação responde ao aparecimento do Senhor no dia de julgamento (2.10, 31; Am 5.18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "sol... lua... estrelas. A criação responde ao aparecimento do Senhor no dia de julgamento (2.10, 31; Am 5.18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sol... lua... estrelas.",
+          "texto": "A criação responde ao aparecimento do Senhor no dia de julgamento (2.10, 31; Am 5.18)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0061",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.16 O SENHOR brama. A voz do Senhor e tao",
+        "texto_ocr_pre_normalizacao": "O SENHOR brama. A voz do Senhor e tao poderosaque ate a terra e os ceus tremem(SI 29.3- 9;Jr 25.30;Am1.2). refugio... fortaleza. No entanto, em meio as extraordinarias manifestagoes da ira do Senhor contra as nagoes, o Senhor protege seu povo pactual(Is 25.4;SI 46.1).",
+        "normalizacoes_literais_reversiveis": {
+          "nagoes": 1
+        },
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "O SENHOR brama. A voz do Senhor é tão poderosa que até a terra e os céus tremem (Sl 29.3-9; Jr 25.30; Am 1.2).\n\nrefúgio... fortaleza. No entanto, em meio às extraordinárias manifestações da ira do Senhor contra as nações, o Senhor protege seu povo pactual (Is 25.4; Sl 46.1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "O SENHOR brama. A voz do Senhor é tão poderosa que até a terra e os céus tremem (Sl 29.3-9; Jr 25.30; Am 1.2).",
+        "refúgio... fortaleza. No entanto, em meio às extraordinárias manifestações da ira do Senhor contra as nações, o Senhor protege seu povo pactual (Is 25.4; Sl 46.1)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "O SENHOR brama.",
+          "texto": "A voz do Senhor é tão poderosa que até a terra e os céus tremem (Sl 29.3-9; Jr 25.30; Am 1.2)."
+        },
+        {
+          "titulo": "refúgio... fortaleza.",
+          "texto": "No entanto, em meio às extraordinárias manifestações da ira do Senhor contra as nações, o Senhor protege seu povo pactual (Is 25.4; Sl 46.1)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0062",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.17 habito em Siao. A experience de Juda no",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "habito em Sião. A experiência de Judá no que se refere à proteção do Senhor no tempo da ira aprofundará seu conhecimento da realidade da presença do Senhor entre eles (em Sião, o monte santo e inviolável do Senhor — 2.27; cf. Sl 46.4; Is 8.18; 52.1, 2; Zc 2.10; 8.3; Ap 21.3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "habito em Sião. A experiência de Judá no que se refere à proteção do Senhor no tempo da ira aprofundará seu conhecimento da realidade da presença do Senhor entre eles (em Sião, o monte santo e inviolável do Senhor — 2.27; cf. Sl 46.4; Is 8.18; 52.1, 2; Zc 2.10; 8.3; Ap 21.3)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "habito em Sião.",
+          "texto": "A experiência de Judá no que se refere à proteção do Senhor no tempo da ira aprofundará seu conhecimento da realidade da presença do Senhor entre eles (em Sião, o monte santo e inviolável do Senhor — 2.27; cf. Sl 46.4; Is 8.18; 52.1, 2; Zc 2.10; 8.3; Ap 21.3)."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0063",
+      "referencia": "3.18",
+      "capitulo": 3,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.18",
+      "pagina_original": 8,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 8,
+        "paginas_pdf": [
+          8
+        ],
+        "pagina_impressa": 1529,
+        "rotulo_original_ocr": "3.18 A cena final do drama e de prosperidade e",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "A cena final do drama é de prosperidade e bênçãos paradisíacas (cf. 2.19-26).\n\nsairá uma fonte. O próprio templo será a fonte de um rio de água vivificadora (Sl 46.4; Ez 47.1-12; Ap 22.1, 2), que regará até o vale árido e estéril, onde crescerão árvores de acácia.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "A cena final do drama é de prosperidade e bênçãos paradisíacas (cf. 2.19-26).",
+        "sairá uma fonte. O próprio templo será a fonte de um rio de água vivificadora (Sl 46.4; Ez 47.1-12; Ap 22.1, 2), que regará até o vale árido e estéril, onde crescerão árvores de acácia."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A cena final do drama é de prosperidade e bênçãos paradisíacas (cf. 2.19-26)."
+        },
+        {
+          "titulo": "sairá uma fonte.",
+          "texto": "O próprio templo será a fonte de um rio de água vivificadora (Sl 46.4; Ez 47.1-12; Ap 22.1, 2), que regará até o vale árido e estéril, onde crescerão árvores de acácia."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0064",
+      "referencia": "3.19",
+      "capitulo": 3,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "3.19",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1530,
+        "rotulo_original_ocr": "3.19 Egito... Edom. Egito (IRs 14.25, 26; 2Rs",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "Egito... Edom. Egito (1Rs 14.25, 26; 2Rs 23.29) e Edom (Ob 9-14), representando aqui todos os inimigos de Israel, ficarão em ruínas após esse julgamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "Egito... Edom. Egito (1Rs 14.25, 26; 2Rs 23.29) e Edom (Ob 9-14), representando aqui todos os inimigos de Israel, ficarão em ruínas após esse julgamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Egito... Edom.",
+          "texto": "Egito (1Rs 14.25, 26; 2Rs 23.29) e Edom (Ob 9-14), representando aqui todos os inimigos de Israel, ficarão em ruínas após esse julgamento."
+        }
+      ]
+    },
+    {
+      "id": "fr-jl-0065",
+      "referencia": "3.20",
+      "capitulo": 3,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "3.20",
+      "pagina_original": 9,
+      "origem": {
+        "pdf": "063 - Joel (Jl).pdf",
+        "pagina_pdf": 9,
+        "paginas_pdf": [
+          9
+        ],
+        "pagina_impressa": 1530,
+        "rotulo_original_ocr": "3.20 sera habitada para sempre. Em con-",
+        "metodo": "conferência textual com PDF de Joel, pp. 1524–1530"
+      },
+      "texto": "será habitada para sempre. Em contraste com seus inimigos, Judá e Jerusalém são abençoados e recebem a promessa de habitação perpétua na terra (Jr 17.25; Zc 12.6), porque “o SENHOR habitará em Sião” (v. 21).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "revisao_textual_v1_conferida_pdf",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "paragrafos": [
+        "será habitada para sempre. Em contraste com seus inimigos, Judá e Jerusalém são abençoados e recebem a promessa de habitação perpétua na terra (Jr 17.25; Zc 12.6), porque “o SENHOR habitará em Sião” (v. 21)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "será habitada para sempre.",
+          "texto": "Em contraste com seus inimigos, Judá e Jerusalém são abençoados e recebem a promessa de habitação perpétua na terra (Jr 17.25; Zc 12.6), porque “o SENHOR habitará em Sião” (v. 21)."
+        }
+      ]
+    }
+  ],
+  "artigos": [
+    {
+      "id": "jl-art-legalismo",
+      "titulo": "Legalismo",
+      "pagina_original": 42,
+      "paragrafos": [
+        "O legalismo é a heresia oposta ao antinomianismo. Enquanto o antinomianismo nega a importância da lei, o legalismo exalta a lei acima da graça. Os legalistas dos dias de Jesus eram os fariseus, e Jesus reservou para eles sua crítica mais forte. A distorção fundamental do legalismo é a crença de que alguém pode conquistar seu caminho para o reino do céu. Os fariseus criam que, devido à sua condição de filhos de Abraão, e à sua escrupulosa adesão à lei, eram filhos de Deus. Em suma, essa era uma negação do evangelho.",
+        "Um elemento resultante do legalismo é a adesão à letra da lei, com a exclusão do espírito da lei. Para que os fariseus cressem que podiam guardar a lei, em primeiro lugar tinham de reduzi-la à sua mais estreita e rígida interpretação. A história do jovem rico e líder ilustra esse ponto. Esse jovem perguntou a Jesus como ele poderia herdar a vida eterna. Jesus lhe disse: “guarda os mandamentos”. O jovem cria que observava todos eles. Mas Jesus lhe revelou o único “deus” ao qual ele servia, em vez do Deus verdadeiro: as riquezas. “Vai, vende tudo o que possuis e dá-o aos pobres, e terás um tesouro no céu” (Mt 19.21). O líder rico, então, seguiu seu caminho, entristecido.",
+        "Os fariseus eram culpados de outra forma de legalismo. Adicionavam suas próprias leis à lei de Deus. Suas “tradições” foram postas em uma posição igual à lei de Deus. Roubavam o povo de sua liberdade e o acorrentavam onde Deus os deixara livres. Esse tipo de legalismo não terminou com os fariseus. Veio a ser também uma praga na igreja a cada geração.",
+        "O legalismo costuma surgir como uma forte reação ao antinomianismo. Certifiquemo-nos bem de não incorrer, nós mesmos ou outras pessoas, no relaxamento moral do antinomianismo, nem de tentar fazer regras mais estritas do que o próprio Deus faz. Quando isso ocorre, o legalismo introduz a tirania sobre o povo de Deus.",
+        "De igual modo, com frequência surgem formas de antinomianismo como uma forte reação ao legalismo. Em geral, seu clamor conjunto é o da liberação de toda opressão. É a busca pela liberdade moral às cegas. Os cristãos, ao guardar sua liberdade, devem ser cuidadosos para não confundir liberdade com libertinagem.",
+        "Outra forma de legalismo é o principal que se sujeita ao secundário. Jesus repreendeu os fariseus por omitirem as questões mais importantes da lei enquanto se mantinham escrupulosos em obedecer aos pontos menos importantes (Mt 23.23-24). Essa tendência é uma constante ameaça para a igreja. Tendemos a exaltar o nível supremo de piedade, não importa quais virtudes tenhamos, e subestimamos nossos vícios como pontos sem importância. Por exemplo, posso ver minha abstenção de dançar como uma grande força espiritual, enquanto considero minha cobiça uma questão de menor importância.",
+        "O único antídoto contra o legalismo ou contra o antinomianismo é fazer um estudo sério da Palavra de Deus. Somente então, seremos instruídos com propriedade no que é agradável ou desagradável a Deus."
+      ],
+      "origem": {
+        "pdf": "087 - Mateus (Mt) (1).pdf",
+        "pagina_pdf": 42,
+        "paginas_pdf": [
+          42
+        ],
+        "pagina_impressa": 1713,
+        "metodo": "cotejo visual das duas colunas",
+        "drive_url": "https://drive.google.com/file/d/1Y3p4SYNfP0KjDCy7hDdv4wEaef2vCERt/view"
+      },
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "observacao_editorial": "Fonte impressa em Mateus; armazenado uma única vez no JSON de Joel para acesso direto a partir da remissão explícita de Jl 2.13 no leitor V19."
+    }
+  ],
+  "remissoes": []
+}

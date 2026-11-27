@@ -1,0 +1,2581 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "2Pe",
+  "titulo": "2 Pedro",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "130 - 2 Pedro (2Pe).pdf",
+    "paginas_pdf": [
+      1,
+      6
+    ],
+    "observacao": "Camada textual reprocessada; não certifica fidelidade integral."
+  },
+  "estado_editorial": "primeiro_cotejo_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-2pe-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.1 Simão. Do grego Symeõn, que é mais próximo",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Simão. Do grego Symeōn, que é mais próximo da forma hebraica do nome. Ver nota em 1 Pedro 1.1.\n\napóstolo. Ver nota em 2 Coríntios 1.1.\n\nfé igualmente preciosa. Embora seja possível que “fé” se refira à experiência subjetiva do crente, é mais provável que aluda a um conjunto de doutrina. Isso é apoiado pelo texto correlato em Judas 3, que se refere à “comum salvação” dos cristãos e à “fé que uma vez por todas foi entregue aos santos”. Como um apóstolo que escrevia para pessoas que viveriam após a sua morte (vv. 13-15), Pedro assegurou a seus leitores que eles não tinham uma segunda classe de cristãos, inferior à de Pedro e dos apóstolos (cf. Jo 20.29). Isso é verdade porque Pedro e seu círculo de cristãos acreditavam na mesma essência de doutrinas evangélicas que os destinatários da carta acreditavam.\n\nna justiça. Isso provavelmente se refere à retidão e à imparcialidade de Cristo em outorgar o dom da fé a todos os tipos de pessoas, e não à justiça vicária de Cristo, pela qual os cristãos são justificados (Rm 3.22; 4.6). O fato de a justificação pela fé não estar em vista aqui é evidenciado porque “a fé” não é a fé subjetiva dos crentes, mas um conjunto de crenças. Em geral, a palavra “justiça” é usada em sentido ético nas cartas de Pedro (2.5, 21; 3.13; 1Pe 2.24; 4.18).\n\nnosso Deus e Salvador Jesus Cristo. Visto que, no grego (literalmente, “o Deus nosso e Salvador”), um artigo definido rege os dois substantivos, essa expressão atribui deidade a Jesus.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "livro": "1Pe",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Simão. Do grego Symeōn, que é mais próximo da forma hebraica do nome. Ver nota em 1 Pedro 1.1.",
+        "apóstolo. Ver nota em 2 Coríntios 1.1.",
+        "fé igualmente preciosa. Embora seja possível que “fé” se refira à experiência subjetiva do crente, é mais provável que aluda a um conjunto de doutrina. Isso é apoiado pelo texto correlato em Judas 3, que se refere à “comum salvação” dos cristãos e à “fé que uma vez por todas foi entregue aos santos”. Como um apóstolo que escrevia para pessoas que viveriam após a sua morte (vv. 13-15), Pedro assegurou a seus leitores que eles não tinham uma segunda classe de cristãos, inferior à de Pedro e dos apóstolos (cf. Jo 20.29). Isso é verdade porque Pedro e seu círculo de cristãos acreditavam na mesma essência de doutrinas evangélicas que os destinatários da carta acreditavam.",
+        "na justiça. Isso provavelmente se refere à retidão e à imparcialidade de Cristo em outorgar o dom da fé a todos os tipos de pessoas, e não à justiça vicária de Cristo, pela qual os cristãos são justificados (Rm 3.22; 4.6). O fato de a justificação pela fé não estar em vista aqui é evidenciado porque “a fé” não é a fé subjetiva dos crentes, mas um conjunto de crenças. Em geral, a palavra “justiça” é usada em sentido ético nas cartas de Pedro (2.5, 21; 3.13; 1Pe 2.24; 4.18).",
+        "nosso Deus e Salvador Jesus Cristo. Visto que, no grego (literalmente, “o Deus nosso e Salvador”), um artigo definido rege os dois substantivos, essa expressão atribui deidade a Jesus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Simão.",
+          "texto": "Do grego Symeōn, que é mais próximo da forma hebraica do nome. Ver nota em 1 Pedro 1.1."
+        },
+        {
+          "titulo": "apóstolo.",
+          "texto": "Ver nota em 2 Coríntios 1.1."
+        },
+        {
+          "titulo": "fé igualmente preciosa.",
+          "texto": "Embora seja possível que “fé” se refira à experiência subjetiva do crente, é mais provável que aluda a um conjunto de doutrina. Isso é apoiado pelo texto correlato em Judas 3, que se refere à “comum salvação” dos cristãos e à “fé que uma vez por todas foi entregue aos santos”. Como um apóstolo que escrevia para pessoas que viveriam após a sua morte (vv. 13-15), Pedro assegurou a seus leitores que eles não tinham uma segunda classe de cristãos, inferior à de Pedro e dos apóstolos (cf. Jo 20.29). Isso é verdade porque Pedro e seu círculo de cristãos acreditavam na mesma essência de doutrinas evangélicas que os destinatários da carta acreditavam."
+        },
+        {
+          "titulo": "na justiça.",
+          "texto": "Isso provavelmente se refere à retidão e à imparcialidade de Cristo em outorgar o dom da fé a todos os tipos de pessoas, e não à justiça vicária de Cristo, pela qual os cristãos são justificados (Rm 3.22; 4.6). O fato de a justificação pela fé não estar em vista aqui é evidenciado porque “a fé” não é a fé subjetiva dos crentes, mas um conjunto de crenças. Em geral, a palavra “justiça” é usada em sentido ético nas cartas de Pedro (2.5, 21; 3.13; 1Pe 2.24; 4.18)."
+        },
+        {
+          "titulo": "nosso Deus e Salvador Jesus Cristo.",
+          "texto": "Visto que, no grego (literalmente, “o Deus nosso e Salvador”), um artigo definido rege os dois substantivos, essa expressão atribui deidade a Jesus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.2 conhecimento de Deus e de Jesus.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "conhecimento de Deus e de Jesus. “Conhecimento” é um tema importante em 2 Pedro (palavras relacionadas ocorrem 11 vezes). Aqui, provavelmente é um ataque sutil aos falsos mestres e à sua preocupação com o conhecimento esotérico, que leva à imoralidade. Parece que Pedro reserva a palavra grega aqui empregada (epignōsis) para se referir ao conhecimento fundamental e salvador de Deus adquirido na conversão (1.2, 3, 8; 2.20). O conhecimento de Deus e o de Jesus estão conectados porque Deus é conhecido de maneira salvadora somente em e por meio de Jesus Cristo (Mt 11.27; Jo 1.18).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "conhecimento de Deus e de Jesus. “Conhecimento” é um tema importante em 2 Pedro (palavras relacionadas ocorrem 11 vezes). Aqui, provavelmente é um ataque sutil aos falsos mestres e à sua preocupação com o conhecimento esotérico, que leva à imoralidade. Parece que Pedro reserva a palavra grega aqui empregada (epignōsis) para se referir ao conhecimento fundamental e salvador de Deus adquirido na conversão (1.2, 3, 8; 2.20). O conhecimento de Deus e o de Jesus estão conectados porque Deus é conhecido de maneira salvadora somente em e por meio de Jesus Cristo (Mt 11.27; Jo 1.18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "conhecimento de Deus e de Jesus.",
+          "texto": "“Conhecimento” é um tema importante em 2 Pedro (palavras relacionadas ocorrem 11 vezes). Aqui, provavelmente é um ataque sutil aos falsos mestres e à sua preocupação com o conhecimento esotérico, que leva à imoralidade. Parece que Pedro reserva a palavra grega aqui empregada (epignōsis) para se referir ao conhecimento fundamental e salvador de Deus adquirido na conversão (1.2, 3, 8; 2.20). O conhecimento de Deus e o de Jesus estão conectados porque Deus é conhecido de maneira salvadora somente em e por meio de Jesus Cristo (Mt 11.27; Jo 1.18)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.3 nos chamou para a sua própria glória",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "nos chamou para a sua própria glória e virtude. Um alvo do cristão é viver de maneira que reflita os gloriosos atributos e o magnífico caráter de Deus (vv. 4-8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "nos chamou para a sua própria glória e virtude. Um alvo do cristão é viver de maneira que reflita os gloriosos atributos e o magnífico caráter de Deus (vv. 4-8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "nos chamou para a sua própria glória e virtude.",
+          "texto": "Um alvo do cristão é viver de maneira que reflita os gloriosos atributos e o magnífico caráter de Deus (vv. 4-8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.4 coparticipantes da natureza divina. Os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "coparticipantes da natureza divina. Os crentes não são absorvidos em deidade, nem se tornam divinos. Em vez disso, receberam o Espírito Santo e são filhos de Deus (Jo 1.12; cf. Rm 8.9-21). Como tais, eles estão sendo conformados à semelhança de Cristo (Rm 8.29), e a imagem de Deus neles está sendo renovada em verdadeira retidão. Isso será consumado em nossa glorificação, inicialmente quando a presença do pecado for removida em sua inteireza e, em segundo lugar, quando nosso corpo for ressuscitado para que tenhamos a imagem do “homem celestial” no corpo e na alma (Rm 8.20-25; 1Co 15.12-57).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "coparticipantes da natureza divina. Os crentes não são absorvidos em deidade, nem se tornam divinos. Em vez disso, receberam o Espírito Santo e são filhos de Deus (Jo 1.12; cf. Rm 8.9-21). Como tais, eles estão sendo conformados à semelhança de Cristo (Rm 8.29), e a imagem de Deus neles está sendo renovada em verdadeira retidão. Isso será consumado em nossa glorificação, inicialmente quando a presença do pecado for removida em sua inteireza e, em segundo lugar, quando nosso corpo for ressuscitado para que tenhamos a imagem do “homem celestial” no corpo e na alma (Rm 8.20-25; 1Co 15.12-57)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "coparticipantes da natureza divina.",
+          "texto": "Os crentes não são absorvidos em deidade, nem se tornam divinos. Em vez disso, receberam o Espírito Santo e são filhos de Deus (Jo 1.12; cf. Rm 8.9-21). Como tais, eles estão sendo conformados à semelhança de Cristo (Rm 8.29), e a imagem de Deus neles está sendo renovada em verdadeira retidão. Isso será consumado em nossa glorificação, inicialmente quando a presença do pecado for removida em sua inteireza e, em segundo lugar, quando nosso corpo for ressuscitado para que tenhamos a imagem do “homem celestial” no corpo e na alma (Rm 8.20-25; 1Co 15.12-57)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0005",
+      "referencia": "1.5-7",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.5-7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.5-7 A ordem das virtudes aqui (\"fé. amor\") não",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A ordem das virtudes aqui (“fé... amor”) não é uma sequência temporal, como se os estágios da vida cristã estivessem sendo descritos (vv. 8, 9). Pedro está usando uma figura retórica que constrói uma série de elementos e os leva a um clímax. O começo e a conclusão da seção são significativos. Listas de virtudes cristãs antigas começavam com “fé”, o ponto de partida da vida cristã, e terminavam com “amor” (Rm 5.5-15; 1Co 13), o fruto preeminente da vida cristã. Esses frutos refletem o caráter de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A ordem das virtudes aqui (“fé... amor”) não é uma sequência temporal, como se os estágios da vida cristã estivessem sendo descritos (vv. 8, 9). Pedro está usando uma figura retórica que constrói uma série de elementos e os leva a um clímax. O começo e a conclusão da seção são significativos. Listas de virtudes cristãs antigas começavam com “fé”, o ponto de partida da vida cristã, e terminavam com “amor” (Rm 5.5-15; 1Co 13), o fruto preeminente da vida cristã. Esses frutos refletem o caráter de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A ordem das virtudes aqui (“fé... amor”) não é uma sequência temporal, como se os estágios da vida cristã estivessem sendo descritos (vv. 8, 9). Pedro está usando uma figura retórica que constrói uma série de elementos e os leva a um clímax. O começo e a conclusão da seção são significativos. Listas de virtudes cristãs antigas começavam com “fé”, o ponto de partida da vida cristã, e terminavam com “amor” (Rm 5.5-15; 1Co 13), o fruto preeminente da vida cristã. Esses frutos refletem o caráter de Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0006",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.7 fraternidade. Do grego Philadelphia, afeição",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "fraternidade. Do grego philadelphia, afeição familiar entre os crentes como irmãos e irmãs na família de Deus (Rm 12.10; Hb 13.1; 1Pe 1.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "fraternidade. Do grego philadelphia, afeição familiar entre os crentes como irmãos e irmãs na família de Deus (Rm 12.10; Hb 13.1; 1Pe 1.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fraternidade.",
+          "texto": "Do grego philadelphia, afeição familiar entre os crentes como irmãos e irmãs na família de Deus (Rm 12.10; Hb 13.1; 1Pe 1.22)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0007",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.8 estas coisas, existindo em vós... fazem",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "estas coisas, existindo em vós... fazem com que não sejais... inativos. As qualidades de Deus que eles devem refletir são entendidas como “frutos” de conhecerem “nosso Senhor Jesus Cristo”; são os resultados inevitáveis da fé, e não coisas acrescentadas à fé, a fim de conseguirem uma posição correta diante de Deus (cf. Rm 3.21-26; Tg 2.14-26).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "estas coisas, existindo em vós... fazem com que não sejais... inativos. As qualidades de Deus que eles devem refletir são entendidas como “frutos” de conhecerem “nosso Senhor Jesus Cristo”; são os resultados inevitáveis da fé, e não coisas acrescentadas à fé, a fim de conseguirem uma posição correta diante de Deus (cf. Rm 3.21-26; Tg 2.14-26)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estas coisas, existindo em vós... fazem com que não sejais... inativos.",
+          "texto": "As qualidades de Deus que eles devem refletir são entendidas como “frutos” de conhecerem “nosso Senhor Jesus Cristo”; são os resultados inevitáveis da fé, e não coisas acrescentadas à fé, a fim de conseguirem uma posição correta diante de Deus (cf. Rm 3.21-26; Tg 2.14-26)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0008",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.9 cego, vendo só 0 que está perto. A",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "cego, vendo só o que está perto. A combinação dos termos aqui é singular, visto que as duas condições físicas são mutuamente excludentes. Alguns sugerem, com base na etimologia da palavra grega traduzida por “vendo só o que está perto”, que Pedro está se referindo ao fechamento ou ao estreitamento dos olhos e que uma rejeição deliberada da verdade está em vista. No entanto, como a pessoa de pouca visão estreita os olhos para ver melhor, é possível que Pedro esteja simplesmente multiplicando palavras relacionadas para impactar. É claro que as qualidades que os crentes devem refletir são resultados inevitáveis de haverem sido purificados dos “pecados de outrora”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "cego, vendo só o que está perto. A combinação dos termos aqui é singular, visto que as duas condições físicas são mutuamente excludentes. Alguns sugerem, com base na etimologia da palavra grega traduzida por “vendo só o que está perto”, que Pedro está se referindo ao fechamento ou ao estreitamento dos olhos e que uma rejeição deliberada da verdade está em vista. No entanto, como a pessoa de pouca visão estreita os olhos para ver melhor, é possível que Pedro esteja simplesmente multiplicando palavras relacionadas para impactar. É claro que as qualidades que os crentes devem refletir são resultados inevitáveis de haverem sido purificados dos “pecados de outrora”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "cego, vendo só o que está perto.",
+          "texto": "A combinação dos termos aqui é singular, visto que as duas condições físicas são mutuamente excludentes. Alguns sugerem, com base na etimologia da palavra grega traduzida por “vendo só o que está perto”, que Pedro está se referindo ao fechamento ou ao estreitamento dos olhos e que uma rejeição deliberada da verdade está em vista. No entanto, como a pessoa de pouca visão estreita os olhos para ver melhor, é possível que Pedro esteja simplesmente multiplicando palavras relacionadas para impactar. É claro que as qualidades que os crentes devem refletir são resultados inevitáveis de haverem sido purificados dos “pecados de outrora”."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0009",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1,
+          2
+        ],
+        "pagina_impressa": 2256,
+        "rotulo_original_ocr": "1.10 confirmar a vossa vocação e eleição.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "confirmar a vossa vocação e eleição. Embora a escolha de Deus seja firme e certa em Deus (2Tm 2.19), a identidade daqueles que ele escolheu desde toda a eternidade nem sempre é óbvia para o cristão individual. A segurança do chamado de Deus vem pelas evidências da influência do Espírito Santo em nossa vida, que produz boas obras (Gl 5.22-24; 1Jo 3.10, 14), em conjunção com o testemunho interno do Espírito em nosso coração (Rm 8.16; Gl 4.6). Crescemos em nossa segurança de eleição e salvação quando vemos fruto espiritual em nossa vida.\n\nprocedendo assim. A promessa de salvação de Deus é para aqueles que têm fé genuína e perseverante (Mt 10.22; 24.12, 13; Hb 3.6). A verdadeira fé persevera até o fim e, inevitavelmente, produzirá boas qualidades ou frutos (Gl 5.6, 22-23). A presença das virtudes mencionadas antes em nossa vida nos dá a segurança de que a fé é genuína e, portanto, de que seremos bem recebidos pelo Senhor. Entretanto, essas virtudes não ganham entrada no céu em nosso benefício. Em vez disso, elas são o fruto daquilo que ganha a salvação para nós: a perfeita justiça de Cristo que recebemos pela fé somente nele (Rm 3.21-4.5; 5.12-21; 2Co 5.21).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "confirmar a vossa vocação e eleição. Embora a escolha de Deus seja firme e certa em Deus (2Tm 2.19), a identidade daqueles que ele escolheu desde toda a eternidade nem sempre é óbvia para o cristão individual. A segurança do chamado de Deus vem pelas evidências da influência do Espírito Santo em nossa vida, que produz boas obras (Gl 5.22-24; 1Jo 3.10, 14), em conjunção com o testemunho interno do Espírito em nosso coração (Rm 8.16; Gl 4.6). Crescemos em nossa segurança de eleição e salvação quando vemos fruto espiritual em nossa vida.",
+        "procedendo assim. A promessa de salvação de Deus é para aqueles que têm fé genuína e perseverante (Mt 10.22; 24.12, 13; Hb 3.6). A verdadeira fé persevera até o fim e, inevitavelmente, produzirá boas qualidades ou frutos (Gl 5.6, 22-23). A presença das virtudes mencionadas antes em nossa vida nos dá a segurança de que a fé é genuína e, portanto, de que seremos bem recebidos pelo Senhor. Entretanto, essas virtudes não ganham entrada no céu em nosso benefício. Em vez disso, elas são o fruto daquilo que ganha a salvação para nós: a perfeita justiça de Cristo que recebemos pela fé somente nele (Rm 3.21-4.5; 5.12-21; 2Co 5.21)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "confirmar a vossa vocação e eleição.",
+          "texto": "Embora a escolha de Deus seja firme e certa em Deus (2Tm 2.19), a identidade daqueles que ele escolheu desde toda a eternidade nem sempre é óbvia para o cristão individual. A segurança do chamado de Deus vem pelas evidências da influência do Espírito Santo em nossa vida, que produz boas obras (Gl 5.22-24; 1Jo 3.10, 14), em conjunção com o testemunho interno do Espírito em nosso coração (Rm 8.16; Gl 4.6). Crescemos em nossa segurança de eleição e salvação quando vemos fruto espiritual em nossa vida."
+        },
+        {
+          "titulo": "procedendo assim.",
+          "texto": "A promessa de salvação de Deus é para aqueles que têm fé genuína e perseverante (Mt 10.22; 24.12, 13; Hb 3.6). A verdadeira fé persevera até o fim e, inevitavelmente, produzirá boas qualidades ou frutos (Gl 5.6, 22-23). A presença das virtudes mencionadas antes em nossa vida nos dá a segurança de que a fé é genuína e, portanto, de que seremos bem recebidos pelo Senhor. Entretanto, essas virtudes não ganham entrada no céu em nosso benefício. Em vez disso, elas são o fruto daquilo que ganha a salvação para nós: a perfeita justiça de Cristo que recebemos pela fé somente nele (Rm 3.21-4.5; 5.12-21; 2Co 5.21)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0010",
+      "referencia": "1.13,14",
+      "capitulo": 1,
+      "versiculos": [
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.13,14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.13,14 neste tabernáculo. Essa expressão res-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "neste tabernáculo. Essa expressão ressalta a natureza temporária da vida humana nesse lado do retorno de Cristo (2Co 5.1, 4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "neste tabernáculo. Essa expressão ressalta a natureza temporária da vida humana nesse lado do retorno de Cristo (2Co 5.1, 4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "neste tabernáculo.",
+          "texto": "Essa expressão ressalta a natureza temporária da vida humana nesse lado do retorno de Cristo (2Co 5.1, 4)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0011",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.15 esforçar-me-ei. 0 propósito de Pedro em",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "esforçar-me-ei. O propósito de Pedro em escrever esta epístola era estabelecer firmemente seus leitores na verdade do evangelho (v. 12).\n\npartida. Literalmente, “êxodo”. A morte é uma “saída” ou uma “partida” desta vida (Lc 9.31, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Lc",
+          "capitulo": 9,
+          "versiculo": 31
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "esforçar-me-ei. O propósito de Pedro em escrever esta epístola era estabelecer firmemente seus leitores na verdade do evangelho (v. 12).",
+        "partida. Literalmente, “êxodo”. A morte é uma “saída” ou uma “partida” desta vida (Lc 9.31, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "esforçar-me-ei.",
+          "texto": "O propósito de Pedro em escrever esta epístola era estabelecer firmemente seus leitores na verdade do evangelho (v. 12)."
+        },
+        {
+          "titulo": "partida.",
+          "texto": "Literalmente, “êxodo”. A morte é uma “saída” ou uma “partida” desta vida (Lc 9.31, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0012",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.16 vos demos. Pedro associa sua mensagem à",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "vos demos. Pedro associa sua mensagem à dos outros apóstolos para afirmar que todos eles pregavam o mesmo conteúdo.\n\no poder e a vinda de... Cristo. A palavra grega traduzida por “vinda” é parousia, a palavra comum do Novo Testamento que expressa a segunda vinda de Cristo em glória (3.4, 12; Mt 24.27; 1Ts 3.13). “Poder” é também associado, em outra passagem, à vinda de Cristo (Mt 24.30).\n\nfábulas. Essa palavra sempre é usada em um sentido negativo no Novo Testamento, em contraste com a verdade do evangelho (1Tm 1.4; 2Tm 4.4).\n\ntestemunhas oculares da sua majestade. Pedro esteve presente na transfiguração de Cristo (Mt 17.1-8; cf. 2Pe 1.17, 18). A afirmação de presença pessoal dos apóstolos na transfiguração estabelece a verdade da mensagem de Pedro, em geral, e provê, em particular, a base histórica para a expectativa apostólica da segunda vinda. A transfiguração foi entendida como uma breve antecipação da glória divina na qual Cristo retornará à terra (Mt 16.27-17.8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "vos demos. Pedro associa sua mensagem à dos outros apóstolos para afirmar que todos eles pregavam o mesmo conteúdo.",
+        "o poder e a vinda de... Cristo. A palavra grega traduzida por “vinda” é parousia, a palavra comum do Novo Testamento que expressa a segunda vinda de Cristo em glória (3.4, 12; Mt 24.27; 1Ts 3.13). “Poder” é também associado, em outra passagem, à vinda de Cristo (Mt 24.30).",
+        "fábulas. Essa palavra sempre é usada em um sentido negativo no Novo Testamento, em contraste com a verdade do evangelho (1Tm 1.4; 2Tm 4.4).",
+        "testemunhas oculares da sua majestade. Pedro esteve presente na transfiguração de Cristo (Mt 17.1-8; cf. 2Pe 1.17, 18). A afirmação de presença pessoal dos apóstolos na transfiguração estabelece a verdade da mensagem de Pedro, em geral, e provê, em particular, a base histórica para a expectativa apostólica da segunda vinda. A transfiguração foi entendida como uma breve antecipação da glória divina na qual Cristo retornará à terra (Mt 16.27-17.8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vos demos.",
+          "texto": "Pedro associa sua mensagem à dos outros apóstolos para afirmar que todos eles pregavam o mesmo conteúdo."
+        },
+        {
+          "titulo": "o poder e a vinda de... Cristo.",
+          "texto": "A palavra grega traduzida por “vinda” é parousia, a palavra comum do Novo Testamento que expressa a segunda vinda de Cristo em glória (3.4, 12; Mt 24.27; 1Ts 3.13). “Poder” é também associado, em outra passagem, à vinda de Cristo (Mt 24.30)."
+        },
+        {
+          "titulo": "fábulas.",
+          "texto": "Essa palavra sempre é usada em um sentido negativo no Novo Testamento, em contraste com a verdade do evangelho (1Tm 1.4; 2Tm 4.4)."
+        },
+        {
+          "titulo": "testemunhas oculares da sua majestade.",
+          "texto": "Pedro esteve presente na transfiguração de Cristo (Mt 17.1-8; cf. 2Pe 1.17, 18). A afirmação de presença pessoal dos apóstolos na transfiguração estabelece a verdade da mensagem de Pedro, em geral, e provê, em particular, a base histórica para a expectativa apostólica da segunda vinda. A transfiguração foi entendida como uma breve antecipação da glória divina na qual Cristo retornará à terra (Mt 16.27-17.8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0013",
+      "referencia": "1.17",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "1.17",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.17 Glória Excelsa. Uma maneira indireta, carac-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Glória Excelsa. Uma maneira indireta, característica da linguagem judaica, de se referir ao próprio Deus. Uma razão para eles falarem de maneira indireta era evitar qualquer possível mau uso do nome sagrado de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Glória Excelsa. Uma maneira indireta, característica da linguagem judaica, de se referir ao próprio Deus. Uma razão para eles falarem de maneira indireta era evitar qualquer possível mau uso do nome sagrado de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Glória Excelsa.",
+          "texto": "Uma maneira indireta, característica da linguagem judaica, de se referir ao próprio Deus. Uma razão para eles falarem de maneira indireta era evitar qualquer possível mau uso do nome sagrado de Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0014",
+      "referencia": "1.19",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "1.19",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.19 Temos, assim, tanto mais confirma-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Temos, assim, tanto mais confirmada a palavra profética. Aqui, a palavra profética da Escritura pode ser considerada uma prova mais robusta do que a experiência apostólica de testemunharem a transfiguração. É melhor, porém, ver a palavra grega traduzida por “mais confirmada” como “mais certa” ou “mais garantida”, para que o confiável testemunho ocular dos apóstolos fique lado a lado com o testemunho confiável da Escritura. Tanto o testemunho dos apóstolos como o das Escrituras são completamente válidos. De fato, o testemunho apostólico do Novo Testamento que confirma a palavra profética do Antigo Testamento nos dá ainda mais certeza de que os profetas e os apóstolos deram, ambos, testemunho da verdade.\n\na estrela da alva. Isso provavelmente alude a Números 24.17, uma passagem que é interpretada messianicamente (Ap 2.28; 22.16). Se esse é o caso, o símbolo se refere a Cristo em sua segunda vinda.\n\nnasça em vosso coração. Uma frase difícil, visto que “o dia clareie” e “estrela da alva” se referem, aparentemente, à segunda vinda de Cristo, um evento externo. Talvez Pedro esteja se referindo ao efeito, nos crentes, da plena revelação que acompanhará o retorno de Cristo. Seus leitores devem prestar atenção à firme “palavra profética” até o dia em que o mundo será substituído pela revelação plena que está por vir.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Temos, assim, tanto mais confirmada a palavra profética. Aqui, a palavra profética da Escritura pode ser considerada uma prova mais robusta do que a experiência apostólica de testemunharem a transfiguração. É melhor, porém, ver a palavra grega traduzida por “mais confirmada” como “mais certa” ou “mais garantida”, para que o confiável testemunho ocular dos apóstolos fique lado a lado com o testemunho confiável da Escritura. Tanto o testemunho dos apóstolos como o das Escrituras são completamente válidos. De fato, o testemunho apostólico do Novo Testamento que confirma a palavra profética do Antigo Testamento nos dá ainda mais certeza de que os profetas e os apóstolos deram, ambos, testemunho da verdade.",
+        "a estrela da alva. Isso provavelmente alude a Números 24.17, uma passagem que é interpretada messianicamente (Ap 2.28; 22.16). Se esse é o caso, o símbolo se refere a Cristo em sua segunda vinda.",
+        "nasça em vosso coração. Uma frase difícil, visto que “o dia clareie” e “estrela da alva” se referem, aparentemente, à segunda vinda de Cristo, um evento externo. Talvez Pedro esteja se referindo ao efeito, nos crentes, da plena revelação que acompanhará o retorno de Cristo. Seus leitores devem prestar atenção à firme “palavra profética” até o dia em que o mundo será substituído pela revelação plena que está por vir."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Temos, assim, tanto mais confirmada a palavra profética.",
+          "texto": "Aqui, a palavra profética da Escritura pode ser considerada uma prova mais robusta do que a experiência apostólica de testemunharem a transfiguração. É melhor, porém, ver a palavra grega traduzida por “mais confirmada” como “mais certa” ou “mais garantida”, para que o confiável testemunho ocular dos apóstolos fique lado a lado com o testemunho confiável da Escritura. Tanto o testemunho dos apóstolos como o das Escrituras são completamente válidos. De fato, o testemunho apostólico do Novo Testamento que confirma a palavra profética do Antigo Testamento nos dá ainda mais certeza de que os profetas e os apóstolos deram, ambos, testemunho da verdade."
+        },
+        {
+          "titulo": "a estrela da alva.",
+          "texto": "Isso provavelmente alude a Números 24.17, uma passagem que é interpretada messianicamente (Ap 2.28; 22.16). Se esse é o caso, o símbolo se refere a Cristo em sua segunda vinda."
+        },
+        {
+          "titulo": "nasça em vosso coração.",
+          "texto": "Uma frase difícil, visto que “o dia clareie” e “estrela da alva” se referem, aparentemente, à segunda vinda de Cristo, um evento externo. Talvez Pedro esteja se referindo ao efeito, nos crentes, da plena revelação que acompanhará o retorno de Cristo. Seus leitores devem prestar atenção à firme “palavra profética” até o dia em que o mundo será substituído pela revelação plena que está por vir."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0015",
+      "referencia": "1.20",
+      "capitulo": 1,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "1.20",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.20 de particular elucidação. Alguns to-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "de particular elucidação. Alguns tomam esse versículo como alusão à interpretação de profecia bíblica, no sentido de que ninguém tem a permissão de interpretar a Escritura sozinho, em privado. Mas o interesse de Pedro aqui é a confiabilidade da própria Escritura (como uma explicação adicional da “tanto mais confirmada” palavra profética, no v. 19), e não a autoridade daqueles que a interpretam. Esse assunto aparece depois (3.16). No presente contexto, Pedro está argumentando que o testemunho profético da Escritura procede de Deus, incluindo tanto as visões proféticas como as palavras proféticas que as descrevem e as interpretam (Dn 8.15-19; Zc 1.9). A ideia, portanto, é a de que as Escrituras proféticas e seu significado têm origem em Deus, e não em autores humanos. A afirmação de Pedro no v. 20 pode ser, em parte, um argumento contra os falsos mestres que estavam pervertendo o significado das cartas de Paulo, bem como as “demais Escrituras” (3.16). No entanto, a frase “nenhuma profecia da Escritura provém de particular elucidação” pode ser traduzida como “nenhuma profecia da Escritura provém da própria liberação de alguém”. Isso significaria que o foco primário de Pedro não é a “interpretação” ou o significado da Escritura, e sim a fonte última da Escritura. Ou seja, nenhum autor do Antigo Testamento foi a fonte ou o autor supremo da Escritura — eles não a “liberaram” de si mesmos. Em confirmação desse entendimento, o versículo 21 prossegue e cita a atividade do Espírito Santo na composição da Escritura. Qualquer um dos dois significados que acabamos de mencionar — que Deus é a fonte de interpretação apropriada da Escritura ou que Deus é a fonte suprema da Escritura — é gramaticalmente possível, mas, em qualquer caso, a ênfase está na soberania de Deus em se revelar em sua Palavra; e a ideia de que sua iluminação é exigida para um entendimento correto da Escritura está certamente implícita, ainda que não seja o foco primário do texto. A Escritura não é um registro de opiniões religiosas privadas e falíveis; antes, é a própria revelação daquele que é a verdade, ou seja, o Senhor mesmo; e o Espírito do Senhor dá entendimento de sua Palavra ao seu povo (cf. 1Co 2.6-16; 2Co 3.12-18). Ver nota teológica “A Iluminação do Espírito Santo”, na p. 2018.",
+      "remissoes": [
+        "2pe-rem-1-20-art"
+      ],
+      "links_notas": [
+        {
+          "livro": "1Co",
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "de particular elucidação. Alguns tomam esse versículo como alusão à interpretação de profecia bíblica, no sentido de que ninguém tem a permissão de interpretar a Escritura sozinho, em privado. Mas o interesse de Pedro aqui é a confiabilidade da própria Escritura (como uma explicação adicional da “tanto mais confirmada” palavra profética, no v. 19), e não a autoridade daqueles que a interpretam. Esse assunto aparece depois (3.16). No presente contexto, Pedro está argumentando que o testemunho profético da Escritura procede de Deus, incluindo tanto as visões proféticas como as palavras proféticas que as descrevem e as interpretam (Dn 8.15-19; Zc 1.9). A ideia, portanto, é a de que as Escrituras proféticas e seu significado têm origem em Deus, e não em autores humanos. A afirmação de Pedro no v. 20 pode ser, em parte, um argumento contra os falsos mestres que estavam pervertendo o significado das cartas de Paulo, bem como as “demais Escrituras” (3.16). No entanto, a frase “nenhuma profecia da Escritura provém de particular elucidação” pode ser traduzida como “nenhuma profecia da Escritura provém da própria liberação de alguém”. Isso significaria que o foco primário de Pedro não é a “interpretação” ou o significado da Escritura, e sim a fonte última da Escritura. Ou seja, nenhum autor do Antigo Testamento foi a fonte ou o autor supremo da Escritura — eles não a “liberaram” de si mesmos. Em confirmação desse entendimento, o versículo 21 prossegue e cita a atividade do Espírito Santo na composição da Escritura. Qualquer um dos dois significados que acabamos de mencionar — que Deus é a fonte de interpretação apropriada da Escritura ou que Deus é a fonte suprema da Escritura — é gramaticalmente possível, mas, em qualquer caso, a ênfase está na soberania de Deus em se revelar em sua Palavra; e a ideia de que sua iluminação é exigida para um entendimento correto da Escritura está certamente implícita, ainda que não seja o foco primário do texto. A Escritura não é um registro de opiniões religiosas privadas e falíveis; antes, é a própria revelação daquele que é a verdade, ou seja, o Senhor mesmo; e o Espírito do Senhor dá entendimento de sua Palavra ao seu povo (cf. 1Co 2.6-16; 2Co 3.12-18). Ver nota teológica “A Iluminação do Espírito Santo”, na p. 2018."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "de particular elucidação.",
+          "texto": "Alguns tomam esse versículo como alusão à interpretação de profecia bíblica, no sentido de que ninguém tem a permissão de interpretar a Escritura sozinho, em privado. Mas o interesse de Pedro aqui é a confiabilidade da própria Escritura (como uma explicação adicional da “tanto mais confirmada” palavra profética, no v. 19), e não a autoridade daqueles que a interpretam. Esse assunto aparece depois (3.16). No presente contexto, Pedro está argumentando que o testemunho profético da Escritura procede de Deus, incluindo tanto as visões proféticas como as palavras proféticas que as descrevem e as interpretam (Dn 8.15-19; Zc 1.9). A ideia, portanto, é a de que as Escrituras proféticas e seu significado têm origem em Deus, e não em autores humanos. A afirmação de Pedro no v. 20 pode ser, em parte, um argumento contra os falsos mestres que estavam pervertendo o significado das cartas de Paulo, bem como as “demais Escrituras” (3.16). No entanto, a frase “nenhuma profecia da Escritura provém de particular elucidação” pode ser traduzida como “nenhuma profecia da Escritura provém da própria liberação de alguém”. Isso significaria que o foco primário de Pedro não é a “interpretação” ou o significado da Escritura, e sim a fonte última da Escritura. Ou seja, nenhum autor do Antigo Testamento foi a fonte ou o autor supremo da Escritura — eles não a “liberaram” de si mesmos. Em confirmação desse entendimento, o versículo 21 prossegue e cita a atividade do Espírito Santo na composição da Escritura. Qualquer um dos dois significados que acabamos de mencionar — que Deus é a fonte de interpretação apropriada da Escritura ou que Deus é a fonte suprema da Escritura — é gramaticalmente possível, mas, em qualquer caso, a ênfase está na soberania de Deus em se revelar em sua Palavra; e a ideia de que sua iluminação é exigida para um entendimento correto da Escritura está certamente implícita, ainda que não seja o foco primário do texto. A Escritura não é um registro de opiniões religiosas privadas e falíveis; antes, é a própria revelação daquele que é a verdade, ou seja, o Senhor mesmo; e o Espírito do Senhor dá entendimento de sua Palavra ao seu povo (cf. 1Co 2.6-16; 2Co 3.12-18). Ver nota teológica “A Iluminação do Espírito Santo”, na p. 2018."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0016",
+      "referencia": "1.21",
+      "capitulo": 1,
+      "versiculos": [
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "1.21",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.21 movidos pelo Espírito Santo. 0 Espirito",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "movidos pelo Espírito Santo. O Espírito Santo é a fonte da profecia; ele capacitou os profetas a falarem e escreverem como representantes de Deus, bem como a entregarem sua Palavra infalível e inerrante (2Tm 3.16; 1Pe 1.10-12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "movidos pelo Espírito Santo. O Espírito Santo é a fonte da profecia; ele capacitou os profetas a falarem e escreverem como representantes de Deus, bem como a entregarem sua Palavra infalível e inerrante (2Tm 3.16; 1Pe 1.10-12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "movidos pelo Espírito Santo.",
+          "texto": "O Espírito Santo é a fonte da profecia; ele capacitou os profetas a falarem e escreverem como representantes de Deus, bem como a entregarem sua Palavra infalível e inerrante (2Tm 3.16; 1Pe 1.10-12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0017",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.1 heresias. A palavra grega se referia, anterior-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "heresias. A palavra grega se referia, anteriormente, a grupos ou partidos em um sentido neutro (cf. “seita”, At 24.5). Foi usada por Paulo sobre grupos divisores (1Co 11.19; Gl 5.20) e chegou a denotar os ensinamentos específicos desses grupos. Aqui, provavelmente estão em vista os ensinamentos referentes à conduta cristã — conduta que colocava os mestres sob julgamento (v. 3; 3.7).\n\nrenegarem o Soberano Senhor que os resgatou. Pedro não está dizendo que os crentes podem perder sua salvação (Jo 10.28, 29; Rm 8.28-30). Está descrevendo os falsos mestres em relação à sua própria profissão de fé (vv. 20, 21). Por ensinarem e praticarem imoralidade, eles rejeitam o senhorio de Cristo e provam que sua profissão de fé é falsa (1Jo 2.3, 4, 19). Eles negam aquele a quem afirmavam falsamente servir com sua possessão preciosa.\n\nEmbora alguns tomem a frase “Senhor que os resgatou” com o significado de que a morte vicária de Cristo se aplica a todos, e não apenas aos eleitos (ver nota teológica “Expiação Definida”, na p. 1875), o interesse de Pedro aqui é salientar a responsabilidade dos falsos mestres, e não desenvolver uma teoria da expiação. Os falsos mestres afirmavam que Cristo “os resgatou”, mas essa afirmação só é válida para os verdadeiros crentes. Com a afirmação de serem redimidos por Cristo, as “práticas libertinas” deles (v. 2) trazem desonra específica a Cristo e ao seu sacrifício pelo pecado. São um falso testemunho para o mundo, dizendo que a iniquidade é o fruto da salvação.",
+      "remissoes": [
+        "2pe-rem-2-1-art"
+      ],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "heresias. A palavra grega se referia, anteriormente, a grupos ou partidos em um sentido neutro (cf. “seita”, At 24.5). Foi usada por Paulo sobre grupos divisores (1Co 11.19; Gl 5.20) e chegou a denotar os ensinamentos específicos desses grupos. Aqui, provavelmente estão em vista os ensinamentos referentes à conduta cristã — conduta que colocava os mestres sob julgamento (v. 3; 3.7).",
+        "renegarem o Soberano Senhor que os resgatou. Pedro não está dizendo que os crentes podem perder sua salvação (Jo 10.28, 29; Rm 8.28-30). Está descrevendo os falsos mestres em relação à sua própria profissão de fé (vv. 20, 21). Por ensinarem e praticarem imoralidade, eles rejeitam o senhorio de Cristo e provam que sua profissão de fé é falsa (1Jo 2.3, 4, 19). Eles negam aquele a quem afirmavam falsamente servir com sua possessão preciosa.",
+        "Embora alguns tomem a frase “Senhor que os resgatou” com o significado de que a morte vicária de Cristo se aplica a todos, e não apenas aos eleitos (ver nota teológica “Expiação Definida”, na p. 1875), o interesse de Pedro aqui é salientar a responsabilidade dos falsos mestres, e não desenvolver uma teoria da expiação. Os falsos mestres afirmavam que Cristo “os resgatou”, mas essa afirmação só é válida para os verdadeiros crentes. Com a afirmação de serem redimidos por Cristo, as “práticas libertinas” deles (v. 2) trazem desonra específica a Cristo e ao seu sacrifício pelo pecado. São um falso testemunho para o mundo, dizendo que a iniquidade é o fruto da salvação."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "heresias.",
+          "texto": "A palavra grega se referia, anteriormente, a grupos ou partidos em um sentido neutro (cf. “seita”, At 24.5). Foi usada por Paulo sobre grupos divisores (1Co 11.19; Gl 5.20) e chegou a denotar os ensinamentos específicos desses grupos. Aqui, provavelmente estão em vista os ensinamentos referentes à conduta cristã — conduta que colocava os mestres sob julgamento (v. 3; 3.7)."
+        },
+        {
+          "titulo": "renegarem o Soberano Senhor que os resgatou.",
+          "texto": "Pedro não está dizendo que os crentes podem perder sua salvação (Jo 10.28, 29; Rm 8.28-30). Está descrevendo os falsos mestres em relação à sua própria profissão de fé (vv. 20, 21). Por ensinarem e praticarem imoralidade, eles rejeitam o senhorio de Cristo e provam que sua profissão de fé é falsa (1Jo 2.3, 4, 19). Eles negam aquele a quem afirmavam falsamente servir com sua possessão preciosa."
+        },
+        {
+          "titulo": "",
+          "texto": "Embora alguns tomem a frase “Senhor que os resgatou” com o significado de que a morte vicária de Cristo se aplica a todos, e não apenas aos eleitos (ver nota teológica “Expiação Definida”, na p. 1875), o interesse de Pedro aqui é salientar a responsabilidade dos falsos mestres, e não desenvolver uma teoria da expiação. Os falsos mestres afirmavam que Cristo “os resgatou”, mas essa afirmação só é válida para os verdadeiros crentes. Com a afirmação de serem redimidos por Cristo, as “práticas libertinas” deles (v. 2) trazem desonra específica a Cristo e ao seu sacrifício pelo pecado. São um falso testemunho para o mundo, dizendo que a iniquidade é o fruto da salvação."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0018",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.2 práticas libertinas. Satisfação sexual leviana",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "práticas libertinas. Satisfação sexual leviana e incorrigível (1Pe 4.3).\n\nserá infamado. O comportamento imoral por parte daqueles que afirmam ser cristãos dá ao cristianismo má fama entre os incrédulos. Com frequência, os cristãos são exortados a exibir comportamento exemplar, para que a causa do evangelho não seja obstruída (1Tm 6.1; Tt 2.5, 9-10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "práticas libertinas. Satisfação sexual leviana e incorrigível (1Pe 4.3).",
+        "será infamado. O comportamento imoral por parte daqueles que afirmam ser cristãos dá ao cristianismo má fama entre os incrédulos. Com frequência, os cristãos são exortados a exibir comportamento exemplar, para que a causa do evangelho não seja obstruída (1Tm 6.1; Tt 2.5, 9-10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "práticas libertinas.",
+          "texto": "Satisfação sexual leviana e incorrigível (1Pe 4.3)."
+        },
+        {
+          "titulo": "será infamado.",
+          "texto": "O comportamento imoral por parte daqueles que afirmam ser cristãos dá ao cristianismo má fama entre os incrédulos. Com frequência, os cristãos são exortados a exibir comportamento exemplar, para que a causa do evangelho não seja obstruída (1Tm 6.1; Tt 2.5, 9-10)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0019",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.3 movidos por avareza. Os mestres do evan-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "movidos por avareza. Os mestres do evangelho têm permissão de ganhar seu sustento por ensinarem o evangelho. O que a Escritura proíbe é tomar o ministério do evangelho como um meio para obter ganho financeiro ou para explorar os outros para ganhar a riqueza deles. Ver 1 Coríntios 9.14-15; 2 Coríntios 17, 18; 1 Timóteo 6.5; 1 Pedro 5.2 e nota. Por causa dessa conduta proibida, os falsos mestres e aqueles que os seguem serão julgados.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Pe",
+          "capitulo": 5,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "movidos por avareza. Os mestres do evangelho têm permissão de ganhar seu sustento por ensinarem o evangelho. O que a Escritura proíbe é tomar o ministério do evangelho como um meio para obter ganho financeiro ou para explorar os outros para ganhar a riqueza deles. Ver 1 Coríntios 9.14-15; 2 Coríntios 17, 18; 1 Timóteo 6.5; 1 Pedro 5.2 e nota. Por causa dessa conduta proibida, os falsos mestres e aqueles que os seguem serão julgados."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "movidos por avareza.",
+          "texto": "Os mestres do evangelho têm permissão de ganhar seu sustento por ensinarem o evangelho. O que a Escritura proíbe é tomar o ministério do evangelho como um meio para obter ganho financeiro ou para explorar os outros para ganhar a riqueza deles. Ver 1 Coríntios 9.14-15; 2 Coríntios 17, 18; 1 Timóteo 6.5; 1 Pedro 5.2 e nota. Por causa dessa conduta proibida, os falsos mestres e aqueles que os seguem serão julgados."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0020",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.4 anjos quando pecaram. 0 significado",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "anjos quando pecaram. O significado dessa frase é controverso. Muitos veem isso como uma alusão ao pecado dos “filhos de Deus” em Gênesis 6.1-4 (cf. Judas 6). Segundo esse entendimento, Pedro pode estar admitindo, com propósito ilustrativo, a elaboração da narrativa de Gênesis 6 no livro apócrifo de 1 Enoque (Judas 14, nota). Embora o termo “filhos de Deus” possa referir-se a anjos (e.g., Jó 1.6; 2.1), essa interpretação apresenta problemas (Gn 6.2, nota). Outros especulam que os “anjos” são os anjos maus que pecaram antes da queda da humanidade, em Gênesis 3. Em qualquer dos casos, a ênfase é que, se Deus julgou anjos maus, certamente julgará pessoas ímpias.\n\nos entregou a abismos de trevas. O verbo significa “lançar no Tártaro”. Na mitologia grega, o Tártaro é o lugar de punição dos espíritos que já partiram. Assim como Paulo pôde citar um verso pertinente de um escritor pagão para atender a seus propósitos (cf. At 17.28; Tt 1.12), Pedro usa aqui uma imagem de Homero para comunicar a ideia de um lugar especial de confinamento e tormento até o julgamento final.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Jd",
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "livro": "Gn",
+          "capitulo": 6,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "anjos quando pecaram. O significado dessa frase é controverso. Muitos veem isso como uma alusão ao pecado dos “filhos de Deus” em Gênesis 6.1-4 (cf. Judas 6). Segundo esse entendimento, Pedro pode estar admitindo, com propósito ilustrativo, a elaboração da narrativa de Gênesis 6 no livro apócrifo de 1 Enoque (Judas 14, nota). Embora o termo “filhos de Deus” possa referir-se a anjos (e.g., Jó 1.6; 2.1), essa interpretação apresenta problemas (Gn 6.2, nota). Outros especulam que os “anjos” são os anjos maus que pecaram antes da queda da humanidade, em Gênesis 3. Em qualquer dos casos, a ênfase é que, se Deus julgou anjos maus, certamente julgará pessoas ímpias.",
+        "os entregou a abismos de trevas. O verbo significa “lançar no Tártaro”. Na mitologia grega, o Tártaro é o lugar de punição dos espíritos que já partiram. Assim como Paulo pôde citar um verso pertinente de um escritor pagão para atender a seus propósitos (cf. At 17.28; Tt 1.12), Pedro usa aqui uma imagem de Homero para comunicar a ideia de um lugar especial de confinamento e tormento até o julgamento final."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "anjos quando pecaram.",
+          "texto": "O significado dessa frase é controverso. Muitos veem isso como uma alusão ao pecado dos “filhos de Deus” em Gênesis 6.1-4 (cf. Judas 6). Segundo esse entendimento, Pedro pode estar admitindo, com propósito ilustrativo, a elaboração da narrativa de Gênesis 6 no livro apócrifo de 1 Enoque (Judas 14, nota). Embora o termo “filhos de Deus” possa referir-se a anjos (e.g., Jó 1.6; 2.1), essa interpretação apresenta problemas (Gn 6.2, nota). Outros especulam que os “anjos” são os anjos maus que pecaram antes da queda da humanidade, em Gênesis 3. Em qualquer dos casos, a ênfase é que, se Deus julgou anjos maus, certamente julgará pessoas ímpias."
+        },
+        {
+          "titulo": "os entregou a abismos de trevas.",
+          "texto": "O verbo significa “lançar no Tártaro”. Na mitologia grega, o Tártaro é o lugar de punição dos espíritos que já partiram. Assim como Paulo pôde citar um verso pertinente de um escritor pagão para atender a seus propósitos (cf. At 17.28; Tt 1.12), Pedro usa aqui uma imagem de Homero para comunicar a ideia de um lugar especial de confinamento e tormento até o julgamento final."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0021",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.5 pregador da justiça. Essa descrição de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pregador da justiça. Essa descrição de Noé é única na Escritura, mas é bem conhecida na tradição judaica. Refere-se ou a exortações para se arrependerem e obedecerem a Deus que não são relatadas no Antigo Testamento ou ao estilo de vida de Noé, que condenava o pecado e recomendava o viver justo aos seus contemporâneos (Gn 6.9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pregador da justiça. Essa descrição de Noé é única na Escritura, mas é bem conhecida na tradição judaica. Refere-se ou a exortações para se arrependerem e obedecerem a Deus que não são relatadas no Antigo Testamento ou ao estilo de vida de Noé, que condenava o pecado e recomendava o viver justo aos seus contemporâneos (Gn 6.9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pregador da justiça.",
+          "texto": "Essa descrição de Noé é única na Escritura, mas é bem conhecida na tradição judaica. Refere-se ou a exortações para se arrependerem e obedecerem a Deus que não são relatadas no Antigo Testamento ou ao estilo de vida de Noé, que condenava o pecado e recomendava o viver justo aos seus contemporâneos (Gn 6.9)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0022",
+      "referencia": "2.7,8",
+      "capitulo": 2,
+      "versiculos": [
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.7,8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.7,8 o justo Ló. Uma descrição surpreendente",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o justo Ló. Uma descrição surpreendente em vista do retrato de Ló em Gênesis (Gn 19). A justiça de Ló pode ter sido inferida da intercessão de Abraão em favor dos justos de Sodoma e do subsequente livramento de Ló. Pedro também pode estar falando de Ló em sentido comparativo. Apesar do pecado de Ló, as transgressões de Sodoma eram tão abomináveis que Ló, falando comparativamente, era um homem justo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o justo Ló. Uma descrição surpreendente em vista do retrato de Ló em Gênesis (Gn 19). A justiça de Ló pode ter sido inferida da intercessão de Abraão em favor dos justos de Sodoma e do subsequente livramento de Ló. Pedro também pode estar falando de Ló em sentido comparativo. Apesar do pecado de Ló, as transgressões de Sodoma eram tão abomináveis que Ló, falando comparativamente, era um homem justo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o justo Ló.",
+          "texto": "Uma descrição surpreendente em vista do retrato de Ló em Gênesis (Gn 19). A justiça de Ló pode ter sido inferida da intercessão de Abraão em favor dos justos de Sodoma e do subsequente livramento de Ló. Pedro também pode estar falando de Ló em sentido comparativo. Apesar do pecado de Ló, as transgressões de Sodoma eram tão abomináveis que Ló, falando comparativamente, era um homem justo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0023",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.9 0 Senhor sabe. A implicação dos três exem-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O Senhor sabe. A implicação dos três exemplos nos vv. 4-8 é clara: se Deus julgou anjos que pecaram e pessoas ímpias no passado, certamente julgará os ímpios no julgamento final e livrará os justos.\n\nreservar, sob castigo. Alguns comentadores e a maioria das traduções em inglês veem aqui uma referência à punição preliminar, antes do julgamento final. Esse é o entendimento mais natural do texto grego. Outros comentadores, incluindo Calvino, entendem isso como uma referência à punição futura no Dia do Juízo (ou seja, “reserva os injustos para punição no Dia do Juízo”). Visto que a preocupação de Pedro nessa passagem é a certeza do julgamento final, este último entendimento parece mais apropriado ao argumento do que o entendimento anterior, embora Pedro possa ter ambos os entendimentos em vista.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O Senhor sabe. A implicação dos três exemplos nos vv. 4-8 é clara: se Deus julgou anjos que pecaram e pessoas ímpias no passado, certamente julgará os ímpios no julgamento final e livrará os justos.",
+        "reservar, sob castigo. Alguns comentadores e a maioria das traduções em inglês veem aqui uma referência à punição preliminar, antes do julgamento final. Esse é o entendimento mais natural do texto grego. Outros comentadores, incluindo Calvino, entendem isso como uma referência à punição futura no Dia do Juízo (ou seja, “reserva os injustos para punição no Dia do Juízo”). Visto que a preocupação de Pedro nessa passagem é a certeza do julgamento final, este último entendimento parece mais apropriado ao argumento do que o entendimento anterior, embora Pedro possa ter ambos os entendimentos em vista."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "O Senhor sabe.",
+          "texto": "A implicação dos três exemplos nos vv. 4-8 é clara: se Deus julgou anjos que pecaram e pessoas ímpias no passado, certamente julgará os ímpios no julgamento final e livrará os justos."
+        },
+        {
+          "titulo": "reservar, sob castigo.",
+          "texto": "Alguns comentadores e a maioria das traduções em inglês veem aqui uma referência à punição preliminar, antes do julgamento final. Esse é o entendimento mais natural do texto grego. Outros comentadores, incluindo Calvino, entendem isso como uma referência à punição futura no Dia do Juízo (ou seja, “reserva os injustos para punição no Dia do Juízo”). Visto que a preocupação de Pedro nessa passagem é a certeza do julgamento final, este último entendimento parece mais apropriado ao argumento do que o entendimento anterior, embora Pedro possa ter ambos os entendimentos em vista."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0024",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3,
+          4
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.10 difamar autoridades superiores. A",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "difamar autoridades superiores. A palavra “difamar” também pode ser traduzida por “blasfemar”; e “autoridades superiores” talvez seja uma referência a anjos. A afirmação no v. 11, de que “anjos, embora maiores em força e poder, não proferem contra elas juízo infamante” (cf. Judas 1.10, 11), indica que anjos maus estão em vista aqui. Quando advertidos do perigo de caírem no poder das forças espirituais do mal (cf. 1Co 5.5; 1Tm 1.20), parece que os falsos mestres zombavam do poder do diabo e de seus demônios. Parece que os falsos mestres escarneciam do diabo e de seus companheiros por negarem a obra deles, abrindo-se, assim, para o engano do pai das mentiras. Se uma pessoa não entende o poder de Satanás, não pode discernir ou ficar vigilante contra a sua influência. Até hoje, uma atitude leviana para com Satanás e seu poder pode levar a perigo espiritual. O diabo ruge ao redor, procurando alguém para devorar, e acha mais fácil devorar aqueles que não suspeitam ou aqueles que negam a realidade de sua obra no mundo. Essas pessoas são incapazes de seguir a admoestação de Pedro para resistir firmemente a Satanás (1Pe 5.8-9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "difamar autoridades superiores. A palavra “difamar” também pode ser traduzida por “blasfemar”; e “autoridades superiores” talvez seja uma referência a anjos. A afirmação no v. 11, de que “anjos, embora maiores em força e poder, não proferem contra elas juízo infamante” (cf. Judas 1.10, 11), indica que anjos maus estão em vista aqui. Quando advertidos do perigo de caírem no poder das forças espirituais do mal (cf. 1Co 5.5; 1Tm 1.20), parece que os falsos mestres zombavam do poder do diabo e de seus demônios. Parece que os falsos mestres escarneciam do diabo e de seus companheiros por negarem a obra deles, abrindo-se, assim, para o engano do pai das mentiras. Se uma pessoa não entende o poder de Satanás, não pode discernir ou ficar vigilante contra a sua influência. Até hoje, uma atitude leviana para com Satanás e seu poder pode levar a perigo espiritual. O diabo ruge ao redor, procurando alguém para devorar, e acha mais fácil devorar aqueles que não suspeitam ou aqueles que negam a realidade de sua obra no mundo. Essas pessoas são incapazes de seguir a admoestação de Pedro para resistir firmemente a Satanás (1Pe 5.8-9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "difamar autoridades superiores.",
+          "texto": "A palavra “difamar” também pode ser traduzida por “blasfemar”; e “autoridades superiores” talvez seja uma referência a anjos. A afirmação no v. 11, de que “anjos, embora maiores em força e poder, não proferem contra elas juízo infamante” (cf. Judas 1.10, 11), indica que anjos maus estão em vista aqui. Quando advertidos do perigo de caírem no poder das forças espirituais do mal (cf. 1Co 5.5; 1Tm 1.20), parece que os falsos mestres zombavam do poder do diabo e de seus demônios. Parece que os falsos mestres escarneciam do diabo e de seus companheiros por negarem a obra deles, abrindo-se, assim, para o engano do pai das mentiras. Se uma pessoa não entende o poder de Satanás, não pode discernir ou ficar vigilante contra a sua influência. Até hoje, uma atitude leviana para com Satanás e seu poder pode levar a perigo espiritual. O diabo ruge ao redor, procurando alguém para devorar, e acha mais fácil devorar aqueles que não suspeitam ou aqueles que negam a realidade de sua obra no mundo. Essas pessoas são incapazes de seguir a admoestação de Pedro para resistir firmemente a Satanás (1Pe 5.8-9)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0025",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.13 suas próprias mistificações, enquan-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "suas próprias mistificações, enquanto banqueteiam junto convosco. Os falsos mestres não estavam promovendo amor em suas festas (Judas 12), e sim mentiras prejudiciais. Pedro usa uma palavra grega que significa “enganos” e soa à semelhança da palavra que significa “amor”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "suas próprias mistificações, enquanto banqueteiam junto convosco. Os falsos mestres não estavam promovendo amor em suas festas (Judas 12), e sim mentiras prejudiciais. Pedro usa uma palavra grega que significa “enganos” e soa à semelhança da palavra que significa “amor”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "suas próprias mistificações, enquanto banqueteiam junto convosco.",
+          "texto": "Os falsos mestres não estavam promovendo amor em suas festas (Judas 12), e sim mentiras prejudiciais. Pedro usa uma palavra grega que significa “enganos” e soa à semelhança da palavra que significa “amor”."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0026",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.14 olhos cheios de adultério. Literalmente,",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "olhos cheios de adultério. Literalmente, “olhos cheios de uma mulher adúltera”, um retrato vívido da sensualidade insaciável deles (v. 2, nota).\n\nengodando almas inconstantes. Em contraste com os crentes “confirmados” de 1.12, os “inconstantes” carecem de alicerce firme na fé cristã e são presas fáceis dos engodos dos falsos mestres.\n\nexercitado na avareza. Uma metáfora esportiva. Pelo menos parte do propósito dos falsos mestres em fazer discípulos era obter benefício financeiro deles (vv. 3, 15).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "olhos cheios de adultério. Literalmente, “olhos cheios de uma mulher adúltera”, um retrato vívido da sensualidade insaciável deles (v. 2, nota).",
+        "engodando almas inconstantes. Em contraste com os crentes “confirmados” de 1.12, os “inconstantes” carecem de alicerce firme na fé cristã e são presas fáceis dos engodos dos falsos mestres.",
+        "exercitado na avareza. Uma metáfora esportiva. Pelo menos parte do propósito dos falsos mestres em fazer discípulos era obter benefício financeiro deles (vv. 3, 15)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "olhos cheios de adultério.",
+          "texto": "Literalmente, “olhos cheios de uma mulher adúltera”, um retrato vívido da sensualidade insaciável deles (v. 2, nota)."
+        },
+        {
+          "titulo": "engodando almas inconstantes.",
+          "texto": "Em contraste com os crentes “confirmados” de 1.12, os “inconstantes” carecem de alicerce firme na fé cristã e são presas fáceis dos engodos dos falsos mestres."
+        },
+        {
+          "titulo": "exercitado na avareza.",
+          "texto": "Uma metáfora esportiva. Pelo menos parte do propósito dos falsos mestres em fazer discípulos era obter benefício financeiro deles (vv. 3, 15)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0027",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.15 caminho de Balaão. Atradiçâo interpreta-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "caminho de Balaão. A tradição interpretativa judaica do século I tornou Balaão um símbolo proverbial de sua própria cobiça. Assim, os falsos mestres, com seu desejo por ganho, são comparados a Balaão (Judas 11). De acordo com Números 31.16, ele também foi culpado de levar os outros ao pecado.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "caminho de Balaão. A tradição interpretativa judaica do século I tornou Balaão um símbolo proverbial de sua própria cobiça. Assim, os falsos mestres, com seu desejo por ganho, são comparados a Balaão (Judas 11). De acordo com Números 31.16, ele também foi culpado de levar os outros ao pecado."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "caminho de Balaão.",
+          "texto": "A tradição interpretativa judaica do século I tornou Balaão um símbolo proverbial de sua própria cobiça. Assim, os falsos mestres, com seu desejo por ganho, são comparados a Balaão (Judas 11). De acordo com Números 31.16, ele também foi culpado de levar os outros ao pecado."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0028",
+      "referencia": "2.16",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.16",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.16 mudo animal de carga. Pedro tenciona,",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "mudo animal de carga. Pedro tenciona, provavelmente, estabelecer um contraste irônico com o versículo 12. Embora os falsos mestres parecessem “brutos irracionais” em sua escravidão à ganância, Balaão, o protótipo deles, foi, ele mesmo, repreendido por um animal.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "mudo animal de carga. Pedro tenciona, provavelmente, estabelecer um contraste irônico com o versículo 12. Embora os falsos mestres parecessem “brutos irracionais” em sua escravidão à ganância, Balaão, o protótipo deles, foi, ele mesmo, repreendido por um animal."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mudo animal de carga.",
+          "texto": "Pedro tenciona, provavelmente, estabelecer um contraste irônico com o versículo 12. Embora os falsos mestres parecessem “brutos irracionais” em sua escravidão à ganância, Balaão, o protótipo deles, foi, ele mesmo, repreendido por um animal."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0029",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.17 fonte sem água. Assim como a água sus-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "fonte sem água. Assim como a água sustenta a vida física, também o ensino espiritual nutre a vida espiritual (Pv 13.14; Jo 4.13-15), uma figura vívida numa cultura em que a água era um recurso valioso. Assim como o poço seco apenas desaponta os sedentos (Jr 14.3), os falsos mestres só podem enganar e desapontar.\n\nnévoas impelidas por temporal. Como nuvens errantes que não proveem nenhuma chuva refrescante (Judas 12), a falsa doutrina não pode prover sustento espiritual.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "fonte sem água. Assim como a água sustenta a vida física, também o ensino espiritual nutre a vida espiritual (Pv 13.14; Jo 4.13-15), uma figura vívida numa cultura em que a água era um recurso valioso. Assim como o poço seco apenas desaponta os sedentos (Jr 14.3), os falsos mestres só podem enganar e desapontar.",
+        "névoas impelidas por temporal. Como nuvens errantes que não proveem nenhuma chuva refrescante (Judas 12), a falsa doutrina não pode prover sustento espiritual."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fonte sem água.",
+          "texto": "Assim como a água sustenta a vida física, também o ensino espiritual nutre a vida espiritual (Pv 13.14; Jo 4.13-15), uma figura vívida numa cultura em que a água era um recurso valioso. Assim como o poço seco apenas desaponta os sedentos (Jr 14.3), os falsos mestres só podem enganar e desapontar."
+        },
+        {
+          "titulo": "névoas impelidas por temporal.",
+          "texto": "Como nuvens errantes que não proveem nenhuma chuva refrescante (Judas 12), a falsa doutrina não pode prover sustento espiritual."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0030",
+      "referencia": "2.18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2.18",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.18 engodam... aqueles que estavam",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "engodam... aqueles que estavam prestes a fugir. Novos convertidos ou aqueles que ainda não estão bem fundamentados na fé tornam-se presas dos falsos mestres (v. 14 e nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "engodam... aqueles que estavam prestes a fugir. Novos convertidos ou aqueles que ainda não estão bem fundamentados na fé tornam-se presas dos falsos mestres (v. 14 e nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "engodam... aqueles que estavam prestes a fugir.",
+          "texto": "Novos convertidos ou aqueles que ainda não estão bem fundamentados na fé tornam-se presas dos falsos mestres (v. 14 e nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0031",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.19 prometendo-lhes liberdade. Os falsos",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "prometendo-lhes liberdade. Os falsos mestres podem ter alterado a afirmação de Paulo de que os cristãos não estão debaixo da lei para servir como fundamento de seu ensino errado de que o cristão está livre das restrições da lei moral de Deus (3.15, 16; cf. Rm 6.15; 1Co 9.21; Gl 5.18).\n\nescravos da corrupção. Uma ironia profunda do pecado está evidente aqui: a busca pela liberdade de Deus leva somente à escravidão ao pecado e ao ego. A verdadeira liberdade do pecado envolve servidão a Deus (cf. Rm 6.18). Quando alguém é “vencido” pelo pecado, essa pessoa é escravizada ao pecado.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "prometendo-lhes liberdade. Os falsos mestres podem ter alterado a afirmação de Paulo de que os cristãos não estão debaixo da lei para servir como fundamento de seu ensino errado de que o cristão está livre das restrições da lei moral de Deus (3.15, 16; cf. Rm 6.15; 1Co 9.21; Gl 5.18).",
+        "escravos da corrupção. Uma ironia profunda do pecado está evidente aqui: a busca pela liberdade de Deus leva somente à escravidão ao pecado e ao ego. A verdadeira liberdade do pecado envolve servidão a Deus (cf. Rm 6.18). Quando alguém é “vencido” pelo pecado, essa pessoa é escravizada ao pecado."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "prometendo-lhes liberdade.",
+          "texto": "Os falsos mestres podem ter alterado a afirmação de Paulo de que os cristãos não estão debaixo da lei para servir como fundamento de seu ensino errado de que o cristão está livre das restrições da lei moral de Deus (3.15, 16; cf. Rm 6.15; 1Co 9.21; Gl 5.18)."
+        },
+        {
+          "titulo": "escravos da corrupção.",
+          "texto": "Uma ironia profunda do pecado está evidente aqui: a busca pela liberdade de Deus leva somente à escravidão ao pecado e ao ego. A verdadeira liberdade do pecado envolve servidão a Deus (cf. Rm 6.18). Quando alguém é “vencido” pelo pecado, essa pessoa é escravizada ao pecado."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0032",
+      "referencia": "2.20-22",
+      "capitulo": 2,
+      "versiculos": [
+        20,
+        21,
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "2.20-22",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.20-22 Os falsos mestres estão provavelmente",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Os falsos mestres estão provavelmente em vista, e não “aqueles que estavam prestes a fugir dos que andam no erro” (v. 18). Aparentemente, esses falsos mestres professavam ser cristãos, mas seu retorno à antiga maneira de viver pecaminosa mostrou que seu conhecimento de Cristo e do caminho da justiça era apenas superficial (v. 1, nota), e seu escape “das contaminações do mundo” foi apenas temporário. Assim, eles demonstraram que nunca haviam sido crentes genuínos.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os falsos mestres estão provavelmente em vista, e não “aqueles que estavam prestes a fugir dos que andam no erro” (v. 18). Aparentemente, esses falsos mestres professavam ser cristãos, mas seu retorno à antiga maneira de viver pecaminosa mostrou que seu conhecimento de Cristo e do caminho da justiça era apenas superficial (v. 1, nota), e seu escape “das contaminações do mundo” foi apenas temporário. Assim, eles demonstraram que nunca haviam sido crentes genuínos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os falsos mestres estão provavelmente em vista, e não “aqueles que estavam prestes a fugir dos que andam no erro” (v. 18). Aparentemente, esses falsos mestres professavam ser cristãos, mas seu retorno à antiga maneira de viver pecaminosa mostrou que seu conhecimento de Cristo e do caminho da justiça era apenas superficial (v. 1, nota), e seu escape “das contaminações do mundo” foi apenas temporário. Assim, eles demonstraram que nunca haviam sido crentes genuínos."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0033",
+      "referencia": "2.21",
+      "capitulo": 2,
+      "versiculos": [
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "2.21",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.21 melhor... nunca tivessem conhecido",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "melhor... nunca tivessem conhecido o caminho da justiça. A rejeição deliberada da verdade aumenta a responsabilidade da pessoa diante de Deus e incorre em maior punição do que se a pessoa tivesse menos conhecimento e se afastasse da verdade (Lc 12.47, 48). A frase “tivessem conhecido o caminho” refere-se a um conhecimento intelectual dos ensinos éticos e do modo de vida característico dos cristãos (note a expressão “santo mandamento”). Talvez o conhecimento e a fé deles sejam semelhantes aos dos demônios, que “creem e tremem” (Tg 2.19). Esse versículo indica que a conversão dos falsos mestres era ilusória. A Escritura ensina em outras passagens que pessoas verdadeiramente regeneradas perseverarão na fé (Jo 10.26-30; cf. 1Jo 2.19).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "melhor... nunca tivessem conhecido o caminho da justiça. A rejeição deliberada da verdade aumenta a responsabilidade da pessoa diante de Deus e incorre em maior punição do que se a pessoa tivesse menos conhecimento e se afastasse da verdade (Lc 12.47, 48). A frase “tivessem conhecido o caminho” refere-se a um conhecimento intelectual dos ensinos éticos e do modo de vida característico dos cristãos (note a expressão “santo mandamento”). Talvez o conhecimento e a fé deles sejam semelhantes aos dos demônios, que “creem e tremem” (Tg 2.19). Esse versículo indica que a conversão dos falsos mestres era ilusória. A Escritura ensina em outras passagens que pessoas verdadeiramente regeneradas perseverarão na fé (Jo 10.26-30; cf. 1Jo 2.19)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "melhor... nunca tivessem conhecido o caminho da justiça.",
+          "texto": "A rejeição deliberada da verdade aumenta a responsabilidade da pessoa diante de Deus e incorre em maior punição do que se a pessoa tivesse menos conhecimento e se afastasse da verdade (Lc 12.47, 48). A frase “tivessem conhecido o caminho” refere-se a um conhecimento intelectual dos ensinos éticos e do modo de vida característico dos cristãos (note a expressão “santo mandamento”). Talvez o conhecimento e a fé deles sejam semelhantes aos dos demônios, que “creem e tremem” (Tg 2.19). Esse versículo indica que a conversão dos falsos mestres era ilusória. A Escritura ensina em outras passagens que pessoas verdadeiramente regeneradas perseverarão na fé (Jo 10.26-30; cf. 1Jo 2.19)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0034",
+      "referencia": "2.22",
+      "capitulo": 2,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "2.22",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2259,
+        "rotulo_original_ocr": "2.22 O cão... A porca. Os judeus antigos des-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "O cão... A porca. Os judeus antigos desprezavam os cães (Êx 22.31; Pv 26.11; Ap 22.15), e os porcos eram evitados como impuros (Lv 11.7; Is 65.4). O argumento de Pedro é que a mera profissão religiosa ou até a mudança exterior não alteram o coração da pessoa. A apostasia dos falsos mestres revelou sua verdadeira natureza incrédula.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O cão... A porca. Os judeus antigos desprezavam os cães (Êx 22.31; Pv 26.11; Ap 22.15), e os porcos eram evitados como impuros (Lv 11.7; Is 65.4). O argumento de Pedro é que a mera profissão religiosa ou até a mudança exterior não alteram o coração da pessoa. A apostasia dos falsos mestres revelou sua verdadeira natureza incrédula."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "O cão... A porca.",
+          "texto": "Os judeus antigos desprezavam os cães (Êx 22.31; Pv 26.11; Ap 22.15), e os porcos eram evitados como impuros (Lv 11.7; Is 65.4). O argumento de Pedro é que a mera profissão religiosa ou até a mudança exterior não alteram o coração da pessoa. A apostasia dos falsos mestres revelou sua verdadeira natureza incrédula."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0035",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.1 segunda epístola. A primeira carta pode",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "segunda epístola. A primeira carta pode muito bem ter sido 1 Pedro; e, se isso for verdade, os destinatários das duas cartas são os mesmos.\n\ndespertar com lembranças. Se 1 Pedro está em vista, as lembranças expressam, provavelmente, o interesse geral de Pedro, evidente em ambas as epístolas, de que seus leitores tivessem vida santa e digna do evangelho.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "segunda epístola. A primeira carta pode muito bem ter sido 1 Pedro; e, se isso for verdade, os destinatários das duas cartas são os mesmos.",
+        "despertar com lembranças. Se 1 Pedro está em vista, as lembranças expressam, provavelmente, o interesse geral de Pedro, evidente em ambas as epístolas, de que seus leitores tivessem vida santa e digna do evangelho."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "segunda epístola.",
+          "texto": "A primeira carta pode muito bem ter sido 1 Pedro; e, se isso for verdade, os destinatários das duas cartas são os mesmos."
+        },
+        {
+          "titulo": "despertar com lembranças.",
+          "texto": "Se 1 Pedro está em vista, as lembranças expressam, provavelmente, o interesse geral de Pedro, evidente em ambas as epístolas, de que seus leitores tivessem vida santa e digna do evangelho."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0036",
+      "referencia": "3.2,3",
+      "capitulo": 3,
+      "versiculos": [
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.2,3",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.2,3 últimos dias. Ver nota em 1 Pedro 120 Os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "últimos dias. Ver nota em 1 Pedro 1.20. Os profetas do Antigo Testamento e Cristo, por meio dos apóstolos, predisseram que surgiriam falsos mestres escarnecedores para atacar a Igreja (cf. Judas 17, 18).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Pe",
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "últimos dias. Ver nota em 1 Pedro 1.20. Os profetas do Antigo Testamento e Cristo, por meio dos apóstolos, predisseram que surgiriam falsos mestres escarnecedores para atacar a Igreja (cf. Judas 17, 18)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "últimos dias.",
+          "texto": "Ver nota em 1 Pedro 1.20. Os profetas do Antigo Testamento e Cristo, por meio dos apóstolos, predisseram que surgiriam falsos mestres escarnecedores para atacar a Igreja (cf. Judas 17, 18)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0037",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.4 a promessa da sua vinda. Com base na",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a promessa da sua vinda. Com base na demora do retorno de Cristo, os falsos mestres concluíram erroneamente que ele nunca retornaria para julgá-los. Pedro retrata o escárnio deles como evidência irônica de que os últimos dias já estavam realmente presentes.\n\ndesde que os pais dormiram. Talvez uma referência aos antepassados do Antigo Testamento (Jo 6.31; At 3.13), porque o versículo 2 afirma que os profetas do Antigo Testamento profetizaram essa vinda e o dia de julgamento (vv. 5-7). Entretanto, muitos interpretam isso como uma referência à morte de pessoas que pertenciam à primeira geração de cristãos, em especial líderes cristãos como Estêvão (Hb 13.7). De qualquer maneira, os falsos mestres asseveraram que o ciclo de vida e morte continuaria para sempre, que o mundo continuaria em seu estado presente para sempre, negando, assim, que Deus interviria decisivamente para julgar os ímpios e recompensar seus servos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a promessa da sua vinda. Com base na demora do retorno de Cristo, os falsos mestres concluíram erroneamente que ele nunca retornaria para julgá-los. Pedro retrata o escárnio deles como evidência irônica de que os últimos dias já estavam realmente presentes.",
+        "desde que os pais dormiram. Talvez uma referência aos antepassados do Antigo Testamento (Jo 6.31; At 3.13), porque o versículo 2 afirma que os profetas do Antigo Testamento profetizaram essa vinda e o dia de julgamento (vv. 5-7). Entretanto, muitos interpretam isso como uma referência à morte de pessoas que pertenciam à primeira geração de cristãos, em especial líderes cristãos como Estêvão (Hb 13.7). De qualquer maneira, os falsos mestres asseveraram que o ciclo de vida e morte continuaria para sempre, que o mundo continuaria em seu estado presente para sempre, negando, assim, que Deus interviria decisivamente para julgar os ímpios e recompensar seus servos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a promessa da sua vinda.",
+          "texto": "Com base na demora do retorno de Cristo, os falsos mestres concluíram erroneamente que ele nunca retornaria para julgá-los. Pedro retrata o escárnio deles como evidência irônica de que os últimos dias já estavam realmente presentes."
+        },
+        {
+          "titulo": "desde que os pais dormiram.",
+          "texto": "Talvez uma referência aos antepassados do Antigo Testamento (Jo 6.31; At 3.13), porque o versículo 2 afirma que os profetas do Antigo Testamento profetizaram essa vinda e o dia de julgamento (vv. 5-7). Entretanto, muitos interpretam isso como uma referência à morte de pessoas que pertenciam à primeira geração de cristãos, em especial líderes cristãos como Estêvão (Hb 13.7). De qualquer maneira, os falsos mestres asseveraram que o ciclo de vida e morte continuaria para sempre, que o mundo continuaria em seu estado presente para sempre, negando, assim, que Deus interviria decisivamente para julgar os ímpios e recompensar seus servos."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0038",
+      "referencia": "3.5,6",
+      "capitulo": 3,
+      "versiculos": [
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.5,6",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.5, 6 Em oposição à negação dos falsos mestres",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Em oposição à negação dos falsos mestres de que Deus interviria na história, Pedro cita a Criação e o Dilúvio como exemplos cruciais do envolvimento íntimo de Deus e de sua intervenção no processo da história.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Em oposição à negação dos falsos mestres de que Deus interviria na história, Pedro cita a Criação e o Dilúvio como exemplos cruciais do envolvimento íntimo de Deus e de sua intervenção no processo da história."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Em oposição à negação dos falsos mestres de que Deus interviria na história, Pedro cita a Criação e o Dilúvio como exemplos cruciais do envolvimento íntimo de Deus e de sua intervenção no processo da história."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0039",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.5 da água e através da água. Deus criou a",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "da água e através da água. Deus criou a terra ao separar e ajuntar as águas (Gn 1.2, 6-10).\n\npela palavra de Deus. O comando criador de Deus (Gn 1.3-30; Sl 33.6; Hb 11.3). Deus precedeu a história; os céus e a terra vieram à existência apenas sob o seu comando. Ele criou todas as coisas a partir do nada, por meio de sua palavra.\n\nveio a perecer o mundo. Deus interveio também, em julgamento, com o Dilúvio (2.5; Gn 6-8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [
+        "abrangencia_ampliada_para_3_6_por_subtitulo_impresso"
+      ],
+      "paragrafos": [
+        "da água e através da água. Deus criou a terra ao separar e ajuntar as águas (Gn 1.2, 6-10).",
+        "pela palavra de Deus. O comando criador de Deus (Gn 1.3-30; Sl 33.6; Hb 11.3). Deus precedeu a história; os céus e a terra vieram à existência apenas sob o seu comando. Ele criou todas as coisas a partir do nada, por meio de sua palavra.",
+        "veio a perecer o mundo. Deus interveio também, em julgamento, com o Dilúvio (2.5; Gn 6-8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "da água e através da água.",
+          "texto": "Deus criou a terra ao separar e ajuntar as águas (Gn 1.2, 6-10)."
+        },
+        {
+          "titulo": "pela palavra de Deus.",
+          "texto": "O comando criador de Deus (Gn 1.3-30; Sl 33.6; Hb 11.3). Deus precedeu a história; os céus e a terra vieram à existência apenas sob o seu comando. Ele criou todas as coisas a partir do nada, por meio de sua palavra."
+        },
+        {
+          "titulo": "veio a perecer o mundo.",
+          "texto": "Deus interveio também, em julgamento, com o Dilúvio (2.5; Gn 6-8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0040",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.7 pela mesma palavra. A mesma palavra",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pela mesma palavra. A mesma palavra divina que criou o mundo e trouxe julgamento no Dilúvio. Quer manifestado por água ou por fogo, o poder da palavra de Deus na Criação, no Dilúvio e no julgamento final é enfatizado.\n\nentesourados para fogo. Pedro usa Sodoma e Gomorra como paradigma do terrível julgamento final (2.6). Embora essa figura de um grande incêndio universal, no último julgamento, seja singular a Pedro, a ideia de julgamento divino por fogo é comum no Antigo Testamento (e.g., Dt 32.22; Is 66.15, 16; Ml 4.1) e se encontra também no Novo Testamento (e.g., Mt 3.12; 1Co 3.13; 2Ts 1.7, 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pela mesma palavra. A mesma palavra divina que criou o mundo e trouxe julgamento no Dilúvio. Quer manifestado por água ou por fogo, o poder da palavra de Deus na Criação, no Dilúvio e no julgamento final é enfatizado.",
+        "entesourados para fogo. Pedro usa Sodoma e Gomorra como paradigma do terrível julgamento final (2.6). Embora essa figura de um grande incêndio universal, no último julgamento, seja singular a Pedro, a ideia de julgamento divino por fogo é comum no Antigo Testamento (e.g., Dt 32.22; Is 66.15, 16; Ml 4.1) e se encontra também no Novo Testamento (e.g., Mt 3.12; 1Co 3.13; 2Ts 1.7, 8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pela mesma palavra.",
+          "texto": "A mesma palavra divina que criou o mundo e trouxe julgamento no Dilúvio. Quer manifestado por água ou por fogo, o poder da palavra de Deus na Criação, no Dilúvio e no julgamento final é enfatizado."
+        },
+        {
+          "titulo": "entesourados para fogo.",
+          "texto": "Pedro usa Sodoma e Gomorra como paradigma do terrível julgamento final (2.6). Embora essa figura de um grande incêndio universal, no último julgamento, seja singular a Pedro, a ideia de julgamento divino por fogo é comum no Antigo Testamento (e.g., Dt 32.22; Is 66.15, 16; Ml 4.1) e se encontra também no Novo Testamento (e.g., Mt 3.12; 1Co 3.13; 2Ts 1.7, 8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0041",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.8 um dia é como mil anos. Essa passagem",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "um dia é como mil anos. Essa passagem — e Salmos 90.4, na qual ela se baseia — é às vezes citada em apoio à teoria de que, toda vez que um “dia” é mencionado, na profecia bíblica, deve ser entendido como referindo-se a mil anos literais. Essa interpretação é implausível. Em vez disso, o objetivo de Pedro é ensinar que Deus é soberano sobre o tempo e que sua perspectiva quanto ao tempo difere radicalmente da nossa.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "um dia é como mil anos. Essa passagem — e Salmos 90.4, na qual ela se baseia — é às vezes citada em apoio à teoria de que, toda vez que um “dia” é mencionado, na profecia bíblica, deve ser entendido como referindo-se a mil anos literais. Essa interpretação é implausível. Em vez disso, o objetivo de Pedro é ensinar que Deus é soberano sobre o tempo e que sua perspectiva quanto ao tempo difere radicalmente da nossa."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "um dia é como mil anos.",
+          "texto": "Essa passagem — e Salmos 90.4, na qual ela se baseia — é às vezes citada em apoio à teoria de que, toda vez que um “dia” é mencionado, na profecia bíblica, deve ser entendido como referindo-se a mil anos literais. Essa interpretação é implausível. Em vez disso, o objetivo de Pedro é ensinar que Deus é soberano sobre o tempo e que sua perspectiva quanto ao tempo difere radicalmente da nossa."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0042",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.9 como alguns a julgam demorada. Ver",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "como alguns a julgam demorada. Ver v. 4.\n\nlongânimo... todos cheguem ao arrependimento. Os leitores cristãos de Pedro precisavam compreender que a aparente demora do julgamento divino é um sinal da tolerância e da misericórdia de Deus para com eles, particularmente para com os crentes que, no meio deles, haviam sido confundidos e enganados pelos falsos mestres. O arrependimento em vista, razão pela qual o julgamento demora, é o do povo de Deus, e não do mundo em geral. Deus não quer que nenhum de seus eleitos se perca (Jo 6.39). No contexto da epístola, o termo “nenhum” desse versículo remete ao “nós” de 1.3, a sugerir que Pedro está falando dos eleitos, aqueles a quem Deus outorgou tudo que é necessário à vida e à piedade. O versículo não está ensinando que Deus quer que todas as pessoas sejam salvas e que ele é frustrado pelo fato de que nem todos são salvos; também não está endossando um universalismo que diz que todas as pessoas serão salvas no final. Deus tem um povo eleito que ele propôs redimir e, portanto, será salvo, porque nenhum de seus propósitos pode ser frustrado (Rm 9.1-29; cf. Jó 42.2). O Senhor não se deleita na morte dos ímpios, mas seus propósitos eternos não são subvertidos, nem ele entra em depressão quando as pessoas rejeitam seu evangelho (Ez 18.31; cf. 1Tm 2.4 e nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "como alguns a julgam demorada. Ver v. 4.",
+        "longânimo... todos cheguem ao arrependimento. Os leitores cristãos de Pedro precisavam compreender que a aparente demora do julgamento divino é um sinal da tolerância e da misericórdia de Deus para com eles, particularmente para com os crentes que, no meio deles, haviam sido confundidos e enganados pelos falsos mestres. O arrependimento em vista, razão pela qual o julgamento demora, é o do povo de Deus, e não do mundo em geral. Deus não quer que nenhum de seus eleitos se perca (Jo 6.39). No contexto da epístola, o termo “nenhum” desse versículo remete ao “nós” de 1.3, a sugerir que Pedro está falando dos eleitos, aqueles a quem Deus outorgou tudo que é necessário à vida e à piedade. O versículo não está ensinando que Deus quer que todas as pessoas sejam salvas e que ele é frustrado pelo fato de que nem todos são salvos; também não está endossando um universalismo que diz que todas as pessoas serão salvas no final. Deus tem um povo eleito que ele propôs redimir e, portanto, será salvo, porque nenhum de seus propósitos pode ser frustrado (Rm 9.1-29; cf. Jó 42.2). O Senhor não se deleita na morte dos ímpios, mas seus propósitos eternos não são subvertidos, nem ele entra em depressão quando as pessoas rejeitam seu evangelho (Ez 18.31; cf. 1Tm 2.4 e nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como alguns a julgam demorada.",
+          "texto": "Ver v. 4."
+        },
+        {
+          "titulo": "longânimo... todos cheguem ao arrependimento.",
+          "texto": "Os leitores cristãos de Pedro precisavam compreender que a aparente demora do julgamento divino é um sinal da tolerância e da misericórdia de Deus para com eles, particularmente para com os crentes que, no meio deles, haviam sido confundidos e enganados pelos falsos mestres. O arrependimento em vista, razão pela qual o julgamento demora, é o do povo de Deus, e não do mundo em geral. Deus não quer que nenhum de seus eleitos se perca (Jo 6.39). No contexto da epístola, o termo “nenhum” desse versículo remete ao “nós” de 1.3, a sugerir que Pedro está falando dos eleitos, aqueles a quem Deus outorgou tudo que é necessário à vida e à piedade. O versículo não está ensinando que Deus quer que todas as pessoas sejam salvas e que ele é frustrado pelo fato de que nem todos são salvos; também não está endossando um universalismo que diz que todas as pessoas serão salvas no final. Deus tem um povo eleito que ele propôs redimir e, portanto, será salvo, porque nenhum de seus propósitos pode ser frustrado (Rm 9.1-29; cf. Jó 42.2). O Senhor não se deleita na morte dos ímpios, mas seus propósitos eternos não são subvertidos, nem ele entra em depressão quando as pessoas rejeitam seu evangelho (Ez 18.31; cf. 1Tm 2.4 e nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0043",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5,
+          6
+        ],
+        "pagina_impressa": 2260,
+        "rotulo_original_ocr": "3.10 como ladrão. Jesus usou essa metáfora",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "como ladrão. Jesus usou essa metáfora para comunicar a ideia de quão inesperado seria o evento (Lc 12.39-40).\n\no Dia do Senhor. O tempo da intervenção e do julgamento divino (Is 13.9-13; Jl 1.15; 3.14; 1Ts 5.2), sinônimo da segunda vinda de Cristo (v. 12).\n\nos céus... com estrepitoso estrondo. A linguagem é reminiscência do Antigo Testamento e do próprio Jesus (Is 34.4; 64.1-4; Mt 24.29-31).\n\nos elementos. Do grego stoicheia, uma palavra usada para se referir (1) aos elementos que constituem o mundo (de acordo com os filósofos, esses elementos eram a terra, o fogo e a água); (2) a corpos celestes, como o sol, a luz e as estrelas; (3) a seres angelicais com poder sobre a natureza (ver Introdução a Colossenses: Assuntos Especiais). A maioria dos intérpretes favorece o sentido (2) ou uma combinação de (2) e (3).\n\nserão atingidas. Ou “achadas”. O texto grego dessa expressão é controverso. Alguns manuscritos dizem “serão queimadas”, significando, presumivelmente, que a terra passará por um julgamento catastrófico. Entretanto, a redação com “achadas” (ou seja, “expostos”) provavelmente é o que foi escrito originalmente por Pedro. A frase “a terra e as obras que nela existem serão atingidas [‘expostas’]” talvez signifique que as obras ímpias dos incrédulos serão claramente reveladas no juízo final como base para o julgamento deles. Essa palavra grega, que significa “achadas”, ocorre frequentemente no Novo Testamento num contexto de tribunal e está relacionada à determinação de culpa ou inocência. O fato de que o significado aqui é “achar obras” merecedoras de julgamento está evidente no v. 14, o qual admoesta os destinatários da carta a diligenciarem por serem “achados por ele em paz, sem mácula e irrepreensíveis” no dia do julgamento, pelo qual estão “esperando” (cf. 1Pe 1.17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "como ladrão. Jesus usou essa metáfora para comunicar a ideia de quão inesperado seria o evento (Lc 12.39-40).",
+        "o Dia do Senhor. O tempo da intervenção e do julgamento divino (Is 13.9-13; Jl 1.15; 3.14; 1Ts 5.2), sinônimo da segunda vinda de Cristo (v. 12).",
+        "os céus... com estrepitoso estrondo. A linguagem é reminiscência do Antigo Testamento e do próprio Jesus (Is 34.4; 64.1-4; Mt 24.29-31).",
+        "os elementos. Do grego stoicheia, uma palavra usada para se referir (1) aos elementos que constituem o mundo (de acordo com os filósofos, esses elementos eram a terra, o fogo e a água); (2) a corpos celestes, como o sol, a luz e as estrelas; (3) a seres angelicais com poder sobre a natureza (ver Introdução a Colossenses: Assuntos Especiais). A maioria dos intérpretes favorece o sentido (2) ou uma combinação de (2) e (3).",
+        "serão atingidas. Ou “achadas”. O texto grego dessa expressão é controverso. Alguns manuscritos dizem “serão queimadas”, significando, presumivelmente, que a terra passará por um julgamento catastrófico. Entretanto, a redação com “achadas” (ou seja, “expostos”) provavelmente é o que foi escrito originalmente por Pedro. A frase “a terra e as obras que nela existem serão atingidas [‘expostas’]” talvez signifique que as obras ímpias dos incrédulos serão claramente reveladas no juízo final como base para o julgamento deles. Essa palavra grega, que significa “achadas”, ocorre frequentemente no Novo Testamento num contexto de tribunal e está relacionada à determinação de culpa ou inocência. O fato de que o significado aqui é “achar obras” merecedoras de julgamento está evidente no v. 14, o qual admoesta os destinatários da carta a diligenciarem por serem “achados por ele em paz, sem mácula e irrepreensíveis” no dia do julgamento, pelo qual estão “esperando” (cf. 1Pe 1.17)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como ladrão.",
+          "texto": "Jesus usou essa metáfora para comunicar a ideia de quão inesperado seria o evento (Lc 12.39-40)."
+        },
+        {
+          "titulo": "o Dia do Senhor.",
+          "texto": "O tempo da intervenção e do julgamento divino (Is 13.9-13; Jl 1.15; 3.14; 1Ts 5.2), sinônimo da segunda vinda de Cristo (v. 12)."
+        },
+        {
+          "titulo": "os céus... com estrepitoso estrondo.",
+          "texto": "A linguagem é reminiscência do Antigo Testamento e do próprio Jesus (Is 34.4; 64.1-4; Mt 24.29-31)."
+        },
+        {
+          "titulo": "os elementos.",
+          "texto": "Do grego stoicheia, uma palavra usada para se referir (1) aos elementos que constituem o mundo (de acordo com os filósofos, esses elementos eram a terra, o fogo e a água); (2) a corpos celestes, como o sol, a luz e as estrelas; (3) a seres angelicais com poder sobre a natureza (ver Introdução a Colossenses: Assuntos Especiais). A maioria dos intérpretes favorece o sentido (2) ou uma combinação de (2) e (3)."
+        },
+        {
+          "titulo": "serão atingidas.",
+          "texto": "Ou “achadas”. O texto grego dessa expressão é controverso. Alguns manuscritos dizem “serão queimadas”, significando, presumivelmente, que a terra passará por um julgamento catastrófico. Entretanto, a redação com “achadas” (ou seja, “expostos”) provavelmente é o que foi escrito originalmente por Pedro. A frase “a terra e as obras que nela existem serão atingidas [‘expostas’]” talvez signifique que as obras ímpias dos incrédulos serão claramente reveladas no juízo final como base para o julgamento deles. Essa palavra grega, que significa “achadas”, ocorre frequentemente no Novo Testamento num contexto de tribunal e está relacionada à determinação de culpa ou inocência. O fato de que o significado aqui é “achar obras” merecedoras de julgamento está evidente no v. 14, o qual admoesta os destinatários da carta a diligenciarem por serem “achados por ele em paz, sem mácula e irrepreensíveis” no dia do julgamento, pelo qual estão “esperando” (cf. 1Pe 1.17)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0044",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.11 A crença dos cristãos na vinda iminente de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A crença dos cristãos na vinda iminente de Cristo e no julgamento final deve motivá-los a viver em “santo procedimento e piedade”. Nossas crenças sobre o fim dos tempos não devem ser desvinculadas de nossa vida pessoal e devem ser indissociavelmente ligadas ao nosso comportamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A crença dos cristãos na vinda iminente de Cristo e no julgamento final deve motivá-los a viver em “santo procedimento e piedade”. Nossas crenças sobre o fim dos tempos não devem ser desvinculadas de nossa vida pessoal e devem ser indissociavelmente ligadas ao nosso comportamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A crença dos cristãos na vinda iminente de Cristo e no julgamento final deve motivá-los a viver em “santo procedimento e piedade”. Nossas crenças sobre o fim dos tempos não devem ser desvinculadas de nossa vida pessoal e devem ser indissociavelmente ligadas ao nosso comportamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0045",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.12 apressando a vinda. Embora às vezes",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "apressando a vinda. Embora às vezes traduzida por “aguardando ansiosamente”, a palavra grega significa usualmente “apressar”. O tempo da vinda de Cristo é determinado pelo soberano conselho de Deus, mas não acontece sem referência a outros eventos (também ordenados por Deus). O fato de a demora de Deus ser misericordiosa (v. 9 e nota) indica que a evangelização dos eleitos é um fator relevante (Mc 13.10). Outros fatores incluem oração (Lc 11.2) e obediência (v. 11). Esse ensino deve encorajar profundamente os cristãos. Nossas ações são realmente importantes, e Deus ordenou que a segunda vinda de Cristo ocorra em conjunção com o serviço para ele. À medida que a igreja vai-se tornando mais fiel, o retorno de Cristo, à luz de nossa perspectiva, fica cada vez mais próximo, embora, à luz da perspectiva de Deus, o dia e a hora estejam fixados eternamente (Mt 24.36). Outra possível tradução do verbo grego tomado como “apressando” é “sendo zeloso pela” vinda do dia final, pois o mesmo verbo é usado em 1.14 para fazer referência a empenhar-se por ser achado por Deus em retidão quando o último dia vier (cf. 1Pe 1.10, em que significa “ser zeloso”).\n\no Dia de Deus. Uma expressão incomum (Ap 16.14), equivalente a “o Dia do Senhor” (v. 10). O uso das expressões “Dia do Senhor” e “Dia de Deus” em referência à segunda vinda de Cristo indica a elevada cristologia de Pedro: a vinda daquele que não é outro senão Deus mesmo.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "apressando a vinda. Embora às vezes traduzida por “aguardando ansiosamente”, a palavra grega significa usualmente “apressar”. O tempo da vinda de Cristo é determinado pelo soberano conselho de Deus, mas não acontece sem referência a outros eventos (também ordenados por Deus). O fato de a demora de Deus ser misericordiosa (v. 9 e nota) indica que a evangelização dos eleitos é um fator relevante (Mc 13.10). Outros fatores incluem oração (Lc 11.2) e obediência (v. 11). Esse ensino deve encorajar profundamente os cristãos. Nossas ações são realmente importantes, e Deus ordenou que a segunda vinda de Cristo ocorra em conjunção com o serviço para ele. À medida que a igreja vai-se tornando mais fiel, o retorno de Cristo, à luz de nossa perspectiva, fica cada vez mais próximo, embora, à luz da perspectiva de Deus, o dia e a hora estejam fixados eternamente (Mt 24.36). Outra possível tradução do verbo grego tomado como “apressando” é “sendo zeloso pela” vinda do dia final, pois o mesmo verbo é usado em 1.14 para fazer referência a empenhar-se por ser achado por Deus em retidão quando o último dia vier (cf. 1Pe 1.10, em que significa “ser zeloso”).",
+        "o Dia de Deus. Uma expressão incomum (Ap 16.14), equivalente a “o Dia do Senhor” (v. 10). O uso das expressões “Dia do Senhor” e “Dia de Deus” em referência à segunda vinda de Cristo indica a elevada cristologia de Pedro: a vinda daquele que não é outro senão Deus mesmo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "apressando a vinda.",
+          "texto": "Embora às vezes traduzida por “aguardando ansiosamente”, a palavra grega significa usualmente “apressar”. O tempo da vinda de Cristo é determinado pelo soberano conselho de Deus, mas não acontece sem referência a outros eventos (também ordenados por Deus). O fato de a demora de Deus ser misericordiosa (v. 9 e nota) indica que a evangelização dos eleitos é um fator relevante (Mc 13.10). Outros fatores incluem oração (Lc 11.2) e obediência (v. 11). Esse ensino deve encorajar profundamente os cristãos. Nossas ações são realmente importantes, e Deus ordenou que a segunda vinda de Cristo ocorra em conjunção com o serviço para ele. À medida que a igreja vai-se tornando mais fiel, o retorno de Cristo, à luz de nossa perspectiva, fica cada vez mais próximo, embora, à luz da perspectiva de Deus, o dia e a hora estejam fixados eternamente (Mt 24.36). Outra possível tradução do verbo grego tomado como “apressando” é “sendo zeloso pela” vinda do dia final, pois o mesmo verbo é usado em 1.14 para fazer referência a empenhar-se por ser achado por Deus em retidão quando o último dia vier (cf. 1Pe 1.10, em que significa “ser zeloso”)."
+        },
+        {
+          "titulo": "o Dia de Deus.",
+          "texto": "Uma expressão incomum (Ap 16.14), equivalente a “o Dia do Senhor” (v. 10). O uso das expressões “Dia do Senhor” e “Dia de Deus” em referência à segunda vinda de Cristo indica a elevada cristologia de Pedro: a vinda daquele que não é outro senão Deus mesmo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0046",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.13 novos céus e nova terra. Trata-se de uma",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "novos céus e nova terra. Trata-se de uma alusão à profecia bem conhecida da nova Criação em Isaías 65.17 e 66.22. Ver nota teológica “Céu”, na p. 2330, e nota em Apocalipse 21.1, passagem em que se faz a mesma alusão a Isaías.",
+      "remissoes": [
+        "2pe-rem-3-13-art"
+      ],
+      "links_notas": [
+        {
+          "livro": "Ap",
+          "capitulo": 21,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "novos céus e nova terra. Trata-se de uma alusão à profecia bem conhecida da nova Criação em Isaías 65.17 e 66.22. Ver nota teológica “Céu”, na p. 2330, e nota em Apocalipse 21.1, passagem em que se faz a mesma alusão a Isaías."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "novos céus e nova terra.",
+          "texto": "Trata-se de uma alusão à profecia bem conhecida da nova Criação em Isaías 65.17 e 66.22. Ver nota teológica “Céu”, na p. 2330, e nota em Apocalipse 21.1, passagem em que se faz a mesma alusão a Isaías."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0047",
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.14 Ver nota no v. 12.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ver nota no v. 12.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Ver nota no v. 12."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Ver nota no v. 12."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0048",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.15 por salvação a longanimidade. Ver no-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "por salvação a longanimidade. Ver notas nos vv. 9 e 12.\n\nsabedoria que lhe foi dada. Equivalente a uma afirmação da inspiração divina para as cartas de Paulo (v. 16, nota; cf. Ef 3.2-7).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "por salvação a longanimidade. Ver notas nos vv. 9 e 12.",
+        "sabedoria que lhe foi dada. Equivalente a uma afirmação da inspiração divina para as cartas de Paulo (v. 16, nota; cf. Ef 3.2-7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "por salvação a longanimidade.",
+          "texto": "Ver notas nos vv. 9 e 12."
+        },
+        {
+          "titulo": "sabedoria que lhe foi dada.",
+          "texto": "Equivalente a uma afirmação da inspiração divina para as cartas de Paulo (v. 16, nota; cf. Ef 3.2-7)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0049",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.16 demais Escrituras. Pedro coloca as car-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "demais Escrituras. Pedro coloca as cartas de Paulo, mencionadas no v. 15, na mesma categoria dos escritos inspirados e absolutos do Antigo Testamento (v. 15; 1.20, 21) e em harmonia com as afirmações de autoridade apostólica do próprio Paulo (Rm 1.1; 1Co 2.13; Gl 1.1). Esse é um versículo importante para mostrar o que os apóstolos tencionavam nos dar a Escritura da nova aliança quando escreviam.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "demais Escrituras. Pedro coloca as cartas de Paulo, mencionadas no v. 15, na mesma categoria dos escritos inspirados e absolutos do Antigo Testamento (v. 15; 1.20, 21) e em harmonia com as afirmações de autoridade apostólica do próprio Paulo (Rm 1.1; 1Co 2.13; Gl 1.1). Esse é um versículo importante para mostrar o que os apóstolos tencionavam nos dar a Escritura da nova aliança quando escreviam."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "demais Escrituras.",
+          "texto": "Pedro coloca as cartas de Paulo, mencionadas no v. 15, na mesma categoria dos escritos inspirados e absolutos do Antigo Testamento (v. 15; 1.20, 21) e em harmonia com as afirmações de autoridade apostólica do próprio Paulo (Rm 1.1; 1Co 2.13; Gl 1.1). Esse é um versículo importante para mostrar o que os apóstolos tencionavam nos dar a Escritura da nova aliança quando escreviam."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0050",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.17 insubordinados. Os falsos mestres, ca-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "insubordinados. Os falsos mestres, caracterizados como pessoas que ignoram todas as restrições morais.\n\ndescaiais da vossa própria firmeza. Essa não é uma afirmação de que os verdadeiros crentes podem perder sua salvação (2.21, nota); antes, é uma advertência a respeito de sua própria fraqueza e dos perigos que os cercavam, para motivá-los à vigilância e ao crescimento no viver piedoso. Aqueles que perdem sua “firmeza” são os que não perseveram na fé até o fim, mostrando, assim, que sua fé é apenas superficial e temporária, e não genuína, como a fé espúria dos falsos mestres a quem eles acabam seguindo (cf. 2.20-22; 1Jo 2.19).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 2,
+          "versiculo": 21
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "insubordinados. Os falsos mestres, caracterizados como pessoas que ignoram todas as restrições morais.",
+        "descaiais da vossa própria firmeza. Essa não é uma afirmação de que os verdadeiros crentes podem perder sua salvação (2.21, nota); antes, é uma advertência a respeito de sua própria fraqueza e dos perigos que os cercavam, para motivá-los à vigilância e ao crescimento no viver piedoso. Aqueles que perdem sua “firmeza” são os que não perseveram na fé até o fim, mostrando, assim, que sua fé é apenas superficial e temporária, e não genuína, como a fé espúria dos falsos mestres a quem eles acabam seguindo (cf. 2.20-22; 1Jo 2.19)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "insubordinados.",
+          "texto": "Os falsos mestres, caracterizados como pessoas que ignoram todas as restrições morais."
+        },
+        {
+          "titulo": "descaiais da vossa própria firmeza.",
+          "texto": "Essa não é uma afirmação de que os verdadeiros crentes podem perder sua salvação (2.21, nota); antes, é uma advertência a respeito de sua própria fraqueza e dos perigos que os cercavam, para motivá-los à vigilância e ao crescimento no viver piedoso. Aqueles que perdem sua “firmeza” são os que não perseveram na fé até o fim, mostrando, assim, que sua fé é apenas superficial e temporária, e não genuína, como a fé espúria dos falsos mestres a quem eles acabam seguindo (cf. 2.20-22; 1Jo 2.19)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-2pe-0051",
+      "referencia": "3.18",
+      "capitulo": 3,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.18",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.18 crescei... conhecimento. Esse conhecí",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "crescei... conhecimento. Esse conhecimento é a experiência cada vez mais profunda de Cristo, e o entendimento de sua verdade deve caracterizar todo o curso da vida do crente, que é o oposto ao conhecimento esotérico e pretensioso dos falsos mestres.\n\nA ele seja a glória. Essa afirmação pressupõe a deidade de Cristo (v. 12; 1.1, notas). Atribui glória diretamente a ele (Ap 1.5, 6).\n\nno dia eterno. A glória pertence a Cristo tanto agora como em todo o dia interminável que alvorecerá quando ele vier de novo (1.19; Is 60.19, 20).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Pe",
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "livro": "2Pe",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "crescei... conhecimento. Esse conhecimento é a experiência cada vez mais profunda de Cristo, e o entendimento de sua verdade deve caracterizar todo o curso da vida do crente, que é o oposto ao conhecimento esotérico e pretensioso dos falsos mestres.",
+        "A ele seja a glória. Essa afirmação pressupõe a deidade de Cristo (v. 12; 1.1, notas). Atribui glória diretamente a ele (Ap 1.5, 6).",
+        "no dia eterno. A glória pertence a Cristo tanto agora como em todo o dia interminável que alvorecerá quando ele vier de novo (1.19; Is 60.19, 20)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "crescei... conhecimento.",
+          "texto": "Esse conhecimento é a experiência cada vez mais profunda de Cristo, e o entendimento de sua verdade deve caracterizar todo o curso da vida do crente, que é o oposto ao conhecimento esotérico e pretensioso dos falsos mestres."
+        },
+        {
+          "titulo": "A ele seja a glória.",
+          "texto": "Essa afirmação pressupõe a deidade de Cristo (v. 12; 1.1, notas). Atribui glória diretamente a ele (Ap 1.5, 6)."
+        },
+        {
+          "titulo": "no dia eterno.",
+          "texto": "A glória pertence a Cristo tanto agora como em todo o dia interminável que alvorecerá quando ele vier de novo (1.19; Is 60.19, 20)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    }
+  ],
+  "artigos": [],
+  "remissoes": [
+    {
+      "id": "2pe-rem-1-20-art",
+      "status": "resolvida_indice_global",
+      "titulo": "A Iluminação do Espírito Santo",
+      "citado_em": "fr-2pe-0015",
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2257,
+        "rotulo_original_ocr": "1.20 de particular elucidação. Alguns to-",
+        "metodo": "cotejo visual V1"
+      },
+      "evidencia": "Ver nota teológica “A Iluminação do Espírito Santo”, na p",
+      "artigo_id": "1co-art-a-iluminacao-do-espirito-santo",
+      "livro_artigo": "1Co",
+      "arquivo_artigo": "dados/notas/fe-reformada/1Co.json",
+      "pagina_impressa_artigo": 2018,
+      "observacao": "Remissão impressa conferida; abertura direta entre livros pendente no leitor V19."
+    },
+    {
+      "id": "2pe-rem-2-1-art",
+      "status": "resolvida_indice_global",
+      "titulo": "Expiação Definida",
+      "citado_em": "fr-2pe-0017",
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2258,
+        "rotulo_original_ocr": "2.1 heresias. A palavra grega se referia, anterior-",
+        "metodo": "cotejo visual V1"
+      },
+      "evidencia": "Embora alguns tomem a frase “Senhor que os resgatou” com o significado de que a morte vicária de Cristo se aplica a todos, e não apenas aos eleitos (ver nota teológica “Expiação Definida”, na p",
+      "artigo_id": "jo-art-expiacao-definida",
+      "livro_artigo": "Jo",
+      "arquivo_artigo": "dados/notas/fe-reformada/Jo.json",
+      "pagina_impressa_artigo": 1875,
+      "observacao": "Remissão impressa conferida; abertura direta entre livros pendente no leitor V19."
+    },
+    {
+      "id": "2pe-rem-3-13-art",
+      "status": "resolvida_indice_global",
+      "titulo": "O Céu",
+      "citado_em": "fr-2pe-0046",
+      "origem": {
+        "pdf": "130 - 2 Pedro (2Pe).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2261,
+        "rotulo_original_ocr": "3.13 novos céus e nova terra. Trata-se de uma",
+        "metodo": "cotejo visual V1"
+      },
+      "evidencia": "Ver nota teológica “Céu”, na p",
+      "artigo_id": "ap-art-ceu",
+      "livro_artigo": "Ap",
+      "arquivo_artigo": "dados/notas/fe-reformada/Ap.json",
+      "pagina_impressa_artigo": 2330,
+      "observacao": "Remissão impressa conferida; abertura direta entre livros pendente no leitor V19."
+    }
+  ]
+}

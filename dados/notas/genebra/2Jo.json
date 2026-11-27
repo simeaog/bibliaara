@@ -1,0 +1,363 @@
+{
+  "schema": "notas-genebra-v1",
+  "livro": "2Jo",
+  "titulo": "2 João",
+  "fonte": {
+    "titulo": "Bíblia de Estudo de Genebra",
+    "arquivo": "biblia-de-estudo-genebra.pdf",
+    "paginas_pdf": [
+      1698,
+      1700
+    ],
+    "observacao": "Texto transcrito do PDF fornecido; inconsistências linguísticas da fonte não foram corrigidas por suposição."
+  },
+  "estado_editorial": "revisao_estrutural_lote_2_com_pendencias",
+  "notas": [
+    {
+      "id": "gen-2jo-0001",
+      "referencia": "1-3",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1-3",
+      "pagina_original": 1698,
+      "remissoes": [],
+      "texto": "O autor se identifica apenas como \"A mais velha\" eo destinatário apenas como \"a senhora eleita.\" Esses termos são apropriados para uma relação de amor e respeito mútuos em que o autor teve a responsabilidade pastoral para o destinatário. A preocupação de João para ela depende da verdade toda a parte os cristãos e é um exemplo do amor que une todos os cristãos juntos.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1698,
+        "rotulo_impresso": "1-3"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-2jo-0002",
+      "referencia": "1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1",
+      "pagina_original": 1698,
+      "remissoes": [],
+      "texto": "O ancião. Não há nenhuma dificuldade real com um apóstolo que se identificou como um ancião, uma vez que as responsabilidades de um apóstolo para cada congregação indivíduo eram as mesmas que as responsabilidades de um ancião ( 1 Ped. 5:1-4 ). a senhora eleita. Alguns consideram esta expressão ea expressão semelhante no v 13 como uma metáfora para uma igreja, mas tal uso é de outra maneira desconhecida.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1698,
+        "rotulo_impresso": "1"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "1 Ped. 5:1",
+          "livro": "1Pe",
+          "capitulo": 5,
+          "versiculo": 1
+        }
+      ]
+    },
+    {
+      "id": "gen-2jo-0003",
+      "referencia": "3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3",
+      "pagina_original": 1699,
+      "remissoes": [],
+      "texto": "Graça, misericórdia e paz. Assim como o apóstolo Paulo, João começa sua saudação com menção das ricas bênçãos cristãs de graça e paz (Gl 1:03 nota), mas acrescenta: \"misericórdia.\" A fonte desta graça bendita \" , misericórdia e paz \"não é outro senão o próprio Deus, que é a verdade ( João 14:6 ; 1 João 5:6 ) e amor ( 1 João 4:8 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "3"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Gl 1:03",
+          "livro": "Gl",
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "texto": "João 14:6",
+          "livro": "Jo",
+          "capitulo": 14,
+          "versiculo": 6
+        },
+        {
+          "texto": "1 João 5:6",
+          "livro": "1Jo",
+          "capitulo": 5,
+          "versiculo": 6
+        },
+        {
+          "texto": "1 João 4:8",
+          "livro": "1Jo",
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ]
+    },
+    {
+      "id": "gen-2jo-0004",
+      "referencia": "4-6",
+      "capitulo": 1,
+      "versiculos": [
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4-6",
+      "pagina_original": 1699,
+      "remissoes": [],
+      "texto": "O ancião eo share senhora a alegria de ver os membros de sua família continuam a ser fiéis à verdade. A marca da fidelidade cristã é o amor de uns pelos outros, o comando central dada aos cristãos pelo próprio Jesus ( João 13:34 ). Que o amor é definido por todos os comandos Cristo deu a seus seguidores.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "4-6"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 13:34",
+          "livro": "Jo",
+          "capitulo": 13,
+          "versiculo": 34
+        }
+      ]
+    },
+    {
+      "id": "gen-2jo-0005",
+      "referencia": "5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "5",
+      "pagina_original": 1699,
+      "remissoes": [],
+      "texto": "não ... um novo mandamento. Ver nota 1 João 2:7-11.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "5"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "1 João 2:7",
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ]
+    },
+    {
+      "id": "gen-2jo-0006",
+      "referencia": "7-11",
+      "capitulo": 1,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "7-11",
+      "pagina_original": 1699,
+      "remissoes": [],
+      "texto": "Os falsos mestres tinham sido incomodando algumas das comunidades cristãs, atacando a verdade central do evangelho de que Jesus é o Ungido, o Filho eterno de Deus que assumiu a natureza humana para realizar a salvação ( 1 João 2:22 ; 4 : 2 , 3 ). Para rejeitar esta verdade é rejeitar toda a esperança de reconciliação com Deus, enquanto que para recebê-lo é receber o próprio Deus. João avisa a senhora e sua família de que o trabalho dos falsos mestres ameaça seu progresso espiritual e até mesmo a sua esperança de recompensa eterna. Em face de tais perigos, o único caminho seguro é evitar qualquer envolvimento com os falsos mestres.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "7-11"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "1 João 2:22",
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ]
+    },
+    {
+      "id": "gen-2jo-0007",
+      "referencia": "7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "7",
+      "pagina_original": 1699,
+      "remissoes": [
+        "genebra-artigo-2jo-001"
+      ],
+      "texto": "saído. Veja a nota 1 João 2:19. não confessar a vinda de Jesus Cristo na carne. Os enganadores eram docetists, que negavam a realidade da natureza humana de Cristo (1 João 4:2 nota). Veja a nota teológica \"A Humanidade de Jesus.\"o anticristo. Ver nota 1 João 2:18.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "7"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "1 João 2:19",
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "texto": "1 João 4:2",
+          "livro": "1Jo",
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "texto": "1 João 2:18",
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ]
+    },
+    {
+      "id": "gen-2jo-0008",
+      "referencia": "10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "10",
+      "pagina_original": 1699,
+      "remissoes": [],
+      "texto": "não recebê-lo em sua casa ou dar-lhe qualquer saudação. Esta medida popa contrasta fortemente com a exortação dada em 3 João 5-8 para acolher os fiéis que proclamam a verdade.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "10"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-2jo-0009",
+      "referencia": "12-13",
+      "capitulo": 1,
+      "versiculos": [
+        12,
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "12-13",
+      "pagina_original": 1699,
+      "remissoes": [],
+      "texto": "A carta não é um substituto para a comunhão pessoal. João espera compartilhar com seus leitores o incentivo mútuo que só pode ter lugar em pessoa. Ele fecha, trazendo saudações de uma comunidade cristã para o outro, uma prática comum em cartas apostólicas e um lembrete da unidade dos cristãos.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1699,
+        "rotulo_impresso": "12-13"
+      },
+      "citacoes_validadas": []
+    }
+  ],
+  "artigos": [
+    {
+      "id": "genebra-artigo-2jo-001",
+      "titulo": "A Humanidade de Jesus",
+      "pagina_original": 1699,
+      "paragrafos": [
+        "J esus era um homem que convenceu as pessoas mais próximas a ele que ele também era Deus; Sua humanidade não está em dúvida. Condenação daqueles que negavam que \"Jesus Cristo veio em carne\" (João 1 João 4:2, 3 ; 2 João 7 ) foi destinado a professores que substituíram a Encarnação com a idéia de que Jesus era um ser sobrenatural (não Deus) que parecia humano, mas era apenas para que na aparência, um mensageiro que não poderia morrer pelos pecados. Os Evangelhos mostram Jesus experimentando limitações humanas (fome, Matt 04:02. , fadiga, João 4:6 ; ignorância da verdade, Lucas 8:45-47 ) e tristeza ( João 11:35 , 38 ). Hebreus sublinha que, se Cristo não tivesse compartilhado todas essas facetas da experiência humana, fraqueza, tentação, dor-Ele não estaria qualificado para nos ajudar quando enfrentamos esses ensaios ( Heb.2: 17 , 18 ; 04:15 , 16 ; 5 : 2 , 7-9 ). Como é, Sua experiência humana completa garante que em cada momento da nossa relação com Deus, podemos ir a Ele, confiantes de que Ele foi lá antes de nós, e é o ajudante que precisamos. Os cristãos, com foco na divindade de Jesus, algumas vezes pensei que homenageia Jesus para minimizar sua humanidade. Por exemplo, às vezes é sugerido que Jesus estava sempre consciente onisciente, e só fingiu ser ignorante dos fatos. Ou pode-se pensar que ele apenas fingia estar com fome e cansado, porque, como uma espécie de super-homem Ele estava acima das necessidades da existência diária. Mas a Encarnação significa que o Filho de Deus tem apenas uma pessoa, existente em duas naturezas, e não há nada faltando a partir de sua natureza humana, o pecado só exceção. A idéia de que duas naturezas de Jesus eram como alternância de circuitos eléctricos, de modo que, por vezes, Ele agiu em sua humanidade e, por vezes, em Sua divindade, também está enganado. Jesus não poderia pecar, mas ele foi capaz de ser tentado. Satanás O tentou a desobedecer ao Pai por meio de auto-satisfação, auto-exposição e auto-engrandecimento ( Matt 4:1-11. ), ea tentação de retirar-se da Cruz foi constante ( Lucas 22:28 ;. cf Matt. 16:23 , e oração de Jesus no Getsêmani). Ser humano, Jesus não poderia vencer a tentação sem luta, mas ser divino era a Sua natureza fazer a vontade de Seu Pai ( João 5:19 ,30 ), e, portanto, de resistir e lutar contra a tentação até que Ele tinha superá-lo. Desde Sua natureza humana foi conforme à sua natureza divina, era impossível que Ele deve falhar no curso de sua resistência. Era inevitável que ele iria suportar as tentações até o fim, sentindo toda a sua força, e sair vitorioso para o Seu povo. Do Getsêmani sabemos como agudas e agonizantes Suas lutas eram. O resultado feliz para nós é que, porque \"ele mesmo sofreu quando tentado, ele é capaz de ajudar aqueles que estão sendo tentados\" ( Heb. 02:18 )"
+      ]
+    }
+  ],
+  "remissoes": []
+}

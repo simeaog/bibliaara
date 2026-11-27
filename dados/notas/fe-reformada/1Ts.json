@@ -1,0 +1,2303 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "1Ts",
+  "titulo": "1 Tessalonicenses",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "112 - 1 Tessalonicenses (1Ts).pdf",
+    "paginas_pdf": [
+      1,
+      6
+    ],
+    "observacao": "Cotejo visual das seis páginas de comentários e margens. Pendências no relatório."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional_e_pendencias",
+  "notas": [
+    {
+      "id": "fr-1ts-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.1 Silvano. 0 nome latino de Silas, urn profeta da",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Silvano. O nome latino de Silas, um profeta da igreja de Jerusalém designado para acompanhar Paulo e Barnabé na viagem para Antioquia, a fim de entregar as decisões do Concílio de Jerusalém (At 15.22, 27, 32, 40). Silas foi escolhido por Paulo para ser seu colega na segunda viagem missionária, durante a qual foi plantada a igreja na cidade macedônia de Tessalônica (At 17.1-9). Ele ou outro “fiel irmão” que tinha o mesmo nome também esteve associado ao ministério de Pedro (1Pe 5.12).\n\nTimóteo. Filho de pai grego e de uma piedosa mãe judia, ele era, no tempo de escrita da carta, um recém-chegado à missão cristã. Quase um ano antes, Paulo e Silas haviam recrutado em Listra esse discípulo jovem, mas altamente considerado, a fim de se unir ao ministério deles (At 16.1).\n\nem Deus Pai e no Senhor Jesus Cristo. Essa afirmação revela a intimidade singular que existe entre o Pai e o Filho, porque diz sobre a igreja que ela está “em” ambos (ver Introdução: Características e Temas).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Silvano. O nome latino de Silas, um profeta da igreja de Jerusalém designado para acompanhar Paulo e Barnabé na viagem para Antioquia, a fim de entregar as decisões do Concílio de Jerusalém (At 15.22, 27, 32, 40). Silas foi escolhido por Paulo para ser seu colega na segunda viagem missionária, durante a qual foi plantada a igreja na cidade macedônia de Tessalônica (At 17.1-9). Ele ou outro “fiel irmão” que tinha o mesmo nome também esteve associado ao ministério de Pedro (1Pe 5.12).",
+        "Timóteo. Filho de pai grego e de uma piedosa mãe judia, ele era, no tempo de escrita da carta, um recém-chegado à missão cristã. Quase um ano antes, Paulo e Silas haviam recrutado em Listra esse discípulo jovem, mas altamente considerado, a fim de se unir ao ministério deles (At 16.1).",
+        "em Deus Pai e no Senhor Jesus Cristo. Essa afirmação revela a intimidade singular que existe entre o Pai e o Filho, porque diz sobre a igreja que ela está “em” ambos (ver Introdução: Características e Temas)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Silvano.",
+          "texto": "O nome latino de Silas, um profeta da igreja de Jerusalém designado para acompanhar Paulo e Barnabé na viagem para Antioquia, a fim de entregar as decisões do Concílio de Jerusalém (At 15.22, 27, 32, 40). Silas foi escolhido por Paulo para ser seu colega na segunda viagem missionária, durante a qual foi plantada a igreja na cidade macedônia de Tessalônica (At 17.1-9). Ele ou outro “fiel irmão” que tinha o mesmo nome também esteve associado ao ministério de Pedro (1Pe 5.12)."
+        },
+        {
+          "titulo": "Timóteo.",
+          "texto": "Filho de pai grego e de uma piedosa mãe judia, ele era, no tempo de escrita da carta, um recém-chegado à missão cristã. Quase um ano antes, Paulo e Silas haviam recrutado em Listra esse discípulo jovem, mas altamente considerado, a fim de se unir ao ministério deles (At 16.1)."
+        },
+        {
+          "titulo": "em Deus Pai e no Senhor Jesus Cristo.",
+          "texto": "Essa afirmação revela a intimidade singular que existe entre o Pai e o Filho, porque diz sobre a igreja que ela está “em” ambos (ver Introdução: Características e Temas)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.2 Damos, sempre, gragas. Nesta epistola,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Damos, sempre, graças. Nesta epístola, Paulo fala consistentemente em favor da equipe, identificada no v. 1, que plantou a igreja de Tessalônica: Silas, Timóteo e ele mesmo. Paulo usa pronomes da primeira pessoa do plural quase oitenta vezes, enquanto refere-se a si mesmo, individualmente, apenas quatro vezes (2.18; 3.5; 5.27). Paulo não dá nenhum grau de ações de graças aos tessalonicenses, mas dá toda a glória a Deus, porque ele é a única causa da salvação e das boas obras deles (o que é confirmado no v. 4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Damos, sempre, graças. Nesta epístola, Paulo fala consistentemente em favor da equipe, identificada no v. 1, que plantou a igreja de Tessalônica: Silas, Timóteo e ele mesmo. Paulo usa pronomes da primeira pessoa do plural quase oitenta vezes, enquanto refere-se a si mesmo, individualmente, apenas quatro vezes (2.18; 3.5; 5.27). Paulo não dá nenhum grau de ações de graças aos tessalonicenses, mas dá toda a glória a Deus, porque ele é a única causa da salvação e das boas obras deles (o que é confirmado no v. 4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Damos, sempre, graças.",
+          "texto": "Nesta epístola, Paulo fala consistentemente em favor da equipe, identificada no v. 1, que plantou a igreja de Tessalônica: Silas, Timóteo e ele mesmo. Paulo usa pronomes da primeira pessoa do plural quase oitenta vezes, enquanto refere-se a si mesmo, individualmente, apenas quatro vezes (2.18; 3.5; 5.27). Paulo não dá nenhum grau de ações de graças aos tessalonicenses, mas dá toda a glória a Deus, porque ele é a única causa da salvação e das boas obras deles (o que é confirmado no v. 4)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.3 operosidade da vossa fe. A fe dos tessalo-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "operosidade da vossa fé. A fé dos tessalonicenses, evidentemente a principal preocupação de Paulo, é referida novamente em v. 8; 3.2, 5-7, 10; 5.8. A verdadeira fé salvadora produz necessariamente fruto em obediência ao Senhor.\n\nabnegação do vosso amor. O amor deles foi mostrado especialmente na aceitação que deram aos missionários (v. 9). Paulo elogia de novo o amor deles em 4.9-10, passagem em que afirma que estão instruídos “por Deus” a amar uns aos outros.\n\nfirmeza da vossa esperança. A esperança escatológica deles é a certeza de que o Senhor Jesus retornará para livrá-los das tribulações presentes e da ira vindoura de Deus. Quanto à tríade “fé”, “esperança” e “amor”, ver 5.8; Romanos 5.2-5; 1 Coríntios 13.13; Gálatas 5.5, 6; Colossenses 1.4, 5; Hebreus 6.10, 12; 10.22-24; 1 Pedro 1.3-8, 21, 22.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "operosidade da vossa fé. A fé dos tessalonicenses, evidentemente a principal preocupação de Paulo, é referida novamente em v. 8; 3.2, 5-7, 10; 5.8. A verdadeira fé salvadora produz necessariamente fruto em obediência ao Senhor.",
+        "abnegação do vosso amor. O amor deles foi mostrado especialmente na aceitação que deram aos missionários (v. 9). Paulo elogia de novo o amor deles em 4.9-10, passagem em que afirma que estão instruídos “por Deus” a amar uns aos outros.",
+        "firmeza da vossa esperança. A esperança escatológica deles é a certeza de que o Senhor Jesus retornará para livrá-los das tribulações presentes e da ira vindoura de Deus. Quanto à tríade “fé”, “esperança” e “amor”, ver 5.8; Romanos 5.2-5; 1 Coríntios 13.13; Gálatas 5.5, 6; Colossenses 1.4, 5; Hebreus 6.10, 12; 10.22-24; 1 Pedro 1.3-8, 21, 22."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "operosidade da vossa fé.",
+          "texto": "A fé dos tessalonicenses, evidentemente a principal preocupação de Paulo, é referida novamente em v. 8; 3.2, 5-7, 10; 5.8. A verdadeira fé salvadora produz necessariamente fruto em obediência ao Senhor."
+        },
+        {
+          "titulo": "abnegação do vosso amor.",
+          "texto": "O amor deles foi mostrado especialmente na aceitação que deram aos missionários (v. 9). Paulo elogia de novo o amor deles em 4.9-10, passagem em que afirma que estão instruídos “por Deus” a amar uns aos outros."
+        },
+        {
+          "titulo": "firmeza da vossa esperança.",
+          "texto": "A esperança escatológica deles é a certeza de que o Senhor Jesus retornará para livrá-los das tribulações presentes e da ira vindoura de Deus. Quanto à tríade “fé”, “esperança” e “amor”, ver 5.8; Romanos 5.2-5; 1 Coríntios 13.13; Gálatas 5.5, 6; Colossenses 1.4, 5; Hebreus 6.10, 12; 10.22-24; 1 Pedro 1.3-8, 21, 22."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.4 a vossa eleigao. A eleigao divina e tema de",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a vossa eleição. A eleição divina é tema de ambas as epístolas enviadas aos tessalonicenses (5.9; 2Ts 2.13). Paulo não tem receio de assegurar essa jovem igreja, predominantemente gentia, de que foram eleitos por Deus. Paulo vê neles o fruto da graça eletiva de Deus, manifestada na resposta à pregação do evangelho e em seu progresso na santificação (2Ts 2.13, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Ts",
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a vossa eleição. A eleição divina é tema de ambas as epístolas enviadas aos tessalonicenses (5.9; 2Ts 2.13). Paulo não tem receio de assegurar essa jovem igreja, predominantemente gentia, de que foram eleitos por Deus. Paulo vê neles o fruto da graça eletiva de Deus, manifestada na resposta à pregação do evangelho e em seu progresso na santificação (2Ts 2.13, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a vossa eleição.",
+          "texto": "A eleição divina é tema de ambas as epístolas enviadas aos tessalonicenses (5.9; 2Ts 2.13). Paulo não tem receio de assegurar essa jovem igreja, predominantemente gentia, de que foram eleitos por Deus. Paulo vê neles o fruto da graça eletiva de Deus, manifestada na resposta à pregação do evangelho e em seu progresso na santificação (2Ts 2.13, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0005",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.6 imitadores. Paulo exorta, repetidas vezes,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "imitadores. Paulo exorta, repetidas vezes, seus leitores a seguirem seu exemplo, como ele seguia o de Cristo (1Co 4.16; 11.1; 2Ts 3.7-9; Fp 3.15-17).\n\nalegria do Espírito Santo. O Espírito desempenha papel proeminente em sustentar o crente que sofre perseguição por causa de Cristo (Mt 10.19, 20; 1Pe 4.12-14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "imitadores. Paulo exorta, repetidas vezes, seus leitores a seguirem seu exemplo, como ele seguia o de Cristo (1Co 4.16; 11.1; 2Ts 3.7-9; Fp 3.15-17).",
+        "alegria do Espírito Santo. O Espírito desempenha papel proeminente em sustentar o crente que sofre perseguição por causa de Cristo (Mt 10.19, 20; 1Pe 4.12-14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "imitadores.",
+          "texto": "Paulo exorta, repetidas vezes, seus leitores a seguirem seu exemplo, como ele seguia o de Cristo (1Co 4.16; 11.1; 2Ts 3.7-9; Fp 3.15-17)."
+        },
+        {
+          "titulo": "alegria do Espírito Santo.",
+          "texto": "O Espírito desempenha papel proeminente em sustentar o crente que sofre perseguição por causa de Cristo (Mt 10.19, 20; 1Pe 4.12-14)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0006",
+      "referencia": "1.7,8",
+      "capitulo": 1,
+      "versiculos": [
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.7,8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.7, 8 Paulo escreve da Acaia, apos ter atravessado",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo escreve da Acaia, após ter atravessado a Macedônia, passando por Atenas, e chegado a Corinto. Ao percorrer esse trajeto, ele descobriu que os cristãos já sabiam de seu trabalho em Tessalônica e tinham ouvido acerca da fé dos tessalonicenses. Os cristãos de Tessalônica, embora fossem novos em Cristo, são exemplos de fé, amor e esperança para os outros.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo escreve da Acaia, após ter atravessado a Macedônia, passando por Atenas, e chegado a Corinto. Ao percorrer esse trajeto, ele descobriu que os cristãos já sabiam de seu trabalho em Tessalônica e tinham ouvido acerca da fé dos tessalonicenses. Os cristãos de Tessalônica, embora fossem novos em Cristo, são exemplos de fé, amor e esperança para os outros."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo escreve da Acaia, após ter atravessado a Macedônia, passando por Atenas, e chegado a Corinto. Ao percorrer esse trajeto, ele descobriu que os cristãos já sabiam de seu trabalho em Tessalônica e tinham ouvido acerca da fé dos tessalonicenses. Os cristãos de Tessalônica, embora fossem novos em Cristo, são exemplos de fé, amor e esperança para os outros."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0007",
+      "referencia": "1.9,10",
+      "capitulo": 1,
+      "versiculos": [
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.9,10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.9. 10 Esses versiculos se equiparam a pregagao",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Esses versículos se equiparam à pregação de Paulo em Atenas (At 17.22-31). Na pregação aos judeus, Paulo podia presumir que seus ouvintes reconheciam o verdadeiro Deus e a autoridade das Escrituras do Antigo Testamento, avançando para a proclamação do advento do Messias prometido de Deus. Para aqueles que não eram instruídos na fé de Israel, Paulo enfatizava duas coisas: a necessidade de reconhecerem o Deus vivo e verdadeiro e, abandonando os ídolos mortos; e a vinda do julgamento universal de Deus a ser executado por Jesus Cristo, o Deus-homem, que morreu e ressuscitou dos mortos (4.6; At 17.29-31).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Esses versículos se equiparam à pregação de Paulo em Atenas (At 17.22-31). Na pregação aos judeus, Paulo podia presumir que seus ouvintes reconheciam o verdadeiro Deus e a autoridade das Escrituras do Antigo Testamento, avançando para a proclamação do advento do Messias prometido de Deus. Para aqueles que não eram instruídos na fé de Israel, Paulo enfatizava duas coisas: a necessidade de reconhecerem o Deus vivo e verdadeiro e, abandonando os ídolos mortos; e a vinda do julgamento universal de Deus a ser executado por Jesus Cristo, o Deus-homem, que morreu e ressuscitou dos mortos (4.6; At 17.29-31)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos se equiparam à pregação de Paulo em Atenas (At 17.22-31). Na pregação aos judeus, Paulo podia presumir que seus ouvintes reconheciam o verdadeiro Deus e a autoridade das Escrituras do Antigo Testamento, avançando para a proclamação do advento do Messias prometido de Deus. Para aqueles que não eram instruídos na fé de Israel, Paulo enfatizava duas coisas: a necessidade de reconhecerem o Deus vivo e verdadeiro e, abandonando os ídolos mortos; e a vinda do julgamento universal de Deus a ser executado por Jesus Cristo, o Deus-homem, que morreu e ressuscitou dos mortos (4.6; At 17.29-31)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0008",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2134,
+        "rotulo_original_ocr": "1.10 dos ceus. Ver 4.16; 2 Tessalonicenses 1.7; cf.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "dos céus. Ver 4.16; 2 Tessalonicenses 1.7; cf. Atos 1.11; Filipenses 3.20.\n\nJesus, que nos livra da ira vindoura. A morte de Jesus removeu a ira de Deus, mas todo o significado dessa obra salvadora não será manifestado até o Dia do Juízo. Naquele dia, por meio da intervenção de Cristo, os crentes serão poupados da condenação e da punição que, não fosse a obra de Cristo, seus pecados mereceriam (Rm 5.9). Trata-se de um versículo crucial para explicar do que exatamente somos salvos. Somos salvos por Deus da ira de Deus, a fim de que vivamos para Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "dos céus. Ver 4.16; 2 Tessalonicenses 1.7; cf. Atos 1.11; Filipenses 3.20.",
+        "Jesus, que nos livra da ira vindoura. A morte de Jesus removeu a ira de Deus, mas todo o significado dessa obra salvadora não será manifestado até o Dia do Juízo. Naquele dia, por meio da intervenção de Cristo, os crentes serão poupados da condenação e da punição que, não fosse a obra de Cristo, seus pecados mereceriam (Rm 5.9). Trata-se de um versículo crucial para explicar do que exatamente somos salvos. Somos salvos por Deus da ira de Deus, a fim de que vivamos para Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "dos céus.",
+          "texto": "Ver 4.16; 2 Tessalonicenses 1.7; cf. Atos 1.11; Filipenses 3.20."
+        },
+        {
+          "titulo": "Jesus, que nos livra da ira vindoura.",
+          "texto": "A morte de Jesus removeu a ira de Deus, mas todo o significado dessa obra salvadora não será manifestado até o Dia do Juízo. Naquele dia, por meio da intervenção de Cristo, os crentes serão poupados da condenação e da punição que, não fosse a obra de Cristo, seus pecados mereceriam (Rm 5.9). Trata-se de um versículo crucial para explicar do que exatamente somos salvos. Somos salvos por Deus da ira de Deus, a fim de que vivamos para Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0009",
+      "referencia": "2.1-12",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.1-12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.1-12 Parece que Paulo responde a certas duvidas",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Parece que Paulo responde a certas dúvidas ou críticas sobre seu ministério. As circunstâncias turbulentas e a natureza apressada da partida de sua equipe de Tessalônica (embora tenha sido iniciativa dos crentes locais — At 17.5-10) despertaram desconfiança em algumas pessoas quanto ao compromisso de Paulo com a igreja tessalonicense e quanto à sua disposição de arriscar uma segunda visita à cidade deles (vv. 17-19). Paulo defende implicitamente seu ministério do evangelho e, ao mesmo tempo, ao lembrar a obra de seus companheiros, oferece aos tessalonicenses um padrão de serviço de amor a seguir.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Parece que Paulo responde a certas dúvidas ou críticas sobre seu ministério. As circunstâncias turbulentas e a natureza apressada da partida de sua equipe de Tessalônica (embora tenha sido iniciativa dos crentes locais — At 17.5-10) despertaram desconfiança em algumas pessoas quanto ao compromisso de Paulo com a igreja tessalonicense e quanto à sua disposição de arriscar uma segunda visita à cidade deles (vv. 17-19). Paulo defende implicitamente seu ministério do evangelho e, ao mesmo tempo, ao lembrar a obra de seus companheiros, oferece aos tessalonicenses um padrão de serviço de amor a seguir."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Parece que Paulo responde a certas dúvidas ou críticas sobre seu ministério. As circunstâncias turbulentas e a natureza apressada da partida de sua equipe de Tessalônica (embora tenha sido iniciativa dos crentes locais — At 17.5-10) despertaram desconfiança em algumas pessoas quanto ao compromisso de Paulo com a igreja tessalonicense e quanto à sua disposição de arriscar uma segunda visita à cidade deles (vv. 17-19). Paulo defende implicitamente seu ministério do evangelho e, ao mesmo tempo, ao lembrar a obra de seus companheiros, oferece aos tessalonicenses um padrão de serviço de amor a seguir."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0010",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.2 tivemos ousada confianga em nosso",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "tivemos ousada confiança em nosso Deus. Apesar de chamados por Deus para entrar na Macedônia (At 16.9, 10), Paulo e Silas foram severamente açoitados e encarcerados numa prisão macedônica (em Filipos). Os missionários tiveram de ser corajosos e abnegadamente dedicados ao propósito de Deus.\n\no evangelho de Deus. Paulo ressalta a fonte pura e realmente divina de sua mensagem e ministério. Observe a repetição da expressão nos vv. 8 e 9. O evangelho é sempre levado como um patrimônio de Deus mesmo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tivemos ousada confiança em nosso Deus. Apesar de chamados por Deus para entrar na Macedônia (At 16.9, 10), Paulo e Silas foram severamente açoitados e encarcerados numa prisão macedônica (em Filipos). Os missionários tiveram de ser corajosos e abnegadamente dedicados ao propósito de Deus.",
+        "o evangelho de Deus. Paulo ressalta a fonte pura e realmente divina de sua mensagem e ministério. Observe a repetição da expressão nos vv. 8 e 9. O evangelho é sempre levado como um patrimônio de Deus mesmo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tivemos ousada confiança em nosso Deus.",
+          "texto": "Apesar de chamados por Deus para entrar na Macedônia (At 16.9, 10), Paulo e Silas foram severamente açoitados e encarcerados numa prisão macedônica (em Filipos). Os missionários tiveram de ser corajosos e abnegadamente dedicados ao propósito de Deus."
+        },
+        {
+          "titulo": "o evangelho de Deus.",
+          "texto": "Paulo ressalta a fonte pura e realmente divina de sua mensagem e ministério. Observe a repetição da expressão nos vv. 8 e 9. O evangelho é sempre levado como um patrimônio de Deus mesmo."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0011",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.5 Deus... e testemunha. A constante cons-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Deus... é testemunha. A constante consciência de Paulo de que ele servia como despenseiro dos mistérios de Deus, na própria presença de Deus, “que prova o nosso coração” (v. 4), impediu-o de modificar sua mensagem com “bajulação” e protegeu seu coração do motivo de “cobiça”, diferentemente de outros que competiam pela lealdade dos crentes (1Co 4.1-5; 2Co 2.17; 4.2; 11.4, 5, 13-15; 1Tm 6.3-5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus... é testemunha. A constante consciência de Paulo de que ele servia como despenseiro dos mistérios de Deus, na própria presença de Deus, “que prova o nosso coração” (v. 4), impediu-o de modificar sua mensagem com “bajulação” e protegeu seu coração do motivo de “cobiça”, diferentemente de outros que competiam pela lealdade dos crentes (1Co 4.1-5; 2Co 2.17; 4.2; 11.4, 5, 13-15; 1Tm 6.3-5)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus... é testemunha.",
+          "texto": "A constante consciência de Paulo de que ele servia como despenseiro dos mistérios de Deus, na própria presença de Deus, “que prova o nosso coração” (v. 4), impediu-o de modificar sua mensagem com “bajulação” e protegeu seu coração do motivo de “cobiça”, diferentemente de outros que competiam pela lealdade dos crentes (1Co 4.1-5; 2Co 2.17; 4.2; 11.4, 5, 13-15; 1Tm 6.3-5)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0012",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.7 pudessemos, como enviados de Cristo,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "pudéssemos, como enviados de Cristo, exigir. Com frequência, Paulo defendia sua autoridade apostólica, que lhe fora delegada pelo próprio Senhor Jesus ressuscitado, mas, às vezes, ele se refreava de exercê-la para atender às necessidades de outros e dar exemplo de altruísmo (1Co 9.1-18; Fm 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pudéssemos, como enviados de Cristo, exigir. Com frequência, Paulo defendia sua autoridade apostólica, que lhe fora delegada pelo próprio Senhor Jesus ressuscitado, mas, às vezes, ele se refreava de exercê-la para atender às necessidades de outros e dar exemplo de altruísmo (1Co 9.1-18; Fm 8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pudéssemos, como enviados de Cristo, exigir.",
+          "texto": "Com frequência, Paulo defendia sua autoridade apostólica, que lhe fora delegada pelo próprio Senhor Jesus ressuscitado, mas, às vezes, ele se refreava de exercê-la para atender às necessidades de outros e dar exemplo de altruísmo (1Co 9.1-18; Fm 8)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0013",
+      "referencia": "2.8",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "2.8",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.8 Evidente em toda esta segao (vv 17-20; 3 6-12),",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Evidente em toda esta seção (vv. 17-20; 3.6-12), está a profunda afeição de Paulo por seus filhos espirituais, que, poucos meses antes, lhe eram totalmente estranhos, alienados por raça, cultura e religião. A maneira como ele lida com esses crentes reflete tanto o carinho de uma mãe (v. 7) como o amoroso incentivo de um pai para amadurecerem a conduta (vv. 11, 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Evidente em toda esta seção (vv. 17-20; 3.6-12), está a profunda afeição de Paulo por seus filhos espirituais, que, poucos meses antes, lhe eram totalmente estranhos, alienados por raça, cultura e religião. A maneira como ele lida com esses crentes reflete tanto o carinho de uma mãe (v. 7) como o amoroso incentivo de um pai para amadurecerem a conduta (vv. 11, 12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Evidente em toda esta seção (vv. 17-20; 3.6-12), está a profunda afeição de Paulo por seus filhos espirituais, que, poucos meses antes, lhe eram totalmente estranhos, alienados por raça, cultura e religião. A maneira como ele lida com esses crentes reflete tanto o carinho de uma mãe (v. 7) como o amoroso incentivo de um pai para amadurecerem a conduta (vv. 11, 12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0014",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.12 Este versiculo resume a exortagao e a ad -",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Este versículo resume a exortação e a admoestação de Paulo durante sua visita inicial em Tessalônica. Em contraste com os ídolos que os tessalonicenses haviam abandonado (1.9), o Deus vivo e verdadeiro tem “reino e glória”. E, em sua misericórdia insondável, ele resolveu compartilhar esse reino com aqueles que o adoram por meio de Jesus Cristo. Chamados a entrar nesse reino, os crentes conhecem, em parte, seu poder e gozam em certa medida de sua vida aqui e agora (Rm 14.17; 1Co 4.20; Cl 1.13, 14), enquanto anseiam pelo dia em que experimentarão sua plenitude.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Este versículo resume a exortação e a admoestação de Paulo durante sua visita inicial em Tessalônica. Em contraste com os ídolos que os tessalonicenses haviam abandonado (1.9), o Deus vivo e verdadeiro tem “reino e glória”. E, em sua misericórdia insondável, ele resolveu compartilhar esse reino com aqueles que o adoram por meio de Jesus Cristo. Chamados a entrar nesse reino, os crentes conhecem, em parte, seu poder e gozam em certa medida de sua vida aqui e agora (Rm 14.17; 1Co 4.20; Cl 1.13, 14), enquanto anseiam pelo dia em que experimentarão sua plenitude."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Este versículo resume a exortação e a admoestação de Paulo durante sua visita inicial em Tessalônica. Em contraste com os ídolos que os tessalonicenses haviam abandonado (1.9), o Deus vivo e verdadeiro tem “reino e glória”. E, em sua misericórdia insondável, ele resolveu compartilhar esse reino com aqueles que o adoram por meio de Jesus Cristo. Chamados a entrar nesse reino, os crentes conhecem, em parte, seu poder e gozam em certa medida de sua vida aqui e agora (Rm 14.17; 1Co 4.20; Cl 1.13, 14), enquanto anseiam pelo dia em que experimentarão sua plenitude."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0015",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.13 a qual... esta operando... em vos. A",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a qual... está operando... em vós. A Palavra de Deus, embora venha por instrumento humano, é uma mensagem divina que opera nos crentes por obra do Espírito Santo (Is 55.11; At 20.32; 2Tm 2.15-17; Hb 4.12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a qual... está operando... em vós. A Palavra de Deus, embora venha por instrumento humano, é uma mensagem divina que opera nos crentes por obra do Espírito Santo (Is 55.11; At 20.32; 2Tm 2.15-17; Hb 4.12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a qual... está operando... em vós.",
+          "texto": "A Palavra de Deus, embora venha por instrumento humano, é uma mensagem divina que opera nos crentes por obra do Espírito Santo (Is 55.11; At 20.32; 2Tm 2.15-17; Hb 4.12)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0016",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.14 padecestes da parte dos vossos patri-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "padecestes da parte dos vossos patrícios. O poder da Palavra de Deus neles foi provado quando enfrentaram perseguição severa da parte de seus patrícios e, como as igrejas na Judeia, suportaram-na com fé e alegria (At 17.5-9; cf. v. 6).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "padecestes da parte dos vossos patrícios. O poder da Palavra de Deus neles foi provado quando enfrentaram perseguição severa da parte de seus patrícios e, como as igrejas na Judeia, suportaram-na com fé e alegria (At 17.5-9; cf. v. 6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "padecestes da parte dos vossos patrícios.",
+          "texto": "O poder da Palavra de Deus neles foi provado quando enfrentaram perseguição severa da parte de seus patrícios e, como as igrejas na Judeia, suportaram-na com fé e alegria (At 17.5-9; cf. v. 6)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0017",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.15 Assim como Jesus observou a continuidade",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Assim como Jesus observou a continuidade daqueles que perseguiram os profetas naqueles que perseguiram a ele (Mt 23.29-32) e aos seus seguidores (Mt 5.10-12), também Paulo (e Estêvão; At 7.52) viu a mesma continuidade estendendo-se àqueles judeus (com quem ele trabalhara antes) que perseguiam Cristo por se oporem ao evangelho (At 9.4). O desenvolvimento mais completo dessa abordagem quanto ao problema da oposição judaica ao evangelho se encontra em Romanos 9-11.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Assim como Jesus observou a continuidade daqueles que perseguiram os profetas naqueles que perseguiram a ele (Mt 23.29-32) e aos seus seguidores (Mt 5.10-12), também Paulo (e Estêvão; At 7.52) viu a mesma continuidade estendendo-se àqueles judeus (com quem ele trabalhara antes) que perseguiam Cristo por se oporem ao evangelho (At 9.4). O desenvolvimento mais completo dessa abordagem quanto ao problema da oposição judaica ao evangelho se encontra em Romanos 9-11."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Assim como Jesus observou a continuidade daqueles que perseguiram os profetas naqueles que perseguiram a ele (Mt 23.29-32) e aos seus seguidores (Mt 5.10-12), também Paulo (e Estêvão; At 7.52) viu a mesma continuidade estendendo-se àqueles judeus (com quem ele trabalhara antes) que perseguiam Cristo por se oporem ao evangelho (At 9.4). O desenvolvimento mais completo dessa abordagem quanto ao problema da oposição judaica ao evangelho se encontra em Romanos 9-11."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0018",
+      "referencia": "2.16",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2,
+          3
+        ],
+        "pagina_impressa": 2135,
+        "rotulo_original_ocr": "2.16 A ira, porem, sobreveio contra eles,",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "A ira, porém, sobreveio contra eles, definitivamente. Esta última palavra também pode ser traduzida por “até o fim” (Mt 10.22; 1Co 1.8; 15.24). Isso pode ser uma profecia da catástrofe que veio sobre Jerusalém, com a destruição do templo, em 70 d.C., cerca de vinte anos depois de Paulo escrever esta carta, ou pode referir-se à sequência de calamidades que já haviam começado e atingiriam o ápice naquele desastre momentoso. Ou ainda pode referir-se ao endurecimento punitivo de um grande segmento de Israel em sua culpável rejeição de Cristo, um endurecimento que Jesus viu como o cumprimento da calamitosa profecia de Isaías (Is 6.9-10; Mt 13.14, 15). Compare desenvolvimento semelhante da ira de Deus sobre os gentios delineado em Romanos 1.18-32. Como Paulo escreveria posteriormente (Rm 11.25), um “endurecimento” parcial caíra sobre Israel, que permanecera até que todo o número dos gentios seja introduzido (ou seja, até o fim). A parte de Israel não sujeita ao endurecimento é o remanescente (Is 6.13), que, na época do evangelho, continua como o objeto da misericórdia de Deus, achando salvação em Jesus, o Messias.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A ira, porém, sobreveio contra eles, definitivamente. Esta última palavra também pode ser traduzida por “até o fim” (Mt 10.22; 1Co 1.8; 15.24). Isso pode ser uma profecia da catástrofe que veio sobre Jerusalém, com a destruição do templo, em 70 d.C., cerca de vinte anos depois de Paulo escrever esta carta, ou pode referir-se à sequência de calamidades que já haviam começado e atingiriam o ápice naquele desastre momentoso. Ou ainda pode referir-se ao endurecimento punitivo de um grande segmento de Israel em sua culpável rejeição de Cristo, um endurecimento que Jesus viu como o cumprimento da calamitosa profecia de Isaías (Is 6.9-10; Mt 13.14, 15). Compare desenvolvimento semelhante da ira de Deus sobre os gentios delineado em Romanos 1.18-32. Como Paulo escreveria posteriormente (Rm 11.25), um “endurecimento” parcial caíra sobre Israel, que permanecera até que todo o número dos gentios seja introduzido (ou seja, até o fim). A parte de Israel não sujeita ao endurecimento é o remanescente (Is 6.13), que, na época do evangelho, continua como o objeto da misericórdia de Deus, achando salvação em Jesus, o Messias."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "A ira, porém, sobreveio contra eles, definitivamente.",
+          "texto": "Esta última palavra também pode ser traduzida por “até o fim” (Mt 10.22; 1Co 1.8; 15.24). Isso pode ser uma profecia da catástrofe que veio sobre Jerusalém, com a destruição do templo, em 70 d.C., cerca de vinte anos depois de Paulo escrever esta carta, ou pode referir-se à sequência de calamidades que já haviam começado e atingiriam o ápice naquele desastre momentoso. Ou ainda pode referir-se ao endurecimento punitivo de um grande segmento de Israel em sua culpável rejeição de Cristo, um endurecimento que Jesus viu como o cumprimento da calamitosa profecia de Isaías (Is 6.9-10; Mt 13.14, 15). Compare desenvolvimento semelhante da ira de Deus sobre os gentios delineado em Romanos 1.18-32. Como Paulo escreveria posteriormente (Rm 11.25), um “endurecimento” parcial caíra sobre Israel, que permanecera até que todo o número dos gentios seja introduzido (ou seja, até o fim). A parte de Israel não sujeita ao endurecimento é o remanescente (Is 6.13), que, na época do evangelho, continua como o objeto da misericórdia de Deus, achando salvação em Jesus, o Messias."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0019",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "2.17 orfanados. A palavra grega que significa “or-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "orfanados. A palavra grega que significa “orfanados” foi usada tanto para se referir a pais como a filhos que foram separados. Paulo continua a usar a imagem de família dos vv. 7 e 11 para descrever sua relação com a igreja tessalonicense. Como sugerido na nota dos vv. 1-12, a súbita partida da equipe de Paulo de Tessalônica pode ter ocasionado dúvidas no coração de alguns sobre o cuidado paternal e o compromisso de Paulo com os crentes que ele deixara para trás.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Ts",
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "orfanados. A palavra grega que significa “orfanados” foi usada tanto para se referir a pais como a filhos que foram separados. Paulo continua a usar a imagem de família dos vv. 7 e 11 para descrever sua relação com a igreja tessalonicense. Como sugerido na nota dos vv. 1-12, a súbita partida da equipe de Paulo de Tessalônica pode ter ocasionado dúvidas no coração de alguns sobre o cuidado paternal e o compromisso de Paulo com os crentes que ele deixara para trás."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "orfanados.",
+          "texto": "A palavra grega que significa “orfanados” foi usada tanto para se referir a pais como a filhos que foram separados. Paulo continua a usar a imagem de família dos vv. 7 e 11 para descrever sua relação com a igreja tessalonicense. Como sugerido na nota dos vv. 1-12, a súbita partida da equipe de Paulo de Tessalônica pode ter ocasionado dúvidas no coração de alguns sobre o cuidado paternal e o compromisso de Paulo com os crentes que ele deixara para trás."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0020",
+      "referencia": "2.19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2.19",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "2.19 ou alegria, ou coroa em que exultamos.",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "ou alegria, ou coroa em que exultamos. Paulo usou as mesmas palavras de carinho em relação a outra igreja na Macedônia, a de Filipos (Fp 4.1). Parece que essas igrejas, que sofreram com a pobreza (2Co 8.1-5) e a perseguição, tiveram lugar especial no coração do apóstolo (vv. 17, 18; 3.1-3, 6-8; Fp 1.7, 8).\n\nem sua vinda. A palavra grega parousia (“vinda”) é usada em referência à segunda vinda de Cristo seis vezes nas epístolas aos tessalonicenses (ver também 3.13; 4.15; 5.23; 2Ts 2.1, 8). O único outro emprego que Paulo faz dessa palavra com o mesmo sentido é em 1 Coríntios 15.23. A vinda de Cristo é apresentada como o tempo em que será manifestado o resultado das obras que os crentes fizeram pela fé. A alegria e a coroa de Paulo naquele dia serão seus amados filhos espirituais, aqueles que se converteram e amadureceram sob seu ministério (2Co 1.14; Fp 2.16).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ou alegria, ou coroa em que exultamos. Paulo usou as mesmas palavras de carinho em relação a outra igreja na Macedônia, a de Filipos (Fp 4.1). Parece que essas igrejas, que sofreram com a pobreza (2Co 8.1-5) e a perseguição, tiveram lugar especial no coração do apóstolo (vv. 17, 18; 3.1-3, 6-8; Fp 1.7, 8).",
+        "em sua vinda. A palavra grega parousia (“vinda”) é usada em referência à segunda vinda de Cristo seis vezes nas epístolas aos tessalonicenses (ver também 3.13; 4.15; 5.23; 2Ts 2.1, 8). O único outro emprego que Paulo faz dessa palavra com o mesmo sentido é em 1 Coríntios 15.23. A vinda de Cristo é apresentada como o tempo em que será manifestado o resultado das obras que os crentes fizeram pela fé. A alegria e a coroa de Paulo naquele dia serão seus amados filhos espirituais, aqueles que se converteram e amadureceram sob seu ministério (2Co 1.14; Fp 2.16)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ou alegria, ou coroa em que exultamos.",
+          "texto": "Paulo usou as mesmas palavras de carinho em relação a outra igreja na Macedônia, a de Filipos (Fp 4.1). Parece que essas igrejas, que sofreram com a pobreza (2Co 8.1-5) e a perseguição, tiveram lugar especial no coração do apóstolo (vv. 17, 18; 3.1-3, 6-8; Fp 1.7, 8)."
+        },
+        {
+          "titulo": "em sua vinda.",
+          "texto": "A palavra grega parousia (“vinda”) é usada em referência à segunda vinda de Cristo seis vezes nas epístolas aos tessalonicenses (ver também 3.13; 4.15; 5.23; 2Ts 2.1, 8). O único outro emprego que Paulo faz dessa palavra com o mesmo sentido é em 1 Coríntios 15.23. A vinda de Cristo é apresentada como o tempo em que será manifestado o resultado das obras que os crentes fizeram pela fé. A alegria e a coroa de Paulo naquele dia serão seus amados filhos espirituais, aqueles que se converteram e amadureceram sob seu ministério (2Co 1.14; Fp 2.16)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0021",
+      "referencia": "3.3,4",
+      "capitulo": 3,
+      "versiculos": [
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.3,4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "3.3, 4 Paulo nao prometeu aos seguidores de Jesus",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo não prometeu aos seguidores de Jesus vida fácil ou aprovação pública, nem Jesus prometeu (Mc 8.34; Jo 15.18-21). Em vez disso, a mensagem de encorajamento por parte de Paulo para as igrejas recém-plantadas era que, “através de muitas tribulações, nos importa entrar no reino de Deus” (At 14.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo não prometeu aos seguidores de Jesus vida fácil ou aprovação pública, nem Jesus prometeu (Mc 8.34; Jo 15.18-21). Em vez disso, a mensagem de encorajamento por parte de Paulo para as igrejas recém-plantadas era que, “através de muitas tribulações, nos importa entrar no reino de Deus” (At 14.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo não prometeu aos seguidores de Jesus vida fácil ou aprovação pública, nem Jesus prometeu (Mc 8.34; Jo 15.18-21). Em vez disso, a mensagem de encorajamento por parte de Paulo para as igrejas recém-plantadas era que, “através de muitas tribulações, nos importa entrar no reino de Deus” (At 14.22)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0022",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "3.8 porque, agora, vivemos. A ansiedade de",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "porque, agora, vivemos. A ansiedade de Paulo (2Co 11.28) quanto à estabilidade da igreja em meio à perseguição fora tão intensa que a informação dada por Timóteo sobre a fé inabalável dos tessalonicenses levou ao apóstolo consolo e alegria semelhantes a uma prelibação da ressurreição dos mortos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "porque, agora, vivemos. A ansiedade de Paulo (2Co 11.28) quanto à estabilidade da igreja em meio à perseguição fora tão intensa que a informação dada por Timóteo sobre a fé inabalável dos tessalonicenses levou ao apóstolo consolo e alegria semelhantes a uma prelibação da ressurreição dos mortos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "porque, agora, vivemos.",
+          "texto": "A ansiedade de Paulo (2Co 11.28) quanto à estabilidade da igreja em meio à perseguição fora tão intensa que a informação dada por Timóteo sobre a fé inabalável dos tessalonicenses levou ao apóstolo consolo e alegria semelhantes a uma prelibação da ressurreição dos mortos."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0023",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "3.11 Paulo se dirige a Deus, o Pai, e ao Senhor Jesus",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo se dirige a Deus, o Pai, e ao Senhor Jesus em conjunto, em oração, indicando a igualdade deles e mostrando que Cristo é o verdadeiro Deus do verdadeiro Deus (ver Introdução: Características e Temas). A resposta a essa oração por reencontro veio alguns anos depois (At 20.1).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo se dirige a Deus, o Pai, e ao Senhor Jesus em conjunto, em oração, indicando a igualdade deles e mostrando que Cristo é o verdadeiro Deus do verdadeiro Deus (ver Introdução: Características e Temas). A resposta a essa oração por reencontro veio alguns anos depois (At 20.1)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo se dirige a Deus, o Pai, e ao Senhor Jesus em conjunto, em oração, indicando a igualdade deles e mostrando que Cristo é o verdadeiro Deus do verdadeiro Deus (ver Introdução: Características e Temas). A resposta a essa oração por reencontro veio alguns anos depois (At 20.1)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0024",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "3.13 confirmado em santidade. 0 exemplo",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "confirmado em santidade. O exemplo da equipe de Paulo (2.10), bem como a sua instrução (4.1-3), enfatizava o chamado dos tessalonicenses à fé no Senhor Jesus a ser manifestada em um viver santo, especialmente no que diz respeito à pureza sexual e à fidelidade conjugal (4.3-8). Santidade e pureza serão essenciais em sua bênção final sobre esses crentes (5.23).\n\nna vinda de nosso Senhor Jesus. A obra de santificação já iniciada nos crentes é incompleta e será levada à consumação gloriosa na segunda vinda de nosso Senhor (5.23; cf. 1Co 1.8; Fp 1.6; 2Ts 3.3; Jd 24).\n\nseus santos. Ou os anjos que acompanharão Cristo em sua vinda (2Ts 1.7; cf. Mt 13.39, 48-49; 16.27), ou santos humanos (2Ts 1.10; Ap 19.14), ou ambos.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "confirmado em santidade. O exemplo da equipe de Paulo (2.10), bem como a sua instrução (4.1-3), enfatizava o chamado dos tessalonicenses à fé no Senhor Jesus a ser manifestada em um viver santo, especialmente no que diz respeito à pureza sexual e à fidelidade conjugal (4.3-8). Santidade e pureza serão essenciais em sua bênção final sobre esses crentes (5.23).",
+        "na vinda de nosso Senhor Jesus. A obra de santificação já iniciada nos crentes é incompleta e será levada à consumação gloriosa na segunda vinda de nosso Senhor (5.23; cf. 1Co 1.8; Fp 1.6; 2Ts 3.3; Jd 24).",
+        "seus santos. Ou os anjos que acompanharão Cristo em sua vinda (2Ts 1.7; cf. Mt 13.39, 48-49; 16.27), ou santos humanos (2Ts 1.10; Ap 19.14), ou ambos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "confirmado em santidade.",
+          "texto": "O exemplo da equipe de Paulo (2.10), bem como a sua instrução (4.1-3), enfatizava o chamado dos tessalonicenses à fé no Senhor Jesus a ser manifestada em um viver santo, especialmente no que diz respeito à pureza sexual e à fidelidade conjugal (4.3-8). Santidade e pureza serão essenciais em sua bênção final sobre esses crentes (5.23)."
+        },
+        {
+          "titulo": "na vinda de nosso Senhor Jesus.",
+          "texto": "A obra de santificação já iniciada nos crentes é incompleta e será levada à consumação gloriosa na segunda vinda de nosso Senhor (5.23; cf. 1Co 1.8; Fp 1.6; 2Ts 3.3; Jd 24)."
+        },
+        {
+          "titulo": "seus santos.",
+          "texto": "Ou os anjos que acompanharão Cristo em sua vinda (2Ts 1.7; cf. Mt 13.39, 48-49; 16.27), ou santos humanos (2Ts 1.10; Ap 19.14), ou ambos."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0025",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "4.1 Paulo elogia os tessalonicenses por seu progresso",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo elogia os tessalonicenses por seu progresso em aprender como agradar a Deus, mas também os desafia a progredir cada vez mais. Paulo reconhece a necessidade constante de crescimento e de “avançarem” (Fp 3.13). A complacência espiritual contradiz a confissão do crente.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo elogia os tessalonicenses por seu progresso em aprender como agradar a Deus, mas também os desafia a progredir cada vez mais. Paulo reconhece a necessidade constante de crescimento e de “avançarem” (Fp 3.13). A complacência espiritual contradiz a confissão do crente."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo elogia os tessalonicenses por seu progresso em aprender como agradar a Deus, mas também os desafia a progredir cada vez mais. Paulo reconhece a necessidade constante de crescimento e de “avançarem” (Fp 3.13). A complacência espiritual contradiz a confissão do crente."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0026",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "4.2 Paulo enfatiza de novo que a autoridade de suas",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo enfatiza de novo que a autoridade de suas instruções não é dele mesmo, nem de origem humana, mas do Senhor ressurreto (2.13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo enfatiza de novo que a autoridade de suas instruções não é dele mesmo, nem de origem humana, mas do Senhor ressurreto (2.13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo enfatiza de novo que a autoridade de suas instruções não é dele mesmo, nem de origem humana, mas do Senhor ressurreto (2.13)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0027",
+      "referencia": "4.3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3,
+          4
+        ],
+        "pagina_impressa": 2136,
+        "rotulo_original_ocr": "4.3 a vontade de Deus. Em geral, a Escritura",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "a vontade de Deus. Em geral, a Escritura fala da vontade de Deus em um de dois sentidos. Às vezes, como em Efésios 1.11, é o propósito eterno de Deus que determina a história. Não podemos saber o conteúdo dessa vontade que determina a história, exceto quando observamos o desenvolvimento da história ou por meio de uma revelação especial (profecia). Os teólogos se referem frequentemente a essa vontade determinadora da história como a vontade “decretada”, “escondida” ou “secreta” de Deus. O segundo sentido em que a Escritura fala da vontade de Deus, encontrado em textos como 4.3 e 5.18, é o dever que Deus anunciou por meio da revelação. Essa é a vontade “preceptiva” ou “revelada” de Deus, que nos diz as coisas que o Senhor considera agradáveis aos seus olhos (cf. Dt 29.29).\n\nvossa santificação. A santificação é o processo pelo qual Deus, o Espírito Santo, transforma os pensamentos, os motivos e o comportamento do crente para conformá-lo à santidade — pureza, separação da corrupção do pecado — do próprio Cristo. Em 3.12-13, Paulo associa o amor à santidade e afirma que o chamado de Deus é para a santificação, e não para a impureza (sexual), no v. 7.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a vontade de Deus. Em geral, a Escritura fala da vontade de Deus em um de dois sentidos. Às vezes, como em Efésios 1.11, é o propósito eterno de Deus que determina a história. Não podemos saber o conteúdo dessa vontade que determina a história, exceto quando observamos o desenvolvimento da história ou por meio de uma revelação especial (profecia). Os teólogos se referem frequentemente a essa vontade determinadora da história como a vontade “decretada”, “escondida” ou “secreta” de Deus. O segundo sentido em que a Escritura fala da vontade de Deus, encontrado em textos como 4.3 e 5.18, é o dever que Deus anunciou por meio da revelação. Essa é a vontade “preceptiva” ou “revelada” de Deus, que nos diz as coisas que o Senhor considera agradáveis aos seus olhos (cf. Dt 29.29).",
+        "vossa santificação. A santificação é o processo pelo qual Deus, o Espírito Santo, transforma os pensamentos, os motivos e o comportamento do crente para conformá-lo à santidade — pureza, separação da corrupção do pecado — do próprio Cristo. Em 3.12-13, Paulo associa o amor à santidade e afirma que o chamado de Deus é para a santificação, e não para a impureza (sexual), no v. 7."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a vontade de Deus.",
+          "texto": "Em geral, a Escritura fala da vontade de Deus em um de dois sentidos. Às vezes, como em Efésios 1.11, é o propósito eterno de Deus que determina a história. Não podemos saber o conteúdo dessa vontade que determina a história, exceto quando observamos o desenvolvimento da história ou por meio de uma revelação especial (profecia). Os teólogos se referem frequentemente a essa vontade determinadora da história como a vontade “decretada”, “escondida” ou “secreta” de Deus. O segundo sentido em que a Escritura fala da vontade de Deus, encontrado em textos como 4.3 e 5.18, é o dever que Deus anunciou por meio da revelação. Essa é a vontade “preceptiva” ou “revelada” de Deus, que nos diz as coisas que o Senhor considera agradáveis aos seus olhos (cf. Dt 29.29)."
+        },
+        {
+          "titulo": "vossa santificação.",
+          "texto": "A santificação é o processo pelo qual Deus, o Espírito Santo, transforma os pensamentos, os motivos e o comportamento do crente para conformá-lo à santidade — pureza, separação da corrupção do pecado — do próprio Cristo. Em 3.12-13, Paulo associa o amor à santidade e afirma que o chamado de Deus é para a santificação, e não para a impureza (sexual), no v. 7."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0028",
+      "referencia": "4.5",
+      "capitulo": 4,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "4.5",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2137,
+        "rotulo_original_ocr": "4.5 como os gentios. A sociedade paga dos dias",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "como os gentios. A sociedade pagã dos dias de Paulo dava pouco incentivo à pureza sexual. A infidelidade conjugal, pelo menos no caso dos homens, era a norma; e algumas das religiões pagãs, das quais os tessalonicenses se haviam libertado, aprovavam a conduta sexual imprópria em seus rituais. O evangelho cristão traz despertamento moral e uma nova revelação dos padrões justos de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "como os gentios. A sociedade pagã dos dias de Paulo dava pouco incentivo à pureza sexual. A infidelidade conjugal, pelo menos no caso dos homens, era a norma; e algumas das religiões pagãs, das quais os tessalonicenses se haviam libertado, aprovavam a conduta sexual imprópria em seus rituais. O evangelho cristão traz despertamento moral e uma nova revelação dos padrões justos de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como os gentios.",
+          "texto": "A sociedade pagã dos dias de Paulo dava pouco incentivo à pureza sexual. A infidelidade conjugal, pelo menos no caso dos homens, era a norma; e algumas das religiões pagãs, das quais os tessalonicenses se haviam libertado, aprovavam a conduta sexual imprópria em seus rituais. O evangelho cristão traz despertamento moral e uma nova revelação dos padrões justos de Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0029",
+      "referencia": "4.6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4.6",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2137,
+        "rotulo_original_ocr": "4.6 defraude a seu irmao. 0 envolvimento",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "defraude a seu irmão. O envolvimento sexual ilícito afeta não somente as partes aquiescentes. As esposas são ofendidas, e família, amigos e irmãos em Cristo são envergonhados. Em última análise, esses pecados, como todos os demais, são praticados contra Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "defraude a seu irmão. O envolvimento sexual ilícito afeta não somente as partes aquiescentes. As esposas são ofendidas, e família, amigos e irmãos em Cristo são envergonhados. Em última análise, esses pecados, como todos os demais, são praticados contra Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "defraude a seu irmão.",
+          "texto": "O envolvimento sexual ilícito afeta não somente as partes aquiescentes. As esposas são ofendidas, e família, amigos e irmãos em Cristo são envergonhados. Em última análise, esses pecados, como todos os demais, são praticados contra Deus."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0045",
+      "referencia": "4.8",
+      "capitulo": 4,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "4.8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4,
+          5
+        ],
+        "pagina_impressa": 2137,
+        "rotulo_original_ocr": "4.8",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Registro numerado na edição impressa, recuperado de nota vizinha.",
+        "id_anterior": "fr-1ts-0029"
+      },
+      "texto": "Paulo afirma autoridade divina não meramente para sua proclamação falada, mas também para suas instruções escritas (ver também 5.27).\n\ndá o seu Espírito Santo. Paulo lembra, de modo enfático, aos tessalonicenses sua nova capacidade de santidade, resultante da capacitação contínua de Deus, o Espírito Santo, que habita neles (1Co 6.19; Gl 3.5). Aqui, a construção no grego enfatiza a palavra “Santo”, que é especialmente apropriada nesse contexto (vv. 3, 7; 3.13, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Ts",
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo afirma autoridade divina não meramente para sua proclamação falada, mas também para suas instruções escritas (ver também 5.27).",
+        "dá o seu Espírito Santo. Paulo lembra, de modo enfático, aos tessalonicenses sua nova capacidade de santidade, resultante da capacitação contínua de Deus, o Espírito Santo, que habita neles (1Co 6.19; Gl 3.5). Aqui, a construção no grego enfatiza a palavra “Santo”, que é especialmente apropriada nesse contexto (vv. 3, 7; 3.13, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo afirma autoridade divina não meramente para sua proclamação falada, mas também para suas instruções escritas (ver também 5.27)."
+        },
+        {
+          "titulo": "dá o seu Espírito Santo.",
+          "texto": "Paulo lembra, de modo enfático, aos tessalonicenses sua nova capacidade de santidade, resultante da capacitação contínua de Deus, o Espírito Santo, que habita neles (1Co 6.19; Gl 3.5). Aqui, a construção no grego enfatiza a palavra “Santo”, que é especialmente apropriada nesse contexto (vv. 3, 7; 3.13, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0030",
+      "referencia": "4.11",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.11 diligenciardes. A palavra grega traduzida",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "diligenciardes. A palavra grega traduzida por esse vocábulo denotava frequentemente a tentativa de acumular honra e reconhecimento civil por meio de manifestações exteriores de generosidade por parte dos ricos. O uso que Paulo faz dessa palavra muda completamente o conceito: os tessalonicenses deveriam ser zelosos pela honra que vem não por meio da autoafirmação ou de exibições ostentosas de grandeza pessoal, e sim por meio de comportamento humilde, laborioso e inculpável. Essa exortação, pertinente a todos os cristãos, tinha uma urgência especial em Tessalônica, onde os cristãos já haviam sido acusados falsamente de sedição (At 17.6-9). Por terem vidas que eram respeitáveis e despretensiosas, os cristãos de Tessalônica deveriam mitigar eventuais suspeitas prolongadas. Esse continua a ser o chamado para todos os crentes.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "diligenciardes. A palavra grega traduzida por esse vocábulo denotava frequentemente a tentativa de acumular honra e reconhecimento civil por meio de manifestações exteriores de generosidade por parte dos ricos. O uso que Paulo faz dessa palavra muda completamente o conceito: os tessalonicenses deveriam ser zelosos pela honra que vem não por meio da autoafirmação ou de exibições ostentosas de grandeza pessoal, e sim por meio de comportamento humilde, laborioso e inculpável. Essa exortação, pertinente a todos os cristãos, tinha uma urgência especial em Tessalônica, onde os cristãos já haviam sido acusados falsamente de sedição (At 17.6-9). Por terem vidas que eram respeitáveis e despretensiosas, os cristãos de Tessalônica deveriam mitigar eventuais suspeitas prolongadas. Esse continua a ser o chamado para todos os crentes."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "diligenciardes.",
+          "texto": "A palavra grega traduzida por esse vocábulo denotava frequentemente a tentativa de acumular honra e reconhecimento civil por meio de manifestações exteriores de generosidade por parte dos ricos. O uso que Paulo faz dessa palavra muda completamente o conceito: os tessalonicenses deveriam ser zelosos pela honra que vem não por meio da autoafirmação ou de exibições ostentosas de grandeza pessoal, e sim por meio de comportamento humilde, laborioso e inculpável. Essa exortação, pertinente a todos os cristãos, tinha uma urgência especial em Tessalônica, onde os cristãos já haviam sido acusados falsamente de sedição (At 17.6-9). Por terem vidas que eram respeitáveis e despretensiosas, os cristãos de Tessalônica deveriam mitigar eventuais suspeitas prolongadas. Esse continua a ser o chamado para todos os crentes."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0031",
+      "referencia": "4.13",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "4.13",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.13 aos que dormem. Essa era uma metafora",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "aos que dormem. Essa era uma metáfora padrão da morte usada entre os pagãos, bem como entre os judeus e cristãos. A expressão não tem nenhuma referência específica ao estado da alma ou à consciência das pessoas que morreram, visto que era usada livremente por grupos que tinham crenças bem diferentes sobre o assunto. Quanto ao entendimento do Novo Testamento sobre uma existência consciente e bendita entre a morte e a ressurreição, ver Lucas 16.19-31; 23.42; João 14.1-3; 2 Coríntios 5.6-8; Filipenses 1.23; Apocalipse 6.9-11; 7.9-17; 20.4-6. Ver nota teológica “O Estado Intermediário”, na p. 2109.\n\nvos entristecerdes. A ressurreição de Cristo proporciona aos cristãos esperança bem fundamentada e segurança de comunhão interminável com ele. Portanto, a tristeza genuína dos cristãos por causa dos irmãos que partiram é suavizada, e eles são sustentados em sua esperança.",
+      "remissoes": [
+        "1ts-rem-4-13-art"
+      ],
+      "links_notas": [
+        {
+          "livro": "Fp",
+          "capitulo": 1,
+          "versiculo": 23
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "aos que dormem. Essa era uma metáfora padrão da morte usada entre os pagãos, bem como entre os judeus e cristãos. A expressão não tem nenhuma referência específica ao estado da alma ou à consciência das pessoas que morreram, visto que era usada livremente por grupos que tinham crenças bem diferentes sobre o assunto. Quanto ao entendimento do Novo Testamento sobre uma existência consciente e bendita entre a morte e a ressurreição, ver Lucas 16.19-31; 23.42; João 14.1-3; 2 Coríntios 5.6-8; Filipenses 1.23; Apocalipse 6.9-11; 7.9-17; 20.4-6. Ver nota teológica “O Estado Intermediário”, na p. 2109.",
+        "vos entristecerdes. A ressurreição de Cristo proporciona aos cristãos esperança bem fundamentada e segurança de comunhão interminável com ele. Portanto, a tristeza genuína dos cristãos por causa dos irmãos que partiram é suavizada, e eles são sustentados em sua esperança."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aos que dormem.",
+          "texto": "Essa era uma metáfora padrão da morte usada entre os pagãos, bem como entre os judeus e cristãos. A expressão não tem nenhuma referência específica ao estado da alma ou à consciência das pessoas que morreram, visto que era usada livremente por grupos que tinham crenças bem diferentes sobre o assunto. Quanto ao entendimento do Novo Testamento sobre uma existência consciente e bendita entre a morte e a ressurreição, ver Lucas 16.19-31; 23.42; João 14.1-3; 2 Coríntios 5.6-8; Filipenses 1.23; Apocalipse 6.9-11; 7.9-17; 20.4-6. Ver nota teológica “O Estado Intermediário”, na p. 2109."
+        },
+        {
+          "titulo": "vos entristecerdes.",
+          "texto": "A ressurreição de Cristo proporciona aos cristãos esperança bem fundamentada e segurança de comunhão interminável com ele. Portanto, a tristeza genuína dos cristãos por causa dos irmãos que partiram é suavizada, e eles são sustentados em sua esperança."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0032",
+      "referencia": "4.14",
+      "capitulo": 4,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "4.14",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.14 Deus, mediante Jesus, trara. Talvez isso",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Deus, mediante Jesus, trará. Talvez isso deva ser entendido como um “trazer” à presença (3.13) e ao reino de Deus pela ressurreição (1Co 6.14; 2Co 4.14), embora alguns creiam que signifique trazer os santos para a terra quando Cristo retornar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus, mediante Jesus, trará. Talvez isso deva ser entendido como um “trazer” à presença (3.13) e ao reino de Deus pela ressurreição (1Co 6.14; 2Co 4.14), embora alguns creiam que signifique trazer os santos para a terra quando Cristo retornar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus, mediante Jesus, trará.",
+          "texto": "Talvez isso deva ser entendido como um “trazer” à presença (3.13) e ao reino de Deus pela ressurreição (1Co 6.14; 2Co 4.14), embora alguns creiam que signifique trazer os santos para a terra quando Cristo retornar."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0033",
+      "referencia": "4.15",
+      "capitulo": 4,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "4.15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.15 de modo algum precederemos. De",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "de modo algum precederemos. De acordo com 2 Esdras, uma obra judaica do século II d.C., aqueles que sobreviverem até a vinda do glorioso Messias são mais benditos do que aqueles que morrerem antes (2Ed 13.14-24). Alguns dos tessalonicenses podem ter ouvido um conceito errado semelhante a esse. Paulo garante aos tessalonicenses que, ao contrário, ambos os grupos desfrutarão de condição idêntica (1Co 15.52), e ambos entrarão juntos na plenitude do reino.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "de modo algum precederemos. De acordo com 2 Esdras, uma obra judaica do século II d.C., aqueles que sobreviverem até a vinda do glorioso Messias são mais benditos do que aqueles que morrerem antes (2Ed 13.14-24). Alguns dos tessalonicenses podem ter ouvido um conceito errado semelhante a esse. Paulo garante aos tessalonicenses que, ao contrário, ambos os grupos desfrutarão de condição idêntica (1Co 15.52), e ambos entrarão juntos na plenitude do reino."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "de modo algum precederemos.",
+          "texto": "De acordo com 2 Esdras, uma obra judaica do século II d.C., aqueles que sobreviverem até a vinda do glorioso Messias são mais benditos do que aqueles que morrerem antes (2Ed 13.14-24). Alguns dos tessalonicenses podem ter ouvido um conceito errado semelhante a esse. Paulo garante aos tessalonicenses que, ao contrário, ambos os grupos desfrutarão de condição idêntica (1Co 15.52), e ambos entrarão juntos na plenitude do reino."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0034",
+      "referencia": "4.16",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "4.16",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.16 os mortos em Cristo ressuscitarao",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "os mortos em Cristo ressuscitarão primeiro. Para Paulo, aqueles que estão “em Cristo” constituem uma subcategoria daqueles que estão “em Adão” (toda a raça humana) e abrangem todos os que participam da salvação de Cristo (1Co 15.22, 23), incluindo os crentes da antiga aliança que viveram antes da encarnação de Cristo e, evidentemente, todos os que creram nele desde a sua encarnação. Portanto, a ressurreição dos “mortos em Cristo” no tempo de seu retorno é uma ressurreição de todos os justos (crentes) mortos, e não meramente dos crentes do Novo Testamento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "os mortos em Cristo ressuscitarão primeiro. Para Paulo, aqueles que estão “em Cristo” constituem uma subcategoria daqueles que estão “em Adão” (toda a raça humana) e abrangem todos os que participam da salvação de Cristo (1Co 15.22, 23), incluindo os crentes da antiga aliança que viveram antes da encarnação de Cristo e, evidentemente, todos os que creram nele desde a sua encarnação. Portanto, a ressurreição dos “mortos em Cristo” no tempo de seu retorno é uma ressurreição de todos os justos (crentes) mortos, e não meramente dos crentes do Novo Testamento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os mortos em Cristo ressuscitarão primeiro.",
+          "texto": "Para Paulo, aqueles que estão “em Cristo” constituem uma subcategoria daqueles que estão “em Adão” (toda a raça humana) e abrangem todos os que participam da salvação de Cristo (1Co 15.22, 23), incluindo os crentes da antiga aliança que viveram antes da encarnação de Cristo e, evidentemente, todos os que creram nele desde a sua encarnação. Portanto, a ressurreição dos “mortos em Cristo” no tempo de seu retorno é uma ressurreição de todos os justos (crentes) mortos, e não meramente dos crentes do Novo Testamento."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0035",
+      "referencia": "4.17",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.17 arrebatados. Esse versiculo e proeminente",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "arrebatados. Esse versículo é proeminente na afirmação do chamado “arrebatamento da Igreja” na teologia dispensacionalista, que, na forma mais comum de dispensacionalismo, refere-se ao arrebatamento dos crentes aos ares para um período de sete anos de tribulação final antes da segunda vinda de Cristo. Embora a palavra “arrebatamento” seja mais comumente usada pelos dispensacionalistas com esse significado específico, pode ser usada corretamente fora de qualquer conotação dispensacional para se referir aos atos de tomar e levar para os ares que Paulo diz que acontecerá no retorno de Cristo. Essa descrição de arrebatar, ou de “arrebatamento” da Igreja, não é apresentada para satisfazer nossa fome por conhecimento detalhado da cronologia do fim do tempo. Por exemplo, o texto não nos diz se a companhia reunida descerá à terra ou retornará ao céu. A apresentação é pastoral, para consolar os entristecidos e confundidos pela morte de cristãos amados. A força da passagem é a segurança de que todos os justos, sem distinção, serão unidos na vinda de Cristo e viverão com o Senhor para sempre (v. 18). A “palavra de ordem”, a “voz” e a “trombeta” do v. 16 dão a nítida impressão de que o arrebatamento será público, e não secreto (Lc 17.24; 21.35; Ap 1.7). Em outra carta, Paulo fala da “última trombeta”, que anunciará a segunda vinda de Cristo e a consequente destruição da morte, o “último inimigo”, na ressurreição dos que estão em Cristo (1Co 15.26; 51-55). Ver nota em 5.1-11.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Ts",
+          "capitulo": 5,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "arrebatados. Esse versículo é proeminente na afirmação do chamado “arrebatamento da Igreja” na teologia dispensacionalista, que, na forma mais comum de dispensacionalismo, refere-se ao arrebatamento dos crentes aos ares para um período de sete anos de tribulação final antes da segunda vinda de Cristo. Embora a palavra “arrebatamento” seja mais comumente usada pelos dispensacionalistas com esse significado específico, pode ser usada corretamente fora de qualquer conotação dispensacional para se referir aos atos de tomar e levar para os ares que Paulo diz que acontecerá no retorno de Cristo. Essa descrição de arrebatar, ou de “arrebatamento” da Igreja, não é apresentada para satisfazer nossa fome por conhecimento detalhado da cronologia do fim do tempo. Por exemplo, o texto não nos diz se a companhia reunida descerá à terra ou retornará ao céu. A apresentação é pastoral, para consolar os entristecidos e confundidos pela morte de cristãos amados. A força da passagem é a segurança de que todos os justos, sem distinção, serão unidos na vinda de Cristo e viverão com o Senhor para sempre (v. 18). A “palavra de ordem”, a “voz” e a “trombeta” do v. 16 dão a nítida impressão de que o arrebatamento será público, e não secreto (Lc 17.24; 21.35; Ap 1.7). Em outra carta, Paulo fala da “última trombeta”, que anunciará a segunda vinda de Cristo e a consequente destruição da morte, o “último inimigo”, na ressurreição dos que estão em Cristo (1Co 15.26; 51-55). Ver nota em 5.1-11."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "arrebatados.",
+          "texto": "Esse versículo é proeminente na afirmação do chamado “arrebatamento da Igreja” na teologia dispensacionalista, que, na forma mais comum de dispensacionalismo, refere-se ao arrebatamento dos crentes aos ares para um período de sete anos de tribulação final antes da segunda vinda de Cristo. Embora a palavra “arrebatamento” seja mais comumente usada pelos dispensacionalistas com esse significado específico, pode ser usada corretamente fora de qualquer conotação dispensacional para se referir aos atos de tomar e levar para os ares que Paulo diz que acontecerá no retorno de Cristo. Essa descrição de arrebatar, ou de “arrebatamento” da Igreja, não é apresentada para satisfazer nossa fome por conhecimento detalhado da cronologia do fim do tempo. Por exemplo, o texto não nos diz se a companhia reunida descerá à terra ou retornará ao céu. A apresentação é pastoral, para consolar os entristecidos e confundidos pela morte de cristãos amados. A força da passagem é a segurança de que todos os justos, sem distinção, serão unidos na vinda de Cristo e viverão com o Senhor para sempre (v. 18). A “palavra de ordem”, a “voz” e a “trombeta” do v. 16 dão a nítida impressão de que o arrebatamento será público, e não secreto (Lc 17.24; 21.35; Ap 1.7). Em outra carta, Paulo fala da “última trombeta”, que anunciará a segunda vinda de Cristo e a consequente destruição da morte, o “último inimigo”, na ressurreição dos que estão em Cristo (1Co 15.26; 51-55). Ver nota em 5.1-11."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0046",
+      "referencia": "5.1-11",
+      "capitulo": 5,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "5.1-11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "5.1-11",
+        "metodo": "cotejo visual V1 das páginas originais",
+        "observacao": "Registro numerado na edição impressa, recuperado de nota vizinha.",
+        "id_anterior": "fr-1ts-0035"
+      },
+      "texto": "Os tessalonicenses são instruídos a se preparar para a mesma coisa que virá inesperadamente sobre os ímpios: o Dia do Senhor (vv. 2, 4). Paulo pressupõe que cristãos e não cristãos estarão igualmente vivos e presentes quando aquele dia chegar. Em outras palavras, o arrebatamento de cristãos mencionado em 4.17 (ver nota em 4.17) não acontecerá antes da chegada do Dia do Senhor, que também trará destruição repentina e inescapável para os ímpios (2Ts 2.1-2, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Ts",
+          "capitulo": 4,
+          "versiculo": 17
+        },
+        {
+          "livro": "2Ts",
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os tessalonicenses são instruídos a se preparar para a mesma coisa que virá inesperadamente sobre os ímpios: o Dia do Senhor (vv. 2, 4). Paulo pressupõe que cristãos e não cristãos estarão igualmente vivos e presentes quando aquele dia chegar. Em outras palavras, o arrebatamento de cristãos mencionado em 4.17 (ver nota em 4.17) não acontecerá antes da chegada do Dia do Senhor, que também trará destruição repentina e inescapável para os ímpios (2Ts 2.1-2, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os tessalonicenses são instruídos a se preparar para a mesma coisa que virá inesperadamente sobre os ímpios: o Dia do Senhor (vv. 2, 4). Paulo pressupõe que cristãos e não cristãos estarão igualmente vivos e presentes quando aquele dia chegar. Em outras palavras, o arrebatamento de cristãos mencionado em 4.17 (ver nota em 4.17) não acontecerá antes da chegada do Dia do Senhor, que também trará destruição repentina e inescapável para os ímpios (2Ts 2.1-2, nota)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0036",
+      "referencia": "5.2",
+      "capitulo": 5,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "5.2",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5,
+          6
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "5.2 o Dia do Senhor. Uma designagao importante",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "o Dia do Senhor. Uma designação importante do dia em que Cristo retornará. É bem conhecida no Antigo Testamento (por exemplo, Jl 2.1, 31; Am 5.18; Sf 1.7, 14; Ml 4.5), em que é usada sobre a vinda de Deus em julgamento. O Novo Testamento também pode falar do Dia do Senhor como tendo começado no derramamento de bênçãos salvíficas por meio do Cristo ressuscitado (cf. At 2.14-36). A associação proeminente, no Antigo Testamento, do Dia do Senhor com julgamento é continuada no Novo Testamento, no qual o último julgamento e as recompensas e punições finais estão em vista (At 17.31; Rm 2.5, 16; 2Co 1.14; 2Pe 3.10-13). Cristo já passou pelo julgamento do Dia do Senhor em favor dos crentes, para que eles não precisem temer o retorno de Cristo (Hb 9.27, 28). Os incrédulos, porém, sentirão a ira de Deus quando o Dia do Senhor for consumado na segunda vinda de Cristo.\n\ncomo ladrão de noite. Ver Mateus 24.43-44; 2 Pedro 3.10; Apocalipse 3.3; 16.15. Paulo parece familiarizado com pelo menos uma parte do discurso de Jesus no Monte das Oliveiras (Mt 24.3-25.46; Mc 13.3-37; Lc 21.5-36).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o Dia do Senhor. Uma designação importante do dia em que Cristo retornará. É bem conhecida no Antigo Testamento (por exemplo, Jl 2.1, 31; Am 5.18; Sf 1.7, 14; Ml 4.5), em que é usada sobre a vinda de Deus em julgamento. O Novo Testamento também pode falar do Dia do Senhor como tendo começado no derramamento de bênçãos salvíficas por meio do Cristo ressuscitado (cf. At 2.14-36). A associação proeminente, no Antigo Testamento, do Dia do Senhor com julgamento é continuada no Novo Testamento, no qual o último julgamento e as recompensas e punições finais estão em vista (At 17.31; Rm 2.5, 16; 2Co 1.14; 2Pe 3.10-13). Cristo já passou pelo julgamento do Dia do Senhor em favor dos crentes, para que eles não precisem temer o retorno de Cristo (Hb 9.27, 28). Os incrédulos, porém, sentirão a ira de Deus quando o Dia do Senhor for consumado na segunda vinda de Cristo.",
+        "como ladrão de noite. Ver Mateus 24.43-44; 2 Pedro 3.10; Apocalipse 3.3; 16.15. Paulo parece familiarizado com pelo menos uma parte do discurso de Jesus no Monte das Oliveiras (Mt 24.3-25.46; Mc 13.3-37; Lc 21.5-36)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o Dia do Senhor.",
+          "texto": "Uma designação importante do dia em que Cristo retornará. É bem conhecida no Antigo Testamento (por exemplo, Jl 2.1, 31; Am 5.18; Sf 1.7, 14; Ml 4.5), em que é usada sobre a vinda de Deus em julgamento. O Novo Testamento também pode falar do Dia do Senhor como tendo começado no derramamento de bênçãos salvíficas por meio do Cristo ressuscitado (cf. At 2.14-36). A associação proeminente, no Antigo Testamento, do Dia do Senhor com julgamento é continuada no Novo Testamento, no qual o último julgamento e as recompensas e punições finais estão em vista (At 17.31; Rm 2.5, 16; 2Co 1.14; 2Pe 3.10-13). Cristo já passou pelo julgamento do Dia do Senhor em favor dos crentes, para que eles não precisem temer o retorno de Cristo (Hb 9.27, 28). Os incrédulos, porém, sentirão a ira de Deus quando o Dia do Senhor for consumado na segunda vinda de Cristo."
+        },
+        {
+          "titulo": "como ladrão de noite.",
+          "texto": "Ver Mateus 24.43-44; 2 Pedro 3.10; Apocalipse 3.3; 16.15. Paulo parece familiarizado com pelo menos uma parte do discurso de Jesus no Monte das Oliveiras (Mt 24.3-25.46; Mc 13.3-37; Lc 21.5-36)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0037",
+      "referencia": "5.8",
+      "capitulo": 5,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "5.8",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.8 Nos... que somos do dia. Vigilancia sobria",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Nós... que somos do dia. Vigilância sóbria convém a soldados que pertencem ao Dia do Senhor (Ef 5.11-17).\n\ncouraça da fé... capacete a esperança da salvação. Como em outros textos referentes à guerra espiritual (Rm 13.12-14; Ef 6.10-17), Paulo ecoa uma passagem do Antigo Testamento que descreve a armadura que o próprio Deus veste quando trava guerra contra os inimigos de seu povo (Is 59.17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Nós... que somos do dia. Vigilância sóbria convém a soldados que pertencem ao Dia do Senhor (Ef 5.11-17).",
+        "couraça da fé... capacete a esperança da salvação. Como em outros textos referentes à guerra espiritual (Rm 13.12-14; Ef 6.10-17), Paulo ecoa uma passagem do Antigo Testamento que descreve a armadura que o próprio Deus veste quando trava guerra contra os inimigos de seu povo (Is 59.17)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Nós... que somos do dia.",
+          "texto": "Vigilância sóbria convém a soldados que pertencem ao Dia do Senhor (Ef 5.11-17)."
+        },
+        {
+          "titulo": "couraça da fé... capacete a esperança da salvação.",
+          "texto": "Como em outros textos referentes à guerra espiritual (Rm 13.12-14; Ef 6.10-17), Paulo ecoa uma passagem do Antigo Testamento que descreve a armadura que o próprio Deus veste quando trava guerra contra os inimigos de seu povo (Is 59.17)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0038",
+      "referencia": "5.9",
+      "capitulo": 5,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "5.9",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.9 Deus nao nos destinou para a ira. Nesse",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Deus não nos destinou para a ira. Nesse contexto, a “ira” é, evidentemente, a condenação e a punição que os impenitentes receberão no “dia da ira” (Rm 2.5; Ef 5.6; Cl 3.6; Ap 6.16-17; 11.18). Deus destinou seu povo para obter a salvação e a glória em Jesus Cristo, e não a ira (1.10; 2Ts 2.14). Mas os tessalonicenses e muitos outros crentes também foram destinados por Deus a sofrer e suportar tribulação de todos os tipos (3.2-4; 2Ts 1.4; Tg 1.2-4; 1Pe 4.12-14; Ap 1.9). Os cristãos não devem interpretar seu próprio sofrimento como a ira de Deus contra eles, porque os crentes não estão destinados à ira. Em vez disso, eles devem ver o sofrimento como parte do plano de Deus em discipliná-los amorosamente e conformá-los à imagem de seu Filho.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus não nos destinou para a ira. Nesse contexto, a “ira” é, evidentemente, a condenação e a punição que os impenitentes receberão no “dia da ira” (Rm 2.5; Ef 5.6; Cl 3.6; Ap 6.16-17; 11.18). Deus destinou seu povo para obter a salvação e a glória em Jesus Cristo, e não a ira (1.10; 2Ts 2.14). Mas os tessalonicenses e muitos outros crentes também foram destinados por Deus a sofrer e suportar tribulação de todos os tipos (3.2-4; 2Ts 1.4; Tg 1.2-4; 1Pe 4.12-14; Ap 1.9). Os cristãos não devem interpretar seu próprio sofrimento como a ira de Deus contra eles, porque os crentes não estão destinados à ira. Em vez disso, eles devem ver o sofrimento como parte do plano de Deus em discipliná-los amorosamente e conformá-los à imagem de seu Filho."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus não nos destinou para a ira.",
+          "texto": "Nesse contexto, a “ira” é, evidentemente, a condenação e a punição que os impenitentes receberão no “dia da ira” (Rm 2.5; Ef 5.6; Cl 3.6; Ap 6.16-17; 11.18). Deus destinou seu povo para obter a salvação e a glória em Jesus Cristo, e não a ira (1.10; 2Ts 2.14). Mas os tessalonicenses e muitos outros crentes também foram destinados por Deus a sofrer e suportar tribulação de todos os tipos (3.2-4; 2Ts 1.4; Tg 1.2-4; 1Pe 4.12-14; Ap 1.9). Os cristãos não devem interpretar seu próprio sofrimento como a ira de Deus contra eles, porque os crentes não estão destinados à ira. Em vez disso, eles devem ver o sofrimento como parte do plano de Deus em discipliná-los amorosamente e conformá-los à imagem de seu Filho."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0039",
+      "referencia": "5.12",
+      "capitulo": 5,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "5.12",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.12 Mesmo nesse estagio inicial na vida da congre-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Mesmo nesse estágio inicial na vida da congregação, havia líderes que tinham cuidado e supervisão espiritual. Paulo aprova uma estima apropriada pelos obreiros e líderes da igreja, exortando os crentes a amá-los e respeitá-los. Jasom (At 17.6-9), Aristarco (At 20.4; 27.2; Cl 4.10; Fm 24), Secundo (At 20.4) e, talvez, Gaio (At 19.29) são alguns dos tessalonicenses citados em outras passagens que poderiam estar na mente de Paulo nessa ocasião.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Mesmo nesse estágio inicial na vida da congregação, havia líderes que tinham cuidado e supervisão espiritual. Paulo aprova uma estima apropriada pelos obreiros e líderes da igreja, exortando os crentes a amá-los e respeitá-los. Jasom (At 17.6-9), Aristarco (At 20.4; 27.2; Cl 4.10; Fm 24), Secundo (At 20.4) e, talvez, Gaio (At 19.29) são alguns dos tessalonicenses citados em outras passagens que poderiam estar na mente de Paulo nessa ocasião."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Mesmo nesse estágio inicial na vida da congregação, havia líderes que tinham cuidado e supervisão espiritual. Paulo aprova uma estima apropriada pelos obreiros e líderes da igreja, exortando os crentes a amá-los e respeitá-los. Jasom (At 17.6-9), Aristarco (At 20.4; 27.2; Cl 4.10; Fm 24), Secundo (At 20.4) e, talvez, Gaio (At 19.29) são alguns dos tessalonicenses citados em outras passagens que poderiam estar na mente de Paulo nessa ocasião."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0040",
+      "referencia": "5.14",
+      "capitulo": 5,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "5.14",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.14 irmaos.Issa maneira de se dirigir a eles (tam-",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "irmãos. Essa maneira de se dirigir a eles (também no v. 12) indica que as exortações seguintes atribuem a responsabilidade pelo ministério a toda a congregação, e não somente a seus líderes reconhecidos.\n\nos insubmissos. O contexto aqui e em 2 Tessalonicenses 3.6, 7, 11 mostra que a forma de insubmissão em vista é uma recusa irresponsável de trabalhar para se sustentar. Ver também 4.11-12.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "irmãos. Essa maneira de se dirigir a eles (também no v. 12) indica que as exortações seguintes atribuem a responsabilidade pelo ministério a toda a congregação, e não somente a seus líderes reconhecidos.",
+        "os insubmissos. O contexto aqui e em 2 Tessalonicenses 3.6, 7, 11 mostra que a forma de insubmissão em vista é uma recusa irresponsável de trabalhar para se sustentar. Ver também 4.11-12."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "irmãos.",
+          "texto": "Essa maneira de se dirigir a eles (também no v. 12) indica que as exortações seguintes atribuem a responsabilidade pelo ministério a toda a congregação, e não somente a seus líderes reconhecidos."
+        },
+        {
+          "titulo": "os insubmissos.",
+          "texto": "O contexto aqui e em 2 Tessalonicenses 3.6, 7, 11 mostra que a forma de insubmissão em vista é uma recusa irresponsável de trabalhar para se sustentar. Ver também 4.11-12."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0041",
+      "referencia": "5.15",
+      "capitulo": 5,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "5.15",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.15 Urn cristao deve tratar os outros com justiga",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Um cristão deve tratar os outros com justiça e trabalhar em favor do bem genuíno deles (Is 56.1; 58.6-8). É uma parte notável da moralidade cristã que o cristão, seguindo o exemplo de Cristo (1Pe 2.21-23), recuse-se a buscar retaliação pessoal (Mt 5.38-42; Rm 12.17-21; 1Co 6.7; 1Pe 3.9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Um cristão deve tratar os outros com justiça e trabalhar em favor do bem genuíno deles (Is 56.1; 58.6-8). É uma parte notável da moralidade cristã que o cristão, seguindo o exemplo de Cristo (1Pe 2.21-23), recuse-se a buscar retaliação pessoal (Mt 5.38-42; Rm 12.17-21; 1Co 6.7; 1Pe 3.9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Um cristão deve tratar os outros com justiça e trabalhar em favor do bem genuíno deles (Is 56.1; 58.6-8). É uma parte notável da moralidade cristã que o cristão, seguindo o exemplo de Cristo (1Pe 2.21-23), recuse-se a buscar retaliação pessoal (Mt 5.38-42; Rm 12.17-21; 1Co 6.7; 1Pe 3.9)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0042",
+      "referencia": "5.19-21",
+      "capitulo": 5,
+      "versiculos": [
+        19,
+        20,
+        21
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 5,
+          "versiculo": 21
+        }
+      ],
+      "titulo": "5.19-21",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.19-21 Paulo admoesta os tessalonicenses a nao",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Paulo admoesta os tessalonicenses a não desprezarem a profecia legítima, que, no tempo em que Paulo estava escrevendo, era um dom existente do Espírito Santo. Tanto Silas como Paulo eram “profetas” (At 13.1; 15.32). No entanto, afirmações de profecia divina têm de ser provadas e não devem ser aceitas acriticamente (2Ts 2.2; cf. 1Co 14.29). Visto que os profetas foram destinados a lançar o fundamento da Igreja, o dom de profecia já passou desde então (cf. Ef 2.19-21).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo admoesta os tessalonicenses a não desprezarem a profecia legítima, que, no tempo em que Paulo estava escrevendo, era um dom existente do Espírito Santo. Tanto Silas como Paulo eram “profetas” (At 13.1; 15.32). No entanto, afirmações de profecia divina têm de ser provadas e não devem ser aceitas acriticamente (2Ts 2.2; cf. 1Co 14.29). Visto que os profetas foram destinados a lançar o fundamento da Igreja, o dom de profecia já passou desde então (cf. Ef 2.19-21)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo admoesta os tessalonicenses a não desprezarem a profecia legítima, que, no tempo em que Paulo estava escrevendo, era um dom existente do Espírito Santo. Tanto Silas como Paulo eram “profetas” (At 13.1; 15.32). No entanto, afirmações de profecia divina têm de ser provadas e não devem ser aceitas acriticamente (2Ts 2.2; cf. 1Co 14.29). Visto que os profetas foram destinados a lançar o fundamento da Igreja, o dom de profecia já passou desde então (cf. Ef 2.19-21)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0043",
+      "referencia": "5.23",
+      "capitulo": 5,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "5.23",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.23 santifique. A completa reparagao de toda",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "santifique. A completa reparação de toda imperfeição humana é não somente possível, como também certa. Deus é fiel e certamente o fará (v. 24). Essa esperança confiante sustenta a busca de santidade por parte do crente, apesar da luta contínua contra a tentação (4.3, 7; ver 1Jo 3.1-3). O elemento tempo precisa ser lembrado. A perfeição final, que incluirá o corpo físico glorificado, será realizada na segunda vinda de Jesus Cristo (3.13; Fp 1.6; 3.20, 21). Ver nota teológica “O Espírito Santo como Santificador”, na p. 2023.\n\nvosso espírito, alma e corpo. Três palavras são usadas para enfatizar a inteireza da perfeição. “Espírito” e “alma” são usados, na Bíblia, como sinônimos do componente espiritual de uma pessoa. Quando as palavras ocorrem juntas (aqui e em Hb 4.12), é difícil vislumbrar qualquer diferença no significado. Compare a apresentação quádrupla de “coração”, “alma”, “entendimento” e “força” em Marcos 12.30.",
+      "remissoes": [
+        "1ts-rem-5-23-art"
+      ],
+      "links_notas": [
+        {
+          "livro": "1Co",
+          "capitulo": 6,
+          "versiculo": 11
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "santifique. A completa reparação de toda imperfeição humana é não somente possível, como também certa. Deus é fiel e certamente o fará (v. 24). Essa esperança confiante sustenta a busca de santidade por parte do crente, apesar da luta contínua contra a tentação (4.3, 7; ver 1Jo 3.1-3). O elemento tempo precisa ser lembrado. A perfeição final, que incluirá o corpo físico glorificado, será realizada na segunda vinda de Jesus Cristo (3.13; Fp 1.6; 3.20, 21). Ver nota teológica “O Espírito Santo como Santificador”, na p. 2023.",
+        "vosso espírito, alma e corpo. Três palavras são usadas para enfatizar a inteireza da perfeição. “Espírito” e “alma” são usados, na Bíblia, como sinônimos do componente espiritual de uma pessoa. Quando as palavras ocorrem juntas (aqui e em Hb 4.12), é difícil vislumbrar qualquer diferença no significado. Compare a apresentação quádrupla de “coração”, “alma”, “entendimento” e “força” em Marcos 12.30."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "santifique.",
+          "texto": "A completa reparação de toda imperfeição humana é não somente possível, como também certa. Deus é fiel e certamente o fará (v. 24). Essa esperança confiante sustenta a busca de santidade por parte do crente, apesar da luta contínua contra a tentação (4.3, 7; ver 1Jo 3.1-3). O elemento tempo precisa ser lembrado. A perfeição final, que incluirá o corpo físico glorificado, será realizada na segunda vinda de Jesus Cristo (3.13; Fp 1.6; 3.20, 21). Ver nota teológica “O Espírito Santo como Santificador”, na p. 2023."
+        },
+        {
+          "titulo": "vosso espírito, alma e corpo.",
+          "texto": "Três palavras são usadas para enfatizar a inteireza da perfeição. “Espírito” e “alma” são usados, na Bíblia, como sinônimos do componente espiritual de uma pessoa. Quando as palavras ocorrem juntas (aqui e em Hb 4.12), é difícil vislumbrar qualquer diferença no significado. Compare a apresentação quádrupla de “coração”, “alma”, “entendimento” e “força” em Marcos 12.30."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    },
+    {
+      "id": "fr-1ts-0044",
+      "referencia": "5.27",
+      "capitulo": 5,
+      "versiculos": [
+        27
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 27
+        }
+      ],
+      "titulo": "5.27",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.27 Conjuro-vos. 0 verbo grego e geralmente",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "texto": "Conjuro-vos. O verbo grego é geralmente forte. Paulo estava colocando sobre toda a congregação a responsabilidade solene de aprender os conteúdos desta epístola, visto que considerava muito importante seu ensino apostólico para o bem espiritual deles (2.13; 4.2, notas).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Ts",
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "livro": "1Ts",
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Conjuro-vos. O verbo grego é geralmente forte. Paulo estava colocando sobre toda a congregação a responsabilidade solene de aprender os conteúdos desta epístola, visto que considerava muito importante seu ensino apostólico para o bem espiritual deles (2.13; 4.2, notas)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Conjuro-vos.",
+          "texto": "O verbo grego é geralmente forte. Paulo estava colocando sobre toda a congregação a responsabilidade solene de aprender os conteúdos desta epístola, visto que considerava muito importante seu ensino apostólico para o bem espiritual deles (2.13; 4.2, notas)."
+        }
+      ],
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "tipo": "nota_de_estudo_ou_comentario_de_secao"
+    }
+  ],
+  "artigos": [
+    {
+      "id": "1ts-art-o-retorno-de-cristo",
+      "titulo": "O Retorno de Cristo",
+      "pagina_original": 4,
+      "paragrafos": [
+        "A Igreja de todas as épocas tem olhado com jubilosa expectativa para o prometido e futuro retorno de Cristo. Assim como o primeiro advento de Cristo garantiu nossa redenção, assim também seu segundo advento é a bendita esperança da Igreja quanto à plena consumação de seu reino.",
+        "A palavra que o Novo Testamento usa mais frequentemente para designar o retorno de Cristo é Parousia. A Parousia se refere à “aparição”, “manifestação” ou “vinda” de Jesus em glória no final do tempo. Refere-se à expectativa da Igreja quanto à prometida Segunda Vinda ou ao Segundo Advento de Cristo.",
+        "A Bíblia ensina que a vinda de Jesus será tanto pessoal como visível. Embora sua vinda seja com poder, incluirá mais do que uma visitação de seu poder. Incluirá sua própria pessoa. Sua vinda não será nem secreta nem invisível. Sua aparição será acompanhada de nuvens de glória, de maneira semelhante à sua partida na Ascensão. Haverá uma fanfarra celestial de clamor audível, acompanhada pela voz de um arcanjo.",
+        "Na vinda de Cristo, a Igreja experimentará um arrebatamento, sendo tomada nos ares para se encontrar com Cristo, quando ele vier. O arrebatamento não será secreto, mas público e manifesto. Seu propósito não será remover os eleitos da terra por um tempo, até que Cristo retorne em uma “segunda” Segunda Vinda. O propósito do arrebatamento é permitir que os santos se encontrem com Cristo nos ares, quando ele retornar, e sejam incluídos em seu cortejo durante sua descida triunfante do céu. A vinda de Cristo dessa maneira será seguida pela ressurreição geral, o julgamento final e o fim do mundo.",
+        "Cristãos de cada geração são chamados a ser vigilantes na espera da Parousia, a fim de que a vinda do Senhor não seja uma surpresa para nós, como um ladrão inesperado que vem à noite. E nós somos exortados a lembrar essa maravilhosa manifestação futura como um encorajamento em nossos labores atuais.",
+        "Ninguém sabe o dia nem a hora do retorno de Cristo. Muitos já tentaram calcular o tempo, apenas para serem envergonhados pelo fracasso de suas predições específicas. A Escritura nos chama à vigilância. Precisamos estar atentos aos sinais da proximidade do Senhor. Embora Cristo tenha demorado por séculos, fazendo a esperança de alguns se desvanecer, cada dia que passa nos coloca mais perto de seu esperado retorno."
+      ],
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 4,
+        "pagina_impressa": 2137,
+        "metodo": "novo cotejo visual do artigo completo, p. 2137; itálicos não codificados"
+      },
+      "estado_editorial": "cotejo_visual_artigo_v1"
+    }
+  ],
+  "remissoes": [
+    {
+      "id": "1ts-rem-4-13-art",
+      "status": "resolvida_indice_global",
+      "titulo": "Estado Intermediário",
+      "citado_em": "fr-1ts-0031",
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "pagina_impressa": 2138,
+        "rotulo_original_ocr": "4.13 aos que dormem. Essa era uma metafora",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "evidencia": "Ver nota teológica “O Estado Intermediário”, na p. 2109.",
+      "artigo_id": "fp-art-o-estado-intermediario",
+      "livro_artigo": "Fp",
+      "arquivo_artigo": "dados/notas/fe-reformada/Fp.json",
+      "pagina_impressa_artigo": 2109,
+      "observacao": "Remissão impressa conferida; abertura direta entre livros pendente no leitor V19."
+    },
+    {
+      "id": "1ts-rem-5-23-art",
+      "status": "resolvida_indice_global",
+      "titulo": "O Espírito Santo como Santificador",
+      "citado_em": "fr-1ts-0043",
+      "origem": {
+        "pdf": "112 - 1 Tessalonicenses (1Ts).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 2139,
+        "rotulo_original_ocr": "5.23 santifique. A completa reparagao de toda",
+        "metodo": "cotejo visual V1 das páginas originais"
+      },
+      "evidencia": "Ver nota teológica “O Espírito Santo como Santificador”, na p. 2023.",
+      "artigo_id": "1co-art-o-espirito-santo-como-santificador",
+      "livro_artigo": "1Co",
+      "arquivo_artigo": "dados/notas/fe-reformada/1Co.json",
+      "pagina_impressa_artigo": 2023,
+      "observacao": "Remissão impressa conferida; abertura direta entre livros pendente no leitor V19."
+    }
+  ]
+}

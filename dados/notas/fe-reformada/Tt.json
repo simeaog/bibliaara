@@ -1,0 +1,2654 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Tt",
+  "titulo": "Tito",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "120 - Tito (Tt)(1).pdf",
+    "paginas_pdf": [
+      1,
+      4
+    ],
+    "observacao": "Cotejo visual das quatro páginas, incluindo notas e margens; segunda leitura independente, itálicos e teste funcional pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-tt-0001",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.1 servo de Deus. Ou \"escravo de Deus\" alguem",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "servo de Deus. Ou “escravo de Deus”, alguém que pertence ou que serve a Deus (Rm 1.1; Fp 1.1).\n\napóstolo de Jesus Cristo. Um homem enviado como testemunha ocular do Cristo ressurreto e como seu representante oficial (2Co 1.1, nota; 1Tm 1.1, nota).\n\npara promover a fé... piedade. O alvo do apostolado de Paulo é a fé em Cristo, que é fundamentada em conhecimento e leva ao viver piedoso por parte dos eleitos de Deus (ver Rm 1.5). Paulo não quer apenas transmitir informação, mas ver o povo de Deus crescendo em piedade ao receber com fé a verdade que ele proclama. Paulo comenta que a manifestação da graça de Deus em Cristo educa os crentes a renunciarem às paixões más e a viverem em santidade (2.11-12), dedicados às boas obras (3.4-8).\n\neleitos de Deus. Aqueles que Deus escolheu para crer em Cristo (cf. Jo 15.16; 1Co 1.26-31; 2Tm 2.10).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "servo de Deus. Ou “escravo de Deus”, alguém que pertence ou que serve a Deus (Rm 1.1; Fp 1.1).",
+        "apóstolo de Jesus Cristo. Um homem enviado como testemunha ocular do Cristo ressurreto e como seu representante oficial (2Co 1.1, nota; 1Tm 1.1, nota).",
+        "para promover a fé... piedade. O alvo do apostolado de Paulo é a fé em Cristo, que é fundamentada em conhecimento e leva ao viver piedoso por parte dos eleitos de Deus (ver Rm 1.5). Paulo não quer apenas transmitir informação, mas ver o povo de Deus crescendo em piedade ao receber com fé a verdade que ele proclama. Paulo comenta que a manifestação da graça de Deus em Cristo educa os crentes a renunciarem às paixões más e a viverem em santidade (2.11-12), dedicados às boas obras (3.4-8).",
+        "eleitos de Deus. Aqueles que Deus escolheu para crer em Cristo (cf. Jo 15.16; 1Co 1.26-31; 2Tm 2.10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "servo de Deus.",
+          "texto": "Ou “escravo de Deus”, alguém que pertence ou que serve a Deus (Rm 1.1; Fp 1.1)."
+        },
+        {
+          "titulo": "apóstolo de Jesus Cristo.",
+          "texto": "Um homem enviado como testemunha ocular do Cristo ressurreto e como seu representante oficial (2Co 1.1, nota; 1Tm 1.1, nota)."
+        },
+        {
+          "titulo": "para promover a fé... piedade.",
+          "texto": "O alvo do apostolado de Paulo é a fé em Cristo, que é fundamentada em conhecimento e leva ao viver piedoso por parte dos eleitos de Deus (ver Rm 1.5). Paulo não quer apenas transmitir informação, mas ver o povo de Deus crescendo em piedade ao receber com fé a verdade que ele proclama. Paulo comenta que a manifestação da graça de Deus em Cristo educa os crentes a renunciarem às paixões más e a viverem em santidade (2.11-12), dedicados às boas obras (3.4-8)."
+        },
+        {
+          "titulo": "eleitos de Deus.",
+          "texto": "Aqueles que Deus escolheu para crer em Cristo (cf. Jo 15.16; 1Co 1.26-31; 2Tm 2.10)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0002",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.2 na esperanga da vida eterna. As bengaos",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "na esperança da vida eterna. As bênçãos garantidas por Cristo que o crente experimenta em parte no presente e em plenitude no retorno de Cristo (1Tm 1.16, nota; 2Tm 1.1).\n\nque não pode mentir. Uma afirmação da plena confiabilidade de Deus (Nm 23.19). Sua Palavra é, portanto, totalmente digna de confiança.\n\nprometeu antes dos tempos eternos. Afirmação da natureza eterna do decreto divino de redenção por meio de Cristo (2Tm 1.9).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "na esperança da vida eterna. As bênçãos garantidas por Cristo que o crente experimenta em parte no presente e em plenitude no retorno de Cristo (1Tm 1.16, nota; 2Tm 1.1).",
+        "que não pode mentir. Uma afirmação da plena confiabilidade de Deus (Nm 23.19). Sua Palavra é, portanto, totalmente digna de confiança.",
+        "prometeu antes dos tempos eternos. Afirmação da natureza eterna do decreto divino de redenção por meio de Cristo (2Tm 1.9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "na esperança da vida eterna.",
+          "texto": "As bênçãos garantidas por Cristo que o crente experimenta em parte no presente e em plenitude no retorno de Cristo (1Tm 1.16, nota; 2Tm 1.1)."
+        },
+        {
+          "titulo": "que não pode mentir.",
+          "texto": "Uma afirmação da plena confiabilidade de Deus (Nm 23.19). Sua Palavra é, portanto, totalmente digna de confiança."
+        },
+        {
+          "titulo": "prometeu antes dos tempos eternos.",
+          "texto": "Afirmação da natureza eterna do decreto divino de redenção por meio de Cristo (2Tm 1.9)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0003",
+      "referencia": "1.3",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "1.3",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.3 Deus, nosso Salvador. Como autor da",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Deus, nosso Salvador. Como autor da aliança de graça, Deus é Salvador (2.10; 3.4; 1Tm 1.1; 2.3; 4.10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deus, nosso Salvador. Como autor da aliança de graça, Deus é Salvador (2.10; 3.4; 1Tm 1.1; 2.3; 4.10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deus, nosso Salvador.",
+          "texto": "Como autor da aliança de graça, Deus é Salvador (2.10; 3.4; 1Tm 1.1; 2.3; 4.10)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.4 Tito. Tito era urn crente gentio (Gl 2.1-3). Se a",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Tito. Tito era um crente gentio (Gl 2.1-3). Se a Epístola aos Gálatas foi escrita antes do Concílio relatado em Atos 15 (ver Introdução a Gálatas: Data e Circunstâncias), a conversão de Tito foi fruto do ministério de Paulo e Barnabé em Antioquia da Síria (At 11.19-30). Enquanto ministrava em Éfeso, Paulo enviou Tito a Corinto numa missão delicada, levando a carta de repreensão que Paulo escrevera em lágrimas, para buscar reconciliação com aquela igreja (2Co 2.1-4, 13; 7.6-9). Paulo confiou em Tito para coordenar a coleta das igrejas gentílicas para o alívio dos crentes da Judeia (2Co 8.16, 23; 12.18). Embora Paulo dirija essa carta especificamente a Tito, tenciona que seja lida para toda a Igreja (3.15, nota).\n\nverdadeiro filho. Literalmente, “filho legítimo” (1Tm 1.2). Isso provavelmente indica que Tito era um dos convertidos de Paulo.\n\ngraça e paz. Ver nota em 1 Timóteo 1.2. Para Paulo, essas duas bênçãos resumem as bênçãos que Cristo garante para seu povo.\n\nCristo Jesus, nosso Salvador. Como Mediador da aliança de graça, Cristo é Salvador (2.13; 3.6; 2Tm 1.10). Nessa carta, Paulo usa o título “Salvador” de modo intercambiável para se referir a Deus e a Cristo (v. 3, nota), refletindo a crença do apóstolo na deidade de Cristo (2.13).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "livro": "Tt",
+          "capitulo": 1,
+          "versiculo": 3
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tito. Tito era um crente gentio (Gl 2.1-3). Se a Epístola aos Gálatas foi escrita antes do Concílio relatado em Atos 15 (ver Introdução a Gálatas: Data e Circunstâncias), a conversão de Tito foi fruto do ministério de Paulo e Barnabé em Antioquia da Síria (At 11.19-30). Enquanto ministrava em Éfeso, Paulo enviou Tito a Corinto numa missão delicada, levando a carta de repreensão que Paulo escrevera em lágrimas, para buscar reconciliação com aquela igreja (2Co 2.1-4, 13; 7.6-9). Paulo confiou em Tito para coordenar a coleta das igrejas gentílicas para o alívio dos crentes da Judeia (2Co 8.16, 23; 12.18). Embora Paulo dirija essa carta especificamente a Tito, tenciona que seja lida para toda a Igreja (3.15, nota).",
+        "verdadeiro filho. Literalmente, “filho legítimo” (1Tm 1.2). Isso provavelmente indica que Tito era um dos convertidos de Paulo.",
+        "graça e paz. Ver nota em 1 Timóteo 1.2. Para Paulo, essas duas bênçãos resumem as bênçãos que Cristo garante para seu povo.",
+        "Cristo Jesus, nosso Salvador. Como Mediador da aliança de graça, Cristo é Salvador (2.13; 3.6; 2Tm 1.10). Nessa carta, Paulo usa o título “Salvador” de modo intercambiável para se referir a Deus e a Cristo (v. 3, nota), refletindo a crença do apóstolo na deidade de Cristo (2.13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tito.",
+          "texto": "Tito era um crente gentio (Gl 2.1-3). Se a Epístola aos Gálatas foi escrita antes do Concílio relatado em Atos 15 (ver Introdução a Gálatas: Data e Circunstâncias), a conversão de Tito foi fruto do ministério de Paulo e Barnabé em Antioquia da Síria (At 11.19-30). Enquanto ministrava em Éfeso, Paulo enviou Tito a Corinto numa missão delicada, levando a carta de repreensão que Paulo escrevera em lágrimas, para buscar reconciliação com aquela igreja (2Co 2.1-4, 13; 7.6-9). Paulo confiou em Tito para coordenar a coleta das igrejas gentílicas para o alívio dos crentes da Judeia (2Co 8.16, 23; 12.18). Embora Paulo dirija essa carta especificamente a Tito, tenciona que seja lida para toda a Igreja (3.15, nota)."
+        },
+        {
+          "titulo": "verdadeiro filho.",
+          "texto": "Literalmente, “filho legítimo” (1Tm 1.2). Isso provavelmente indica que Tito era um dos convertidos de Paulo."
+        },
+        {
+          "titulo": "graça e paz.",
+          "texto": "Ver nota em 1 Timóteo 1.2. Para Paulo, essas duas bênçãos resumem as bênçãos que Cristo garante para seu povo."
+        },
+        {
+          "titulo": "Cristo Jesus, nosso Salvador.",
+          "texto": "Como Mediador da aliança de graça, Cristo é Salvador (2.13; 3.6; 2Tm 1.10). Nessa carta, Paulo usa o título “Salvador” de modo intercambiável para se referir a Deus e a Cristo (v. 3, nota), refletindo a crença do apóstolo na deidade de Cristo (2.13)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0005",
+      "referencia": "1.5-9",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.5-9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.5-9 Paulo avanga para o corpo da carta. A in-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Paulo avança para o corpo da carta. A intenção de Paulo é instruir Tito sobre como agir na qualidade de representante de Paulo em Creta (Introdução: Data e Circunstâncias). Ele começa por discutir a organização da igreja.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo avança para o corpo da carta. A intenção de Paulo é instruir Tito sobre como agir na qualidade de representante de Paulo em Creta (Introdução: Data e Circunstâncias). Ele começa por discutir a organização da igreja."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo avança para o corpo da carta. A intenção de Paulo é instruir Tito sobre como agir na qualidade de representante de Paulo em Creta (Introdução: Data e Circunstâncias). Ele começa por discutir a organização da igreja."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0006",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.5 te deixei em Creta. Uma ilha no Medi-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "te deixei em Creta. Uma ilha no Mediterrâneo Oriental, ao sul do mar Egeu. O navio no qual Paulo foi transportado para Roma (em resposta ao seu apelo ao imperador) entrou brevemente num pequeno porto na costa sulina de Creta, chamado Bons Portos (At 27.7-12). É improvável, porém, que essa parada breve seja o pano de fundo da epístola, por duas razões: (1) a tarefa entregue a Tito, depois da partida de Paulo, pressupõe e segue o ministério evangelístico do apóstolo em Creta; (2) quando Paulo escreve, está livre para viajar e espera passar o inverno em Nicópolis, uma cidade no oeste da Grécia (3.12). O ministério de Paulo e Tito em Creta aconteceu provavelmente depois de sua libertação da primeira prisão em Roma (ver Introdução: Data e Circunstâncias).\n\npusesses em ordem as coisas restantes. Como o restante do versículo deixa claro, o que fora deixado inacabado eram os detalhes pertinentes à organização das igrejas recém-estabelecidas.\n\npresbíteros. Um grupo de homens encarregados da supervisão espiritual e da liderança de uma igreja local (At 14.23; 20.17; 1Tm 5.17). Como o v. 7 deixa claro, Paulo usou essa palavra de modo intercambiável com “bispo”. Paulo apresenta as qualificações para bispos em palavras semelhantes, mas com algumas diferenças, em 1 Timóteo 3.2-7. Paulo não tenciona que a lista seja completa; tenciona apenas indicar o tipo de caráter que devem possuir aqueles que são qualificados para servir como líderes de igreja.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "te deixei em Creta. Uma ilha no Mediterrâneo Oriental, ao sul do mar Egeu. O navio no qual Paulo foi transportado para Roma (em resposta ao seu apelo ao imperador) entrou brevemente num pequeno porto na costa sulina de Creta, chamado Bons Portos (At 27.7-12). É improvável, porém, que essa parada breve seja o pano de fundo da epístola, por duas razões: (1) a tarefa entregue a Tito, depois da partida de Paulo, pressupõe e segue o ministério evangelístico do apóstolo em Creta; (2) quando Paulo escreve, está livre para viajar e espera passar o inverno em Nicópolis, uma cidade no oeste da Grécia (3.12). O ministério de Paulo e Tito em Creta aconteceu provavelmente depois de sua libertação da primeira prisão em Roma (ver Introdução: Data e Circunstâncias).",
+        "pusesses em ordem as coisas restantes. Como o restante do versículo deixa claro, o que fora deixado inacabado eram os detalhes pertinentes à organização das igrejas recém-estabelecidas.",
+        "presbíteros. Um grupo de homens encarregados da supervisão espiritual e da liderança de uma igreja local (At 14.23; 20.17; 1Tm 5.17). Como o v. 7 deixa claro, Paulo usou essa palavra de modo intercambiável com “bispo”. Paulo apresenta as qualificações para bispos em palavras semelhantes, mas com algumas diferenças, em 1 Timóteo 3.2-7. Paulo não tenciona que a lista seja completa; tenciona apenas indicar o tipo de caráter que devem possuir aqueles que são qualificados para servir como líderes de igreja."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "te deixei em Creta.",
+          "texto": "Uma ilha no Mediterrâneo Oriental, ao sul do mar Egeu. O navio no qual Paulo foi transportado para Roma (em resposta ao seu apelo ao imperador) entrou brevemente num pequeno porto na costa sulina de Creta, chamado Bons Portos (At 27.7-12). É improvável, porém, que essa parada breve seja o pano de fundo da epístola, por duas razões: (1) a tarefa entregue a Tito, depois da partida de Paulo, pressupõe e segue o ministério evangelístico do apóstolo em Creta; (2) quando Paulo escreve, está livre para viajar e espera passar o inverno em Nicópolis, uma cidade no oeste da Grécia (3.12). O ministério de Paulo e Tito em Creta aconteceu provavelmente depois de sua libertação da primeira prisão em Roma (ver Introdução: Data e Circunstâncias)."
+        },
+        {
+          "titulo": "pusesses em ordem as coisas restantes.",
+          "texto": "Como o restante do versículo deixa claro, o que fora deixado inacabado eram os detalhes pertinentes à organização das igrejas recém-estabelecidas."
+        },
+        {
+          "titulo": "presbíteros.",
+          "texto": "Um grupo de homens encarregados da supervisão espiritual e da liderança de uma igreja local (At 14.23; 20.17; 1Tm 5.17). Como o v. 7 deixa claro, Paulo usou essa palavra de modo intercambiável com “bispo”. Paulo apresenta as qualificações para bispos em palavras semelhantes, mas com algumas diferenças, em 1 Timóteo 3.2-7. Paulo não tenciona que a lista seja completa; tenciona apenas indicar o tipo de caráter que devem possuir aqueles que são qualificados para servir como líderes de igreja."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0007",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.6 marido de uma so mulher. Talvez uma",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "marido de uma só mulher. Talvez uma referência à fidelidade conjugal (1Tm 3.2, nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 3,
+          "versiculo": 2
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "marido de uma só mulher. Talvez uma referência à fidelidade conjugal (1Tm 3.2, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "marido de uma só mulher.",
+          "texto": "Talvez uma referência à fidelidade conjugal (1Tm 3.2, nota)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0008",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.7 o bispo. A mudanga casual de “presbitero\" para",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o bispo. A mudança casual de “presbítero” para “bispo” mostra que Paulo entende os dois termos como referentes ao mesmo ofício: “presbítero” sugerindo o caráter do indivíduo (maturidade espiritual) e “bispo” sugerindo a tarefa (At 20.17, 28).\n\ndespenseiro de Deus. Despenseiros eram escravos (ver v. 1) que tinham autoridade para administrar os bens de seus senhores e, por isso, prestavam contas a seus senhores pela preservação e a expansão das propriedades deles (Lc 16.1-3). Aqui, Paulo estende a metáfora que aplicara anteriormente a seu próprio ministério (1Co 4.1-2) à responsabilidade de todos os presbíteros (quanto ao mesmo encargo expresso por uma metáfora de pastoreio, ver At 20.28).\n\ncobiçoso de torpe ganância. Um intenso desejo por obter riqueza não deve ser o motivo que impele um homem à liderança de igreja (v. 11; cf. 1Tm 6.5, 10). Mas isso não quer dizer que os líderes de igreja devam viver na pobreza, pois Paulo requer a remuneração de certos líderes de igreja (1Tm 5.17).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o bispo. A mudança casual de “presbítero” para “bispo” mostra que Paulo entende os dois termos como referentes ao mesmo ofício: “presbítero” sugerindo o caráter do indivíduo (maturidade espiritual) e “bispo” sugerindo a tarefa (At 20.17, 28).",
+        "despenseiro de Deus. Despenseiros eram escravos (ver v. 1) que tinham autoridade para administrar os bens de seus senhores e, por isso, prestavam contas a seus senhores pela preservação e a expansão das propriedades deles (Lc 16.1-3). Aqui, Paulo estende a metáfora que aplicara anteriormente a seu próprio ministério (1Co 4.1-2) à responsabilidade de todos os presbíteros (quanto ao mesmo encargo expresso por uma metáfora de pastoreio, ver At 20.28).",
+        "cobiçoso de torpe ganância. Um intenso desejo por obter riqueza não deve ser o motivo que impele um homem à liderança de igreja (v. 11; cf. 1Tm 6.5, 10). Mas isso não quer dizer que os líderes de igreja devam viver na pobreza, pois Paulo requer a remuneração de certos líderes de igreja (1Tm 5.17)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o bispo.",
+          "texto": "A mudança casual de “presbítero” para “bispo” mostra que Paulo entende os dois termos como referentes ao mesmo ofício: “presbítero” sugerindo o caráter do indivíduo (maturidade espiritual) e “bispo” sugerindo a tarefa (At 20.17, 28)."
+        },
+        {
+          "titulo": "despenseiro de Deus.",
+          "texto": "Despenseiros eram escravos (ver v. 1) que tinham autoridade para administrar os bens de seus senhores e, por isso, prestavam contas a seus senhores pela preservação e a expansão das propriedades deles (Lc 16.1-3). Aqui, Paulo estende a metáfora que aplicara anteriormente a seu próprio ministério (1Co 4.1-2) à responsabilidade de todos os presbíteros (quanto ao mesmo encargo expresso por uma metáfora de pastoreio, ver At 20.28)."
+        },
+        {
+          "titulo": "cobiçoso de torpe ganância.",
+          "texto": "Um intenso desejo por obter riqueza não deve ser o motivo que impele um homem à liderança de igreja (v. 11; cf. 1Tm 6.5, 10). Mas isso não quer dizer que os líderes de igreja devam viver na pobreza, pois Paulo requer a remuneração de certos líderes de igreja (1Tm 5.17)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0009",
+      "referencia": "1.8",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2181,
+        "rotulo_original_ocr": "1.8 sobrio. Ou sensivel e sensato. A exigencia de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sóbrio. Ou sensível e sensato. A exigência de autocontrole é a principal ênfase da epístola (2.2, 4-6, 12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sóbrio. Ou sensível e sensato. A exigência de autocontrole é a principal ênfase da epístola (2.2, 4-6, 12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sóbrio.",
+          "texto": "Ou sensível e sensato. A exigência de autocontrole é a principal ênfase da epístola (2.2, 4-6, 12)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0010",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.9 a palavra fiel, que e segundo a doutrina.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "à palavra fiel, que é segundo a doutrina. Como em suas cartas a Timóteo, Paulo está interessado na transmissão e no compromisso com a sã doutrina em harmonia com o evangelho (1Tm 1.10, nota).\n\nconvencer os que o contradizem. Em vista dos falsos mestres em Creta, duas tarefas do presbítero que são especialmente relevantes são ensinar sã doutrina (1Tm 3.2) e refutar aquilo que é falso (At 20.29, 30).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "à palavra fiel, que é segundo a doutrina. Como em suas cartas a Timóteo, Paulo está interessado na transmissão e no compromisso com a sã doutrina em harmonia com o evangelho (1Tm 1.10, nota).",
+        "convencer os que o contradizem. Em vista dos falsos mestres em Creta, duas tarefas do presbítero que são especialmente relevantes são ensinar sã doutrina (1Tm 3.2) e refutar aquilo que é falso (At 20.29, 30)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "à palavra fiel, que é segundo a doutrina.",
+          "texto": "Como em suas cartas a Timóteo, Paulo está interessado na transmissão e no compromisso com a sã doutrina em harmonia com o evangelho (1Tm 1.10, nota)."
+        },
+        {
+          "titulo": "convencer os que o contradizem.",
+          "texto": "Em vista dos falsos mestres em Creta, duas tarefas do presbítero que são especialmente relevantes são ensinar sã doutrina (1Tm 3.2) e refutar aquilo que é falso (At 20.29, 30)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0011",
+      "referencia": "1.10-16",
+      "capitulo": 1,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.10-16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.10-16 A mengao de Paulo acerca da necessidade",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A menção de Paulo acerca da necessidade de refutar falsa doutrina leva-o a uma discussão dos falsos mestres e de como Tito deve lidar com eles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A menção de Paulo acerca da necessidade de refutar falsa doutrina leva-o a uma discussão dos falsos mestres e de como Tito deve lidar com eles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A menção de Paulo acerca da necessidade de refutar falsa doutrina leva-o a uma discussão dos falsos mestres e de como Tito deve lidar com eles."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0012",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.10 os da circuncisao. Essa nao e uma referen-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "os da circuncisão. Essa não é uma referência a cristãos judeus em geral, mas a judeus cristãos que entendiam a circuncisão como necessária à salvação do cristão (At 15.1, 5; Gl 6.12, 13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "os da circuncisão. Essa não é uma referência a cristãos judeus em geral, mas a judeus cristãos que entendiam a circuncisão como necessária à salvação do cristão (At 15.1, 5; Gl 6.12, 13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "os da circuncisão.",
+          "texto": "Essa não é uma referência a cristãos judeus em geral, mas a judeus cristãos que entendiam a circuncisão como necessária à salvação do cristão (At 15.1, 5; Gl 6.12, 13)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0013",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.11 pervertendo casas inteiras. Isso pode",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "pervertendo casas inteiras. Isso pode referir-se à atividade dos falsos mestres em reuniões de igrejas em casas particulares; por isso, a necessidade de melhor organização (v. 5).\n\nensinando o que não devem. O ensino deles não estava em consonância com a sã doutrina (v. 9).\n\npor torpe ganância. Ver nota no v. 7.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "pervertendo casas inteiras. Isso pode referir-se à atividade dos falsos mestres em reuniões de igrejas em casas particulares; por isso, a necessidade de melhor organização (v. 5).",
+        "ensinando o que não devem. O ensino deles não estava em consonância com a sã doutrina (v. 9).",
+        "por torpe ganância. Ver nota no v. 7."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "pervertendo casas inteiras.",
+          "texto": "Isso pode referir-se à atividade dos falsos mestres em reuniões de igrejas em casas particulares; por isso, a necessidade de melhor organização (v. 5)."
+        },
+        {
+          "titulo": "ensinando o que não devem.",
+          "texto": "O ensino deles não estava em consonância com a sã doutrina (v. 9)."
+        },
+        {
+          "titulo": "por torpe ganância.",
+          "texto": "Ver nota no v. 7."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0014",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.12 um seu profeta. Paulo rita Epimemdes.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "um seu profeta. Paulo cita Epimênides, poeta e reformador religioso do século VI a.C., da cidade de Cnossos, em Creta, que era conhecido por suas predições e sabedoria. Paulo não o está colocando no mesmo nível dos profetas do Antigo Testamento; está apenas apelando à estima mantida em relação a Epimênides no mundo antigo e confirmando a exatidão das observações de Epimênides concernentes aos defeitos éticos que caracterizavam seus patrícios.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "um seu profeta. Paulo cita Epimênides, poeta e reformador religioso do século VI a.C., da cidade de Cnossos, em Creta, que era conhecido por suas predições e sabedoria. Paulo não o está colocando no mesmo nível dos profetas do Antigo Testamento; está apenas apelando à estima mantida em relação a Epimênides no mundo antigo e confirmando a exatidão das observações de Epimênides concernentes aos defeitos éticos que caracterizavam seus patrícios."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "um seu profeta.",
+          "texto": "Paulo cita Epimênides, poeta e reformador religioso do século VI a.C., da cidade de Cnossos, em Creta, que era conhecido por suas predições e sabedoria. Paulo não o está colocando no mesmo nível dos profetas do Antigo Testamento; está apenas apelando à estima mantida em relação a Epimênides no mundo antigo e confirmando a exatidão das observações de Epimênides concernentes aos defeitos éticos que caracterizavam seus patrícios."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0015",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.13 repreende-os... sejam. Paulo queria dizer",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "repreende-os... sejam. Paulo queria dizer os falsos mestres (2Tm 2.25-26) e talvez os seguidores deles.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "repreende-os... sejam. Paulo queria dizer os falsos mestres (2Tm 2.25-26) e talvez os seguidores deles."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "repreende-os... sejam.",
+          "texto": "Paulo queria dizer os falsos mestres (2Tm 2.25-26) e talvez os seguidores deles."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0016",
+      "referencia": "1.14",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.14",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.14 fabulas judaicas. Talvez uma referenda",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "fábulas judaicas. Talvez uma referência aos tipos de lenda sobre personagens do Antigo Testamento que se encontram em muitos escritos judaicos não canônicos (1Tm 1.4; 4.7; 2Tm 4.4).\n\nmandamentos. São provavelmente relacionados às interpretações distintivas e errôneas da lei judaica formuladas pelos falsos mestres (3.9; 1Tm 1.7; 4.3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "fábulas judaicas. Talvez uma referência aos tipos de lenda sobre personagens do Antigo Testamento que se encontram em muitos escritos judaicos não canônicos (1Tm 1.4; 4.7; 2Tm 4.4).",
+        "mandamentos. São provavelmente relacionados às interpretações distintivas e errôneas da lei judaica formuladas pelos falsos mestres (3.9; 1Tm 1.7; 4.3)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fábulas judaicas.",
+          "texto": "Talvez uma referência aos tipos de lenda sobre personagens do Antigo Testamento que se encontram em muitos escritos judaicos não canônicos (1Tm 1.4; 4.7; 2Tm 4.4)."
+        },
+        {
+          "titulo": "mandamentos.",
+          "texto": "São provavelmente relacionados às interpretações distintivas e errôneas da lei judaica formuladas pelos falsos mestres (3.9; 1Tm 1.7; 4.3)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0017",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "1.15 Todas as coisas sao puras para os",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Todas as coisas são puras para os puros. Parece que os falsos mestres proibiam certas coisas que Deus permite que seu povo use (1Tm 4.3, nota). Quanto à resposta de Paulo, ver 1 Timóteo 4.3-5.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Todas as coisas são puras para os puros. Parece que os falsos mestres proibiam certas coisas que Deus permite que seu povo use (1Tm 4.3, nota). Quanto à resposta de Paulo, ver 1 Timóteo 4.3-5."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Todas as coisas são puras para os puros.",
+          "texto": "Parece que os falsos mestres proibiam certas coisas que Deus permite que seu povo use (1Tm 4.3, nota). Quanto à resposta de Paulo, ver 1 Timóteo 4.3-5."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0046",
+      "origem": {
+        "rotulo_original_ocr": null,
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "metodo": "cotejo visual V1"
+      },
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 2,
+      "paragrafos_formatados": [
+        {
+          "titulo": "o negam.",
+          "texto": "O Novo Testamento ensina que a falta de ações coerentes com uma vida mudada torna suspeita a fé em Cristo que alguém confessa ter (Mt 7.16-20; Tg 2.14-16; 1Jo 3.17)."
+        },
+        {
+          "titulo": "por suas obras.",
+          "texto": "Paulo condena não somente a doutrina dos falsos mestres, mas também as ações deles (2Tm 3.2-5). Tanto a sã doutrina como as ações em harmonia com uma vida mudada são necessárias aos cristãos (ver 1.1, 2)."
+        }
+      ],
+      "paragrafos": [
+        "o negam. O Novo Testamento ensina que a falta de ações coerentes com uma vida mudada torna suspeita a fé em Cristo que alguém confessa ter (Mt 7.16-20; Tg 2.14-16; 1Jo 3.17).",
+        "por suas obras. Paulo condena não somente a doutrina dos falsos mestres, mas também as ações deles (2Tm 3.2-5). Tanto a sã doutrina como as ações em harmonia com uma vida mudada são necessárias aos cristãos (ver 1.1, 2)."
+      ],
+      "texto": "o negam. O Novo Testamento ensina que a falta de ações coerentes com uma vida mudada torna suspeita a fé em Cristo que alguém confessa ter (Mt 7.16-20; Tg 2.14-16; 1Jo 3.17).\n\npor suas obras. Paulo condena não somente a doutrina dos falsos mestres, mas também as ações deles (2Tm 3.2-5). Tanto a sã doutrina como as ações em harmonia com uma vida mudada são necessárias aos cristãos (ver 1.1, 2).",
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "remissoes": [],
+      "links_notas": []
+    },
+    {
+      "id": "fr-tt-0018",
+      "referencia": "2.1-15",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.1-15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.1-15 Paulo se volta agora para as coisas que",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Paulo se volta agora para as coisas que Tito, em contraste com os falsos mestres, deve ensinar, concluindo com uma meditação sobre a graça de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo se volta agora para as coisas que Tito, em contraste com os falsos mestres, deve ensinar, concluindo com uma meditação sobre a graça de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo se volta agora para as coisas que Tito, em contraste com os falsos mestres, deve ensinar, concluindo com uma meditação sobre a graça de Deus."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0019",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.1 sa doutrina. A palavia \"sa\" da a entender que",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sã doutrina. A palavra “sã” dá a entender que a verdadeira doutrina preserva e promove saúde espiritual (ver 1.9). Ver nota em 1 Timóteo 1.10.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sã doutrina. A palavra “sã” dá a entender que a verdadeira doutrina preserva e promove saúde espiritual (ver 1.9). Ver nota em 1 Timóteo 1.10."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sã doutrina.",
+          "texto": "A palavra “sã” dá a entender que a verdadeira doutrina preserva e promove saúde espiritual (ver 1.9). Ver nota em 1 Timóteo 1.10."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0020",
+      "referencia": "2.2-9",
+      "capitulo": 2,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.2-9",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.2-9 Como em 1 Timoteo 5.1-2. Paulo prescreve",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Como em 1 Timóteo 5.1-2, Paulo prescreve instruções que devem ser dadas a vários grupos (homens idosos, mulheres idosas, mulheres jovens, moços e servos) referentes a virtudes e comportamento que constituem uma resposta apropriada, para cada grupo, à graça do evangelho.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Como em 1 Timóteo 5.1-2, Paulo prescreve instruções que devem ser dadas a vários grupos (homens idosos, mulheres idosas, mulheres jovens, moços e servos) referentes a virtudes e comportamento que constituem uma resposta apropriada, para cada grupo, à graça do evangelho."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Como em 1 Timóteo 5.1-2, Paulo prescreve instruções que devem ser dadas a vários grupos (homens idosos, mulheres idosas, mulheres jovens, moços e servos) referentes a virtudes e comportamento que constituem uma resposta apropriada, para cada grupo, à graça do evangelho."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0021",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.2 sensatos. A qualidade de sensatez predomi-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sensatos. A qualidade de sensatez predomina no conselho de Paulo nesta seção (vv. 4-6, 12; 1.8 e nota).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sensatos. A qualidade de sensatez predomina no conselho de Paulo nesta seção (vv. 4-6, 12; 1.8 e nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sensatos.",
+          "texto": "A qualidade de sensatez predomina no conselho de Paulo nesta seção (vv. 4-6, 12; 1.8 e nota)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0022",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.3 mulheres idosas. Estas devem exibir a",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "mulheres idosas. Estas devem exibir a maturidade espiritual apropriada ao seu papel de ensino e devem também ser, para as mulheres jovens, exemplo de seus papéis como esposas e mães cristãs.\n\nmestras do bem. Talvez, como sugere o versículo seguinte, no sentido do seu viver no lar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "mulheres idosas. Estas devem exibir a maturidade espiritual apropriada ao seu papel de ensino e devem também ser, para as mulheres jovens, exemplo de seus papéis como esposas e mães cristãs.",
+        "mestras do bem. Talvez, como sugere o versículo seguinte, no sentido do seu viver no lar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mulheres idosas.",
+          "texto": "Estas devem exibir a maturidade espiritual apropriada ao seu papel de ensino e devem também ser, para as mulheres jovens, exemplo de seus papéis como esposas e mães cristãs."
+        },
+        {
+          "titulo": "mestras do bem.",
+          "texto": "Talvez, como sugere o versículo seguinte, no sentido do seu viver no lar."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0023",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.4 instruirem. Ou seja, “trazerem-nas ao seu",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "instruírem. Ou seja, “trazerem-nas ao seu senso”. Trata-se de uma forma verbal do adjetivo traduzido por “sensatos” (v. 2) e “sensatas” (v. 5) nesta seção. Paulo talvez tivesse em mente os tipos de problemas que algumas das viúvas mais novas enfrentavam em Éfeso (1Tm 5.11-13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "instruírem. Ou seja, “trazerem-nas ao seu senso”. Trata-se de uma forma verbal do adjetivo traduzido por “sensatos” (v. 2) e “sensatas” (v. 5) nesta seção. Paulo talvez tivesse em mente os tipos de problemas que algumas das viúvas mais novas enfrentavam em Éfeso (1Tm 5.11-13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "instruírem.",
+          "texto": "Ou seja, “trazerem-nas ao seu senso”. Trata-se de uma forma verbal do adjetivo traduzido por “sensatos” (v. 2) e “sensatas” (v. 5) nesta seção. Paulo talvez tivesse em mente os tipos de problemas que algumas das viúvas mais novas enfrentavam em Éfeso (1Tm 5.11-13)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0024",
+      "referencia": "2.5",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "2.5",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2,
+          3
+        ],
+        "pagina_impressa": 2182,
+        "rotulo_original_ocr": "2.5 sensatas. Literalmente, \"mentes sadias\" (vv.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "sensatas. Literalmente, “mentes sadias” (vv. 2, 4, 6, 12; 1.8, nota).\n\nboas donas de casa. Ou “ocupadas no lar”. Isso não proíbe a sua atividade em outros lugares. Paulo está interessado em prevenir essas mulheres da ociosidade e de serem intrometidas em coisas alheias. Contraste o comportamento de algumas das viúvas mais novas em Éfeso (1Tm 5.13).\n\nsujeitas. Uma parte de serem “sensatas” é abraçarem a ordem que Deus estabeleceu para o lar. Ver nota em 1 Timóteo 2.11.\n\na palavra de Deus não seja difamada. O interesse supremo de Paulo em toda esta seção é que o comportamento dos cristãos reflita positivamente o evangelho (vv. 8, 10; ver 1Pe 3.1-6).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "sensatas. Literalmente, “mentes sadias” (vv. 2, 4, 6, 12; 1.8, nota).",
+        "boas donas de casa. Ou “ocupadas no lar”. Isso não proíbe a sua atividade em outros lugares. Paulo está interessado em prevenir essas mulheres da ociosidade e de serem intrometidas em coisas alheias. Contraste o comportamento de algumas das viúvas mais novas em Éfeso (1Tm 5.13).",
+        "sujeitas. Uma parte de serem “sensatas” é abraçarem a ordem que Deus estabeleceu para o lar. Ver nota em 1 Timóteo 2.11.",
+        "a palavra de Deus não seja difamada. O interesse supremo de Paulo em toda esta seção é que o comportamento dos cristãos reflita positivamente o evangelho (vv. 8, 10; ver 1Pe 3.1-6)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "sensatas.",
+          "texto": "Literalmente, “mentes sadias” (vv. 2, 4, 6, 12; 1.8, nota)."
+        },
+        {
+          "titulo": "boas donas de casa.",
+          "texto": "Ou “ocupadas no lar”. Isso não proíbe a sua atividade em outros lugares. Paulo está interessado em prevenir essas mulheres da ociosidade e de serem intrometidas em coisas alheias. Contraste o comportamento de algumas das viúvas mais novas em Éfeso (1Tm 5.13)."
+        },
+        {
+          "titulo": "sujeitas.",
+          "texto": "Uma parte de serem “sensatas” é abraçarem a ordem que Deus estabeleceu para o lar. Ver nota em 1 Timóteo 2.11."
+        },
+        {
+          "titulo": "a palavra de Deus não seja difamada.",
+          "texto": "O interesse supremo de Paulo em toda esta seção é que o comportamento dos cristãos reflita positivamente o evangelho (vv. 8, 10; ver 1Pe 3.1-6)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0025",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.7 Torna-te... padrao. Paulo da um conselho",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Torna-te... padrão. Paulo dá um conselho semelhante a Timóteo (1Tm 4.12, nota).\n\nboas obras. Um dos principais temas de Paulo nesta carta daqui em diante (v. 14; 3.1, 8, 14). É principalmente por fazerem boas obras que os crentes recomendam o evangelho aos não cristãos.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 4,
+          "versiculo": 12
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Torna-te... padrão. Paulo dá um conselho semelhante a Timóteo (1Tm 4.12, nota).",
+        "boas obras. Um dos principais temas de Paulo nesta carta daqui em diante (v. 14; 3.1, 8, 14). É principalmente por fazerem boas obras que os crentes recomendam o evangelho aos não cristãos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Torna-te... padrão.",
+          "texto": "Paulo dá um conselho semelhante a Timóteo (1Tm 4.12, nota)."
+        },
+        {
+          "titulo": "boas obras.",
+          "texto": "Um dos principais temas de Paulo nesta carta daqui em diante (v. 14; 3.1, 8, 14). É principalmente por fazerem boas obras que os crentes recomendam o evangelho aos não cristãos."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0026",
+      "referencia": "2.9",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "2.9",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.9 servos. Paulo da instrugoes aos servos em",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "servos. Paulo dá instruções aos servos em Efésios 6.5-8; Colossenses 3.22-25 e 1 Timóteo 6.1-2. Paulo não afirma a escravidão como um bem positivo. Em vez disso, ele exorta os servos e os senhores a viverem de um modo que honre a Deus no relacionamento mútuo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "servos. Paulo dá instruções aos servos em Efésios 6.5-8; Colossenses 3.22-25 e 1 Timóteo 6.1-2. Paulo não afirma a escravidão como um bem positivo. Em vez disso, ele exorta os servos e os senhores a viverem de um modo que honre a Deus no relacionamento mútuo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "servos.",
+          "texto": "Paulo dá instruções aos servos em Efésios 6.5-8; Colossenses 3.22-25 e 1 Timóteo 6.1-2. Paulo não afirma a escravidão como um bem positivo. Em vez disso, ele exorta os servos e os senhores a viverem de um modo que honre a Deus no relacionamento mútuo."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0027",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.10 omarem... a doutrina de Deus. Ver",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "ornarem... a doutrina de Deus. Ver notas nos vv. 5 e 7. Enquanto o interesse de Paulo exibido nos vv. 5 e 8 era impedir ocasiões de críticas justificáveis por parte daqueles de fora da Igreja, aqui ele motiva os servos com a perspectiva positiva de que seu serviço fiel manifestará a beleza do evangelho.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "livro": "Tt",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ornarem... a doutrina de Deus. Ver notas nos vv. 5 e 7. Enquanto o interesse de Paulo exibido nos vv. 5 e 8 era impedir ocasiões de críticas justificáveis por parte daqueles de fora da Igreja, aqui ele motiva os servos com a perspectiva positiva de que seu serviço fiel manifestará a beleza do evangelho."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ornarem... a doutrina de Deus.",
+          "texto": "Ver notas nos vv. 5 e 7. Enquanto o interesse de Paulo exibido nos vv. 5 e 8 era impedir ocasiões de críticas justificáveis por parte daqueles de fora da Igreja, aqui ele motiva os servos com a perspectiva positiva de que seu serviço fiel manifestará a beleza do evangelho."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0028",
+      "referencia": "2.11-14",
+      "capitulo": 2,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.11-14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.11-14 Estes versiculos oferecem a base teologi-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Estes versículos oferecem a base teológica para as instruções práticas dadas nos vv. 2-10, mostrando que a graça de Deus salvadora e o sofrimento redentor de Jesus Cristo estão direcionados ao propósito do viver piedoso e das boas obras do povo redimido de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Estes versículos oferecem a base teológica para as instruções práticas dadas nos vv. 2-10, mostrando que a graça de Deus salvadora e o sofrimento redentor de Jesus Cristo estão direcionados ao propósito do viver piedoso e das boas obras do povo redimido de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Estes versículos oferecem a base teológica para as instruções práticas dadas nos vv. 2-10, mostrando que a graça de Deus salvadora e o sofrimento redentor de Jesus Cristo estão direcionados ao propósito do viver piedoso e das boas obras do povo redimido de Deus."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0029",
+      "referencia": "2.11",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2.11",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.11 a graga de Deus. 0 favor ou a compaixao",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a graça de Deus. O favor ou a compaixão imerecidos de Deus.\n\nse manifestou. Ou seja, na pessoa e na obra de Jesus Cristo (3.4, 6; cf. 2Tm 1.10).\n\nsalvadora. O propósito de Deus em estender graça aos pecadores é a salvação deles (3.4-7; cf. 2Tm 1.9).\n\na todos os homens. Todos os tipos de pessoas, independentemente de gênero, idade ou classe social, estão em vista (vv. 2-10; 1Tm 2.1-6). Ver notas em 1 Timóteo 2.1, 6 e nota teológica “Expiação Definida”, na p. 1875.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "livro": "1Tm",
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 6
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a graça de Deus. O favor ou a compaixão imerecidos de Deus.",
+        "se manifestou. Ou seja, na pessoa e na obra de Jesus Cristo (3.4, 6; cf. 2Tm 1.10).",
+        "salvadora. O propósito de Deus em estender graça aos pecadores é a salvação deles (3.4-7; cf. 2Tm 1.9).",
+        "a todos os homens. Todos os tipos de pessoas, independentemente de gênero, idade ou classe social, estão em vista (vv. 2-10; 1Tm 2.1-6). Ver notas em 1 Timóteo 2.1, 6 e nota teológica “Expiação Definida”, na p. 1875."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a graça de Deus.",
+          "texto": "O favor ou a compaixão imerecidos de Deus."
+        },
+        {
+          "titulo": "se manifestou.",
+          "texto": "Ou seja, na pessoa e na obra de Jesus Cristo (3.4, 6; cf. 2Tm 1.10)."
+        },
+        {
+          "titulo": "salvadora.",
+          "texto": "O propósito de Deus em estender graça aos pecadores é a salvação deles (3.4-7; cf. 2Tm 1.9)."
+        },
+        {
+          "titulo": "a todos os homens.",
+          "texto": "Todos os tipos de pessoas, independentemente de gênero, idade ou classe social, estão em vista (vv. 2-10; 1Tm 2.1-6). Ver notas em 1 Timóteo 2.1, 6 e nota teológica “Expiação Definida”, na p. 1875."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0030",
+      "referencia": "2.13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2.13",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.13 a bendita esperanga e a manifestagao",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "a bendita esperança e a manifestação da glória. A segunda vinda de Cristo (1Tm 6.14; 2Tm 4.1, 8). Ver nota teológica “Esperança”, na p. 2206.\n\nnosso grande Deus e Salvador Cristo Jesus. No grego, essa construção identifica o “Salvador Cristo Jesus” com “nosso grande Deus”. Aqui Paulo afirma claramente a deidade de Cristo (cf. Rm 9.5; Jo 1.1; 20.28).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Hb",
+          "capitulo": 6,
+          "versiculo": 18
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a bendita esperança e a manifestação da glória. A segunda vinda de Cristo (1Tm 6.14; 2Tm 4.1, 8). Ver nota teológica “Esperança”, na p. 2206.",
+        "nosso grande Deus e Salvador Cristo Jesus. No grego, essa construção identifica o “Salvador Cristo Jesus” com “nosso grande Deus”. Aqui Paulo afirma claramente a deidade de Cristo (cf. Rm 9.5; Jo 1.1; 20.28)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a bendita esperança e a manifestação da glória.",
+          "texto": "A segunda vinda de Cristo (1Tm 6.14; 2Tm 4.1, 8). Ver nota teológica “Esperança”, na p. 2206."
+        },
+        {
+          "titulo": "nosso grande Deus e Salvador Cristo Jesus.",
+          "texto": "No grego, essa construção identifica o “Salvador Cristo Jesus” com “nosso grande Deus”. Aqui Paulo afirma claramente a deidade de Cristo (cf. Rm 9.5; Jo 1.1; 20.28)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0031",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.14 o qual a si mesmo se deu por nos. Ou",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "o qual a si mesmo se deu por nós. Ou seja, na cruz. Paulo expressa, em seguida, dois propósitos da obra de Cristo na cruz.\n\nremir-nos de toda iniquidade. O primeiro alvo de Paulo focaliza o indivíduo. Cristo pagou o preço necessário para libertar as pessoas de seus pecados (Mt 20.28; Mc 10.45; 1Tm 2.6; 1Pe 1.18-19).\n\npurificar, para si mesmo, um povo exclusivamente seu. O segundo alvo de Paulo focaliza a Igreja. Cristo purifica os indivíduos de seus pecados (Hb 9.14; 1Jo 1.7, 9), para que, juntos, constituam um povo especial para ele (Êx 19.5; Ez 37.23; 1Pe 2.9). Quanto à purificação da Igreja por Cristo, ver Efésios 5.25-27.\n\nzeloso de boas obras. Ver nota no v. 7. Longe de fomentar a complacência, a graça redentora de Cristo motiva ainda mais fortemente o amor agradecido do crente, que se expressa em obediência (Lc 7.41-47; 1Co 15.8-10; Fp 3.7-14).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o qual a si mesmo se deu por nós. Ou seja, na cruz. Paulo expressa, em seguida, dois propósitos da obra de Cristo na cruz.",
+        "remir-nos de toda iniquidade. O primeiro alvo de Paulo focaliza o indivíduo. Cristo pagou o preço necessário para libertar as pessoas de seus pecados (Mt 20.28; Mc 10.45; 1Tm 2.6; 1Pe 1.18-19).",
+        "purificar, para si mesmo, um povo exclusivamente seu. O segundo alvo de Paulo focaliza a Igreja. Cristo purifica os indivíduos de seus pecados (Hb 9.14; 1Jo 1.7, 9), para que, juntos, constituam um povo especial para ele (Êx 19.5; Ez 37.23; 1Pe 2.9). Quanto à purificação da Igreja por Cristo, ver Efésios 5.25-27.",
+        "zeloso de boas obras. Ver nota no v. 7. Longe de fomentar a complacência, a graça redentora de Cristo motiva ainda mais fortemente o amor agradecido do crente, que se expressa em obediência (Lc 7.41-47; 1Co 15.8-10; Fp 3.7-14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o qual a si mesmo se deu por nós.",
+          "texto": "Ou seja, na cruz. Paulo expressa, em seguida, dois propósitos da obra de Cristo na cruz."
+        },
+        {
+          "titulo": "remir-nos de toda iniquidade.",
+          "texto": "O primeiro alvo de Paulo focaliza o indivíduo. Cristo pagou o preço necessário para libertar as pessoas de seus pecados (Mt 20.28; Mc 10.45; 1Tm 2.6; 1Pe 1.18-19)."
+        },
+        {
+          "titulo": "purificar, para si mesmo, um povo exclusivamente seu.",
+          "texto": "O segundo alvo de Paulo focaliza a Igreja. Cristo purifica os indivíduos de seus pecados (Hb 9.14; 1Jo 1.7, 9), para que, juntos, constituam um povo especial para ele (Êx 19.5; Ez 37.23; 1Pe 2.9). Quanto à purificação da Igreja por Cristo, ver Efésios 5.25-27."
+        },
+        {
+          "titulo": "zeloso de boas obras.",
+          "texto": "Ver nota no v. 7. Longe de fomentar a complacência, a graça redentora de Cristo motiva ainda mais fortemente o amor agradecido do crente, que se expressa em obediência (Lc 7.41-47; 1Co 15.8-10; Fp 3.7-14)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0032",
+      "referencia": "2.15",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "2.15",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "2.15 exorta e repreende. Um resumo apro-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "exorta e repreende. Um resumo apropriado das duas dimensões do encargo que Paulo deu a Tito nos vv. 2-10 e 1.10-16.\n\ncom toda a autoridade. Ou seja, como representante de Paulo e como um presbítero na igreja Igreja de Cristo.\n\nNinguém te despreze. Ver v. 8; 1 Timóteo 4.12.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "exorta e repreende. Um resumo apropriado das duas dimensões do encargo que Paulo deu a Tito nos vv. 2-10 e 1.10-16.",
+        "com toda a autoridade. Ou seja, como representante de Paulo e como um presbítero na igreja Igreja de Cristo.",
+        "Ninguém te despreze. Ver v. 8; 1 Timóteo 4.12."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "exorta e repreende.",
+          "texto": "Um resumo apropriado das duas dimensões do encargo que Paulo deu a Tito nos vv. 2-10 e 1.10-16."
+        },
+        {
+          "titulo": "com toda a autoridade.",
+          "texto": "Ou seja, como representante de Paulo e como um presbítero na igreja Igreja de Cristo."
+        },
+        {
+          "titulo": "Ninguém te despreze.",
+          "texto": "Ver v. 8; 1 Timóteo 4.12."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0047",
+      "origem": {
+        "rotulo_original_ocr": null,
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "metodo": "cotejo visual V1"
+      },
+      "referencia": "3.1-8",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.1-8",
+      "pagina_original": 3,
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Havendo dado instruções para grupos específicos, Paulo agora dá a Tito um conselho geral, centrado em outra meditação sobre a graça de Deus, a respeito de encorajar as pessoas a fazerem “toda boa obra” (v. 1)."
+        }
+      ],
+      "paragrafos": [
+        "Havendo dado instruções para grupos específicos, Paulo agora dá a Tito um conselho geral, centrado em outra meditação sobre a graça de Deus, a respeito de encorajar as pessoas a fazerem “toda boa obra” (v. 1)."
+      ],
+      "texto": "Havendo dado instruções para grupos específicos, Paulo agora dá a Tito um conselho geral, centrado em outra meditação sobre a graça de Deus, a respeito de encorajar as pessoas a fazerem “toda boa obra” (v. 1).",
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "remissoes": [],
+      "links_notas": []
+    },
+    {
+      "id": "fr-tt-0033",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "3.1 aos que governam, as autoridades.",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "aos que governam, às autoridades. Quanto à submissão cristã às autoridades que exercem governo, ver Romanos 13.1-7; 1 Pedro 2.13-17; cf. 1 Timóteo 2.2.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "aos que governam, às autoridades. Quanto à submissão cristã às autoridades que exercem governo, ver Romanos 13.1-7; 1 Pedro 2.13-17; cf. 1 Timóteo 2.2."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aos que governam, às autoridades.",
+          "texto": "Quanto à submissão cristã às autoridades que exercem governo, ver Romanos 13.1-7; 1 Pedro 2.13-17; cf. 1 Timóteo 2.2."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0034",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "3.3 Este versiculo apresenta uma descrigao vivida",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Este versículo apresenta uma descrição vívida da depravação do homem sem Cristo (Ef 2.1-3; Rm 1.28-32).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Este versículo apresenta uma descrição vívida da depravação do homem sem Cristo (Ef 2.1-3; Rm 1.28-32)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Este versículo apresenta uma descrição vívida da depravação do homem sem Cristo (Ef 2.1-3; Rm 1.28-32)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0035",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "3.4 Quando, porem, se manifestou a be-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Quando, porém, se manifestou a benignidade de Deus, nosso Salvador, e o seu amor. Paulo associa nossa salvação (v. 5) à obra realizada por Cristo em seu primeiro advento. Os vocábulos “benignidade” e “amor” enfatizam que nossa salvação é tão somente pela graça.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Quando, porém, se manifestou a benignidade de Deus, nosso Salvador, e o seu amor. Paulo associa nossa salvação (v. 5) à obra realizada por Cristo em seu primeiro advento. Os vocábulos “benignidade” e “amor” enfatizam que nossa salvação é tão somente pela graça."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Quando, porém, se manifestou a benignidade de Deus, nosso Salvador, e o seu amor.",
+          "texto": "Paulo associa nossa salvação (v. 5) à obra realizada por Cristo em seu primeiro advento. Os vocábulos “benignidade” e “amor” enfatizam que nossa salvação é tão somente pela graça."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0036",
+      "referencia": "3.5",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "3.5",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "3.5 nao por obras de justiga... mas segun-",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "não por obras de justiça... mas segundo sua misericórdia. A salvação é pela graça de Deus, não pelas obras do crente (v. 6; Ef 2.8-9; 2Tm 1.9).\n\nnos salvou. As palavras de Paulo no v. 3 mostram do que o crente foi salvo.\n\no lavar. A purificação espiritual da qual o batismo é sinal e selo (1Co 6.11; Ef 5.26).\n\nregenerador e renovador. Ambas as palavras caracterizam o “lavar”. “Regenerador” fala da nova vida que começa quando uma pessoa chega à fé em Cristo (Jo 3.3, 5; 1Pe 1.3, 23). Na operação da salvação, a regeneração precede a fé. Não podemos ver, nem entrar no reino de Deus, se, em primeiro lugar, ele não mudar nosso coração (Jo 3.3, 5). O termo “renovador” está intimamente relacionado ao novo nascimento; significa a completa transformação da vida de uma pessoa e começa quando ela é regenerada (Rm 12.2; 2Co 5.17). Ver nota teológica “Renascimento”, na p. 1857.\n\ndo Espírito Santo. O Espírito aplica às pessoas a graça de Deus que é estendida em Cristo (Jo 3.5, 6). Note o trinitarianismo dos vv. 4-6. Deus (Pai) nos salva, por meio da regeneração e da renovação do Espírito, que é derramado em nós por meio de Cristo.",
+      "remissoes": [
+        "tt-pendente-3-5"
+      ],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não por obras de justiça... mas segundo sua misericórdia. A salvação é pela graça de Deus, não pelas obras do crente (v. 6; Ef 2.8-9; 2Tm 1.9).",
+        "nos salvou. As palavras de Paulo no v. 3 mostram do que o crente foi salvo.",
+        "o lavar. A purificação espiritual da qual o batismo é sinal e selo (1Co 6.11; Ef 5.26).",
+        "regenerador e renovador. Ambas as palavras caracterizam o “lavar”. “Regenerador” fala da nova vida que começa quando uma pessoa chega à fé em Cristo (Jo 3.3, 5; 1Pe 1.3, 23). Na operação da salvação, a regeneração precede a fé. Não podemos ver, nem entrar no reino de Deus, se, em primeiro lugar, ele não mudar nosso coração (Jo 3.3, 5). O termo “renovador” está intimamente relacionado ao novo nascimento; significa a completa transformação da vida de uma pessoa e começa quando ela é regenerada (Rm 12.2; 2Co 5.17). Ver nota teológica “Renascimento”, na p. 1857.",
+        "do Espírito Santo. O Espírito aplica às pessoas a graça de Deus que é estendida em Cristo (Jo 3.5, 6). Note o trinitarianismo dos vv. 4-6. Deus (Pai) nos salva, por meio da regeneração e da renovação do Espírito, que é derramado em nós por meio de Cristo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não por obras de justiça... mas segundo sua misericórdia.",
+          "texto": "A salvação é pela graça de Deus, não pelas obras do crente (v. 6; Ef 2.8-9; 2Tm 1.9)."
+        },
+        {
+          "titulo": "nos salvou.",
+          "texto": "As palavras de Paulo no v. 3 mostram do que o crente foi salvo."
+        },
+        {
+          "titulo": "o lavar.",
+          "texto": "A purificação espiritual da qual o batismo é sinal e selo (1Co 6.11; Ef 5.26)."
+        },
+        {
+          "titulo": "regenerador e renovador.",
+          "texto": "Ambas as palavras caracterizam o “lavar”. “Regenerador” fala da nova vida que começa quando uma pessoa chega à fé em Cristo (Jo 3.3, 5; 1Pe 1.3, 23). Na operação da salvação, a regeneração precede a fé. Não podemos ver, nem entrar no reino de Deus, se, em primeiro lugar, ele não mudar nosso coração (Jo 3.3, 5). O termo “renovador” está intimamente relacionado ao novo nascimento; significa a completa transformação da vida de uma pessoa e começa quando ela é regenerada (Rm 12.2; 2Co 5.17). Ver nota teológica “Renascimento”, na p. 1857."
+        },
+        {
+          "titulo": "do Espírito Santo.",
+          "texto": "O Espírito aplica às pessoas a graça de Deus que é estendida em Cristo (Jo 3.5, 6). Note o trinitarianismo dos vv. 4-6. Deus (Pai) nos salva, por meio da regeneração e da renovação do Espírito, que é derramado em nós por meio de Cristo."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0037",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.7 justificados. Declarados justos diante de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "justificados. Declarados justos diante de Deus (Rm 4.5; Gl 3.4).\n\npor graça. Por nós mesmos (vv. 3-4), nunca poderíamos ser justos diante de Deus. A ênfase dos vv. 3-7 é que a justiça vem somente pela graça, e nós a recebemos somente pela fé exclusivamente em Cristo (Rm 3.21-26).\n\nherdeiros. O propósito de Deus em estender sua graça aos pecadores não é somente salvá-los do julgamento eterno, mas também torná-los parte de sua família por meio de adoção e, assim, herdeiros de suas promessas (Rm 8.17; Gl 3.29; 4.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "justificados. Declarados justos diante de Deus (Rm 4.5; Gl 3.4).",
+        "por graça. Por nós mesmos (vv. 3-4), nunca poderíamos ser justos diante de Deus. A ênfase dos vv. 3-7 é que a justiça vem somente pela graça, e nós a recebemos somente pela fé exclusivamente em Cristo (Rm 3.21-26).",
+        "herdeiros. O propósito de Deus em estender sua graça aos pecadores não é somente salvá-los do julgamento eterno, mas também torná-los parte de sua família por meio de adoção e, assim, herdeiros de suas promessas (Rm 8.17; Gl 3.29; 4.7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "justificados.",
+          "texto": "Declarados justos diante de Deus (Rm 4.5; Gl 3.4)."
+        },
+        {
+          "titulo": "por graça.",
+          "texto": "Por nós mesmos (vv. 3-4), nunca poderíamos ser justos diante de Deus. A ênfase dos vv. 3-7 é que a justiça vem somente pela graça, e nós a recebemos somente pela fé exclusivamente em Cristo (Rm 3.21-26)."
+        },
+        {
+          "titulo": "herdeiros.",
+          "texto": "O propósito de Deus em estender sua graça aos pecadores não é somente salvá-los do julgamento eterno, mas também torná-los parte de sua família por meio de adoção e, assim, herdeiros de suas promessas (Rm 8.17; Gl 3.29; 4.7)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0038",
+      "referencia": "3.8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3.8",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.8 Fiel e esta palavra. Ver nota em 1 Timoteo",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Fiel é esta palavra. Ver nota em 1 Timóteo 1.15. A expressão se refere aos vv. 4-7.\n\nboas obras. Ver nota no v. 1. Uma vez mais, Paulo ressalta a conexão necessária entre professar a fé em Cristo e dedicar a vida a servir a Cristo em obediência aos seus mandamentos.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "1Tm",
+          "capitulo": 1,
+          "versiculo": 15
+        },
+        {
+          "livro": "Tt",
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Fiel é esta palavra. Ver nota em 1 Timóteo 1.15. A expressão se refere aos vv. 4-7.",
+        "boas obras. Ver nota no v. 1. Uma vez mais, Paulo ressalta a conexão necessária entre professar a fé em Cristo e dedicar a vida a servir a Cristo em obediência aos seus mandamentos."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Fiel é esta palavra.",
+          "texto": "Ver nota em 1 Timóteo 1.15. A expressão se refere aos vv. 4-7."
+        },
+        {
+          "titulo": "boas obras.",
+          "texto": "Ver nota no v. 1. Uma vez mais, Paulo ressalta a conexão necessária entre professar a fé em Cristo e dedicar a vida a servir a Cristo em obediência aos seus mandamentos."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0039",
+      "referencia": "3.9-11",
+      "capitulo": 3,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.9-11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.9-11 Em contraste com as instrugoes que acabou",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Em contraste com as instruções que acabou de oferecer, Paulo retorna pela última vez ao problema dos falsos mestres. Somente o evangelho — e não a falsa doutrina — é capaz de trazer as bênçãos e a renovação das quais Paulo falou em 3.1-8.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Em contraste com as instruções que acabou de oferecer, Paulo retorna pela última vez ao problema dos falsos mestres. Somente o evangelho — e não a falsa doutrina — é capaz de trazer as bênçãos e a renovação das quais Paulo falou em 3.1-8."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Em contraste com as instruções que acabou de oferecer, Paulo retorna pela última vez ao problema dos falsos mestres. Somente o evangelho — e não a falsa doutrina — é capaz de trazer as bênçãos e a renovação das quais Paulo falou em 3.1-8."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0040",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.9 discussoes... genealogias. Umacarac",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "discussões... genealogias. Uma característica predominante dos falsos mestres era sua disposição para contendas (1Tm 1.4; 6.4). A discussão não precisa ser pecaminosa, mas as “discussões insensatas” sempre são pecaminosas. Genealogias bíblicas têm o propósito vital de demonstrar a fidelidade de Deus em cumprir sua aliança e suas promessas no decorrer de gerações, mas, de acordo com os livros de 1 Timóteo e Tito, os falsos mestres encontravam maneiras de distorcer e usar mal essas porções da Escritura (3.9; cf. 1Tm 1.4).\n\nsobre a lei. A lei de Moisés (1.10; cf. 1Tm 1.7).\n\nnão têm utilidade. Deve ser contrastado com o que é bom, o que é “proveitoso” (v. 8).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "discussões... genealogias. Uma característica predominante dos falsos mestres era sua disposição para contendas (1Tm 1.4; 6.4). A discussão não precisa ser pecaminosa, mas as “discussões insensatas” sempre são pecaminosas. Genealogias bíblicas têm o propósito vital de demonstrar a fidelidade de Deus em cumprir sua aliança e suas promessas no decorrer de gerações, mas, de acordo com os livros de 1 Timóteo e Tito, os falsos mestres encontravam maneiras de distorcer e usar mal essas porções da Escritura (3.9; cf. 1Tm 1.4).",
+        "sobre a lei. A lei de Moisés (1.10; cf. 1Tm 1.7).",
+        "não têm utilidade. Deve ser contrastado com o que é bom, o que é “proveitoso” (v. 8)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "discussões... genealogias.",
+          "texto": "Uma característica predominante dos falsos mestres era sua disposição para contendas (1Tm 1.4; 6.4). A discussão não precisa ser pecaminosa, mas as “discussões insensatas” sempre são pecaminosas. Genealogias bíblicas têm o propósito vital de demonstrar a fidelidade de Deus em cumprir sua aliança e suas promessas no decorrer de gerações, mas, de acordo com os livros de 1 Timóteo e Tito, os falsos mestres encontravam maneiras de distorcer e usar mal essas porções da Escritura (3.9; cf. 1Tm 1.4)."
+        },
+        {
+          "titulo": "sobre a lei.",
+          "texto": "A lei de Moisés (1.10; cf. 1Tm 1.7)."
+        },
+        {
+          "titulo": "não têm utilidade.",
+          "texto": "Deve ser contrastado com o que é bom, o que é “proveitoso” (v. 8)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0041",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.10 A disciplina eclesiastica envolve uma serie de",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "A disciplina eclesiástica envolve uma série de advertências que se destinam a chamar o irmão pecador ao arrependimento (Mt 18.15-17). Quanto a certos tipos de pecados, é apropriado evitar a comunhão íntima com a pessoa recalcitrante, ao mesmo tempo que emitimos uma advertência amorosa e tratamos o ofensor como um irmão em Cristo (2Ts 3.14-15). Entretanto, para aqueles que ameaçam a unidade da congregação, o processo de advertência que leva à excomunhão deve ser considerado séria e cuidadosamente. Apesar disso, o propósito da excomunhão é, em última análise, restaurador, como vemos em 1 Coríntios 5.4, 5. A esperança é que a pessoa possa finalmente confessar seu pecado e retornar à comunhão da Igreja.\n\nhomem faccioso. Os falsos mestres causavam divisão nas igrejas (1Tm 6.4, 5).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A disciplina eclesiástica envolve uma série de advertências que se destinam a chamar o irmão pecador ao arrependimento (Mt 18.15-17). Quanto a certos tipos de pecados, é apropriado evitar a comunhão íntima com a pessoa recalcitrante, ao mesmo tempo que emitimos uma advertência amorosa e tratamos o ofensor como um irmão em Cristo (2Ts 3.14-15). Entretanto, para aqueles que ameaçam a unidade da congregação, o processo de advertência que leva à excomunhão deve ser considerado séria e cuidadosamente. Apesar disso, o propósito da excomunhão é, em última análise, restaurador, como vemos em 1 Coríntios 5.4, 5. A esperança é que a pessoa possa finalmente confessar seu pecado e retornar à comunhão da Igreja.",
+        "homem faccioso. Os falsos mestres causavam divisão nas igrejas (1Tm 6.4, 5)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A disciplina eclesiástica envolve uma série de advertências que se destinam a chamar o irmão pecador ao arrependimento (Mt 18.15-17). Quanto a certos tipos de pecados, é apropriado evitar a comunhão íntima com a pessoa recalcitrante, ao mesmo tempo que emitimos uma advertência amorosa e tratamos o ofensor como um irmão em Cristo (2Ts 3.14-15). Entretanto, para aqueles que ameaçam a unidade da congregação, o processo de advertência que leva à excomunhão deve ser considerado séria e cuidadosamente. Apesar disso, o propósito da excomunhão é, em última análise, restaurador, como vemos em 1 Coríntios 5.4, 5. A esperança é que a pessoa possa finalmente confessar seu pecado e retornar à comunhão da Igreja."
+        },
+        {
+          "titulo": "homem faccioso.",
+          "texto": "Os falsos mestres causavam divisão nas igrejas (1Tm 6.4, 5)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0042",
+      "referencia": "3.12-15",
+      "capitulo": 3,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.12-15",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.12-15 Paulo termina a carta com instrugoes pes -",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Paulo termina a carta com instruções pessoais a Tito, saudações finais e uma bênção.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Paulo termina a carta com instruções pessoais a Tito, saudações finais e uma bênção."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Paulo termina a carta com instruções pessoais a Tito, saudações finais e uma bênção."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0043",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.12 Artemas. Nao mencionado em nenhuma",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Ártemas. Não mencionado em nenhuma outra parte do Novo Testamento. Parece que era um dos cooperadores de Paulo.\n\nTíquico. Um dos cooperadores de Paulo, mencionado em Atos 20.4, Efésios 6.21, Colossenses 4.7; 2 Timóteo 4.12.\n\nvir... ao meu encontro. O ministério de Tito em Creta estava perto do fim quando Paulo lhe escreveu esta carta (Introdução: Data e Circunstâncias).\n\nNicópolis. Uma cidade na costa ocidental da província romana de Epiro (oeste da Acaia — nos dias modernos, Albânia), no mar Adriático.\n\nEstou resolvido... inverno ali. Paulo podia estar na Macedônia, planejando viajar para sudoeste, para o clima mais ameno de uma cidade à beira-mar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Ártemas. Não mencionado em nenhuma outra parte do Novo Testamento. Parece que era um dos cooperadores de Paulo.",
+        "Tíquico. Um dos cooperadores de Paulo, mencionado em Atos 20.4, Efésios 6.21, Colossenses 4.7; 2 Timóteo 4.12.",
+        "vir... ao meu encontro. O ministério de Tito em Creta estava perto do fim quando Paulo lhe escreveu esta carta (Introdução: Data e Circunstâncias).",
+        "Nicópolis. Uma cidade na costa ocidental da província romana de Epiro (oeste da Acaia — nos dias modernos, Albânia), no mar Adriático.",
+        "Estou resolvido... inverno ali. Paulo podia estar na Macedônia, planejando viajar para sudoeste, para o clima mais ameno de uma cidade à beira-mar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Ártemas.",
+          "texto": "Não mencionado em nenhuma outra parte do Novo Testamento. Parece que era um dos cooperadores de Paulo."
+        },
+        {
+          "titulo": "Tíquico.",
+          "texto": "Um dos cooperadores de Paulo, mencionado em Atos 20.4, Efésios 6.21, Colossenses 4.7; 2 Timóteo 4.12."
+        },
+        {
+          "titulo": "vir... ao meu encontro.",
+          "texto": "O ministério de Tito em Creta estava perto do fim quando Paulo lhe escreveu esta carta (Introdução: Data e Circunstâncias)."
+        },
+        {
+          "titulo": "Nicópolis.",
+          "texto": "Uma cidade na costa ocidental da província romana de Epiro (oeste da Acaia — nos dias modernos, Albânia), no mar Adriático."
+        },
+        {
+          "titulo": "Estou resolvido... inverno ali.",
+          "texto": "Paulo podia estar na Macedônia, planejando viajar para sudoeste, para o clima mais ameno de uma cidade à beira-mar."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0044",
+      "referencia": "3.13",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "3.13",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.13 Zenas... Apolo. Talvez os portadores desta",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "Zenas... Apolo. Talvez os portadores desta carta. Zenas não é mencionado em nenhuma outra passagem do Novo Testamento; parece que ele era um dos cooperadores de Paulo. Apolo era natural de Alexandria e notável por sua eloquência (At 18.24-26). Ele é mais bem conhecido por seu ministério em Corinto (At 18.27-19.1; 1Co 1.12; 3.4-22; 16.12).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Zenas... Apolo. Talvez os portadores desta carta. Zenas não é mencionado em nenhuma outra passagem do Novo Testamento; parece que ele era um dos cooperadores de Paulo. Apolo era natural de Alexandria e notável por sua eloquência (At 18.24-26). Ele é mais bem conhecido por seu ministério em Corinto (At 18.27-19.1; 1Co 1.12; 3.4-22; 16.12)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Zenas... Apolo.",
+          "texto": "Talvez os portadores desta carta. Zenas não é mencionado em nenhuma outra passagem do Novo Testamento; parece que ele era um dos cooperadores de Paulo. Apolo era natural de Alexandria e notável por sua eloquência (At 18.24-26). Ele é mais bem conhecido por seu ministério em Corinto (At 18.27-19.1; 1Co 1.12; 3.4-22; 16.12)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    },
+    {
+      "id": "fr-tt-0048",
+      "origem": {
+        "rotulo_original_ocr": null,
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "metodo": "cotejo visual V1"
+      },
+      "referencia": "3.14",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "3.14",
+      "pagina_original": 4,
+      "paragrafos_formatados": [
+        {
+          "titulo": "boas obras.",
+          "texto": "Ver nota em 2.7. Em vista da ênfase de Paulo nas boas obras como o fruto necessário do evangelho na vida dos redimidos, essa exortação é uma conclusão conveniente para a carta."
+        }
+      ],
+      "paragrafos": [
+        "boas obras. Ver nota em 2.7. Em vista da ênfase de Paulo nas boas obras como o fruto necessário do evangelho na vida dos redimidos, essa exortação é uma conclusão conveniente para a carta."
+      ],
+      "texto": "boas obras. Ver nota em 2.7. Em vista da ênfase de Paulo nas boas obras como o fruto necessário do evangelho na vida dos redimidos, essa exortação é uma conclusão conveniente para a carta.",
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Tt",
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ]
+    },
+    {
+      "id": "fr-tt-0045",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "pagina_impressa": 2184,
+        "rotulo_original_ocr": "3.15 todos vos. Parece que Paulo tencionava que",
+        "metodo": "cotejo visual V1"
+      },
+      "texto": "todos vós. Parece que Paulo tencionava que a carta fosse lida para toda a Igreja, pois usou a forma plural e acrescentou a palavra “todos” (cf. o plural em 1Tm 6.21; 2Tm 4.22).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "todos vós. Parece que Paulo tencionava que a carta fosse lida para toda a Igreja, pois usou a forma plural e acrescentou a palavra “todos” (cf. o plural em 1Tm 6.21; 2Tm 4.22)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "todos vós.",
+          "texto": "Parece que Paulo tencionava que a carta fosse lida para toda a Igreja, pois usou a forma plural e acrescentou a palavra “todos” (cf. o plural em 1Tm 6.21; 2Tm 4.22)."
+        }
+      ],
+      "tipo": "nota_de_estudo_ou_comentario_de_secao",
+      "fonte_referencia_original": "Bíblia de Estudo da Fé Reformada"
+    }
+  ],
+  "artigos": [],
+  "remissoes": [
+    {
+      "id": "tt-pendente-3-5",
+      "status": "pendente",
+      "titulo": "O Novo Nascimento",
+      "citado_em": "fr-tt-0036",
+      "origem": {
+        "pdf": "120 - Tito (Tt)(1).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 2183,
+        "rotulo_original_ocr": "3.5 nao por obras de justiga... mas segun-",
+        "metodo": "cotejo visual V1"
+      },
+      "evidencia": "Ver nota teológica “Renascimento”, na p. 1857."
+    }
+  ]
+}

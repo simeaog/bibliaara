@@ -1,0 +1,2374 @@
+{
+  "schema": "notas-genebra-v1",
+  "livro": "1Jo",
+  "titulo": "1 João",
+  "fonte": {
+    "titulo": "Bíblia de Estudo de Genebra",
+    "arquivo": "biblia-de-estudo-genebra.pdf",
+    "paginas_pdf": [
+      1689,
+      1697
+    ],
+    "observacao": "Texto transcrito do PDF fornecido; inconsistências linguísticas da fonte não foram corrigidas por suposição."
+  },
+  "estado_editorial": "revisao_estrutural_lote_2_com_pendencias",
+  "notas": [
+    {
+      "id": "gen-1jo-0001",
+      "referencia": "1:1-1:4",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1:1-1:4",
+      "pagina_original": 1689,
+      "remissoes": [],
+      "texto": "O evento central da história é o aparecimento da vida eterna em Jesus Cristo. João é uma das testemunhas escolhidas que viu, ouviu, tocou Aquele que já existia desde o início, o Filho de Deus, cuja eterna comunhão com o Pai agora é estendida para os outros. Esta extensão se dá através da proclamação apostólica, incluindo a escrita de um próprio João.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1689,
+        "rotulo_impresso": "1:1-1:4"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0002",
+      "referencia": "1:1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1:1",
+      "pagina_original": 1689,
+      "remissoes": [],
+      "texto": "o início. Este versículo ecoa João 1:1 , como esse versículo, por sua vez ecoa general 01:01 . Os dois versículos do Novo Testamento destacar a Encarnação como um evento tão significativo quanto a própria criação. . ouvi ... viu ... encarado ... tocou Esses verbos vivas defender a realidade da natureza humana de Cristo contra a especulação docético que depois é rejeitado explicitamente ( 02:22 ; 04:02 ,3 ; Introdução: Data e ocasião). a palavra da vida. O tema da proclamação de João é Jesus, o Verbo encarnado ( João 1:1-14 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1689,
+        "rotulo_impresso": "1:1"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 1:1",
+          "livro": "Jo",
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "texto": "João 1:1",
+          "livro": "Jo",
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0003",
+      "referencia": "1:5-1:10",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1:5-1:10",
+      "pagina_original": 1689,
+      "remissoes": [],
+      "texto": "Como o Evangelho de João, 1 João começa com um contraste entre a luz ea escuridão. No Evangelho, o Cristo encarnado é a luz que continua a brilhar na escuridão de um mundo que tenta excluir Deus. Os crentes são confrontados com uma escolha: ou a \"andar na luz\", que vem a Ele e abrir seus corações a Ele em confissão do pecado, ou a \"andar em trevas\", como negar que eles são pecadores. . \"Um mentiroso\" O contraste entre a luz e as trevas está inseparavelmente ligada a um contraste entre aqueles que \"praticar a verdade\" e concorda com Deus, e aqueles que fazem Deus É uma realidade incontornável que os crentes do pecado; o remédio para o pecado, confissão e purificação pelo sangue de Jesus, é continuar dom irrevogável de Deus para os crentes. Porque a morte de Jesus ter pago a penalidade do pecado, e porque Deus reconheceu Jesus como seu verdadeiro filho, ressuscitando-o dentre os mortos, Deus concede perdão e purificação por uma questão de fidelidade e justiça. Ele não vai e não pode recusar.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1689,
+        "rotulo_impresso": "1:5-1:10"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0004",
+      "referencia": "1:5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1:5",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "Deus é luz. Esta descrição de Deus enfatiza seus atributos de pureza moral e onisciência, reforçando o foco do João na nossa necessidade de confessar o pecado.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "1:5"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0005",
+      "referencia": "1:7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1:7",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "o sangue de Jesus, seu Filho. Como Heb. 09:22 indica, \"sem derramamento de sangue não há perdão.\" O derramamento do sangue de Cristo foi um sacrifício substitutivo voluntária de valor infinito para os eleitos;valeu a pena em pleno de Deus pelo pecado ( Heb 9:27. , 28 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "1:7"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Heb. 09:22",
+          "livro": "Hb",
+          "capitulo": 9,
+          "versiculo": 22
+        },
+        {
+          "texto": "Heb 9:27",
+          "livro": "Hb",
+          "capitulo": 9,
+          "versiculo": 27
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0006",
+      "referencia": "1:9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1:9",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "Se confessarmos os nossos pecados. perdão de Deus é dado assim que admitir nossa necessidade, não com base em quaisquer atos que fizemos para ganhá-lo, mas apenas por causa da sua graça. O dom gratuito de perdão traz consigo a purificação da injustiça. Deus nos aceita como justos porque Ele nos imputa a justiça de Cristo. Ou seja, a própria justiça de Cristo, nosso pecado-portador é contado para a nossa conta.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "1:9"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0007",
+      "referencia": "1:10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1:10",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "Se dissermos que não temos cometido pecado. Talvez o pecado que \"conduz à morte\" mencionado em 5:16 é uma recusa obstinada em aceitar o diagnóstico da nossa necessidade e Sua oferta de perdão de Deus.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "1:10"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0008",
+      "referencia": "2:1-2:6",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2:1-2:6",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "O perdão não elimina a obrigação moral de obedecer aos mandamentos de Deus. Alguns leitores podem ter a promessa de 1:09 como uma licença para pecar, mas João deixa claro que essa seria a abusos e aplicar mal a promessa (v. 1 ). \"Jesus Cristo, o Justo\" é apresentado como sacrifício, advogado, e exemplo. Sua expiação é eficaz para os eleitos de Israel e do mundo todo. Na Bíblia, \"conhecer\" alguém inclui íntima comunhão e amor. Para conhecer a Cristo significa \"guardar seus mandamentos.\" Este conhecimento de Cristo é chamado de amor \"perfeito\" de Deus (v. 5 ), e não porque nos faz, pessoalmente, sem pecado, mas porque ele é irrevogavelmente estabelecida em quem vive por ela . Quem se atreve a ter recebido o perdão de Deus, mas que rejeita o dom do amor obediente como desnecessário é um \"mentiroso\". Ao invés de receber \"Jesus Cristo, o justo\", como Salvador, essa pessoa fabrica um falso cristo, um salvador que é indiferente a justiça.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "2:1-2:6"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0009",
+      "referencia": "2:1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2:1",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "que não pequeis. João quer que seus leitores para responder a misericórdia de Deus com uma vida de obediência. Esta é uma expressão de preocupação para as pessoas com quem ele tem servido ( 2 João 4-6 ;3 João 3 , 4 ). Faz 1 João não dar detalhes sobre os pecados dos leitores ou de seus adversários heréticos (ao contrário, por exemplo, 1 Coríntios). advogado. A palavra grega é parakletos , um \"helper\", como um advogado em uma questão jurídica. No Evangelho de João, ele é usado do Espírito Santo ( João 14:16 , 26 ; 15:26 ; 16:07 ). A palavra não é encontrada em outras partes do Novo Testamento, embora seja comum em outros tipos de literatura.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "2:1"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 14:16",
+          "livro": "Jo",
+          "capitulo": 14,
+          "versiculo": 16
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0010",
+      "referencia": "2:2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2:2",
+      "pagina_original": 1690,
+      "remissoes": [],
+      "texto": "propiciação. propiciação é um sacrifício a Deus, destinado a tirar a inimizade trazida pelo pecado entre Deus eo adorador. Somente Cristo pode ser uma propiciação eficaz. de todo o mundo. sacrifício de Cristo é suficiente não só para João e sua comunidade imediata, mas é válido em qualquer lugar do mundo. É um sacrifício que não requer nenhum complemento ou suplemento.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1690,
+        "rotulo_impresso": "2:2"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0011",
+      "referencia": "2:6",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "2:6",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "caminhada, da mesma forma em que ele andou. João pressupõe que seus leitores têm o tipo de conhecimento sobre a vida e os propósitos de Jesus que se encontra no Evangelho.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:6"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0012",
+      "referencia": "2:7-2:11",
+      "capitulo": 2,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "2:7-2:11",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "O mandamento de Deus em Cristo é \"velho\" e é o antigo, pois data do início da era cristã \"novo\".; crentes tinham este comando \"desde o princípio\", quando Jesus Cristo começou a ensinar. Ele é novo, pois está continuamente reaplicados em novos atos de amor, com a sua fonte em Deus e seu desenrolar \"em você.\" O amor pertence ao reino da luz, como defronte de trevas, onde o ódio ainda tem balançar. João fala de amor para o \"irmão\", que Jesus deu como mandamento aos seus discípulos, pouco antes de sua morte. João atrai fortemente o contraste entre a comunidade cristã governada pelo amor, eo ódio que reina fora ( João 15:18 , 19).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:7-2:11"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 15:18",
+          "livro": "Jo",
+          "capitulo": 15,
+          "versiculo": 18
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0013",
+      "referencia": "2:7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2:7",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "desde o início. Enquanto João às vezes usa esta palavra para se referir ao início de todas as coisas (vv. 13 , 14 ; 01:01 ), aqui ele se refere ao início do movimento cristão na vida e os ensinamentos de Jesus (v. 24 ;03:11 ). Como mostra o próximo verso, a vinda de Jesus foi o ingresso crítico ponto de viragem em uma nova época, o amanhecer de um novo dia.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:7"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0014",
+      "referencia": "2:12-2:14",
+      "capitulo": 2,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2:12-2:14",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "Os três grupos tratados nestes versos são realmente um grupo, os destinatários da carta, caracterizada de diferentes maneiras. Eles são \"filhos\" porque com o perdão dos pecados que tenham sido acolhidos na família de Deus, seu Pai. Eles são \"pais\", pois seu conhecimento de Deus em Jesus Cristo qualifica-los para entregar esse conhecimento para as gerações futuras. Eles são chamados de \"jovens\", pois sua rejeição decisiva do maligno é uma vitória como a de Jesus, que lutou com Satanás no deserto e venceu ( 4:111 Matt. ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:12-2:14"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0015",
+      "referencia": "2:12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2:12",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": ". por amor do seu nome O poder do nome de Jesus é central para a proclamação cristã primitiva ( Atos 2:38 ; 03:06 ; 04:12 ). João 17:11 , 12 indica que Deus deu Seu próprio nome a Jesus para proteger Seus discípulos e mantê-los seguros. Nome de Deus, viria a se desonrar o Seu perdão deve falhar.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:12"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Atos 2:38",
+          "livro": "At",
+          "capitulo": 2,
+          "versiculo": 38
+        },
+        {
+          "texto": "João 17:11",
+          "livro": "Jo",
+          "capitulo": 17,
+          "versiculo": 11
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0016",
+      "referencia": "2:13",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "2:13",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "já vencestes o maligno. O tema da superação é pego novamente em 05:04 , 5 ; lá a vitória é mais \"o mundo\" que se opõe a Deus. A vitória João descreve é resistir à tentação e manter fiel à palavra de Deus.Contrasta com a derrota da raça humana na Queda ( Gen. 3 ). Para João, a vitória na batalha contra a tentação, com efeito, já ganhou, desde a nossa união com Deus não pode ser anulada ( João 10:27-30 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:13"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 10:27",
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 27
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0017",
+      "referencia": "2:15-2:17",
+      "capitulo": 2,
+      "versiculos": [
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2:15-2:17",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "A admoestação moral não amar o mundo também é um conselho prático, pois já está claro que o mundo está passando, (v. 17 ). Como no Evangelho de João, o \"mundo\" é o sistema de rebelião e orgulho que visa substituir Deus e Seu governo. É este sistema em vez da ordem criada si, que \"não é do Pai\" e que já foi marcada para o julgamento e destruição ( João 12:31 ). Aqueles que não são do mundo receber a palavra do Pai, de Jesus ( João 17:14 ) e show de sua resposta a ela que eles são escolhidos para a salvação ea vida eterna.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:15-2:17"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 12:31",
+          "livro": "Jo",
+          "capitulo": 12,
+          "versiculo": 31
+        },
+        {
+          "texto": "João 17:14",
+          "livro": "Jo",
+          "capitulo": 17,
+          "versiculo": 14
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0018",
+      "referencia": "2:16",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2:16",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": ". desejos ... orgulho Aqueles que amam este mundo (v. 15 ) são míopes; eles querem ser satisfeitos e honrados agora ( Lucas 6:24-26 ). Em contraste, aqueles que amam o Pai tem uma perspectiva de longo prazo e esperar que a recompensa de Deus ( Lucas 6:20-23 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:16"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Lucas 6:24",
+          "livro": "Lc",
+          "capitulo": 6,
+          "versiculo": 24
+        },
+        {
+          "texto": "Lucas 6:20",
+          "livro": "Lc",
+          "capitulo": 6,
+          "versiculo": 20
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0019",
+      "referencia": "2:17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2:17",
+      "pagina_original": 1691,
+      "remissoes": [],
+      "texto": "quem faz a vontade de Deus permanece para sempre. João não está ensinando que nossos méritos obediência a vida eterna. Somente a obediência de Jesus poderia satisfazer as exigências de Deus. Os crentes recebem a vida eterna como um dom ( 05:11 ), e do dom do amor transforma-los para que eles fazer a vontade de Deus em gratidão ( 03:16 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1691,
+        "rotulo_impresso": "2:17"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0020",
+      "referencia": "2:18-2:28",
+      "capitulo": 2,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 24
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 26
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        }
+      ],
+      "titulo": "2:18-2:28",
+      "pagina_original": 1692,
+      "remissoes": [],
+      "texto": "A partir do momento que Jesus pronunciou o julgamento sobre o mundo \", a última hora\" tem sido sobre ele, uma intensificação final oposição a Deus que termina com o julgamento final. A previsão de \"anticristo\" não é a partir do Antigo Testamento, mas a partir de Jesus ( Matt. 24:5 , 24 ). Essa previsão começaram a ser cumpridas na era do Novo Testamento com aqueles que negou o Pai eo Filho (v. 22 ) e deixou a igreja para propagar seus ensinamentos falsos (v. 19 ). Sua negação do Filho foi uma rejeição do Pai que O enviou ( 02:23 ; João 15:23 ). Em contraste com os anticristos, os crentes têm uma unção do Espírito Santo (vv. 20 , 27 ), que abre seus corações e mentes para saber a verdade salvadora. O próprio Espírito é o melhor professor; Ele permanecerá sempre conosco e nos proteger de falsidades que poderiam nos levar para longe de Cristo. O Espírito permanece onde quer que a mensagem do evangelho é recebida, e onde quer que o Espírito habita, o Filho eo Pai estão presentes, bem como (v 24 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1692,
+        "rotulo_impresso": "2:18-2:28"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Matt. 24:5",
+          "livro": "Mt",
+          "capitulo": 24,
+          "versiculo": 5
+        },
+        {
+          "texto": "João 15:23",
+          "livro": "Jo",
+          "capitulo": 15,
+          "versiculo": 23
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0021",
+      "referencia": "2:18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2:18",
+      "pagina_original": 1692,
+      "remissoes": [],
+      "texto": "é a última hora. João não vai satisfazer o desejo de \"conhecer tempos ou épocas que o Pai fixou com sua própria autoridade\" ( Atos 1:7 ); ele caracteriza todo o tempo entre a primeira ea segunda vinda de Cristo como \"a última hora\" (cf. Atos 02:17 ; . 1 Coríntios 10:11 ). Não importa quanto tempo esta \"hora\" pode estender-se, em termos de tempo de calendário, continua a ser verdade que \"o tempo está próximo\" ( Ap 1.3 ;. cfApocalipse 1:1 ; 22:20 ) para todas as promessas de Deus para ser cumprida.anticristo está chegando ... muitos anticristos têm surgido. Isto é comumente visto como uma previsão diferente de muitos anticristos através do curso da história, seguido de um Anticristo no final ( 2 Tessalonicenses 2:3-10. ; Ap. 13:11 - 18 ). João, no entanto, pode ser apenas referindo-se ao tipo de falsos mestres que já problemas da igreja (v. 22 ; 04:03 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1692,
+        "rotulo_impresso": "2:18"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Atos 1:7",
+          "livro": "At",
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "texto": "Atos 02:17",
+          "livro": "At",
+          "capitulo": 2,
+          "versiculo": 17
+        },
+        {
+          "texto": "1 Coríntios 10:11",
+          "livro": "1Co",
+          "capitulo": 10,
+          "versiculo": 11
+        },
+        {
+          "texto": "Ap 1.3",
+          "livro": "Ap",
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "texto": "2 Tessalonicenses 2:3",
+          "livro": "2Ts",
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "texto": "Ap. 13:11",
+          "livro": "Ap",
+          "capitulo": 13,
+          "versiculo": 11
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0022",
+      "referencia": "2:19",
+      "capitulo": 2,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "2:19",
+      "pagina_original": 1692,
+      "remissoes": [],
+      "texto": "Saíram de nós. Paulo também adverte contra falsos mestres que surgirão entre os crentes ( Atos 20:29-31 ). Como no caso de Simão, o mágico ( Atos 8:9-24 ), a adesão visível na igreja não garante salvação.Interior apatia ou hostilidade para com o evangelho pode ser mascarada pela conformidade exterior. Os falsos mestres revelou sua hostilidade não apenas por sair, mas pela maneira que eles deixaram. Porque eles saíram para se opor a palavra do evangelho, sua partida foi tanto uma renúncia da igreja e sua mensagem como foi a saída de Judas da Última Ceia ( João 13:30 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1692,
+        "rotulo_impresso": "2:19"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Atos 20:29",
+          "livro": "At",
+          "capitulo": 20,
+          "versiculo": 29
+        },
+        {
+          "texto": "Atos 8:9",
+          "livro": "At",
+          "capitulo": 8,
+          "versiculo": 9
+        },
+        {
+          "texto": "João 13:30",
+          "livro": "Jo",
+          "capitulo": 13,
+          "versiculo": 30
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0023",
+      "referencia": "2:20",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2:20",
+      "pagina_original": 1692,
+      "remissoes": [],
+      "texto": "ungido pelo Santo. \"Cristo\" significa \"Ungido\", referindo-se ao escritório única de Jesus como Salvador de Deus. Deus ungiu a Jesus diretamente com o Espírito Santo para ser o Profeta consumado, Sacerdote e Rei ( Atos 10:38 ; . Hb 1:1-9 ). Os crentes também têm profética, sacerdotal, e real e responsabilidades são ungidos com o Espírito Santo ( 2 Coríntios. 01:21 , 22 ) para esses deveres ( 1 Cor 12. ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1692,
+        "rotulo_impresso": "2:20"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Atos 10:38",
+          "livro": "At",
+          "capitulo": 10,
+          "versiculo": 38
+        },
+        {
+          "texto": "Hb 1:1",
+          "livro": "Hb",
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "texto": "2 Coríntios. 01:21",
+          "livro": "2Co",
+          "capitulo": 1,
+          "versiculo": 21
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0024",
+      "referencia": "2:22",
+      "capitulo": 2,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "2:22",
+      "pagina_original": 1692,
+      "remissoes": [],
+      "texto": "nega que Jesus é o Cristo. Para separar Cristo Salvador de Jesus o homem era uma marca do docetismo, a heresia de que Cristo só parecia ser um ser humano (Introdução: Data e ocasião).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1692,
+        "rotulo_impresso": "2:22"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0025",
+      "referencia": "2:25",
+      "capitulo": 2,
+      "versiculos": [
+        25
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 25
+        }
+      ],
+      "titulo": "2:25",
+      "pagina_original": 1692,
+      "remissoes": [],
+      "texto": ". vida eterna Este é o dom supremo de Deus, mediada por Jesus Cristo ( João 5:2427 ) e dado livremente para os redimidos através da fé em Cristo ( 05:11 , 13 ; João 3:16 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1692,
+        "rotulo_impresso": "2:25"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 3:16",
+          "livro": "Jo",
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0026",
+      "referencia": "2:27",
+      "capitulo": 2,
+      "versiculos": [
+        27
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 27
+        }
+      ],
+      "titulo": "2:27",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": "você não tem nenhuma necessidade de que alguém vos ensine. crentes têm uma iluminação de Deus através do ministério do Espírito Santo, que acompanha a Palavra e nos mantém com a verdade do evangelho. Não é nenhuma contradição que devemos ouvir receptiva a outros crentes, especialmente quando eles admoestar e instruir-nos. Eles também têm o Espírito, ea confusão gerada pelo falso ensino é um perigo real ( Matt. 24:24 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "2:27"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Matt. 24:24",
+          "livro": "Mt",
+          "capitulo": 24,
+          "versiculo": 24
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0027",
+      "referencia": "2:28",
+      "capitulo": 2,
+      "versiculos": [
+        28
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 28
+        }
+      ],
+      "titulo": "2:28",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": ", na sua vinda. João refere-se ao retorno visível e final de Cristo no fim dos tempos. Naquela época, Cristo virá como Juiz, mas aqueles que \"permanecer em\" Aquele por continuar a confiar na mensagem do evangelho (v. 24 ) não precisa ter medo de condenação ( João 3:17 , 18 ). Consulte \"O Retorno de Jesus Cristo\" em 1 Tess. 04:16 .",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "2:28"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 3:17",
+          "livro": "Jo",
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0028",
+      "referencia": "2:29-3:3",
+      "capitulo": 2,
+      "versiculos": [
+        29
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 29
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2:29-3:3",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": "Como as ensinadas pelo Espírito, os crentes sabem todo um sistema de verdade e de vida, que permanece oculto para aqueles que estão no mundo. Essencial para isso é saber que, embora por enquanto não pode ser exteriormente reconhecido, ainda podemos ter a certeza de que somos \"filhos de Deus\" e \"nascido dele.\" A revelação pública dessa verdade aguarda a revelação pública de o próprio Deus \", quando ele aparece\", na Segunda Vinda. Verdadeiros filhos de Deus irá suportar a semelhança familiar, tanto agora, como a nossa esperança empresta a nossa vida se assemelha a uma pureza focado Dele, e no final, quando \"seremos semelhantes a ele\". Só então o nosso conhecimento de Deus seja perfeito, mas até agora o nosso conhecimento de que \"ele é justo\" trará justiça para aumentar nossas próprias vidas.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "2:29-3:3"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0029",
+      "referencia": "3:3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3:3",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": "espera assim. A promessa da sua vinda preenchimentos crentes, não com apreensão, mas com confiança ( 1 Ts. 5:04 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "3:3"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0030",
+      "referencia": "3:4-3:10",
+      "capitulo": 3,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3:4-3:10",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": "O contraste fundamental entre a luz e as trevas, entre os filhos de Deus e do mundo, agora está explicado como um contraste entre aqueles que pecam e os que não o fazem. Jesus não tinha pecado, eo que é mais Ele veio para tirar o pecado (v. 5 ; João 1:29 ). O Novo Nascimento define uma pessoa irrevogavelmente contra o pecado, e porque a semente de vida nova \"permanece\" no que a pessoa (v. 9 ;. cf João 10:28 , 29 ), a derrota da corrupção e da morte para ele é inevitável. Neste sentido o pecado será impossível ( Rom. 06:08 , 9). João aborda este aspecto absoluto de nascer de novo e fala em conformidade. Ele não está negando que o pecado ea morte têm influência até o fim ( 1 Co 15:26. ; Ap. 20:14 ). Ele diz claramente que nesta vida ninguém pode estar sem pecado ( 1:08 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "3:4-3:10"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 1:29",
+          "livro": "Jo",
+          "capitulo": 1,
+          "versiculo": 29
+        },
+        {
+          "texto": "João 10:28",
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 28
+        },
+        {
+          "texto": "Rom. 06:08",
+          "livro": "Rm",
+          "capitulo": 6,
+          "versiculo": 8
+        },
+        {
+          "texto": "Ap. 20:14",
+          "livro": "Ap",
+          "capitulo": 20,
+          "versiculo": 14
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0031",
+      "referencia": "3:4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3:4",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": "ilegalidade. Embora o Antigo Testamento não é citado explicitamente em 1 João, sua autoridade é pressuposta. Em particular, a lei moral, resumido na lei do amor, ainda é a norma para o povo de Deus ( Rom. 13:8-10 ). \"Ilegalidade\" é a desobediência a essa lei.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "3:4"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Rom. 13:8",
+          "livro": "Rm",
+          "capitulo": 13,
+          "versiculo": 8
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0032",
+      "referencia": "3:6",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "3:6",
+      "pagina_original": 1693,
+      "remissoes": [],
+      "texto": "continua a pecar; ninguém que continua a pecar. O tempo presente do grego sugere um comportamento que é característico ou costume. Desta forma, João reconhece, mas não é desculpa, a possibilidade do pecado ocasional. Outra possibilidade é que João tem em mente o pecado específico de apostasia, mencionada em 2:19 (cf. também 5:1618 ). Se assim for, João quer dizer que os verdadeiros crentes não vai abandonar totalmente sua fé.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "3:6"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0033",
+      "referencia": "3:7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3:7",
+      "pagina_original": 1693,
+      "remissoes": [
+        "genebra-artigo-1jo-001"
+      ],
+      "texto": "pratica a justiça. Veja nota teológica \"Antinomianism\".",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1693,
+        "rotulo_impresso": "3:7"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0034",
+      "referencia": "3:8",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "3:8",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "destruir as obras do diabo. A oposição entre Cristo e Satanás foi predito já em Gênesis 03:15 . Satanás usou a justa lei de Deus como uma ferramenta para manter os pecadores cativos para o medo da morte e condenação. Ao aceitar em sua própria pessoa a penalidade devido aos pecadores nos termos da lei, Cristo levou a base do plano de Satanás ( Heb. 02:14 , 15 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:8"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Gênesis 03:15",
+          "livro": "Gn",
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "texto": "Heb. 02:14",
+          "livro": "Hb",
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0035",
+      "referencia": "3:11-3:15",
+      "capitulo": 3,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3:11-3:15",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "A história do mundo é a história de ódio, de volta para o conflito arquetípica entre Caim e Abel. João traça o ódio de Caim à diferença radical de suas motivações daqueles de Abel ( João 3:19 ; 08:37 ), uma diferença que sempre vai existir entre o mundo eo povo de Deus (v. 13 ). Quando a comunhão dos crentes é livre de animosidade, como João espera que será, sabemos que \"já passamos da morte para a vida\" (v. 14 ).Mas se tal animosidade invade a comunhão, ele faz isso apenas por rejeição de \"a mensagem que ouvistes desde o princípio\" (v. 11 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:11-3:15"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 3:19",
+          "livro": "Jo",
+          "capitulo": 3,
+          "versiculo": 19
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0036",
+      "referencia": "3:11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3:11",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "de amor um ao outro. A ordem de Cristo, fundada em seu próprio dom de amor (v. 16 ; João 13:34 , 35 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:11"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 13:34",
+          "livro": "Jo",
+          "capitulo": 13,
+          "versiculo": 34
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0037",
+      "referencia": "3:12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3:12",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "Cain. general 04:05 explica que Caim invejava Abel porque a oferta de Abel foi aceita por Deus.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:12"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0038",
+      "referencia": "3:16-3:24",
+      "capitulo": 3,
+      "versiculos": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 23
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 24
+        }
+      ],
+      "titulo": "3:16-3:24",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "amor mútuo na comunhão é uma evidência de uma nova vida. Ele é baseado no amor de Jesus Cristo, que \"deu a sua vida\" em nosso lugar. Medindo-nos contra tal exemplo, o nosso coração (v. \"nos condena\" 20), e nossa confiança só pode ser restaurada por alguém maior do que o nosso coração, o próprio Deus. Deus, que \"sabe tudo\", provou o Seu amor pelos pecadores, pelo dom do Seu Filho ( 4:10 ; . Rom 05:08 ).Confiança fundada sobre esta realidade traz consigo a certeza de que nossas ações também são aceitos por Deus (v. 22 ), e quando a culpa é tratado estamos liberados para orar sem impedimentos (v. 22 ). Oração confiante é uma característica dos filhos de Deus ( João 15:7 ; . Rom 8:15 , 16 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:16-3:24"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Rom 05:08",
+          "livro": "Rm",
+          "capitulo": 5,
+          "versiculo": 8
+        },
+        {
+          "texto": "João 15:7",
+          "livro": "Jo",
+          "capitulo": 15,
+          "versiculo": 7
+        },
+        {
+          "texto": "Rom 8:15",
+          "livro": "Rm",
+          "capitulo": 8,
+          "versiculo": 15
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0039",
+      "referencia": "3:16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3:16",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "deu a sua vida. Cristo aceitou a morte dolorosa da cruz, para que pudéssemos ser salvos da punição eterna ( João 10:11 ). O nosso amor um pelo outro não pode exigir uma decisão tão caro como este, mas deve haver alguma decisão e ação. João menciona assistência material como um exemplo (v. 17 ; Tiago 1:27 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:16"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 10:11",
+          "livro": "Jo",
+          "capitulo": 10,
+          "versiculo": 11
+        },
+        {
+          "texto": "Tiago 1:27",
+          "livro": "Tg",
+          "capitulo": 1,
+          "versiculo": 27
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0040",
+      "referencia": "3:20",
+      "capitulo": 3,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "3:20",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "Deus é maior do que o nosso coração. A Palavra de Deus que nos absolve deve prevalecer sobre a palavra do nosso coração, que nos condena.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:20"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0041",
+      "referencia": "3:22",
+      "capitulo": 3,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "3:22",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "tudo o que pedimos. Jesus expressou tanta confiança no Pai ( João 11:41 , 42 ) e incentivou seus discípulos a terem confiança semelhante ( João 14:13 , 14 ). Esta confiança depende da consciência de que nossos desejos estão em sintonia com Deus ( 5:14 , 15 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:22"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 11:41",
+          "livro": "Jo",
+          "capitulo": 11,
+          "versiculo": 41
+        },
+        {
+          "texto": "João 14:13",
+          "livro": "Jo",
+          "capitulo": 14,
+          "versiculo": 13
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0042",
+      "referencia": "3:23",
+      "capitulo": 3,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "3:23",
+      "pagina_original": 1694,
+      "remissoes": [],
+      "texto": "este é o seu mandamento. As duas partes deste mandamento paralelo as duas partes dos Dez Mandamentos, lembrando-nos de que a nossa relação com Deus tem precedência sobre a nossa relação com o nosso próximo. A fé em Cristo nos diz respeito justamente a Deus, ea Sua graça renovadora permite-nos amar uns aos outros.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1694,
+        "rotulo_impresso": "3:23"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0043",
+      "referencia": "4:1-4:6",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4:1-4:6",
+      "pagina_original": 1695,
+      "remissoes": [],
+      "texto": "dom do seu único Espírito Santo de Deus está em contraste com os muitos espíritos mentirosos que dirigem falsos profetas ao mundo para espalhar a oposição a Cristo ( 2:18 ). Como Paulo em 1 Coríntios. 12:03 , João mostra como distinguir o Espírito da Verdade de espíritos de erro: aqueles que confessam Jesus como o Messias são de Deus, enquanto que aqueles que não confessa a Jesus não são. Esta confissão é a grande divisão entre os \"de Deus\" e aqueles que são \"do mundo\".",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1695,
+        "rotulo_impresso": "4:1-4:6"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "1 Coríntios. 12:03",
+          "livro": "1Co",
+          "capitulo": 12,
+          "versiculo": 3
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0044",
+      "referencia": "4:1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4:1",
+      "pagina_original": 1695,
+      "remissoes": [],
+      "texto": "saído pelo mundo. Ver nota 02:19.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1695,
+        "rotulo_impresso": "4:1"
+      },
+      "citacoes_validadas": [],
+      "revisao_editorial": {
+        "lote": 2,
+        "status": "revalidacao_estrutural",
+        "observacao": "Rótulo da nota validado e ausência de citações explicitamente inexistentes; não equivale à revisão integral do conteúdo.",
+        "nota_curta": "A extensão curta era legítima; referência bíblica de destino existente."
+      },
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 19,
+          "origem_textual": "Ver nota 02:19"
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0045",
+      "referencia": "4:2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4:2",
+      "pagina_original": 1695,
+      "remissoes": [],
+      "texto": "Jesus Cristo veio em carne. João distingue o evangelho a partir do erro dos docetists que diziam que Jesus Cristo não era verdadeiramente humano (Introdução: Data e ocasião). A humanidade de Cristo é essencial para que Ele estava para morrer pelos nossos pecados.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1695,
+        "rotulo_impresso": "4:2"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0046",
+      "referencia": "4:3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4:3",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "o anticristo. Ver nota 02:18.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:3"
+      },
+      "citacoes_validadas": [],
+      "revisao_editorial": {
+        "lote": 2,
+        "status": "revalidacao_estrutural",
+        "observacao": "Rótulo da nota validado e ausência de citações explicitamente inexistentes; não equivale à revisão integral do conteúdo.",
+        "nota_curta": "A extensão curta era legítima; referência bíblica de destino existente."
+      },
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 18,
+          "origem_textual": "Ver nota 02:18"
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0047",
+      "referencia": "4:4",
+      "capitulo": 4,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "4:4",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "aquele que está no mundo. Na sua hostilidade para com Deus, o mundo é permeado por efeitos do diabo, que conquistou a raça humana através da tentação ( 05:19 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:4"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0048",
+      "referencia": "4:6",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "4:6",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "de Deus. O Espírito Santo une os crentes. Ver \"A Igreja Local\" no Ap. 02:01 .",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:6"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Ap. 02:01",
+          "livro": "Ap",
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0049",
+      "referencia": "4:7-4:12",
+      "capitulo": 4,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "4:7-4:12",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "O amor de Deus Pai para \"o seu Filho único\" (v. 9 ) é a fonte do amor que une a comunidade de crentes juntos como uma família. Ao dar-nos o Seu Filho, o Pai nos apresentou o perfeito amor e da vida eterna que o Pai eo Filho sempre gostei.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:7-4:12"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0050",
+      "referencia": "4:9",
+      "capitulo": 4,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "4:9",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "Filho único. Isto significa que Jesus é Deus Filho na eternidade, como a Segunda Pessoa da Santíssima Trindade. O grego também pode ser traduzida como \"Filho unigênito\", referindo-se a singularidade de Cristo, em vez de sua geração eterna.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:9"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0051",
+      "referencia": "4:10",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "4:10",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "propiciação pelos nossos pecados. Ver nota 02:02. Cristo virou a justa ira de Deus e satisfez as exigências da Sua justiça em nosso nome. Foi para cumprir o amor de Deus que Ele fez isso.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:10"
+      },
+      "citacoes_validadas": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 2,
+          "origem_textual": "Ver nota 02:02"
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0052",
+      "referencia": "4:14",
+      "capitulo": 4,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "4:14",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "Salvador do mundo. Ver nota 02:02.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:14"
+      },
+      "citacoes_validadas": [],
+      "revisao_editorial": {
+        "lote": 2,
+        "status": "revalidacao_estrutural",
+        "observacao": "Rótulo da nota validado e ausência de citações explicitamente inexistentes; não equivale à revisão integral do conteúdo.",
+        "nota_curta": "A extensão curta era legítima; referência bíblica de destino existente."
+      },
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 2,
+          "origem_textual": "Ver nota 02:02"
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0053",
+      "referencia": "4:16",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "4:16",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "Deus é amor. amor de Deus é mostrado em sua fidelidade à aliança e em Sua incansável busca dos pecadores, apesar de sua rebelião ou indiferença (v. 8 ; . Ex 34:5- 7 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:16"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Ex 34:5",
+          "livro": "Ex",
+          "capitulo": 34,
+          "versiculo": 5
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0054",
+      "referencia": "4:17",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4:17",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "assim também somos nós. Apesar de não gostar Cristo na plenitude de nossa obediência, somos semelhantes a Ele em nossa orientação básica, e destacam-se, como fez em contraste com o mundo em geral ( João 17:16 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:17"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 17:16",
+          "livro": "Jo",
+          "capitulo": 17,
+          "versiculo": 16
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0055",
+      "referencia": "4:18",
+      "capitulo": 4,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "4:18",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "não foi aperfeiçoado no amor. amor de Deus é perfeito em si mesmo, e isso nos traz a promessa segura de perfeição, assim que recebê-lo (vv. 12 , 17 ; 02:05 ). Mas porque estamos sendo aperfeiçoado no seu amor ao longo do tempo ( 3:02 ), os restos de medo podem coexistir temporariamente com amor. \"Amor perfeito\" de Deus \"lança fora o medo\", progressivamente, em vez de instantaneamente.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "4:18"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0056",
+      "referencia": "5:4",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "5:4",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "vence o mundo. Veja a nota 02:13.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "5:4"
+      },
+      "citacoes_validadas": [],
+      "revisao_editorial": {
+        "lote": 2,
+        "status": "revalidacao_estrutural",
+        "observacao": "Rótulo da nota validado e ausência de citações explicitamente inexistentes; não equivale à revisão integral do conteúdo.",
+        "nota_curta": "A extensão curta era legítima; referência bíblica de destino existente."
+      },
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 2,
+          "versiculo": 13,
+          "origem_textual": "Veja a nota 02:13"
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0057",
+      "referencia": "5:6",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "5:6",
+      "pagina_original": 1696,
+      "remissoes": [],
+      "texto": "pela água e pelo sangue. Alguns sugerem que a água se refere ao batismo de Jesus e no sangue da crucificação. Isso é improvável, uma vez que João em seu Evangelho não contam diretamente o batismo de Jesus. Outros sugerem que \"água e sangue\" refere-se aos dois sacramentos, batismo e da Ceia do Senhor. Isso também é improvável, pois João não contar a instituição dos sacramentos em seu Evangelho. O ditado difícil deste versículo, provavelmente, reflete João 19:34 . No Evangelho de João, o testemunho que Deus dá ao Seu Filho Jesus é um tema chave. O sangue ea água que fluiu de Jesus depois de sua morte atestada a realidade da Sua morte; a ferida no lado de Jesus confirmou mais tarde a realidade da Sua ressurreição corporal ( João 20:20 , 25-27 ). Tanto a morte ea ressurreição foram negados pelos docetists, que negavam a humanidade de Cristo ( 4:2 ). A qualidade do amor ( 04:19 ) A Fonte de Amor O Efeito do Amor Deus personifica o amor (04:08, 16) Nós refletir o amor de Deus no mundo (4:7) Deus nos (4:19) amado Nós amamos a Deus; medo é expulso; guardamos os seus mandamentos (04:18, 19; 05:03) Deus deu Seu Filho por nós (04:09, 10) Damos o nosso substância para outros (3:17; 4:11) Cristo deu a Sua vida por nós (3:16) Nós colocamos a nossa vida pelos outros (3:16)",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1696,
+        "rotulo_impresso": "5:6"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 19:34",
+          "livro": "Jo",
+          "capitulo": 19,
+          "versiculo": 34
+        },
+        {
+          "texto": "João 20:20",
+          "livro": "Jo",
+          "capitulo": 20,
+          "versiculo": 20
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0058",
+      "referencia": "5:7",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "5:7",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "três que testemunhar. Consulte \"Um e Três: The Trinity\" em Is. 44:6 .",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:7"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Is. 44:6",
+          "livro": "Is",
+          "capitulo": 44,
+          "versiculo": 6
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0059",
+      "referencia": "5:9",
+      "capitulo": 5,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "5:9",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "o testemunho de Deus é maior. Apelando diretamente para Deus como testemunha, João, como Jesus, anula qualquer disputa humana ( João 5:31-39 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:9"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 5:31",
+          "livro": "Jo",
+          "capitulo": 5,
+          "versiculo": 31
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0060",
+      "referencia": "5:11",
+      "capitulo": 5,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "5:11",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "vida eterna ... em seu Filho. Esta é a verdade fundamental da mensagem cristã.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:11"
+      },
+      "citacoes_validadas": []
+    },
+    {
+      "id": "gen-1jo-0061",
+      "referencia": "5:13",
+      "capitulo": 5,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "5:13",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "Evangelho de João foi escrito para mover os leitores a fé em Jesus que eles possam receber a vida eterna ( João 20:31 ). Esta carta foi escrita para assegurar aqueles que acreditavam que eles realmente possuem o dom inestimável.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:13"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "João 20:31",
+          "livro": "Jo",
+          "capitulo": 20,
+          "versiculo": 31
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0062",
+      "referencia": "5:16",
+      "capitulo": 5,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "5:16",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "pecado que leva à morte. Alguns conectar este pecado com o pecado imperdoável mencionado em Matt. 12:31 , 32 ; Marcos 3:28-30 ; Lucas 12:8-10 . O mais provável, João está se referindo a uma teimosa recusa em aceitar a mensagem do evangelho (1:10 nota; João 8:24 ). Consulte \"O Pecado Imperdoável\" em Marcos 3:29 .",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:16"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Matt. 12:31",
+          "livro": "Mt",
+          "capitulo": 12,
+          "versiculo": 31
+        },
+        {
+          "texto": "Marcos 3:28",
+          "livro": "Mc",
+          "capitulo": 3,
+          "versiculo": 28
+        },
+        {
+          "texto": "Lucas 12:8",
+          "livro": "Lc",
+          "capitulo": 12,
+          "versiculo": 8
+        },
+        {
+          "texto": "João 8:24",
+          "livro": "Jo",
+          "capitulo": 8,
+          "versiculo": 24
+        },
+        {
+          "texto": "Marcos 3:29",
+          "livro": "Mc",
+          "capitulo": 3,
+          "versiculo": 29
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0063",
+      "referencia": "5:18",
+      "capitulo": 5,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "5:18",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "não continuar pecando. Ver nota 03:06.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:18"
+      },
+      "citacoes_validadas": [],
+      "links_notas": [
+        {
+          "livro": "1Jo",
+          "capitulo": 3,
+          "versiculo": 6,
+          "origem_textual": "Ver nota 03:06"
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0064",
+      "referencia": "5:19",
+      "capitulo": 5,
+      "versiculos": [
+        19
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 19
+        }
+      ],
+      "titulo": "5:19",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "o poder do maligno. Ninguém pode escapar líquido do diabo da tentação, o pecado ea condenação sem a ajuda divina. Mas nem as pessoas podem escapar de sua responsabilidade pela tentativa de culpar um outro agente, o próprio diabo, por sua própria condição ( Gênesis 3:12 , 13 ). Paradoxalmente, a escravidão ao pecado é voluntária ( Tiago 1:13-15 ). Somente o Filho de Deus pode romper com a escravidão e substituí-lo por uma vida de perdão, gratidão e obediência ( 03:08 ).",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:19"
+      },
+      "citacoes_validadas": [
+        {
+          "texto": "Gênesis 3:12",
+          "livro": "Gn",
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "texto": "Tiago 1:13",
+          "livro": "Tg",
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ]
+    },
+    {
+      "id": "gen-1jo-0065",
+      "referencia": "5:20",
+      "capitulo": 5,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 5,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "5:20",
+      "pagina_original": 1697,
+      "remissoes": [],
+      "texto": "Aquele que é verdadeiro. Estar em Deus que é verdade e estar em Seu Filho Jesus Cristo juntos inseparavelmente. A gramática desse versículo é difícil, mas é mais razoável entender que \"o verdadeiro Deus ea vida eterna\" é Jesus Cristo. Se a frase remete para o Pai, o verso se torna desnecessariamente repetitiva. Além disso, a frase \"vida eterna\" é aplicado a Cristo em 1:02 também.",
+      "origem": {
+        "pdf": "biblia-de-estudo-genebra.pdf",
+        "pagina_pdf": 1697,
+        "rotulo_impresso": "5:20"
+      },
+      "citacoes_validadas": []
+    }
+  ],
+  "artigos": [
+    {
+      "id": "genebra-artigo-1jo-001",
+      "titulo": "Antinomianism",
+      "pagina_original": 1694,
+      "paragrafos": [
+        "A ntinomianism significa \"contrário à lei\". visualizações Antinomian são aqueles como negar que a lei de Deus nas Escrituras deve controlar diretamente a vida do cristão. Antinomianismo dualista apareceu no início as heresias gnósticas, como aqueles que se opõem por Pedro e Judas ( 2 Pedro 2. ; Judas 4-19 ). Os gnósticos ensinavam que a salvação era apenas para a alma, tornando comportamento corporal irrelevante tanto para o interesse de Deus e para a saúde da alma. A conclusão foi de que uma pessoa pode se comportar riotously e isso não importa. A antinomianismo \"espiritual\" coloca tal confiança em interior do Espírito Santo levou a negar qualquer necessidade de ser ensinado pela lei como viver. A liberdade da lei como forma de salvação é assumido de levar com ele a liberdade da lei como um guia de conduta. Nos primeiros 150 anos da era da Reforma esse tipo de antinomianismo era comum. A igreja de Corinto pode ter sido nas garras desse erro, uma vez que Paulo adverte-os de que uma pessoa verdadeiramente espiritual reconhece a autoridade da Palavra de Deus ( 1 Co 14:37. ;. cf 07:40 ). Outro tipo de antinomianismo começa a partir do ponto que Deus não vê o pecado nos crentes, porque eles estão em Cristo, que manteve a lei para eles. De tudo isso, tirar a falsa conclusão de que o seu comportamento não faz diferença, desde que continuar acreditando. Mas 1 João 1:08 - 2:01 e 3:4-10 ponto em uma direção diferente. Não é possível ter em Cristo e ao mesmo tempo para abraçar pecado como um modo de vida. Alguns dispensacionalistas têm sustentado que desde os cristãos vivem sob a dispensação da graça, não a lei, mantendo a lei moral é, em nenhuma etapa necessária para eles. Rom. 3:31 e 1 Coríntios. 6:9-11 mostram claramente, no entanto, que a guarda da lei é uma obrigação contínua para os cristãos. Às vezes se diz que o motivo ea intenção de \"amor\" é a única lei que Deus requer dos cristãos. Os comandos do Decálogo e outras partes éticas da Escritura, embora sejam atribuídas diretamente a Deus, são considerados como não mais do que as orientações que o amor pode, a qualquer momento, desrespeito. Mas Rom. 13:8-10 ensina que comandos específicos revelar o que o verdadeiro amor é. A lei de Deus expõe o amor falsificado que não vai aceitar as suas responsabilidades em relação a Deus e ao próximo. A lei moral revelada no Decálogo e exposta em outras partes da Bíblia é uma expressão da justiça de Deus, dado a ser um código de prática para o povo de Deus em todas as épocas. A lei não se opõe ao amor e bondade de Deus, mas mostra o que está em ação. O Espírito dá aos cristãos a capacidade de observar a lei, tornando-nos mais e mais semelhantes a Cristo, o observador arquetípico da lei ( Matt. 05:17 )."
+      ]
+    }
+  ],
+  "remissoes": []
+}

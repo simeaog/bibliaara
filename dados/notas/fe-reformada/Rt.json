@@ -1,0 +1,2841 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "Rt",
+  "titulo": "Rute",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "018 - Rute (Rt).pdf",
+    "paginas_pdf": [
+      1,
+      6
+    ],
+    "observacao": "Cotejo visual das seis páginas do PDF de Rute disponível no Drive; segunda leitura independente e teste funcional pendentes.",
+    "drive_url": "https://drive.google.com/file/d/1elpYqOYiJxNVWJZfQKiISrZsiqYD1UyG/view"
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-rt-0001",
+      "referencia": "1.1-5",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.1-5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.1-5",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "O prefácio se move rapidamente pelo pano de fundo necessário (tempo, lugar e fonte de conflito), estabelecendo o palco para as cenas que se seguem.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O prefácio se move rapidamente pelo pano de fundo necessário (tempo, lugar e fonte de conflito), estabelecendo o palco para as cenas que se seguem."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O prefácio se move rapidamente pelo pano de fundo necessário (tempo, lugar e fonte de conflito), estabelecendo o palco para as cenas que se seguem."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0002",
+      "referencia": "1.1",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "1.1",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.1",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Nos dias em que julgavam os juízes. O período dos juízes em Israel ficou mal-afamado como uma época de instabilidade e apostasia. O versículo final do livro de Juízes resume a qualidade moral daquele tempo: “Naqueles dias, não havia rei em Israel; cada um fazia o que achava mais reto” (Jz 21.25).\n\nhouve fome. No Israel antigo, a fome era uma calamidade comum: Abraão fugiu para o Egito devido à fome (Gn 12.10); Jacó levou os hebreus para o Egito por causa de uma fome severa (Gn 42–45). Com frequência, as fomes eram compreendidas como um sinal do desprazer de Deus (Lv 26.18-20; 1Rs 17.1). Nesse tempo, o período dos juízes, a ocorrência de fome reflete a desobediência e a infidelidade generalizadas de Israel.\n\nBelém de Judá. Essa cidade fica na região tribal de Judá. Esse nome distintivo ocorre pela primeira vez nos capítulos finais de Juízes (17.7-9; 19.1, 2, 18) e nos versículos iniciais de Rute (vv. 1, 2). Belém significa “casa de alimento”, mas, a essa altura, a casa de alimento está vazia.\n\na habitar. Um termo técnico na antiguidade para alguém que vive como estrangeiro numa terra estranha. Descreve a condição social daquele que trabalha em um país estrangeiro, mas que tem poucos direitos e privilégios de um cidadão nativo.\n\nterra de Moabe. Literalmente, “campos de Moabe”. Os moabitas, que eram aparentados com Israel por intermédio de Ló (Gn 19.37), ocuparam partes da Transjordânia central em várias épocas. Embora, a princípio, Deus os protegesse dos israelitas invasores (Dt 2.9), os moabitas foram subjugados por Saul (1Sm 14.47) e, após, por Davi (2Sm 8.2). Ver também Deuteronômio 23.3. Houve alguns períodos de relações fraternas, com considerável intercâmbio cultural e econômico, como se observa em Davi, que deixa seus parentes com o rei de Moabe enquanto era fugitivo (1Sm 22.3). No período dos juízes, no qual o livro de Rute se situa, houve tempos de hospitalidade entre Israel e Moabe (ver Jz 3.12-30).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Nos dias em que julgavam os juízes. O período dos juízes em Israel ficou mal-afamado como uma época de instabilidade e apostasia. O versículo final do livro de Juízes resume a qualidade moral daquele tempo: “Naqueles dias, não havia rei em Israel; cada um fazia o que achava mais reto” (Jz 21.25).",
+        "houve fome. No Israel antigo, a fome era uma calamidade comum: Abraão fugiu para o Egito devido à fome (Gn 12.10); Jacó levou os hebreus para o Egito por causa de uma fome severa (Gn 42–45). Com frequência, as fomes eram compreendidas como um sinal do desprazer de Deus (Lv 26.18-20; 1Rs 17.1). Nesse tempo, o período dos juízes, a ocorrência de fome reflete a desobediência e a infidelidade generalizadas de Israel.",
+        "Belém de Judá. Essa cidade fica na região tribal de Judá. Esse nome distintivo ocorre pela primeira vez nos capítulos finais de Juízes (17.7-9; 19.1, 2, 18) e nos versículos iniciais de Rute (vv. 1, 2). Belém significa “casa de alimento”, mas, a essa altura, a casa de alimento está vazia.",
+        "a habitar. Um termo técnico na antiguidade para alguém que vive como estrangeiro numa terra estranha. Descreve a condição social daquele que trabalha em um país estrangeiro, mas que tem poucos direitos e privilégios de um cidadão nativo.",
+        "terra de Moabe. Literalmente, “campos de Moabe”. Os moabitas, que eram aparentados com Israel por intermédio de Ló (Gn 19.37), ocuparam partes da Transjordânia central em várias épocas. Embora, a princípio, Deus os protegesse dos israelitas invasores (Dt 2.9), os moabitas foram subjugados por Saul (1Sm 14.47) e, após, por Davi (2Sm 8.2). Ver também Deuteronômio 23.3. Houve alguns períodos de relações fraternas, com considerável intercâmbio cultural e econômico, como se observa em Davi, que deixa seus parentes com o rei de Moabe enquanto era fugitivo (1Sm 22.3). No período dos juízes, no qual o livro de Rute se situa, houve tempos de hospitalidade entre Israel e Moabe (ver Jz 3.12-30)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Nos dias em que julgavam os juízes.",
+          "texto": "O período dos juízes em Israel ficou mal-afamado como uma época de instabilidade e apostasia. O versículo final do livro de Juízes resume a qualidade moral daquele tempo: “Naqueles dias, não havia rei em Israel; cada um fazia o que achava mais reto” (Jz 21.25)."
+        },
+        {
+          "titulo": "houve fome.",
+          "texto": "No Israel antigo, a fome era uma calamidade comum: Abraão fugiu para o Egito devido à fome (Gn 12.10); Jacó levou os hebreus para o Egito por causa de uma fome severa (Gn 42–45). Com frequência, as fomes eram compreendidas como um sinal do desprazer de Deus (Lv 26.18-20; 1Rs 17.1). Nesse tempo, o período dos juízes, a ocorrência de fome reflete a desobediência e a infidelidade generalizadas de Israel."
+        },
+        {
+          "titulo": "Belém de Judá.",
+          "texto": "Essa cidade fica na região tribal de Judá. Esse nome distintivo ocorre pela primeira vez nos capítulos finais de Juízes (17.7-9; 19.1, 2, 18) e nos versículos iniciais de Rute (vv. 1, 2). Belém significa “casa de alimento”, mas, a essa altura, a casa de alimento está vazia."
+        },
+        {
+          "titulo": "a habitar.",
+          "texto": "Um termo técnico na antiguidade para alguém que vive como estrangeiro numa terra estranha. Descreve a condição social daquele que trabalha em um país estrangeiro, mas que tem poucos direitos e privilégios de um cidadão nativo."
+        },
+        {
+          "titulo": "terra de Moabe.",
+          "texto": "Literalmente, “campos de Moabe”. Os moabitas, que eram aparentados com Israel por intermédio de Ló (Gn 19.37), ocuparam partes da Transjordânia central em várias épocas. Embora, a princípio, Deus os protegesse dos israelitas invasores (Dt 2.9), os moabitas foram subjugados por Saul (1Sm 14.47) e, após, por Davi (2Sm 8.2). Ver também Deuteronômio 23.3. Houve alguns períodos de relações fraternas, com considerável intercâmbio cultural e econômico, como se observa em Davi, que deixa seus parentes com o rei de Moabe enquanto era fugitivo (1Sm 22.3). No período dos juízes, no qual o livro de Rute se situa, houve tempos de hospitalidade entre Israel e Moabe (ver Jz 3.12-30)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0003",
+      "referencia": "1.2",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.2",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Elimeleque. Literalmente, “meu Deus é rei”. Há certa ironia no fato de que as ações de Elimeleque não correspondem ao seu nome: ele não confia em Deus, seu Rei, para supri-lo na Terra Prometida e, assim, se muda para uma terra pagã, onde, então, morre. O drama seguinte enfatiza o papel das mulheres na família confiando no Senhor, o que estava ausente em Elimeleque (4.14, 16).\n\nNoemi. Literalmente, “prazeroso/doce” (vv. 20, 21). Inicialmente, conta-se a história de Noemi.\n\nMalom e Quiliom. Como seu pai, Malom (literalmente, “moléstia”) e Quiliom (literalmente, “destruição”) morrem fora da Terra Prometida.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Elimeleque. Literalmente, “meu Deus é rei”. Há certa ironia no fato de que as ações de Elimeleque não correspondem ao seu nome: ele não confia em Deus, seu Rei, para supri-lo na Terra Prometida e, assim, se muda para uma terra pagã, onde, então, morre. O drama seguinte enfatiza o papel das mulheres na família confiando no Senhor, o que estava ausente em Elimeleque (4.14, 16).",
+        "Noemi. Literalmente, “prazeroso/doce” (vv. 20, 21). Inicialmente, conta-se a história de Noemi.",
+        "Malom e Quiliom. Como seu pai, Malom (literalmente, “moléstia”) e Quiliom (literalmente, “destruição”) morrem fora da Terra Prometida."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Elimeleque.",
+          "texto": "Literalmente, “meu Deus é rei”. Há certa ironia no fato de que as ações de Elimeleque não correspondem ao seu nome: ele não confia em Deus, seu Rei, para supri-lo na Terra Prometida e, assim, se muda para uma terra pagã, onde, então, morre. O drama seguinte enfatiza o papel das mulheres na família confiando no Senhor, o que estava ausente em Elimeleque (4.14, 16)."
+        },
+        {
+          "titulo": "Noemi.",
+          "texto": "Literalmente, “prazeroso/doce” (vv. 20, 21). Inicialmente, conta-se a história de Noemi."
+        },
+        {
+          "titulo": "Malom e Quiliom.",
+          "texto": "Como seu pai, Malom (literalmente, “moléstia”) e Quiliom (literalmente, “destruição”) morrem fora da Terra Prometida."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0004",
+      "referencia": "1.4",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.4",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "mulheres moabitas. Esses casamentos são uma imprudência. A lei bíblica demanda que os israelitas não façam casamentos mistos com pessoas pagãs (p. ex., Dt 7.1-4). A ironia é que um herdeiro e ancestral do grande rei Davi virá de uma dessas estrangeiras. Deus fará esses casamentos questionáveis e os redimirá para sua própria glória e seus propósitos.\n\nOrfa. O significado desse nome é incerto, mas pode estar relacionado com “obstinação”, o que é consistente com a decisão de Orfa, no sentido de ficar em Moabe.\n\nRute. Esse nome soa como a palavra hebraica para “amigo”, e as ações de Rute condensam a amizade pactual.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "mulheres moabitas. Esses casamentos são uma imprudência. A lei bíblica demanda que os israelitas não façam casamentos mistos com pessoas pagãs (p. ex., Dt 7.1-4). A ironia é que um herdeiro e ancestral do grande rei Davi virá de uma dessas estrangeiras. Deus fará esses casamentos questionáveis e os redimirá para sua própria glória e seus propósitos.",
+        "Orfa. O significado desse nome é incerto, mas pode estar relacionado com “obstinação”, o que é consistente com a decisão de Orfa, no sentido de ficar em Moabe.",
+        "Rute. Esse nome soa como a palavra hebraica para “amigo”, e as ações de Rute condensam a amizade pactual."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mulheres moabitas.",
+          "texto": "Esses casamentos são uma imprudência. A lei bíblica demanda que os israelitas não façam casamentos mistos com pessoas pagãs (p. ex., Dt 7.1-4). A ironia é que um herdeiro e ancestral do grande rei Davi virá de uma dessas estrangeiras. Deus fará esses casamentos questionáveis e os redimirá para sua própria glória e seus propósitos."
+        },
+        {
+          "titulo": "Orfa.",
+          "texto": "O significado desse nome é incerto, mas pode estar relacionado com “obstinação”, o que é consistente com a decisão de Orfa, no sentido de ficar em Moabe."
+        },
+        {
+          "titulo": "Rute.",
+          "texto": "Esse nome soa como a palavra hebraica para “amigo”, e as ações de Rute condensam a amizade pactual."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0005",
+      "referencia": "1.5",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        }
+      ],
+      "titulo": "1.5",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.5",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "a mulher desamparada. Noemi é uma viúva idosa, uma peregrina em terra estranha, com duas noras moabitas, as quais, por sua vez, são viúvas e não têm filhos. A essa altura, ela está completamente vazia e parece uma perspectiva improvável para desempenhar qualquer papel na história pactual do Senhor na redenção.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "a mulher desamparada. Noemi é uma viúva idosa, uma peregrina em terra estranha, com duas noras moabitas, as quais, por sua vez, são viúvas e não têm filhos. A essa altura, ela está completamente vazia e parece uma perspectiva improvável para desempenhar qualquer papel na história pactual do Senhor na redenção."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "a mulher desamparada.",
+          "texto": "Noemi é uma viúva idosa, uma peregrina em terra estranha, com duas noras moabitas, as quais, por sua vez, são viúvas e não têm filhos. A essa altura, ela está completamente vazia e parece uma perspectiva improvável para desempenhar qualquer papel na história pactual do Senhor na redenção."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0006",
+      "referencia": "1.6, 7",
+      "capitulo": 1,
+      "versiculos": [
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.6, 7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.6,7",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Esses versículos armam o palco para os vv. 8-18. As mulheres devem decidir quais fatores determinarão seus passos: encontrar marido e ter filhos, viver em seu próprio país, restringir-se a uma família ou (finalmente, para Rute) confiar no soberano Senhor de Israel e único Deus verdadeiro. O amor de Noemi por suas noras e sua reação às amargas experiências nas mãos de Deus dominam essa cena. A decisão de Rute, com seu voto irrevogável de fidelidade ao povo de Noemi e ao seu Deus, diz muito sobre o impacto do caráter e da fé de Noemi sobre sua nora.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Esses versículos armam o palco para os vv. 8-18. As mulheres devem decidir quais fatores determinarão seus passos: encontrar marido e ter filhos, viver em seu próprio país, restringir-se a uma família ou (finalmente, para Rute) confiar no soberano Senhor de Israel e único Deus verdadeiro. O amor de Noemi por suas noras e sua reação às amargas experiências nas mãos de Deus dominam essa cena. A decisão de Rute, com seu voto irrevogável de fidelidade ao povo de Noemi e ao seu Deus, diz muito sobre o impacto do caráter e da fé de Noemi sobre sua nora."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Esses versículos armam o palco para os vv. 8-18. As mulheres devem decidir quais fatores determinarão seus passos: encontrar marido e ter filhos, viver em seu próprio país, restringir-se a uma família ou (finalmente, para Rute) confiar no soberano Senhor de Israel e único Deus verdadeiro. O amor de Noemi por suas noras e sua reação às amargas experiências nas mãos de Deus dominam essa cena. A decisão de Rute, com seu voto irrevogável de fidelidade ao povo de Noemi e ao seu Deus, diz muito sobre o impacto do caráter e da fé de Noemi sobre sua nora."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0007",
+      "referencia": "1.6",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        }
+      ],
+      "titulo": "1.6",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.6",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "o SENHOR se lembrara do seu povo. Aqui há uma nota de esperança. A história de Rute nunca perde Deus de vista, cujo amor fiel determina a história.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o SENHOR se lembrara do seu povo. Aqui há uma nota de esperança. A história de Rute nunca perde Deus de vista, cujo amor fiel determina a história."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o SENHOR se lembrara do seu povo.",
+          "texto": "Aqui há uma nota de esperança. A história de Rute nunca perde Deus de vista, cujo amor fiel determina a história."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0008",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "rotulo_impresso_ocr": "1.7",
+        "pagina_impressa": 393,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "de volta. O verbo “voltar” ocorre 12 vezes em Rute 1.6-22. Embora, em geral, esse verbo seja usado no hebraico para uma pessoa que muda seu curso de ação e volta fisicamente a um lugar, também pode descrever uma renovação espiritual. Ele é usado no AT para uma pessoa que se arrepende e volta para Deus (p. ex., Os 3.5; 6.1; 7.10). Sua repetição no texto de Rute provavelmente indica que os personagens não estão meramente voltando à Terra Prometida, mas também voltando para Javé.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "de volta. O verbo “voltar” ocorre 12 vezes em Rute 1.6-22. Embora, em geral, esse verbo seja usado no hebraico para uma pessoa que muda seu curso de ação e volta fisicamente a um lugar, também pode descrever uma renovação espiritual. Ele é usado no AT para uma pessoa que se arrepende e volta para Deus (p. ex., Os 3.5; 6.1; 7.10). Sua repetição no texto de Rute provavelmente indica que os personagens não estão meramente voltando à Terra Prometida, mas também voltando para Javé."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "de volta.",
+          "texto": "O verbo “voltar” ocorre 12 vezes em Rute 1.6-22. Embora, em geral, esse verbo seja usado no hebraico para uma pessoa que muda seu curso de ação e volta fisicamente a um lugar, também pode descrever uma renovação espiritual. Ele é usado no AT para uma pessoa que se arrepende e volta para Deus (p. ex., Os 3.5; 6.1; 7.10). Sua repetição no texto de Rute provavelmente indica que os personagens não estão meramente voltando à Terra Prometida, mas também voltando para Javé."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0009",
+      "referencia": "1.9, 10",
+      "capitulo": 1,
+      "versiculos": [
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.9, 10",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "1.9,10",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Iremos contigo. Essa declaração inicial de ambas as filhas intensifica a tensão dramática.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Iremos contigo. Essa declaração inicial de ambas as filhas intensifica a tensão dramática."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Iremos contigo.",
+          "texto": "Essa declaração inicial de ambas as filhas intensifica a tensão dramática."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0054",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Tenho eu ainda no ventre filhos. A conversa de Noemi, no sentido de suscitar filhos para substituir os maridos perdidos, só faz exagerar sua perda. A ideia em si pode referir-se à lei do casamento pelo levirato. Segundo essa lei, se um homem morre deixando uma viúva, seu irmão é obrigado a se casar com essa viúva, assumindo o lugar do irmão e preservando a linhagem da família (Dt 25.5, 6). O termo “levirato” tem origem no latim levir, que significa “irmão do marido”. Há também o costume de que, quando alguém morre, presume-se que um parente próximo (ou remidor) compre (ou redima) a posição do falecido (2.20, nota).",
+      "paragrafos": [
+        "Tenho eu ainda no ventre filhos. A conversa de Noemi, no sentido de suscitar filhos para substituir os maridos perdidos, só faz exagerar sua perda. A ideia em si pode referir-se à lei do casamento pelo levirato. Segundo essa lei, se um homem morre deixando uma viúva, seu irmão é obrigado a se casar com essa viúva, assumindo o lugar do irmão e preservando a linhagem da família (Dt 25.5, 6). O termo “levirato” tem origem no latim levir, que significa “irmão do marido”. Há também o costume de que, quando alguém morre, presume-se que um parente próximo (ou remidor) compre (ou redima) a posição do falecido (2.20, nota)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Tenho eu ainda no ventre filhos.",
+          "texto": "A conversa de Noemi, no sentido de suscitar filhos para substituir os maridos perdidos, só faz exagerar sua perda. A ideia em si pode referir-se à lei do casamento pelo levirato. Segundo essa lei, se um homem morre deixando uma viúva, seu irmão é obrigado a se casar com essa viúva, assumindo o lugar do irmão e preservando a linhagem da família (Dt 25.5, 6). O termo “levirato” tem origem no latim levir, que significa “irmão do marido”. Há também o costume de que, quando alguém morre, presume-se que um parente próximo (ou remidor) compre (ou redima) a posição do falecido (2.20, nota)."
+        }
+      ],
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Rt",
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    },
+    {
+      "id": "fr-rt-0055",
+      "referencia": "1.13",
+      "capitulo": 1,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "1.13",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "me amarga o ter o SENHOR descarregado contra mim a sua mão. Noemi entende que, não importa o que lhe aconteça, bom ou ruim, suas circunstâncias estão operando segundo a providência de Deus.",
+      "paragrafos": [
+        "me amarga o ter o SENHOR descarregado contra mim a sua mão. Noemi entende que, não importa o que lhe aconteça, bom ou ruim, suas circunstâncias estão operando segundo a providência de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "me amarga o ter o SENHOR descarregado contra mim a sua mão.",
+          "texto": "Noemi entende que, não importa o que lhe aconteça, bom ou ruim, suas circunstâncias estão operando segundo a providência de Deus."
+        }
+      ],
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    },
+    {
+      "id": "fr-rt-0010",
+      "referencia": "1.15",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "1.15",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "1.15",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "seus deuses. Aqui, apresenta-se um novo elemento. Fica claro que a escolha do país é em prol ou contra o verdadeiro Deus. Contra o pano de fundo da escolha de Orfa, a coragem e a beleza da declaração de Rute (vv. 16, 17) enfim se destacam.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "seus deuses. Aqui, apresenta-se um novo elemento. Fica claro que a escolha do país é em prol ou contra o verdadeiro Deus. Contra o pano de fundo da escolha de Orfa, a coragem e a beleza da declaração de Rute (vv. 16, 17) enfim se destacam."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seus deuses.",
+          "texto": "Aqui, apresenta-se um novo elemento. Fica claro que a escolha do país é em prol ou contra o verdadeiro Deus. Contra o pano de fundo da escolha de Orfa, a coragem e a beleza da declaração de Rute (vv. 16, 17) enfim se destacam."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0011",
+      "referencia": "1.16",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "1.16",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "1.16",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "aonde quer que fores. Esse versículo inclui quatro construções conhecidas como idem per idem, um artifício literário em que o mesmo verbo ou substantivo é usado para as ações de uma pessoa e, então, para as ações de outra pessoa. É usado para sublinhar a intensidade da ação, bem como a totalidade do compromisso.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "aonde quer que fores. Esse versículo inclui quatro construções conhecidas como idem per idem, um artifício literário em que o mesmo verbo ou substantivo é usado para as ações de uma pessoa e, então, para as ações de outra pessoa. É usado para sublinhar a intensidade da ação, bem como a totalidade do compromisso."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "aonde quer que fores.",
+          "texto": "Esse versículo inclui quatro construções conhecidas como idem per idem, um artifício literário em que o mesmo verbo ou substantivo é usado para as ações de uma pessoa e, então, para as ações de outra pessoa. É usado para sublinhar a intensidade da ação, bem como a totalidade do compromisso."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0012",
+      "referencia": "1.20",
+      "capitulo": 1,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "1.20",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "1.20",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Mara. Como se observou em 1.2, o nome Noemi significa “doce”. Mas ela não deseja mais ser chamada assim, porque esse nome não reflete a situação corrente de sua vida. Agora ela quer ser chamada “Mara”, um termo hebraico que significa “amargo” (cf. 1.13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Mara. Como se observou em 1.2, o nome Noemi significa “doce”. Mas ela não deseja mais ser chamada assim, porque esse nome não reflete a situação corrente de sua vida. Agora ela quer ser chamada “Mara”, um termo hebraico que significa “amargo” (cf. 1.13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Mara.",
+          "texto": "Como se observou em 1.2, o nome Noemi significa “doce”. Mas ela não deseja mais ser chamada assim, porque esse nome não reflete a situação corrente de sua vida. Agora ela quer ser chamada “Mara”, um termo hebraico que significa “amargo” (cf. 1.13)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0013",
+      "referencia": "1.22",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "1.22",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "1.22",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Rute... a moabita. Ela não é simplesmente qualquer Rute. Pois a história crucial é que, em sua lembrança, ela é uma estrangeira (1.4; 2.2, 6, 21; 4.5, 10; especialmente, 2.10). Da mesma forma, o leitor inclina-se a pensar na ancestral de Rute, a filha de Ló, o incestuoso ponto de partida da nação moabita (Gn 19.30-38). Em ambos os casos, o problema é a destituição de filhos ou a falta de um herdeiro do sexo masculino.\n\nprincípio da sega da cevada. Os calendários mais antigos, como o de Gezer do século X a.C., associavam os meses ao ciclo da agricultura. A cevada era o primeiro dos cereais colhidos em abril; o trigo era o último. Na tradição posterior, a ceifa da cevada e do trigo se identificava com as festas da Páscoa e do Pentecostes. A estação da ceifa era um tempo de celebração, no qual todos se alegravam juntos diante de Deus, lembrando-se dos pobres. O desenvolvimento da narrativa está atado a esse esquema. As mulheres retornavam ao lar na sega da cevada, tempo do favor de Deus; no caso de Noemi, o início de uma restauração frutífera.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Rute... a moabita. Ela não é simplesmente qualquer Rute. Pois a história crucial é que, em sua lembrança, ela é uma estrangeira (1.4; 2.2, 6, 21; 4.5, 10; especialmente, 2.10). Da mesma forma, o leitor inclina-se a pensar na ancestral de Rute, a filha de Ló, o incestuoso ponto de partida da nação moabita (Gn 19.30-38). Em ambos os casos, o problema é a destituição de filhos ou a falta de um herdeiro do sexo masculino.",
+        "princípio da sega da cevada. Os calendários mais antigos, como o de Gezer do século X a.C., associavam os meses ao ciclo da agricultura. A cevada era o primeiro dos cereais colhidos em abril; o trigo era o último. Na tradição posterior, a ceifa da cevada e do trigo se identificava com as festas da Páscoa e do Pentecostes. A estação da ceifa era um tempo de celebração, no qual todos se alegravam juntos diante de Deus, lembrando-se dos pobres. O desenvolvimento da narrativa está atado a esse esquema. As mulheres retornavam ao lar na sega da cevada, tempo do favor de Deus; no caso de Noemi, o início de uma restauração frutífera."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Rute... a moabita.",
+          "texto": "Ela não é simplesmente qualquer Rute. Pois a história crucial é que, em sua lembrança, ela é uma estrangeira (1.4; 2.2, 6, 21; 4.5, 10; especialmente, 2.10). Da mesma forma, o leitor inclina-se a pensar na ancestral de Rute, a filha de Ló, o incestuoso ponto de partida da nação moabita (Gn 19.30-38). Em ambos os casos, o problema é a destituição de filhos ou a falta de um herdeiro do sexo masculino."
+        },
+        {
+          "titulo": "princípio da sega da cevada.",
+          "texto": "Os calendários mais antigos, como o de Gezer do século X a.C., associavam os meses ao ciclo da agricultura. A cevada era o primeiro dos cereais colhidos em abril; o trigo era o último. Na tradição posterior, a ceifa da cevada e do trigo se identificava com as festas da Páscoa e do Pentecostes. A estação da ceifa era um tempo de celebração, no qual todos se alegravam juntos diante de Deus, lembrando-se dos pobres. O desenvolvimento da narrativa está atado a esse esquema. As mulheres retornavam ao lar na sega da cevada, tempo do favor de Deus; no caso de Noemi, o início de uma restauração frutífera."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0014",
+      "referencia": "2.1-23",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 22
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "2.1-23",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "2.1-23",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "O capítulo 2 introduz o último e principal personagem, Boaz, e o tema maior, o do parente próximo, ou remidor, que detém certas responsabilidades pela família e a propriedade de um parente que morre (2.20, nota). O narrador, que já sabe o que acontece adiante, dá apenas uma indicação com a descrição de Boaz como “um parente” no v. 1. Só depois que a bondade natural de Boaz e o encanto natural de Rute assumem seu curso é que Noemi revela a chave para o acesso à história: Boaz é “um parente próximo” (2.20). Mesmo então, não se faz nenhuma reivindicação; não há apelo aos costumes. Os eventos têm de aguardar seu tempo; enquanto Noemi planeja, Rute serve serenamente, e Boaz conclui a ceifa. Entretanto, Deus já providenciou uma resposta através da lei (Lv 25).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Rt",
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O capítulo 2 introduz o último e principal personagem, Boaz, e o tema maior, o do parente próximo, ou remidor, que detém certas responsabilidades pela família e a propriedade de um parente que morre (2.20, nota). O narrador, que já sabe o que acontece adiante, dá apenas uma indicação com a descrição de Boaz como “um parente” no v. 1. Só depois que a bondade natural de Boaz e o encanto natural de Rute assumem seu curso é que Noemi revela a chave para o acesso à história: Boaz é “um parente próximo” (2.20). Mesmo então, não se faz nenhuma reivindicação; não há apelo aos costumes. Os eventos têm de aguardar seu tempo; enquanto Noemi planeja, Rute serve serenamente, e Boaz conclui a ceifa. Entretanto, Deus já providenciou uma resposta através da lei (Lv 25)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O capítulo 2 introduz o último e principal personagem, Boaz, e o tema maior, o do parente próximo, ou remidor, que detém certas responsabilidades pela família e a propriedade de um parente que morre (2.20, nota). O narrador, que já sabe o que acontece adiante, dá apenas uma indicação com a descrição de Boaz como “um parente” no v. 1. Só depois que a bondade natural de Boaz e o encanto natural de Rute assumem seu curso é que Noemi revela a chave para o acesso à história: Boaz é “um parente próximo” (2.20). Mesmo então, não se faz nenhuma reivindicação; não há apelo aos costumes. Os eventos têm de aguardar seu tempo; enquanto Noemi planeja, Rute serve serenamente, e Boaz conclui a ceifa. Entretanto, Deus já providenciou uma resposta através da lei (Lv 25)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0015",
+      "referencia": "2.1",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "2.1",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2
+        ],
+        "rotulo_impresso_ocr": "2.1",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "parente. Ou “conhecido”. O texto hebraico não deixa clara a posição técnica de Boaz, mas a história se desdobra como se ele fosse aquele descrito em Levítico 25.25, como o “remidor mais próximo”, cuja responsabilidade se relaciona inicialmente, mas não de forma exclusiva, com a propriedade de um parente empobrecido (1.11; 2.20 e notas). Mais adiante (2.20; 3.9), Boaz será identificado como um “parente próximo”, mas, a essa altura, ele é introduzido de modo a preparar o leitor para os eventos que põem Rute em seu campo.\n\nmuitos bens. A palavra hebraica descreve alguém poderoso e importante na sociedade.\n\nBoaz. Literalmente, “nele está a força”, e Boaz se mostra um homem de forte caráter pactual.",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Rt",
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "livro": "Rt",
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "parente. Ou “conhecido”. O texto hebraico não deixa clara a posição técnica de Boaz, mas a história se desdobra como se ele fosse aquele descrito em Levítico 25.25, como o “remidor mais próximo”, cuja responsabilidade se relaciona inicialmente, mas não de forma exclusiva, com a propriedade de um parente empobrecido (1.11; 2.20 e notas). Mais adiante (2.20; 3.9), Boaz será identificado como um “parente próximo”, mas, a essa altura, ele é introduzido de modo a preparar o leitor para os eventos que põem Rute em seu campo.",
+        "muitos bens. A palavra hebraica descreve alguém poderoso e importante na sociedade.",
+        "Boaz. Literalmente, “nele está a força”, e Boaz se mostra um homem de forte caráter pactual."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "parente.",
+          "texto": "Ou “conhecido”. O texto hebraico não deixa clara a posição técnica de Boaz, mas a história se desdobra como se ele fosse aquele descrito em Levítico 25.25, como o “remidor mais próximo”, cuja responsabilidade se relaciona inicialmente, mas não de forma exclusiva, com a propriedade de um parente empobrecido (1.11; 2.20 e notas). Mais adiante (2.20; 3.9), Boaz será identificado como um “parente próximo”, mas, a essa altura, ele é introduzido de modo a preparar o leitor para os eventos que põem Rute em seu campo."
+        },
+        {
+          "titulo": "muitos bens.",
+          "texto": "A palavra hebraica descreve alguém poderoso e importante na sociedade."
+        },
+        {
+          "titulo": "Boaz.",
+          "texto": "Literalmente, “nele está a força”, e Boaz se mostra um homem de forte caráter pactual."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0016",
+      "referencia": "2.2",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "2.2",
+      "pagina_original": 2,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 2,
+        "paginas_pdf": [
+          2,
+          3
+        ],
+        "rotulo_impresso_ocr": "2.2",
+        "pagina_impressa": 394,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Deixa-me ir ao campo. A iniciativa de Rute, aparentemente, é apenas para manter vivas a si e Noemi, em conformidade com um costume codificado em Levítico (19.9, 10; 23.22) e Deuteronômio (24.19). Como pessoas pobres, Rute e Noemi receberão alguma ajuda, porém muito mais acontecerá em seu caminho. Uma sugestão dessa provisão é dada no melancólico pedido de Rute, que pudesse apanhar espigas “atrás daquele que mo favorecer”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Deixa-me ir ao campo. A iniciativa de Rute, aparentemente, é apenas para manter vivas a si e Noemi, em conformidade com um costume codificado em Levítico (19.9, 10; 23.22) e Deuteronômio (24.19). Como pessoas pobres, Rute e Noemi receberão alguma ajuda, porém muito mais acontecerá em seu caminho. Uma sugestão dessa provisão é dada no melancólico pedido de Rute, que pudesse apanhar espigas “atrás daquele que mo favorecer”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Deixa-me ir ao campo.",
+          "texto": "A iniciativa de Rute, aparentemente, é apenas para manter vivas a si e Noemi, em conformidade com um costume codificado em Levítico (19.9, 10; 23.22) e Deuteronômio (24.19). Como pessoas pobres, Rute e Noemi receberão alguma ajuda, porém muito mais acontecerá em seu caminho. Uma sugestão dessa provisão é dada no melancólico pedido de Rute, que pudesse apanhar espigas “atrás daquele que mo favorecer”."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0017",
+      "referencia": "2.3",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "2.3",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.3",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "por casualidade. Da perspectiva de Rute, o local em que ela vai trabalhar é mera casualidade. Entretanto, na realidade, tudo se desenvolve segundo a misteriosa providência de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "por casualidade. Da perspectiva de Rute, o local em que ela vai trabalhar é mera casualidade. Entretanto, na realidade, tudo se desenvolve segundo a misteriosa providência de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "por casualidade.",
+          "texto": "Da perspectiva de Rute, o local em que ela vai trabalhar é mera casualidade. Entretanto, na realidade, tudo se desenvolve segundo a misteriosa providência de Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0018",
+      "referencia": "2.4",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "2.4",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.4",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Eis que. A chegada de Boaz atende às expectativas suscitadas nos vv. 1-3.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Eis que. A chegada de Boaz atende às expectativas suscitadas nos vv. 1-3."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Eis que.",
+          "texto": "A chegada de Boaz atende às expectativas suscitadas nos vv. 1-3."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0056",
+      "referencia": "2.6, 7",
+      "capitulo": 2,
+      "versiculos": [
+        6,
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.6, 7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "A resposta do servo estabelece o caráter de Rute. Ela é fiel, tendo aparecido enquanto ainda jovem em um país estranho, por causa de sua sogra. Ela está trabalhando com afinco desde a manhã.",
+      "paragrafos": [
+        "A resposta do servo estabelece o caráter de Rute. Ela é fiel, tendo aparecido enquanto ainda jovem em um país estranho, por causa de sua sogra. Ela está trabalhando com afinco desde a manhã."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A resposta do servo estabelece o caráter de Rute. Ela é fiel, tendo aparecido enquanto ainda jovem em um país estranho, por causa de sua sogra. Ela está trabalhando com afinco desde a manhã."
+        }
+      ],
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    },
+    {
+      "id": "fr-rt-0019",
+      "referencia": "2.7",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "2.7",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.7",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "entre as gavelas. O pedido de Rute está dentro dos limites de seu direito de viúva (Dt 24.19-21). Mas a resposta de Boaz vai muito além do requerimento legal (v. 15), demonstrando, com isso, sua generosidade.\n\nmenos um pouco que esteve na choça. Literalmente, “Esta é sua habitação; a casa é pequena”. “Esta” se refere ao campo, e tem sido sua residência durante todo o dia. A “casa” na cidade é entendida como “pequena” para ela. Rute é diligente e operosa, dedicando boa parte de seu tempo a trabalhar no campo, que se torna seu “lar”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "entre as gavelas. O pedido de Rute está dentro dos limites de seu direito de viúva (Dt 24.19-21). Mas a resposta de Boaz vai muito além do requerimento legal (v. 15), demonstrando, com isso, sua generosidade.",
+        "menos um pouco que esteve na choça. Literalmente, “Esta é sua habitação; a casa é pequena”. “Esta” se refere ao campo, e tem sido sua residência durante todo o dia. A “casa” na cidade é entendida como “pequena” para ela. Rute é diligente e operosa, dedicando boa parte de seu tempo a trabalhar no campo, que se torna seu “lar”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "entre as gavelas.",
+          "texto": "O pedido de Rute está dentro dos limites de seu direito de viúva (Dt 24.19-21). Mas a resposta de Boaz vai muito além do requerimento legal (v. 15), demonstrando, com isso, sua generosidade."
+        },
+        {
+          "titulo": "menos um pouco que esteve na choça.",
+          "texto": "Literalmente, “Esta é sua habitação; a casa é pequena”. “Esta” se refere ao campo, e tem sido sua residência durante todo o dia. A “casa” na cidade é entendida como “pequena” para ela. Rute é diligente e operosa, dedicando boa parte de seu tempo a trabalhar no campo, que se torna seu “lar”."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0020",
+      "referencia": "2.8-12",
+      "capitulo": 2,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.8-12",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.8-12",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Os incidentes se desdobram rapidamente enquanto Boaz assente com seu pedido e oferece sua proteção e provisão (vv. 8, 9). Rute reconhece seu favor para com ela, uma “estrangeira” sem mérito (v. 10). Somente então, a narrativa dá alguma indicação da operação providencial de Deus (vv. 11, 12). Boaz já sabe que Rute não é uma estrangeira comum. Ela tem recebido “refúgio” debaixo das “asas” do Senhor, e receberá dele “um galardão completo” (v. 12). Muito embora seja estrangeira, a lealdade de Rute a Deus é um elemento-chave no grande plano elaborado por Deus para a redenção. O plano será elaborado por meio de dois descendentes de Rute: Davi, o rei pactual, e Cristo, o filho maior de Davi. O galardão da fé de Rute transcende muito o tempo e as circunstâncias locais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os incidentes se desdobram rapidamente enquanto Boaz assente com seu pedido e oferece sua proteção e provisão (vv. 8, 9). Rute reconhece seu favor para com ela, uma “estrangeira” sem mérito (v. 10). Somente então, a narrativa dá alguma indicação da operação providencial de Deus (vv. 11, 12). Boaz já sabe que Rute não é uma estrangeira comum. Ela tem recebido “refúgio” debaixo das “asas” do Senhor, e receberá dele “um galardão completo” (v. 12). Muito embora seja estrangeira, a lealdade de Rute a Deus é um elemento-chave no grande plano elaborado por Deus para a redenção. O plano será elaborado por meio de dois descendentes de Rute: Davi, o rei pactual, e Cristo, o filho maior de Davi. O galardão da fé de Rute transcende muito o tempo e as circunstâncias locais."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os incidentes se desdobram rapidamente enquanto Boaz assente com seu pedido e oferece sua proteção e provisão (vv. 8, 9). Rute reconhece seu favor para com ela, uma “estrangeira” sem mérito (v. 10). Somente então, a narrativa dá alguma indicação da operação providencial de Deus (vv. 11, 12). Boaz já sabe que Rute não é uma estrangeira comum. Ela tem recebido “refúgio” debaixo das “asas” do Senhor, e receberá dele “um galardão completo” (v. 12). Muito embora seja estrangeira, a lealdade de Rute a Deus é um elemento-chave no grande plano elaborado por Deus para a redenção. O plano será elaborado por meio de dois descendentes de Rute: Davi, o rei pactual, e Cristo, o filho maior de Davi. O galardão da fé de Rute transcende muito o tempo e as circunstâncias locais."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0021",
+      "referencia": "2.10",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "2.10",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.10",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "fazes caso de mim, sendo eu estrangeira? Aqui, existe um jogo de palavras, visto que o termo “estrangeira” se relaciona com o verbo “fazer caso”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "fazes caso de mim, sendo eu estrangeira? Aqui, existe um jogo de palavras, visto que o termo “estrangeira” se relaciona com o verbo “fazer caso”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "fazes caso de mim, sendo eu estrangeira?",
+          "texto": "Aqui, existe um jogo de palavras, visto que o termo “estrangeira” se relaciona com o verbo “fazer caso”."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0022",
+      "referencia": "2.12",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "2.12",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.12",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "asas. A imagem frequente de segurança e proteção, presente em Salmos (17.8; 36.7; 57.1; 61.4; 63.7; 91.4).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "asas. A imagem frequente de segurança e proteção, presente em Salmos (17.8; 36.7; 57.1; 61.4; 63.7; 91.4)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "asas.",
+          "texto": "A imagem frequente de segurança e proteção, presente em Salmos (17.8; 36.7; 57.1; 61.4; 63.7; 91.4)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0023",
+      "referencia": "2.14-16",
+      "capitulo": 2,
+      "versiculos": [
+        14,
+        15,
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 2,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "2.14-16",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.14-16",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Evidentemente, a permissão de Boaz é extraordinária.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Evidentemente, a permissão de Boaz é extraordinária."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Evidentemente, a permissão de Boaz é extraordinária."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0024",
+      "referencia": "2.14",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "2.14",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.14",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "vinho. Uma bebida ou um líquido acre, porém refrescante (cf. Nm 6.3).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "vinho. Uma bebida ou um líquido acre, porém refrescante (cf. Nm 6.3)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "vinho.",
+          "texto": "Uma bebida ou um líquido acre, porém refrescante (cf. Nm 6.3)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0025",
+      "referencia": "2.17",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "2.17",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.17",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "debulhou... um efa. Malhar o grão, ou trilhá-lo, separando as sementes de cascas, palhas e galhos. Um efa é uma medida de capacidade seca igual a 13 kg de cevada.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "debulhou... um efa. Malhar o grão, ou trilhá-lo, separando as sementes de cascas, palhas e galhos. Um efa é uma medida de capacidade seca igual a 13 kg de cevada."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "debulhou... um efa.",
+          "texto": "Malhar o grão, ou trilhá-lo, separando as sementes de cascas, palhas e galhos. Um efa é uma medida de capacidade seca igual a 13 kg de cevada."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0026",
+      "referencia": "2.18",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "2.18",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.18",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "o que lhe sobejara depois de fartar-se. O que ele separou de sua refeição do meio-dia (v. 14).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "o que lhe sobejara depois de fartar-se. O que ele separou de sua refeição do meio-dia (v. 14)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "o que lhe sobejara depois de fartar-se.",
+          "texto": "O que ele separou de sua refeição do meio-dia (v. 14)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0027",
+      "referencia": "2.20",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 20
+        }
+      ],
+      "titulo": "2.20",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.20",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "ainda não tem deixado a sua benevolência. Deus é fiel, e não se esquecerá daqueles a quem ama. As bênçãos que ele promete passará de Boaz para Rute, para Noemi e, eventualmente, para todos os eleitos.\n\nnosso parente chegado. A lei da redenção surge agora à vista. Segundo essa lei, o parente consanguíneo mais próximo, do sexo masculino, tem o dever de preservar o nome da família e a propriedade. Esse dever pode vincular vingança pela morte de um membro da família (Nm 35.19-21); comprar de volta a propriedade da família que foi vendida para pagar dívidas (Lv 25.25); comprar de volta um parente que se vendeu como escravo para pagar dívidas (Lv 25.47-49), e o casamento pelo levirato, casando-se com a viúva de um parente falecido (Dt 25.5-10). Aparentemente, pode haver renúncia ou declínio a esses deveres em certas circunstâncias (cf. Rt 3.12; 4.1-8). Boaz é um desses “parentes chegados” (ou “remidores”) em relação a Rute, e agora esse fato determina o curso de ação (1.11; 2.1 e notas). O destino de Rute seguirá seu curso de acordo com a lei, diferente do caso de sua ancestral, a filha de Ló, que cometeu incesto (Gn 19.30-38).",
+      "remissoes": [],
+      "links_notas": [
+        {
+          "livro": "Rt",
+          "capitulo": 1,
+          "versiculo": 11
+        },
+        {
+          "livro": "Rt",
+          "capitulo": 2,
+          "versiculo": 1
+        }
+      ],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "ainda não tem deixado a sua benevolência. Deus é fiel, e não se esquecerá daqueles a quem ama. As bênçãos que ele promete passará de Boaz para Rute, para Noemi e, eventualmente, para todos os eleitos.",
+        "nosso parente chegado. A lei da redenção surge agora à vista. Segundo essa lei, o parente consanguíneo mais próximo, do sexo masculino, tem o dever de preservar o nome da família e a propriedade. Esse dever pode vincular vingança pela morte de um membro da família (Nm 35.19-21); comprar de volta a propriedade da família que foi vendida para pagar dívidas (Lv 25.25); comprar de volta um parente que se vendeu como escravo para pagar dívidas (Lv 25.47-49), e o casamento pelo levirato, casando-se com a viúva de um parente falecido (Dt 25.5-10). Aparentemente, pode haver renúncia ou declínio a esses deveres em certas circunstâncias (cf. Rt 3.12; 4.1-8). Boaz é um desses “parentes chegados” (ou “remidores”) em relação a Rute, e agora esse fato determina o curso de ação (1.11; 2.1 e notas). O destino de Rute seguirá seu curso de acordo com a lei, diferente do caso de sua ancestral, a filha de Ló, que cometeu incesto (Gn 19.30-38)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "ainda não tem deixado a sua benevolência.",
+          "texto": "Deus é fiel, e não se esquecerá daqueles a quem ama. As bênçãos que ele promete passará de Boaz para Rute, para Noemi e, eventualmente, para todos os eleitos."
+        },
+        {
+          "titulo": "nosso parente chegado.",
+          "texto": "A lei da redenção surge agora à vista. Segundo essa lei, o parente consanguíneo mais próximo, do sexo masculino, tem o dever de preservar o nome da família e a propriedade. Esse dever pode vincular vingança pela morte de um membro da família (Nm 35.19-21); comprar de volta a propriedade da família que foi vendida para pagar dívidas (Lv 25.25); comprar de volta um parente que se vendeu como escravo para pagar dívidas (Lv 25.47-49), e o casamento pelo levirato, casando-se com a viúva de um parente falecido (Dt 25.5-10). Aparentemente, pode haver renúncia ou declínio a esses deveres em certas circunstâncias (cf. Rt 3.12; 4.1-8). Boaz é um desses “parentes chegados” (ou “remidores”) em relação a Rute, e agora esse fato determina o curso de ação (1.11; 2.1 e notas). O destino de Rute seguirá seu curso de acordo com a lei, diferente do caso de sua ancestral, a filha de Ló, que cometeu incesto (Gn 19.30-38)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0028",
+      "referencia": "2.23",
+      "capitulo": 2,
+      "versiculos": [
+        23
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 2,
+          "versiculo": 23
+        }
+      ],
+      "titulo": "2.23",
+      "pagina_original": 3,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 3,
+        "paginas_pdf": [
+          3
+        ],
+        "rotulo_impresso_ocr": "2.23",
+        "pagina_impressa": 395,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "até que a sega da cevada e do trigo se acabou. O tempo do trabalho de Rute nos campos equivale, aproximadamente, a três meses.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "até que a sega da cevada e do trigo se acabou. O tempo do trabalho de Rute nos campos equivale, aproximadamente, a três meses."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "até que a sega da cevada e do trigo se acabou.",
+          "texto": "O tempo do trabalho de Rute nos campos equivale, aproximadamente, a três meses."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0029",
+      "referencia": "3.1-18",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        },
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.1-18",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.1-18",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Agora, a narrativa se move em direção à resolução. Em uma visita noturna furtiva, Rute põe em prática e expande o plano de Noemi, colocando em risco sua própria reputação e todas as suas expectativas. Ela reivindica a proteção de Boaz como “redentor” (v. 9). A confiança que ela tem em seu caráter é justificada, e ela não sofre dano algum. A atividade de Deus por trás das cenas continua ininterruptamente. Mas, mesmo nesse momento, o compromisso conjugal deve ser postergado; há um parente mais próximo (3.12), e Boaz, um homem de honra excepcional, não descansará até que esse obstáculo seja removido.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Agora, a narrativa se move em direção à resolução. Em uma visita noturna furtiva, Rute põe em prática e expande o plano de Noemi, colocando em risco sua própria reputação e todas as suas expectativas. Ela reivindica a proteção de Boaz como “redentor” (v. 9). A confiança que ela tem em seu caráter é justificada, e ela não sofre dano algum. A atividade de Deus por trás das cenas continua ininterruptamente. Mas, mesmo nesse momento, o compromisso conjugal deve ser postergado; há um parente mais próximo (3.12), e Boaz, um homem de honra excepcional, não descansará até que esse obstáculo seja removido."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Agora, a narrativa se move em direção à resolução. Em uma visita noturna furtiva, Rute põe em prática e expande o plano de Noemi, colocando em risco sua própria reputação e todas as suas expectativas. Ela reivindica a proteção de Boaz como “redentor” (v. 9). A confiança que ela tem em seu caráter é justificada, e ela não sofre dano algum. A atividade de Deus por trás das cenas continua ininterruptamente. Mas, mesmo nesse momento, o compromisso conjugal deve ser postergado; há um parente mais próximo (3.12), e Boaz, um homem de honra excepcional, não descansará até que esse obstáculo seja removido."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0030",
+      "referencia": "3.1",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "3.1",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.1",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "não hei de eu buscar-te um lar. Isso significa que Rute iria se casar, uma necessidade que Noemi procurou preencher de todo o coração (1.9).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "não hei de eu buscar-te um lar. Isso significa que Rute iria se casar, uma necessidade que Noemi procurou preencher de todo o coração (1.9)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "não hei de eu buscar-te um lar.",
+          "texto": "Isso significa que Rute iria se casar, uma necessidade que Noemi procurou preencher de todo o coração (1.9)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0031",
+      "referencia": "3.3",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "3.3",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.3",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "desce à eira. Uma clareira onde o cereal é prensado ou rasgado para separar o farelo, a palha e os grãos. A safra, então, é peneirada ou soprada ao ar, para o vento levar a palha, enquanto os grãos caem diretamente no chão. Tudo isso acontece na primavera, tempo das festas da colheita.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "desce à eira. Uma clareira onde o cereal é prensado ou rasgado para separar o farelo, a palha e os grãos. A safra, então, é peneirada ou soprada ao ar, para o vento levar a palha, enquanto os grãos caem diretamente no chão. Tudo isso acontece na primavera, tempo das festas da colheita."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "desce à eira.",
+          "texto": "Uma clareira onde o cereal é prensado ou rasgado para separar o farelo, a palha e os grãos. A safra, então, é peneirada ou soprada ao ar, para o vento levar a palha, enquanto os grãos caem diretamente no chão. Tudo isso acontece na primavera, tempo das festas da colheita."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0032",
+      "referencia": "3.4",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "3.4",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.4",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "descobrirás os pés. Um ato altamente simbólico. Ao chegar à eira e deitar-se aos pés de Boaz, Rute está pedindo a Boaz que se case com ela. Com efeito, ela está dizendo que quer ser redimida, e aguarda o julgamento de Boaz sobre a questão.\n\ndeitarás. Rute se põe pacientemente aos pés de Boaz até que ele desperte (vv. 8, 9); nada de inconveniente acontece entre eles durante a noite (v. 11).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "descobrirás os pés. Um ato altamente simbólico. Ao chegar à eira e deitar-se aos pés de Boaz, Rute está pedindo a Boaz que se case com ela. Com efeito, ela está dizendo que quer ser redimida, e aguarda o julgamento de Boaz sobre a questão.",
+        "deitarás. Rute se põe pacientemente aos pés de Boaz até que ele desperte (vv. 8, 9); nada de inconveniente acontece entre eles durante a noite (v. 11)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "descobrirás os pés.",
+          "texto": "Um ato altamente simbólico. Ao chegar à eira e deitar-se aos pés de Boaz, Rute está pedindo a Boaz que se case com ela. Com efeito, ela está dizendo que quer ser redimida, e aguarda o julgamento de Boaz sobre a questão."
+        },
+        {
+          "titulo": "deitarás.",
+          "texto": "Rute se põe pacientemente aos pés de Boaz até que ele desperte (vv. 8, 9); nada de inconveniente acontece entre eles durante a noite (v. 11)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0033",
+      "referencia": "3.7",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "3.7",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.7",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "coração um tanto alegre. Boaz se pôs a beber, mas não se embriagou. Ele está contente e completou seu dia de trabalho e sua refeição vespertina. Depois de todo o trabalho do dia, Boaz “veio deitar-se ao pé de um monte de cereais”, uma posição em que Rute possa encontrá-lo a sós. A providência de Deus está lhe clareando uma vereda.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "coração um tanto alegre. Boaz se pôs a beber, mas não se embriagou. Ele está contente e completou seu dia de trabalho e sua refeição vespertina. Depois de todo o trabalho do dia, Boaz “veio deitar-se ao pé de um monte de cereais”, uma posição em que Rute possa encontrá-lo a sós. A providência de Deus está lhe clareando uma vereda."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "coração um tanto alegre.",
+          "texto": "Boaz se pôs a beber, mas não se embriagou. Ele está contente e completou seu dia de trabalho e sua refeição vespertina. Depois de todo o trabalho do dia, Boaz “veio deitar-se ao pé de um monte de cereais”, uma posição em que Rute possa encontrá-lo a sós. A providência de Deus está lhe clareando uma vereda."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0034",
+      "referencia": "3.9",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "3.9",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.9",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "estende a tua capa sobre a tua serva. Boaz anseia pela proteção de Rute debaixo das asas de Deus (2.12); agora, Rute dá a Boaz a oportunidade de ser a resposta à sua própria oração. Ver nota do texto. Ezequiel 16.8 explica essa expressão idiomática. Rute busca diretamente o favor do casamento, embora as instruções de Noemi não tenham sido tão ousadas (v. 4).\n\nresgatador. A lei não especifica o casamento como a responsabilidade dessa pessoa, muito embora uma extensão de Levítico 25 possa ser prontamente considerada. O nome e a propriedade de Malom serão preservados (4.10), pressupondo o casamento pelo levirato, mas é difícil ver como Deuteronômio 25.5, 6 possa aplicar-se de forma estrita.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "estende a tua capa sobre a tua serva. Boaz anseia pela proteção de Rute debaixo das asas de Deus (2.12); agora, Rute dá a Boaz a oportunidade de ser a resposta à sua própria oração. Ver nota do texto. Ezequiel 16.8 explica essa expressão idiomática. Rute busca diretamente o favor do casamento, embora as instruções de Noemi não tenham sido tão ousadas (v. 4).",
+        "resgatador. A lei não especifica o casamento como a responsabilidade dessa pessoa, muito embora uma extensão de Levítico 25 possa ser prontamente considerada. O nome e a propriedade de Malom serão preservados (4.10), pressupondo o casamento pelo levirato, mas é difícil ver como Deuteronômio 25.5, 6 possa aplicar-se de forma estrita."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "estende a tua capa sobre a tua serva.",
+          "texto": "Boaz anseia pela proteção de Rute debaixo das asas de Deus (2.12); agora, Rute dá a Boaz a oportunidade de ser a resposta à sua própria oração. Ver nota do texto. Ezequiel 16.8 explica essa expressão idiomática. Rute busca diretamente o favor do casamento, embora as instruções de Noemi não tenham sido tão ousadas (v. 4)."
+        },
+        {
+          "titulo": "resgatador.",
+          "texto": "A lei não especifica o casamento como a responsabilidade dessa pessoa, muito embora uma extensão de Levítico 25 possa ser prontamente considerada. O nome e a propriedade de Malom serão preservados (4.10), pressupondo o casamento pelo levirato, mas é difícil ver como Deuteronômio 25.5, 6 possa aplicar-se de forma estrita."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0035",
+      "referencia": "3.10",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "3.10",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.10",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "benevolência. Literalmente, “amor pactual”. Por todo o livro, o próprio amor pactual de Deus (1.8; 2.20) é espelhado pelo de Rute (1.8, 16, 17). Agora, sua fidelidade é provada quando ela invoca os deveres de um parente próximo e renuncia a seguir qualquer outro dos jovens. A “benevolência” a que Boaz se refere é, evidentemente, a proposta de Rute, no sentido de seguir o costume que proverá um herdeiro para Noemi.\n\na primeira. Quando ela decide acompanhar Noemi.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "benevolência. Literalmente, “amor pactual”. Por todo o livro, o próprio amor pactual de Deus (1.8; 2.20) é espelhado pelo de Rute (1.8, 16, 17). Agora, sua fidelidade é provada quando ela invoca os deveres de um parente próximo e renuncia a seguir qualquer outro dos jovens. A “benevolência” a que Boaz se refere é, evidentemente, a proposta de Rute, no sentido de seguir o costume que proverá um herdeiro para Noemi.",
+        "a primeira. Quando ela decide acompanhar Noemi."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "benevolência.",
+          "texto": "Literalmente, “amor pactual”. Por todo o livro, o próprio amor pactual de Deus (1.8; 2.20) é espelhado pelo de Rute (1.8, 16, 17). Agora, sua fidelidade é provada quando ela invoca os deveres de um parente próximo e renuncia a seguir qualquer outro dos jovens. A “benevolência” a que Boaz se refere é, evidentemente, a proposta de Rute, no sentido de seguir o costume que proverá um herdeiro para Noemi."
+        },
+        {
+          "titulo": "a primeira.",
+          "texto": "Quando ela decide acompanhar Noemi."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0036",
+      "referencia": "3.11",
+      "capitulo": 3,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "3.11",
+      "pagina_original": 4,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 4,
+        "paginas_pdf": [
+          4
+        ],
+        "rotulo_impresso_ocr": "3.11",
+        "pagina_impressa": 396,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "mulher virtuosa. O equivalente feminino à frase hebraica em 2.1. Rute deixou de ser moabita e serva para se tornar atraente a Boaz como uma possível parceira conjugal. No cânon hebraico, o livro de Rute segue o livro de Provérbios. Na última seção de Provérbios, o autor diz: “(...) mas a mulher que teme ao SENHOR, essa será louvada (...), de público a louvarão as suas obras” (Pv 31.30, 31). No cânon hebraico, a resposta é imediata: Boaz encontrou uma “mulher virtuosa” que é louvada às portas, aquela que é conhecida por sua generosidade e por seu amor pactual em relação a Noemi (2.8-13).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "mulher virtuosa. O equivalente feminino à frase hebraica em 2.1. Rute deixou de ser moabita e serva para se tornar atraente a Boaz como uma possível parceira conjugal. No cânon hebraico, o livro de Rute segue o livro de Provérbios. Na última seção de Provérbios, o autor diz: “(...) mas a mulher que teme ao SENHOR, essa será louvada (...), de público a louvarão as suas obras” (Pv 31.30, 31). No cânon hebraico, a resposta é imediata: Boaz encontrou uma “mulher virtuosa” que é louvada às portas, aquela que é conhecida por sua generosidade e por seu amor pactual em relação a Noemi (2.8-13)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "mulher virtuosa.",
+          "texto": "O equivalente feminino à frase hebraica em 2.1. Rute deixou de ser moabita e serva para se tornar atraente a Boaz como uma possível parceira conjugal. No cânon hebraico, o livro de Rute segue o livro de Provérbios. Na última seção de Provérbios, o autor diz: “(...) mas a mulher que teme ao SENHOR, essa será louvada (...), de público a louvarão as suas obras” (Pv 31.30, 31). No cânon hebraico, a resposta é imediata: Boaz encontrou uma “mulher virtuosa” que é louvada às portas, aquela que é conhecida por sua generosidade e por seu amor pactual em relação a Noemi (2.8-13)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0037",
+      "referencia": "3.12",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "3.12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "3.12",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "outro resgatador há mais chegado do que eu. De repente, Boaz faz menção a um fator complicador. A lei hebraica parece administrar uma ordem de posição entre os parentes remidores (Lv 25.47-49), e há um parente mais chegado do que Boaz, o qual detém o primeiro direito de aceitação ou recusa. O costume da redenção parece conduzir a uma solução, mas agora gera um problema ao longo de sua trajetória. O noivado tem de ser postergado.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "outro resgatador há mais chegado do que eu. De repente, Boaz faz menção a um fator complicador. A lei hebraica parece administrar uma ordem de posição entre os parentes remidores (Lv 25.47-49), e há um parente mais chegado do que Boaz, o qual detém o primeiro direito de aceitação ou recusa. O costume da redenção parece conduzir a uma solução, mas agora gera um problema ao longo de sua trajetória. O noivado tem de ser postergado."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "outro resgatador há mais chegado do que eu.",
+          "texto": "De repente, Boaz faz menção a um fator complicador. A lei hebraica parece administrar uma ordem de posição entre os parentes remidores (Lv 25.47-49), e há um parente mais chegado do que Boaz, o qual detém o primeiro direito de aceitação ou recusa. O costume da redenção parece conduzir a uma solução, mas agora gera um problema ao longo de sua trajetória. O noivado tem de ser postergado."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0038",
+      "referencia": "3.15",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 15
+        }
+      ],
+      "titulo": "3.15",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "3.15",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "seis medidas de cevada. Esse presente de cevada mostra a magnanimidade de Boaz para com Rute (v. 17) e é um símbolo da condição transformada de Noemi (1.21). Rute recebe o cereal das mãos de Boaz como um emblema de sua futura fertilidade.\n\nentão, entrou ela na cidade. Literalmente, “então ele entrou na cidade”. Essa última [tradução] atribui um bom sentido: assim que Boaz dá sua palavra a Rute, segue diretamente para Belém, a fim de cumprir seu juramento.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "seis medidas de cevada. Esse presente de cevada mostra a magnanimidade de Boaz para com Rute (v. 17) e é um símbolo da condição transformada de Noemi (1.21). Rute recebe o cereal das mãos de Boaz como um emblema de sua futura fertilidade.",
+        "então, entrou ela na cidade. Literalmente, “então ele entrou na cidade”. Essa última [tradução] atribui um bom sentido: assim que Boaz dá sua palavra a Rute, segue diretamente para Belém, a fim de cumprir seu juramento."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seis medidas de cevada.",
+          "texto": "Esse presente de cevada mostra a magnanimidade de Boaz para com Rute (v. 17) e é um símbolo da condição transformada de Noemi (1.21). Rute recebe o cereal das mãos de Boaz como um emblema de sua futura fertilidade."
+        },
+        {
+          "titulo": "então, entrou ela na cidade.",
+          "texto": "Literalmente, “então ele entrou na cidade”. Essa última [tradução] atribui um bom sentido: assim que Boaz dá sua palavra a Rute, segue diretamente para Belém, a fim de cumprir seu juramento."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0039",
+      "referencia": "3.16",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "3.16",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "3.16",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Como se te passaram as coisas. As mesmas palavras hebraicas “Quem és tu?” no v. 9.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Como se te passaram as coisas. As mesmas palavras hebraicas “Quem és tu?” no v. 9."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Como se te passaram as coisas.",
+          "texto": "As mesmas palavras hebraicas “Quem és tu?” no v. 9."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0040",
+      "referencia": "3.17",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "3.17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "3.17",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "seis medidas de cevada. O cereal serve como emblema e penhor não só para Rute, mas também para Noemi. Esse é o sinal visível de uma promessa.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "seis medidas de cevada. O cereal serve como emblema e penhor não só para Rute, mas também para Noemi. Esse é o sinal visível de uma promessa."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "seis medidas de cevada.",
+          "texto": "O cereal serve como emblema e penhor não só para Rute, mas também para Noemi. Esse é o sinal visível de uma promessa."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0041",
+      "referencia": "3.18",
+      "capitulo": 3,
+      "versiculos": [
+        18
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 3,
+          "versiculo": 18
+        }
+      ],
+      "titulo": "3.18",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "3.18",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Espera. Trata-se de um toque irônico, pois o tempo para a espera será muito breve. Noemi não espera uma conclusão que leve muito tempo para se concretizar.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Espera. Trata-se de um toque irônico, pois o tempo para a espera será muito breve. Noemi não espera uma conclusão que leve muito tempo para se concretizar."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Espera.",
+          "texto": "Trata-se de um toque irônico, pois o tempo para a espera será muito breve. Noemi não espera uma conclusão que leve muito tempo para se concretizar."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0042",
+      "referencia": "4.1-17",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 4
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 8
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.1-17",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.1-17",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "O capítulo 4 apresenta o propósito divino por trás da decisão original de Rute de seguir Noemi e o Deus de Noemi. Os arranjos necessários parecem converter-se em uma combinação das regulamentações do casamento pelo levirato (Dt 25.5-10) e as leis para um parente remidor (Lv 25). Rute é tomada por esposa, e se invocam antigas bênçãos de fertilidade. A amargura de Noemi converte-se em júbilo, e seu neto é exibido como o avô do rei Davi. Nesses eventos, revela-se a providência secreta de Deus.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O capítulo 4 apresenta o propósito divino por trás da decisão original de Rute de seguir Noemi e o Deus de Noemi. Os arranjos necessários parecem converter-se em uma combinação das regulamentações do casamento pelo levirato (Dt 25.5-10) e as leis para um parente remidor (Lv 25). Rute é tomada por esposa, e se invocam antigas bênçãos de fertilidade. A amargura de Noemi converte-se em júbilo, e seu neto é exibido como o avô do rei Davi. Nesses eventos, revela-se a providência secreta de Deus."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O capítulo 4 apresenta o propósito divino por trás da decisão original de Rute de seguir Noemi e o Deus de Noemi. Os arranjos necessários parecem converter-se em uma combinação das regulamentações do casamento pelo levirato (Dt 25.5-10) e as leis para um parente remidor (Lv 25). Rute é tomada por esposa, e se invocam antigas bênçãos de fertilidade. A amargura de Noemi converte-se em júbilo, e seu neto é exibido como o avô do rei Davi. Nesses eventos, revela-se a providência secreta de Deus."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0043",
+      "referencia": "4.1",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 1
+        }
+      ],
+      "titulo": "4.1",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.1",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "à porta. Escavações da Era de Ferro de locais israelitas têm revelado uma série de portas de entrada com bancos fixados, nos quais se sentavam os anciãos para julgamento (p. ex., Megido e Gezer). As portas da cidade eram uma área de atividade econômica.\n\nÓ fulano. Boaz conheceria o nome do homem, mas o narrador cita Boaz referindo-se a ele com uma expressão indefinida. Visto que os outros nomes no livro estão relacionados ao caráter de cada um deles, é bem provável que esse homem tenha ficado no anonimato pela deficiência de seu caráter. Para os propósitos da história, ele é um “senhor sem nome”.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "à porta. Escavações da Era de Ferro de locais israelitas têm revelado uma série de portas de entrada com bancos fixados, nos quais se sentavam os anciãos para julgamento (p. ex., Megido e Gezer). As portas da cidade eram uma área de atividade econômica.",
+        "Ó fulano. Boaz conheceria o nome do homem, mas o narrador cita Boaz referindo-se a ele com uma expressão indefinida. Visto que os outros nomes no livro estão relacionados ao caráter de cada um deles, é bem provável que esse homem tenha ficado no anonimato pela deficiência de seu caráter. Para os propósitos da história, ele é um “senhor sem nome”."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "à porta.",
+          "texto": "Escavações da Era de Ferro de locais israelitas têm revelado uma série de portas de entrada com bancos fixados, nos quais se sentavam os anciãos para julgamento (p. ex., Megido e Gezer). As portas da cidade eram uma área de atividade econômica."
+        },
+        {
+          "titulo": "Ó fulano.",
+          "texto": "Boaz conheceria o nome do homem, mas o narrador cita Boaz referindo-se a ele com uma expressão indefinida. Visto que os outros nomes no livro estão relacionados ao caráter de cada um deles, é bem provável que esse homem tenha ficado no anonimato pela deficiência de seu caráter. Para os propósitos da história, ele é um “senhor sem nome”."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0044",
+      "referencia": "4.2",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "4.2",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.2",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "tomou dez homens. Não há requerimento legal registrado para um número específico de homens. A tradição judaica tardia, segundo a qual dez homens eram o quorum para o culto, pode derivar desse incidente. Em uma cultura rural, em que o uso da escrita era limitado, era importante que um contrato fosse feito com determinado número de testemunhas oficiais.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tomou dez homens. Não há requerimento legal registrado para um número específico de homens. A tradição judaica tardia, segundo a qual dez homens eram o quorum para o culto, pode derivar desse incidente. Em uma cultura rural, em que o uso da escrita era limitado, era importante que um contrato fosse feito com determinado número de testemunhas oficiais."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tomou dez homens.",
+          "texto": "Não há requerimento legal registrado para um número específico de homens. A tradição judaica tardia, segundo a qual dez homens eram o quorum para o culto, pode derivar desse incidente. Em uma cultura rural, em que o uso da escrita era limitado, era importante que um contrato fosse feito com determinado número de testemunhas oficiais."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0045",
+      "referencia": "4.3",
+      "capitulo": 4,
+      "versiculos": [
+        3
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 3
+        }
+      ],
+      "titulo": "4.3",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.3",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Aquela parte da terra... a tem para venda. Essa venda é um novo elemento surpreendente, e nenhuma sugestão sobre ela havia sido dada até então. Os detalhes sobre a venda não são necessários para a história e, por isso, são omitidos. Um exemplo análogo pode ser visto em Jeremias 32.6-15.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Aquela parte da terra... a tem para venda. Essa venda é um novo elemento surpreendente, e nenhuma sugestão sobre ela havia sido dada até então. Os detalhes sobre a venda não são necessários para a história e, por isso, são omitidos. Um exemplo análogo pode ser visto em Jeremias 32.6-15."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Aquela parte da terra... a tem para venda.",
+          "texto": "Essa venda é um novo elemento surpreendente, e nenhuma sugestão sobre ela havia sido dada até então. Os detalhes sobre a venda não são necessários para a história e, por isso, são omitidos. Um exemplo análogo pode ser visto em Jeremias 32.6-15."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0046",
+      "referencia": "4.7",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "4.7",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.7",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "tirava o calçado. Pouco se sabe sobre o simbolismo desse costume. Evidentemente, a razão visa confirmar legalmente a transação. Ver Deuteronômio 25.9, 10 (um cenário diferente) e Amós 8.6.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "tirava o calçado. Pouco se sabe sobre o simbolismo desse costume. Evidentemente, a razão visa confirmar legalmente a transação. Ver Deuteronômio 25.9, 10 (um cenário diferente) e Amós 8.6."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "tirava o calçado.",
+          "texto": "Pouco se sabe sobre o simbolismo desse costume. Evidentemente, a razão visa confirmar legalmente a transação. Ver Deuteronômio 25.9, 10 (um cenário diferente) e Amós 8.6."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0047",
+      "referencia": "4.10",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "4.10",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.10",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "para suscitar o nome deste. O AT considera o desaparecimento do nome de alguém um infortúnio extremo (1Sm 24.21; 2Sm 14.7).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "para suscitar o nome deste. O AT considera o desaparecimento do nome de alguém um infortúnio extremo (1Sm 24.21; 2Sm 14.7)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "para suscitar o nome deste.",
+          "texto": "O AT considera o desaparecimento do nome de alguém um infortúnio extremo (1Sm 24.21; 2Sm 14.7)."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0048",
+      "referencia": "4.11",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "4.11",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.11",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "como a Raquel e como a Lia. Essas são as duas esposas de Jacó (Israel), as mães ou, naturalmente ou através de suas amas, Zilpa e Bila, de todos os filhos de Israel, os líderes das doze tribos.\n\nEfrata... Belém. Como em 1.1, 2, a esses nomes de lugares, associados a Davi, dá-se proeminência especial.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "como a Raquel e como a Lia. Essas são as duas esposas de Jacó (Israel), as mães ou, naturalmente ou através de suas amas, Zilpa e Bila, de todos os filhos de Israel, os líderes das doze tribos.",
+        "Efrata... Belém. Como em 1.1, 2, a esses nomes de lugares, associados a Davi, dá-se proeminência especial."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como a Raquel e como a Lia.",
+          "texto": "Essas são as duas esposas de Jacó (Israel), as mães ou, naturalmente ou através de suas amas, Zilpa e Bila, de todos os filhos de Israel, os líderes das doze tribos."
+        },
+        {
+          "titulo": "Efrata... Belém.",
+          "texto": "Como em 1.1, 2, a esses nomes de lugares, associados a Davi, dá-se proeminência especial."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0049",
+      "referencia": "4.12",
+      "capitulo": 4,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "4.12",
+      "pagina_original": 5,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 5,
+        "paginas_pdf": [
+          5
+        ],
+        "rotulo_impresso_ocr": "4.12",
+        "pagina_impressa": 397,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "como... Perez. Em uma época muito remota, Judá veio a ser o pai de Perez, visto que Onã recusou-se a cumprir sua obrigação como parente próximo (Gn 38.29). Perez é um símbolo de prole frutífera. Da mesma forma, Boaz vem a ser o pai de Obede (v. 21) porque outra pessoa recusou-se a cumprir a obrigação do levirato. A despeito das falhas humanas, a linhagem messiânica é preservada (Mt 1.3, 5, 16). Curiosamente, existem fortes paralelos entre Tamar e Rute, ambas sendo mulheres e estrangeiras que desempenharam papéis relevantes na continuidade da linhagem messiânica.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "como... Perez. Em uma época muito remota, Judá veio a ser o pai de Perez, visto que Onã recusou-se a cumprir sua obrigação como parente próximo (Gn 38.29). Perez é um símbolo de prole frutífera. Da mesma forma, Boaz vem a ser o pai de Obede (v. 21) porque outra pessoa recusou-se a cumprir a obrigação do levirato. A despeito das falhas humanas, a linhagem messiânica é preservada (Mt 1.3, 5, 16). Curiosamente, existem fortes paralelos entre Tamar e Rute, ambas sendo mulheres e estrangeiras que desempenharam papéis relevantes na continuidade da linhagem messiânica."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "como... Perez.",
+          "texto": "Em uma época muito remota, Judá veio a ser o pai de Perez, visto que Onã recusou-se a cumprir sua obrigação como parente próximo (Gn 38.29). Perez é um símbolo de prole frutífera. Da mesma forma, Boaz vem a ser o pai de Obede (v. 21) porque outra pessoa recusou-se a cumprir a obrigação do levirato. A despeito das falhas humanas, a linhagem messiânica é preservada (Mt 1.3, 5, 16). Curiosamente, existem fortes paralelos entre Tamar e Rute, ambas sendo mulheres e estrangeiras que desempenharam papéis relevantes na continuidade da linhagem messiânica."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0057",
+      "referencia": "4.13",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 13
+        }
+      ],
+      "titulo": "4.13",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 398,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "e o SENHOR lhe concedeu que concebesse. Essa afirmação sublinha a providência de Deus na história.",
+      "paragrafos": [
+        "e o SENHOR lhe concedeu que concebesse. Essa afirmação sublinha a providência de Deus na história."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "e o SENHOR lhe concedeu que concebesse.",
+          "texto": "Essa afirmação sublinha a providência de Deus na história."
+        }
+      ],
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    },
+    {
+      "id": "fr-rt-0050",
+      "referencia": "4.14-17",
+      "capitulo": 4,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 14
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 15
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.14-17",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "rotulo_impresso_ocr": "4.14-17",
+        "pagina_impressa": 398,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Os louvores das mulheres celebram o cumprimento do amor pactual de Deus para com Noemi. Sua nora, Rute, lhe é mais do que sete filhos (v. 15). Além disso, Noemi tem um filho em seu neto, Obede (v. 17). Ele se tornará o avô de Davi. De forma notável, o pequeno Obede é descrito pelas mulheres de Belém como um redentor. Isso significa que a linhagem de Boaz está associada ao conceito de redenção. Enfim, Jesus Cristo é o Redentor do mundo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Os louvores das mulheres celebram o cumprimento do amor pactual de Deus para com Noemi. Sua nora, Rute, lhe é mais do que sete filhos (v. 15). Além disso, Noemi tem um filho em seu neto, Obede (v. 17). Ele se tornará o avô de Davi. De forma notável, o pequeno Obede é descrito pelas mulheres de Belém como um redentor. Isso significa que a linhagem de Boaz está associada ao conceito de redenção. Enfim, Jesus Cristo é o Redentor do mundo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Os louvores das mulheres celebram o cumprimento do amor pactual de Deus para com Noemi. Sua nora, Rute, lhe é mais do que sete filhos (v. 15). Além disso, Noemi tem um filho em seu neto, Obede (v. 17). Ele se tornará o avô de Davi. De forma notável, o pequeno Obede é descrito pelas mulheres de Belém como um redentor. Isso significa que a linhagem de Boaz está associada ao conceito de redenção. Enfim, Jesus Cristo é o Redentor do mundo."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0058",
+      "referencia": "4.16",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 16
+        }
+      ],
+      "titulo": "4.16",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "pagina_impressa": 398,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Noemi tomou o menino. É bem provável que isso não constituísse um rito formal de adoção. Ao contrário, é um símbolo, uma forma de dizer que Noemi vê o menino como seu. Ele é o herdeiro da condição de Elimeleque e a continuidade da linhagem de seu esposo.",
+      "paragrafos": [
+        "Noemi tomou o menino. É bem provável que isso não constituísse um rito formal de adoção. Ao contrário, é um símbolo, uma forma de dizer que Noemi vê o menino como seu. Ele é o herdeiro da condição de Elimeleque e a continuidade da linhagem de seu esposo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Noemi tomou o menino.",
+          "texto": "É bem provável que isso não constituísse um rito formal de adoção. Ao contrário, é um símbolo, uma forma de dizer que Noemi vê o menino como seu. Ele é o herdeiro da condição de Elimeleque e a continuidade da linhagem de seu esposo."
+        }
+      ],
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": []
+    },
+    {
+      "id": "fr-rt-0051",
+      "referencia": "4.17",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 17
+        }
+      ],
+      "titulo": "4.17",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "rotulo_impresso_ocr": "4.17",
+        "pagina_impressa": 398,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Obede. Literalmente, “servo”, porque servirá a Noemi em sua velhice.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Obede. Literalmente, “servo”, porque servirá a Noemi em sua velhice."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Obede.",
+          "texto": "Literalmente, “servo”, porque servirá a Noemi em sua velhice."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0052",
+      "referencia": "4.18-22",
+      "capitulo": 4,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 18
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 19
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 20
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 21
+        },
+        {
+          "capitulo": 4,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "4.18-22",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "rotulo_impresso_ocr": "4.18-22",
+        "pagina_impressa": 398,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "A genealogia final é quase exatamente a que se encontra registrada na genealogia de Jesus em Mateus 1.3-6. O livro de Rute tem seu clímax na vinda do Messias, Jesus Cristo. Os personagens principais, Boaz e Rute, desvaneceram-se da história. Agora, a ênfase é a linhagem que aponta para Cristo. A vinda do Messias é o fim de todo o livro de Rute.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A genealogia final é quase exatamente a que se encontra registrada na genealogia de Jesus em Mateus 1.3-6. O livro de Rute tem seu clímax na vinda do Messias, Jesus Cristo. Os personagens principais, Boaz e Rute, desvaneceram-se da história. Agora, a ênfase é a linhagem que aponta para Cristo. A vinda do Messias é o fim de todo o livro de Rute."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A genealogia final é quase exatamente a que se encontra registrada na genealogia de Jesus em Mateus 1.3-6. O livro de Rute tem seu clímax na vinda do Messias, Jesus Cristo. Os personagens principais, Boaz e Rute, desvaneceram-se da história. Agora, a ênfase é a linhagem que aponta para Cristo. A vinda do Messias é o fim de todo o livro de Rute."
+        }
+      ]
+    },
+    {
+      "id": "fr-rt-0053",
+      "referencia": "4.22",
+      "capitulo": 4,
+      "versiculos": [
+        22
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 4,
+          "versiculo": 22
+        }
+      ],
+      "titulo": "4.22",
+      "pagina_original": 6,
+      "origem": {
+        "pdf": "018 - Rute (Rt).pdf",
+        "pagina_pdf": 6,
+        "paginas_pdf": [
+          6
+        ],
+        "rotulo_impresso_ocr": "4.22",
+        "pagina_impressa": 398,
+        "metodo": "cotejo visual das páginas originais do PDF no Drive"
+      },
+      "texto": "Davi. Aqui e no v. 17, o autor menciona explicitamente o rei mais excelente de Israel. Não devemos ver o livro de Rute meramente como uma história de pessoas honradas numa época de desonra, mas como o relato da providência e da graça de Deus em prover um rei que propicia repouso ao seu povo, Israel (2Sm 7.1-17). Naturalmente, Davi não consegue dar a Israel descanso permanente, mas, ao prover um filho a Noemi, o Senhor também preserva a linhagem de um Filho mais excelente que nasce de Davi, Jesus Cristo, o qual propicia descanso a todos os que confiam nele (Mt 11.28-30).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Davi. Aqui e no v. 17, o autor menciona explicitamente o rei mais excelente de Israel. Não devemos ver o livro de Rute meramente como uma história de pessoas honradas numa época de desonra, mas como o relato da providência e da graça de Deus em prover um rei que propicia repouso ao seu povo, Israel (2Sm 7.1-17). Naturalmente, Davi não consegue dar a Israel descanso permanente, mas, ao prover um filho a Noemi, o Senhor também preserva a linhagem de um Filho mais excelente que nasce de Davi, Jesus Cristo, o qual propicia descanso a todos os que confiam nele (Mt 11.28-30)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Davi.",
+          "texto": "Aqui e no v. 17, o autor menciona explicitamente o rei mais excelente de Israel. Não devemos ver o livro de Rute meramente como uma história de pessoas honradas numa época de desonra, mas como o relato da providência e da graça de Deus em prover um rei que propicia repouso ao seu povo, Israel (2Sm 7.1-17). Naturalmente, Davi não consegue dar a Israel descanso permanente, mas, ao prover um filho a Noemi, o Senhor também preserva a linhagem de um Filho mais excelente que nasce de Davi, Jesus Cristo, o qual propicia descanso a todos os que confiam nele (Mt 11.28-30)."
+        }
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}

@@ -1,0 +1,455 @@
+{
+  "schema": "notas-fe-reformada-v1-compativel-com-leitor",
+  "livro": "3Jo",
+  "titulo": "3 João",
+  "fonte": {
+    "titulo": "Bíblia de Estudo da Fé Reformada",
+    "rotulo_app": "Fé Reformada",
+    "arquivo": "136 - 3 João (3Jo).pdf",
+    "paginas_pdf": [
+      1,
+      1
+    ],
+    "observacao": "Comentários cotejados visualmente; segunda leitura independente e teste funcional pendentes."
+  },
+  "estado_editorial": "revisao_visual_v1_pendente_teste_funcional",
+  "notas": [
+    {
+      "id": "fr-3jo-0001",
+      "referencia": "1.1,2",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 1
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 2
+        }
+      ],
+      "titulo": "1.1,2",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "1, 2 Como em 2 Joao, o autor se identifica como",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Como em 2 João, o autor se identifica como “o presbítero”. Escreve ao seu querido amigo Gaio para elogiá-lo por sua hospitalidade e discutir com ele a situação na congregação da qual Gaio fazia parte. João começa com desejos por bem-estar, uma maneira comum de iniciar uma carta pessoal no mundo antigo.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Como em 2 João, o autor se identifica como “o presbítero”. Escreve ao seu querido amigo Gaio para elogiá-lo por sua hospitalidade e discutir com ele a situação na congregação da qual Gaio fazia parte. João começa com desejos por bem-estar, uma maneira comum de iniciar uma carta pessoal no mundo antigo."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Como em 2 João, o autor se identifica como “o presbítero”. Escreve ao seu querido amigo Gaio para elogiá-lo por sua hospitalidade e discutir com ele a situação na congregação da qual Gaio fazia parte. João começa com desejos por bem-estar, uma maneira comum de iniciar uma carta pessoal no mundo antigo."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0002",
+      "referencia": "1.3,4",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 3
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 4
+        }
+      ],
+      "titulo": "1.3,4",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "3, 4 Confira a expressao de alegria semelhante em",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Confira a expressão de alegria semelhante em 2 João 4 e o alvo da alegria em 1 João 1.1-4, que se realizaria para João se os leitores originais recebessem a verdadeira mensagem sobre a plena encarnação do Cristo divino. A “verdade” aqui e no v. 4 pode incluir a verdade sobre a vinda de Jesus na carne, que é a preocupação de 1 João.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Confira a expressão de alegria semelhante em 2 João 4 e o alvo da alegria em 1 João 1.1-4, que se realizaria para João se os leitores originais recebessem a verdadeira mensagem sobre a plena encarnação do Cristo divino. A “verdade” aqui e no v. 4 pode incluir a verdade sobre a vinda de Jesus na carne, que é a preocupação de 1 João."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Confira a expressão de alegria semelhante em 2 João 4 e o alvo da alegria em 1 João 1.1-4, que se realizaria para João se os leitores originais recebessem a verdadeira mensagem sobre a plena encarnação do Cristo divino. A “verdade” aqui e no v. 4 pode incluir a verdade sobre a vinda de Jesus na carne, que é a preocupação de 1 João."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0003",
+      "referencia": "1.5-8",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 5
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 6
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 8
+        }
+      ],
+      "titulo": "1.5-8",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "5-8 Joao elogia Gaio por receber com hospitali-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "João elogia Gaio por receber com hospitalidade os mestres cristãos itinerantes. A obrigação de receber e encorajar aqueles que proclamam o verdadeiro evangelho em diferentes lugares e a alegria que procede disso contrastam com a necessidade de evitar aqueles que proclamam um falso evangelho (1Jo 4.1-3; 2Jo 10, 11). Aqueles que proclamam a mensagem e aqueles que os encorajam e os apoiam trabalham juntos em servir a verdade.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "João elogia Gaio por receber com hospitalidade os mestres cristãos itinerantes. A obrigação de receber e encorajar aqueles que proclamam o verdadeiro evangelho em diferentes lugares e a alegria que procede disso contrastam com a necessidade de evitar aqueles que proclamam um falso evangelho (1Jo 4.1-3; 2Jo 10, 11). Aqueles que proclamam a mensagem e aqueles que os encorajam e os apoiam trabalham juntos em servir a verdade."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "João elogia Gaio por receber com hospitalidade os mestres cristãos itinerantes. A obrigação de receber e encorajar aqueles que proclamam o verdadeiro evangelho em diferentes lugares e a alegria que procede disso contrastam com a necessidade de evitar aqueles que proclamam um falso evangelho (1Jo 4.1-3; 2Jo 10, 11). Aqueles que proclamam a mensagem e aqueles que os encorajam e os apoiam trabalham juntos em servir a verdade."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0004",
+      "referencia": "1.7",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 7
+        }
+      ],
+      "titulo": "1.7",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "7 gentios. Aqueles que nao sao o povo de Deus.",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "gentios. Aqueles que não são o povo de Deus. Esse uso indica que a comunidade cristã primitiva (composta por judeus e gentios) chegara a perceber a si mesma como o novo Israel.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "gentios. Aqueles que não são o povo de Deus. Esse uso indica que a comunidade cristã primitiva (composta por judeus e gentios) chegara a perceber a si mesma como o novo Israel."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "gentios.",
+          "texto": "Aqueles que não são o povo de Deus. Esse uso indica que a comunidade cristã primitiva (composta por judeus e gentios) chegara a perceber a si mesma como o novo Israel."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0005",
+      "referencia": "1.9,10",
+      "capitulo": 1,
+      "versiculos": [
+        9,
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.9,10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "9, 10 A cooperagao e o amor, que deveriam ser a",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "A cooperação e o amor, que deveriam ser a norma entre os cristãos, haviam sido rompidos pelo comportamento de Diótrefes, que abusava de sua posição de liderança na congregação ao atacar outros obreiros cristãos. Evidentemente, Diótrefes considerava os outros mestres cristãos uma ameaça, e não cooperadores. Por orgulho e egoísmo, ele rejeitava os evangelistas itinerantes e punia com a excomunhão aqueles que os recebessem.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A cooperação e o amor, que deveriam ser a norma entre os cristãos, haviam sido rompidos pelo comportamento de Diótrefes, que abusava de sua posição de liderança na congregação ao atacar outros obreiros cristãos. Evidentemente, Diótrefes considerava os outros mestres cristãos uma ameaça, e não cooperadores. Por orgulho e egoísmo, ele rejeitava os evangelistas itinerantes e punia com a excomunhão aqueles que os recebessem."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A cooperação e o amor, que deveriam ser a norma entre os cristãos, haviam sido rompidos pelo comportamento de Diótrefes, que abusava de sua posição de liderança na congregação ao atacar outros obreiros cristãos. Evidentemente, Diótrefes considerava os outros mestres cristãos uma ameaça, e não cooperadores. Por orgulho e egoísmo, ele rejeitava os evangelistas itinerantes e punia com a excomunhão aqueles que os recebessem."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0006",
+      "referencia": "1.9",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 9
+        }
+      ],
+      "titulo": "1.9",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "9 Escrevi alguma coisa a igreja. Uma carta",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Escrevi alguma coisa à igreja. Uma carta anterior que não sobreviveu.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Escrevi alguma coisa à igreja. Uma carta anterior que não sobreviveu."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "Escrevi alguma coisa à igreja.",
+          "texto": "Uma carta anterior que não sobreviveu."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0007",
+      "referencia": "1.10",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 10
+        }
+      ],
+      "titulo": "1.10",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "10 se eu for ai, far- lhe- ei lembradas as",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "se eu for aí, far-lhe-ei lembradas as obras que ele pratica. A moderada reação do autor à severa provocação de Diótrefes indica sua sensibilidade pastoral, mas também não deixa dúvida de que sua visita colocará um fim categórico no comportamento de Diótrefes. A presença pessoal do apóstolo era uma extensão da presença autoritária de Cristo, tanto para encorajamento como para advertência (2Co 13.1-3, 10).",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "se eu for aí, far-lhe-ei lembradas as obras que ele pratica. A moderada reação do autor à severa provocação de Diótrefes indica sua sensibilidade pastoral, mas também não deixa dúvida de que sua visita colocará um fim categórico no comportamento de Diótrefes. A presença pessoal do apóstolo era uma extensão da presença autoritária de Cristo, tanto para encorajamento como para advertência (2Co 13.1-3, 10)."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "se eu for aí, far-lhe-ei lembradas as obras que ele pratica.",
+          "texto": "A moderada reação do autor à severa provocação de Diótrefes indica sua sensibilidade pastoral, mas também não deixa dúvida de que sua visita colocará um fim categórico no comportamento de Diótrefes. A presença pessoal do apóstolo era uma extensão da presença autoritária de Cristo, tanto para encorajamento como para advertência (2Co 13.1-3, 10)."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0008",
+      "referencia": "1.11",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 11
+        }
+      ],
+      "titulo": "1.11",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "11 Tirania como a de Diotrefes reflete o oposto do",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "Tirania como a de Diótrefes reflete o oposto do amor de Deus: a tentação de reagir à altura precisa ser resistida.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "Tirania como a de Diótrefes reflete o oposto do amor de Deus: a tentação de reagir à altura precisa ser resistida."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "Tirania como a de Diótrefes reflete o oposto do amor de Deus: a tentação de reagir à altura precisa ser resistida."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0009",
+      "referencia": "1.12",
+      "capitulo": 1,
+      "versiculos": [
+        12
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 12
+        }
+      ],
+      "titulo": "1.12",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "12 0 corpo da carta termina com um elogio a De-",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "O corpo da carta termina com um elogio a Demétrio, o portador da carta, como um cristão fiel. Esse elogio por nome e a citação do nome do destinatário da carta eram necessários para garantir que a carta não fosse nem suprimida nem mal utilizada por aqueles que, como Diótrefes, romperiam a unidade da congregação (v. 9). Demétrio pode ter sido, ele mesmo, um mestre itinerante. Se isso é verdade, a carta de João incentivaria Gaio a mostrar hospitalidade a Demétrio.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "O corpo da carta termina com um elogio a Demétrio, o portador da carta, como um cristão fiel. Esse elogio por nome e a citação do nome do destinatário da carta eram necessários para garantir que a carta não fosse nem suprimida nem mal utilizada por aqueles que, como Diótrefes, romperiam a unidade da congregação (v. 9). Demétrio pode ter sido, ele mesmo, um mestre itinerante. Se isso é verdade, a carta de João incentivaria Gaio a mostrar hospitalidade a Demétrio."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "O corpo da carta termina com um elogio a Demétrio, o portador da carta, como um cristão fiel. Esse elogio por nome e a citação do nome do destinatário da carta eram necessários para garantir que a carta não fosse nem suprimida nem mal utilizada por aqueles que, como Diótrefes, romperiam a unidade da congregação (v. 9). Demétrio pode ter sido, ele mesmo, um mestre itinerante. Se isso é verdade, a carta de João incentivaria Gaio a mostrar hospitalidade a Demétrio."
+        }
+      ]
+    },
+    {
+      "id": "fr-3jo-0010",
+      "referencia": "1.13,14",
+      "capitulo": 1,
+      "versiculos": [
+        13,
+        14
+      ],
+      "abrangencia": [
+        {
+          "capitulo": 1,
+          "versiculo": 13
+        },
+        {
+          "capitulo": 1,
+          "versiculo": 14
+        }
+      ],
+      "titulo": "1.13,14",
+      "pagina_original": 1,
+      "origem": {
+        "pdf": "136 - 3 João (3Jo)(1).pdf",
+        "pagina_pdf": 1,
+        "paginas_pdf": [
+          1
+        ],
+        "pagina_impressa": 2285,
+        "rotulo_original_ocr": "13, 14 A carta termina de maneira semelhante a 2",
+        "metodo": "cotejo visual das páginas fornecidas"
+      },
+      "texto": "A carta termina de maneira semelhante a 2 João 12, 13, com alguma diferença de fraseologia, mas com o mesmo toque pessoal.",
+      "remissoes": [],
+      "links_notas": [],
+      "estado_editorial": "conferido_visualmente_revisao_v1",
+      "avisos_ocr": [],
+      "paragrafos": [
+        "A carta termina de maneira semelhante a 2 João 12, 13, com alguma diferença de fraseologia, mas com o mesmo toque pessoal."
+      ],
+      "paragrafos_formatados": [
+        {
+          "titulo": "",
+          "texto": "A carta termina de maneira semelhante a 2 João 12, 13, com alguma diferença de fraseologia, mas com o mesmo toque pessoal."
+        }
+      ]
+    }
+  ],
+  "artigos": [],
+  "remissoes": []
+}
